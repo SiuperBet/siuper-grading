@@ -1,6 +1,8 @@
 import{SOURCES}from"./config.js";
-import{cacheGet,cachePut,setting}from"./db.js";
-import{normalizeSearchQuery,normalizeName,normalizeSetCode,scoreMatch,compareCardNumbers}from"./normalize.js";
+import{cacheGet,cachePut}from"./db.js";
+import{normalizeSearchQuery,scoreMatch,compareCardNumbers}from"./normalize.js";
+import{pokemonBase,normalizePokemonBrief,normalizePokemonSet}from"./data/pokemon-adapter.js";
+import{normalizeYgoPrinting,normalizeYgoSet}from"./data/yugioh-adapter.js";
 
 async function json(url,opts={}){
   const key="http:"+url;
@@ -12,22 +14,7 @@ async function json(url,opts={}){
   return data;
 }
 async function staticJson(path){try{const r=await fetch(path,{cache:"no-cache"});if(r.ok)return await r.json()}catch(e){}return null}
-async function pokemonBase(){const lang=await setting("pokemonLanguage","it");return SOURCES.pokemon.base+"/"+(lang==="en"?"en":"it")}
-
-export function normalizePokemonBrief(c,set=null){
-  const local=c.localId||c.local_id||c.number||"";
-  const fallbackId=String(c.id||"");
-  const sid=(c.set&&c.set.id)||(set&&set.id)||(fallbackId.includes("-")?fallbackId.split("-").slice(0,-1).join("-"):"");
-  return {id:"pokemon:"+c.id,cardId:c.id,printingId:"pokemon:"+c.id,game:"pokemon",name:c.name||"Senza nome",number:local,collectionNumber:local,setId:sid,setCode:sid,setName:(c.set&&c.set.name)||(set&&set.name)||"",series:(c.set&&c.set.serie&&c.set.serie.name)||(set&&set.serie&&set.serie.name)||"",rarity:c.rarity||"",printedTotal:(c.set&&c.set.cardCount&&c.set.cardCount.official)||(set&&set.cardCount&&set.cardCount.official)||null,image:c.image?c.image+"/low.webp":"",imageHigh:c.image?c.image+"/high.webp":"",artist:c.illustrator||c.artist||"",types:c.types||[],variants:c.variants||{},category:c.category||"",hp:c.hp||null,stage:c.stage||"",dexId:c.dexId||[],regulationMark:c.regulationMark||"",source:"TCGdex",raw:c};
-}
-export function normalizeYgoPrinting(card,set){
-  const code=(set&&set.set_code)||"";
-  const img=card.card_images&&card.card_images[0];
-  const rarity=(set&&set.set_rarity)||"";
-  const slug=v=>"ygo-"+normalizeName(v||"unknown").replace(/ /g,"-");
-  const pid="yugioh:"+card.id+":"+normalizeSetCode(code)+":"+slug((set&&set.set_name)||"set")+":"+slug(rarity);
-  return {id:pid,cardId:String(card.id),printingId:pid,game:"yugioh",name:card.name,number:code,collectionNumber:code,setId:(set&&set.set_name)||"",setCode:code,setName:(set&&set.set_name)||"",series:"",rarity:rarity,edition:(set&&set.set_edition)||"",image:"",imageHigh:"",imageRemote:img?img.image_url_small:"",archetype:card.archetype||"",passcode:String(card.id),source:"YGOPRODeck",price:set&&set.set_price?{source:"YGOPRODeck",currency:"USD",priceType:"set_price",value:Number(set.set_price),condition:null,timestamp:null,confidence:"MEDIA"}:null,raw:{card:card,set:set}};
-}
+export{normalizePokemonBrief,normalizeYgoPrinting};
 let indexPromise;
 export async function getSearchIndex(){
   if(!indexPromise)indexPromise=(async()=>{
@@ -84,10 +71,10 @@ export async function getSets(game,force=false){
   if(Array.isArray(local)&&local.length)return local;
   if(game==="pokemon"){
     const sets=await json((await pokemonBase())+"/sets",{force:force,ttl:7*86400000});
-    return sets.map(s=>({game:game,id:s.id,name:s.name,cardCount:s.cardCount?(s.cardCount.total||s.cardCount.official):null,logo:s.logo||"",releaseDate:s.releaseDate||"",series:s.serie?s.serie.name:""}));
+    return sets.map(normalizePokemonSet);
   }
   const sets=await json(SOURCES.yugioh.base+"/cardsets.php",{force:force,ttl:7*86400000});
-  return sets.map(s=>({game:game,id:"ygo-"+normalizeName(s.set_name).replace(/ /g,"-"),name:s.set_name,cardCount:s.num_of_cards,releaseDate:s.tcg_date,setCode:s.set_code}));
+  return sets.map(normalizeYgoSet);
 }
 export async function getSetCards(game,set,force=false){
   const local=await staticJson("./data/"+game+"/cards/"+encodeURIComponent(set.id)+".json");
