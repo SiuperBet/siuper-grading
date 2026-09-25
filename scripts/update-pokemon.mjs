@@ -46,9 +46,7 @@ function cardBrief(c,set){
     updatedAt:now
   };
 }
-const previousIndex=await readJson("data/search-index.json",[]);
-const previousPokemon=previousIndex.filter(x=>x.game==="pokemon");
-const nonPokemon=previousIndex.filter(x=>x.game!=="pokemon");
+const previousPokemon=await readJson("data/pokemon/search-index.json",[]);
 const previousBySet=new Map();
 for(const c of previousPokemon){if(!previousBySet.has(c.setId))previousBySet.set(c.setId,[]);previousBySet.get(c.setId).push(c)}
 
@@ -92,8 +90,7 @@ for(let i=0;i<setBriefs.length;i++){
 }
 await atomicJson(OUT+"/sets.json",setsOut.sort((a,b)=>String(b.releaseDate).localeCompare(String(a.releaseDate))||a.name.localeCompare(b.name,"it")));
 await atomicJson(OUT+"/series.json",series);
-const merged=nonPokemon.concat(indexOut);
-await atomicJson("data/search-index.json",merged);
+await atomicJson("data/pokemon/search-index.json",indexOut);
 
 const meta=await readJson("data/meta.json",{});
 meta.databaseVersion=1;meta.pokemon={source:"TCGdex",updatedAt:now,sets:setsOut.length,cards:indexOut.length,failedSets:failed};
