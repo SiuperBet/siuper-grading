@@ -1,0 +1,12 @@
+{
+  "name":"Siuper Grading",
+  "short_name":"SiuperGrading",
+  "description":"Catalogo, collezione, scanner e grading fotografico TCG local-first",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#090d16",
+  "theme_color":"#111827",
+  "lang":"it",
+  "icons":[{"src":"./assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
