@@ -24,7 +24,7 @@ export function normalizeYgoPrinting(card,set){
   const img=card.card_images&&card.card_images[0];
   const rarity=(set&&set.set_rarity)||"";
   const pid="yugioh:"+card.id+":"+normalizeSetCode(code)+":"+normalizeName(rarity);
-  return {id:pid,cardId:String(card.id),printingId:pid,game:"yugioh",name:card.name,number:code,collectionNumber:code,setId:(set&&set.set_name)||"",setCode:code,setName:(set&&set.set_name)||"",series:"",rarity:rarity,edition:(set&&set.set_edition)||"",image:img?img.image_url_small:"",imageHigh:img?img.image_url:"",archetype:card.archetype||"",passcode:String(card.id),source:"YGOPRODeck",price:set&&set.set_price?{source:"YGOPRODeck",currency:"USD",priceType:"set_price",value:Number(set.set_price),condition:null,timestamp:null,confidence:"MEDIA"}:null,raw:{card:card,set:set}};
+  return {id:pid,cardId:String(card.id),printingId:pid,game:"yugioh",name:card.name,number:code,collectionNumber:code,setId:(set&&set.set_name)||"",setCode:code,setName:(set&&set.set_name)||"",series:"",rarity:rarity,edition:(set&&set.set_edition)||"",image:"",imageHigh:"",imageRemote:img?img.image_url_small:"",archetype:card.archetype||"",passcode:String(card.id),source:"YGOPRODeck",price:set&&set.set_price?{source:"YGOPRODeck",currency:"USD",priceType:"set_price",value:Number(set.set_price),condition:null,timestamp:null,confidence:"MEDIA"}:null,raw:{card:card,set:set}};
 }
 let indexPromise;
 export async function getSearchIndex(){
@@ -68,7 +68,7 @@ export async function getSets(game,force=false){
     return sets.map(s=>({game:game,id:s.id,name:s.name,cardCount:s.cardCount?(s.cardCount.total||s.cardCount.official):null,logo:s.logo||"",releaseDate:s.releaseDate||"",series:s.serie?s.serie.name:""}));
   }
   const sets=await json(SOURCES.yugioh.base+"/cardsets.php",{force:force,ttl:7*86400000});
-  return sets.map(s=>({game:game,id:s.set_code||s.set_name,name:s.set_name,cardCount:s.num_of_cards,releaseDate:s.tcg_date,setCode:s.set_code}));
+  return sets.map(s=>({game:game,id:"ygo-"+normalizeName(s.set_name).replace(/ /g,"-"),name:s.set_name,cardCount:s.num_of_cards,releaseDate:s.tcg_date,setCode:s.set_code}));
 }
 export async function getSetCards(game,set,force=false){
   const local=await staticJson("./data/"+game+"/cards/"+encodeURIComponent(set.id)+".json");
