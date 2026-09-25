@@ -2,6 +2,8 @@ import{setting,put}from"./db.js";
 import{recognizeCard}from"./recognition.js";
 import{analyzeCanvas,saveGrade,professionalInterval,drawGradingOverlay}from"./grading.js";
 import{GRADING_CONFIG}from"./grading-config.js";
+import{CONDITION_ESTIMATES}from"./config.js";
+import{getPricesForCard,reliability}from"./prices.js";
 
 const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,stableFrames:0,lastQuality:null,borderConfidence:0,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
 const $=s=>document.querySelector(s);
@@ -162,6 +164,28 @@ async function doRecognition(){
     $("#manualSearchBtn").onclick=()=>document.querySelector('[data-view="search"]').click();
   }catch(e){root.innerHTML='<div class="notice">OCR non riuscito: '+e.message+' Puoi sempre usare la ricerca manuale.</div>'}
 }
+function conditionFromGrade(grade){
+  if(grade>=8.5)return"NM";
+  if(grade>=7)return"LP";
+  if(grade>=5)return"MP";
+  if(grade>=3)return"HP";
+  return"DAMAGED";
+}
+function pricePriority(type){return({market:1,trend:2,mid:3,set_price:4,low:5,average:6,high:7,direct_low:8})[type]||99}
+async function gradingValueHtml(card,grade){
+  if(!card)return'<div class="notice">Carta non identificata: impossibile associare un valore alla stampa.</div>';
+  const prices=await getPricesForCard(card);
+  if(!prices.length)return'<div class="notice">Prezzo non disponibile per questa stampa. Dati insufficienti per stimare il valore da carta gradata.</div>';
+  const condition=conditionFromGrade(grade),range=CONDITION_ESTIMATES[condition]||[1,1],byCurrency=new Map();
+  for(const p of prices){if(!byCurrency.has(p.currency))byCurrency.set(p.currency,[]);byCurrency.get(p.currency).push(p)}
+  const blocks=[];
+  for(const [currency,rows] of byCurrency){
+    rows.sort((a,b)=>pricePriority(a.priceType)-pricePriority(b.priceType));
+    const p=rows[0],lo=Number(p.value)*range[0],hi=Number(p.value)*range[1];
+    blocks.push('<div class="analysis-box"><b>Valore Raw osservato • '+p.source+' '+p.priceType+'</b><div>'+currency+' '+Number(p.value).toFixed(2)+' • '+(p.variant||"variante non specificata")+'</div><small>Affidabilità '+reliability(p)+' • '+(p.timestamp||"data non fornita")+'</small><div class="metric"><span>STIMA PER CONDIZIONE '+condition+'</span><b>'+(lo===hi?currency+' '+lo.toFixed(2):currency+' '+lo.toFixed(2)+'–'+hi.toFixed(2))+'</b></div><small>Stima derivata dall’intervallo configurato, non prezzo osservato per condizione.</small></div>');
+  }
+  return blocks.join("")+'<div class="notice">Dati insufficienti per stimare il valore da carta gradadata certificata. Non viene applicato alcun moltiplicatore PSA/CGC/BGS.</div>';
+}
 async function doGrading(){
   const front=state.captures.front;if(!front){$("#gradingResult").innerHTML='<div class="notice">Per il grading serve almeno il fronte.</div>';return}
   const root=$("#gradingResult");root.innerHTML='<div class="notice">Analisi fotografica in corso…</div>';
@@ -182,6 +206,7 @@ async function doGrading(){
   const backCenter=ba?'BACK L/R '+ba.centering.lr[0]+'/'+ba.centering.lr[1]+' • T/B '+ba.centering.tb[0]+'/'+ba.centering.tb[1]:"";
   const defectHtml=defects.length?'<div class="notice">'+defects.map(d=>d.message).join(" ")+'</div>':"";
   const capHtml=appliedCap!=null?'<div class="notice">Grade cap applicato: massimo '+appliedCap.toFixed(1)+' per un possibile difetto importante visibile nella fotografia.</div>':"";
+  const valueHtml=await gradingValueHtml(state.recognized,cappedFinal);
   root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico professionale indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo professionale. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>';
 }
 export function getScannerState(){return state}
