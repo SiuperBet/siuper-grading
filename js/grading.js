@@ -62,12 +62,36 @@ function surfaceAnalysis(s){
 }
 export function analyzeCanvas(canvas){
   const s=sample(canvas),quality=photoQuality(s),margins=projectionEdges(s),centering=centeringScore(margins),corners=cornerAnalysis(s),edges=edgeAnalysis(s),surface=surfaceAnalysis(s);
-  const w=GRADING_CONFIG.weights;
+  const w=GRADING_CONFIG.weights,caps=[],flags=[];
   let final=centering.score*w.centering+corners.score*w.corners+edges.score*w.edges+surface.score*w.surface;
+  const worstCorner=Math.min(...corners.corners),worstEdge=Math.min(...edges.edges);
+  if(worstCorner<=4.2){caps.push(GRADING_CONFIG.severeDefectCaps.majorCorner);flags.push({type:"majorCorner",severity:"high",message:"Possibile danno importante rilevato nell'angolo peggiore."})}
+  if(worstEdge<=4.0){caps.push(GRADING_CONFIG.severeDefectCaps.majorEdge);flags.push({type:"majorEdge",severity:"high",message:"Possibile usura importante rilevata sul bordo peggiore."})}
+  if(surface.score<=4.8){caps.push(GRADING_CONFIG.severeDefectCaps.majorSurface);flags.push({type:"majorSurface",severity:"high",message:"Possibile difetto superficiale importante visibile nella fotografia."})}
+  const appliedCap=caps.length?Math.min(...caps):null;
+  if(appliedCap!=null)final=Math.min(final,appliedCap);
   final=Math.round(clamp(final,1,10)*10)/10;
   const structuralConfidence=.58;
-  const confidence=Math.round(100*clamp(quality.score*.72+structuralConfidence*.28,0,.82));
-  return {quality:quality,margins:margins,centering:centering,corners:corners,edges:edges,surface:surface,finalGrade:final,confidence:confidence};
+  let confidence=Math.round(100*clamp(quality.score*.72+structuralConfidence*.28,0,.82));
+  if(quality.glareRatio>.04||quality.blurVariance<80)confidence=Math.max(20,confidence-10);
+  return {sampleSize:{w:s.w,h:s.h},quality:quality,margins:margins,centering:centering,corners:corners,edges:edges,surface:surface,defects:flags,appliedCap:appliedCap,finalGrade:final,confidence:confidence};
+}
+export function drawGradingOverlay(sourceCanvas,analysis,targetCanvas,label="FRONT"){
+  const w=sourceCanvas.width,h=sourceCanvas.height;targetCanvas.width=w;targetCanvas.height=h;
+  const ctx=targetCanvas.getContext("2d");ctx.drawImage(sourceCanvas,0,0,w,h);
+  const sw=analysis.sampleSize&&analysis.sampleSize.w||w,sh=analysis.sampleSize&&analysis.sampleSize.h||h,m=analysis.margins||{left:0,right:0,top:0,bottom:0};
+  const left=m.left/sw*w,right=w-m.right/sw*w,top=m.top/sh*h,bottom=h-m.bottom/sh*h;
+  ctx.save();ctx.lineWidth=Math.max(2,w/250);ctx.strokeStyle="#22d3ee";ctx.setLineDash([Math.max(8,w/70),Math.max(5,w/100)]);
+  for(const x of[left,right]){ctx.beginPath();ctx.moveTo(x,0);ctx.lineTo(x,h);ctx.stroke()}
+  for(const y of[top,bottom]){ctx.beginPath();ctx.moveTo(0,y);ctx.lineTo(w,y);ctx.stroke()}
+  ctx.setLineDash([]);ctx.strokeStyle="#8b5cf6";ctx.lineWidth=Math.max(2,w/300);
+  const cw=w*.13,ch=h*.10;
+  [[0,0],[w-cw,0],[w-cw,h-ch],[0,h-ch]].forEach(([x,y])=>ctx.strokeRect(x,y,cw,ch));
+  ctx.fillStyle="rgba(2,6,23,.78)";ctx.fillRect(0,0,w,Math.max(54,h*.065));
+  ctx.fillStyle="#f8fafc";ctx.font="bold "+Math.max(15,Math.round(w/29))+"px sans-serif";
+  const lr=analysis.centering.lr,tb=analysis.centering.tb;
+  ctx.fillText(label+"  L/R "+lr[0]+"/"+lr[1]+"  T/B "+tb[0]+"/"+tb[1],Math.max(8,w*.02),Math.max(28,h*.04));
+  ctx.restore();targetCanvas.hidden=false;
 }
 export async function saveGrade(payload){
   const row=Object.assign({id:"grade:"+crypto.randomUUID(),createdAt:new Date().toISOString(),gradingAlgorithmVersion:GRADING_ALGORITHM_VERSION},payload);
