@@ -54,8 +54,8 @@ function ygoPrices(cards){
   return out;
 }
 
-const search=await readJson("data/search-index.json",[]);
-const pokemonCards=[...new Map(search.filter(x=>x.game==="pokemon").map(x=>[x.cardId,x])).values()];
+const pokemonSearch=await readJson("data/pokemon/search-index.json",[]);
+const pokemonCards=[...new Map(pokemonSearch.map(x=>[x.cardId,x])).values()];
 const cursorFile="data/prices/pokemon-cursor.json",cursorData=await readJson(cursorFile,{cursor:0});
 const start=pokemonCards.length?cursorData.cursor%pokemonCards.length:0;
 const selected=[];
