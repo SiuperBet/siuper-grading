@@ -1,6 +1,6 @@
 import{setting,put}from"./db.js";
 import{recognizeCard}from"./recognition.js";
-import{analyzeCanvas,saveGrade,professionalInterval}from"./grading.js";
+import{analyzeCanvas,saveGrade,professionalInterval,drawGradingOverlay}from"./grading.js";
 import{GRADING_CONFIG}from"./config.js";
 
 const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,stableFrames:0,lastQuality:null,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
@@ -156,9 +156,18 @@ async function doGrading(){
   const center=avg("centering"),corners=avg("corners"),edges=avg("edges"),surface=avg("surface"),w=GRADING_CONFIG.weights;
   const final=Math.round((center*w.centering+corners*w.corners+edges*w.edges+surface*w.surface)*10)/10;
   let confidence=ba?Math.round((fa.confidence+ba.confidence)/2):Math.round(fa.confidence*.72);confidence=Math.min(confidence,ba?82:64);
-  const interval=professionalInterval(final,confidence);
-  const saved=await saveGrade({cardId:state.recognized?state.recognized.cardId:null,printingId:state.recognized?state.recognized.printingId:null,cardName:state.recognized?state.recognized.name:null,frontScanId:front.scanId,backScanId:state.captures.back?state.captures.back.scanId:null,frontAnalysis:fa,backAnalysis:ba,finalGrade:final,confidence:confidence});
-  root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+final.toFixed(1)+'/10</b></div><p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico professionale indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo professionale. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>';
+  const capValues=[fa.appliedCap,ba&&ba.appliedCap].filter(v=>v!=null),appliedCap=capValues.length?Math.min(...capValues):null;
+  const cappedFinal=appliedCap==null?final:Math.min(final,appliedCap),interval=professionalInterval(cappedFinal,confidence);
+  const defects=[...(fa.defects||[]),...(ba&&ba.defects||[])];
+  const saved=await saveGrade({cardId:state.recognized?state.recognized.cardId:null,printingId:state.recognized?state.recognized.printingId:null,cardName:state.recognized?state.recognized.name:null,frontScanId:front.scanId,backScanId:state.captures.back?state.captures.back.scanId:null,frontAnalysis:fa,backAnalysis:ba,finalGrade:cappedFinal,confidence:confidence,appliedCap:appliedCap,defects:defects});
+  drawGradingOverlay(front.canvas,fa,$("#gradingOverlayFront"),"FRONT");
+  if(state.captures.back&&ba)drawGradingOverlay(state.captures.back.canvas,ba,$("#gradingOverlayBack"),"BACK");else $("#gradingOverlayBack").hidden=true;
+  $("#gradingOverlays").hidden=false;
+  const frontCenter='FRONT L/R '+fa.centering.lr[0]+'/'+fa.centering.lr[1]+' • T/B '+fa.centering.tb[0]+'/'+fa.centering.tb[1];
+  const backCenter=ba?'BACK L/R '+ba.centering.lr[0]+'/'+ba.centering.lr[1]+' • T/B '+ba.centering.tb[0]+'/'+ba.centering.tb[1]:"";
+  const defectHtml=defects.length?'<div class="notice">'+defects.map(d=>d.message).join(" ")+'</div>':"";
+  const capHtml=appliedCap!=null?'<div class="notice">Grade cap applicato: massimo '+appliedCap.toFixed(1)+' per un possibile difetto importante visibile nella fotografia.</div>':"";
+  root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico professionale indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo professionale. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>';
 }
 export function getScannerState(){return state}
 export function setRecognizedCard(card){state.recognized=card;const root=document.querySelector("#recognitionResult");if(root&&card)root.innerHTML='<div class="analysis-box"><h3>Identificazione corretta manualmente</h3><b>'+card.name+'</b><div>'+(card.collectionNumber||"—")+' • '+(card.setName||card.setCode||"")+'</div><p class="confidence">Selezione manuale confermata.</p></div>'}
