@@ -70,12 +70,27 @@ function copiesEditor(copies){
   ).join("");
 }
 async function openCard(card){
-  const detail=await getCardDetail(card),copies=await copiesFor(card.printingId),prices=await getPricesForCard(detail);
+  const detail=await getCardDetail(card),copies=await copiesFor(card.printingId),prices=await getPricesForCard(detail),allGrades=await getAll("grades"),cardGrades=allGrades.filter(g=>g.printingId===card.printingId).sort((a,b)=>String(b.createdAt).localeCompare(String(a.createdAt)));
   const priceHtml=prices.length?prices.map(p=>'<div class="price-line"><b>'+esc(p.source)+' • '+esc(p.priceType)+'</b><br>'+esc(p.currency)+' '+Number(p.value).toFixed(2)+'<br><small>Variante: '+esc(p.variant||detail.rarity||"non specificata")+' • Affidabilità: '+esc(reliability(p))+' • Aggiornato: '+esc(p.timestamp||"data non fornita")+'</small></div>').join(""):'<div class="notice">Prezzo non disponibile per questa stampa. Non viene usato il prezzo di un’altra stampa.</div>';
   const observedReference=prices.find(p=>p.priceType==="market")||prices.find(p=>p.priceType==="trend")||prices[0]||null;
   const estimate=observedReference?conditionEstimates(observedReference):"";
   const scanner=getScannerState(),scannerAction=scanner.captures.front?'<button id="useScannerCard">Usa come identificazione scanner</button>':"";
-  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2><p>'+esc(detail.collectionNumber||"—")+' • '+esc(detail.setName||"")+'</p><p>Rarità: '+esc(detail.rarity||"Dato non disponibile")+'</p><p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button>'+scannerAction+'</div>'+copiesEditor(copies)+'<h3>Prezzi osservati</h3>'+priceHtml+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"");
+  const metadata=[
+    ["Gioco",detail.game==="pokemon"?"Pokémon TCG":"Yu-Gi-Oh!"],
+    ["Numero / codice",detail.collectionNumber||"Dato non disponibile"],
+    ["Set",detail.setName||"Dato non disponibile"],
+    ["Serie",detail.series||""],
+    ["Rarità",detail.rarity||"Dato non disponibile"],
+    ["Edizione",detail.edition||""],
+    ["Artista",detail.artist||""],
+    ["Tipi",Array.isArray(detail.types)?detail.types.join(", "):""],
+    ["Archetipo",detail.archetype||""],
+    ["Passcode",detail.passcode||""],
+    ["ATK",detail.atk==null?"":detail.atk],
+    ["DEF",detail.def==null?"":detail.def]
+  ].filter(x=>x[1]!==""&&x[1]!=null).map(x=>'<div class="metric"><span>'+esc(x[0])+'</span><b>'+esc(x[1])+'</b></div>').join("");
+  const gradesHtml=cardGrades.length?'<h3>Grading salvati</h3>'+cardGrades.slice(0,5).map(g=>'<div class="metric"><span>'+new Date(g.createdAt).toLocaleDateString("it-IT")+' • '+esc(g.gradingAlgorithmVersion)+'</span><b>'+g.finalGrade+'/10 • '+g.confidence+'%</b></div>').join("")+'<button id="openHistoryFromCard">Apri storico grading</button>':"";
+  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2>'+metadata+'<p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button>'+scannerAction+'</div>'+copiesEditor(copies)+gradesHtml+'<h3>Prezzi osservati</h3>'+priceHtml+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"");
   $("#addCopyDialog").onclick=async()=>{await addCopy(card);await openCard(card)};
   $("#cardDialogBody").querySelectorAll("[data-copy-id]").forEach(box=>{
     const id=box.dataset.copyId;
@@ -87,6 +102,7 @@ async function openCard(card){
     };
     box.querySelector("[data-delete-copy]").onclick=async()=>{await removeCopy(id);await openCard(card)};
   });
+  const historyBtn=$("#openHistoryFromCard");if(historyBtn)historyBtn.onclick=()=>{$("#cardDialog").close();go("history")};
   const use=$("#useScannerCard");if(use)use.onclick=()=>{setRecognizedCard(card);$("#cardDialog").close();go("scanner")};
   $("#cardDialog").showModal();
 }
