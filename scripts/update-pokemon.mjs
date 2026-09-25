@@ -38,6 +38,7 @@ function cardBrief(c,set){
     setName:set.name,
     series:set.serie&&set.serie.name||"",
     rarity:"",
+    printedTotal:set.cardCount&&set.cardCount.official||null,
     releaseDate:set.releaseDate||"",
     image:c.image?c.image+"/low.webp":"",
     imageHigh:c.image?c.image+"/high.webp":"",
