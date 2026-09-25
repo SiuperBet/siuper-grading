@@ -31,11 +31,23 @@ export async function setSetting(key,value){return put("settings",{key,value})}
 export async function exportBackup(){
   return {schemaVersion:DB_SCHEMA_VERSION,exportedAt:new Date().toISOString(),ownedCopies:await getAll("ownedCopies"),scans:await getAll("scans"),grades:await getAll("grades"),settings:await getAll("settings"),priceSnapshots:await getAll("priceSnapshots")};
 }
-export async function importBackup(payload){
-  if(!payload||payload.schemaVersion!==DB_SCHEMA_VERSION)throw new Error("Versione backup non compatibile");
+export function validateBackup(payload){
+  if(!payload||typeof payload!=="object")throw new Error("Backup non valido");
+  if(payload.schemaVersion!==DB_SCHEMA_VERSION)throw new Error("Versione backup non compatibile");
   for(const name of["ownedCopies","scans","grades","settings","priceSnapshots"]){
-    if(!Array.isArray(payload[name]))continue;
+    if(payload[name]!=null&&!Array.isArray(payload[name]))throw new Error("Sezione "+name+" non valida");
+  }
+  for(const row of payload.ownedCopies||[]){if(!row||!row.id||!row.printingId||!row.game)throw new Error("Copia posseduta non valida")}
+  for(const row of payload.scans||[]){if(!row||!row.id||!row.createdAt)throw new Error("Scansione non valida")}
+  for(const row of payload.grades||[]){if(!row||!row.id||!row.createdAt||!Number.isFinite(Number(row.finalGrade)))throw new Error("Grading non valido")}
+  for(const row of payload.settings||[]){if(!row||typeof row.key!=="string")throw new Error("Impostazione non valida")}
+  return true;
+}
+export async function importBackup(payload){
+  validateBackup(payload);
+  for(const name of["ownedCopies","scans","grades","settings","priceSnapshots"]){
+    const rows=payload[name]||[];
     await clear(name);
-    for(const row of payload[name])await put(name,row);
+    for(const row of rows)await put(name,row);
   }
 }
