@@ -17,7 +17,7 @@ export function normalizePokemonBrief(c,set=null){
   const local=c.localId||c.local_id||c.number||"";
   const fallbackId=String(c.id||"");
   const sid=(c.set&&c.set.id)||(set&&set.id)||(fallbackId.includes("-")?fallbackId.split("-").slice(0,-1).join("-"):"");
-  return {id:"pokemon:"+c.id,cardId:c.id,printingId:"pokemon:"+c.id,game:"pokemon",name:c.name||"Senza nome",number:local,collectionNumber:local,setId:sid,setCode:sid,setName:(c.set&&c.set.name)||(set&&set.name)||"",series:(c.set&&c.set.serie&&c.set.serie.name)||(set&&set.serie&&set.serie.name)||"",rarity:c.rarity||"",image:c.image?c.image+"/low.webp":"",imageHigh:c.image?c.image+"/high.webp":"",source:"TCGdex",raw:c};
+  return {id:"pokemon:"+c.id,cardId:c.id,printingId:"pokemon:"+c.id,game:"pokemon",name:c.name||"Senza nome",number:local,collectionNumber:local,setId:sid,setCode:sid,setName:(c.set&&c.set.name)||(set&&set.name)||"",series:(c.set&&c.set.serie&&c.set.serie.name)||(set&&set.serie&&set.serie.name)||"",rarity:c.rarity||"",printedTotal:(c.set&&c.set.cardCount&&c.set.cardCount.official)||(set&&set.cardCount&&set.cardCount.official)||null,image:c.image?c.image+"/low.webp":"",imageHigh:c.image?c.image+"/high.webp":"",source:"TCGdex",raw:c};
 }
 export function normalizeYgoPrinting(card,set){
   const code=(set&&set.set_code)||"";
@@ -44,7 +44,15 @@ export async function searchCards(query,opts={}){
   if(game==="all"||game==="pokemon"){
     try{
       const all=await json(SOURCES.pokemon.base+"/it/cards",{ttl:7*86400000});
-      remote.push(...all.map(normalizePokemonBrief).map(c=>Object.assign({},c,{_score:scoreMatch(c,q)})).filter(c=>c._score>0).sort((a,b)=>b._score-a._score).slice(0,limit));
+      let brief=all.map(normalizePokemonBrief);
+      if(q.number&&q.number.normalizedTotal){
+        try{
+          const sets=await json(SOURCES.pokemon.base+"/it/sets",{ttl:7*86400000});
+          const totals=new Map(sets.map(s=>[s.id,s.cardCount&&s.cardCount.official||null]));
+          brief=brief.map(x=>Object.assign({},x,{printedTotal:totals.get(x.setId)||x.printedTotal||null}));
+        }catch(e){}
+      }
+      remote.push(...brief.map(c=>Object.assign({},c,{_score:scoreMatch(c,q)})).filter(c=>c._score>0).sort((a,b)=>b._score-a._score).slice(0,limit));
     }catch(e){}
   }
   if(game==="all"||game==="yugioh"){
