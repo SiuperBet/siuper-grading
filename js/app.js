@@ -56,6 +56,12 @@ function conditionEstimates(observed){
     return '<div class="metric"><span>'+k+'</span><span>'+val+'</span></div>';
   }).join("");
 }
+function marketSearchLinks(card){
+  const q=[card.name,card.setName||card.setCode,card.collectionNumber,card.rarity].filter(Boolean).join(" ");
+  const ebay="https://www.ebay.it/sch/i.html?_nkw="+encodeURIComponent(q)+"&LH_Sold=1&LH_Complete=1";
+  const google="https://www.google.com/search?q="+encodeURIComponent(q+" card market price");
+  return '<div class="scanner-actions"><a class="file-btn" target="_blank" rel="noopener noreferrer" href="'+ebay+'">Verifica vendite concluse</a><a class="file-btn" target="_blank" rel="noopener noreferrer" href="'+google+'">Ricerca mercato</a></div>';
+}
 function copiesEditor(copies){
   if(!copies.length)return"";
   return '<h3>Le mie copie</h3>'+copies.map((cp,i)=>
@@ -91,8 +97,9 @@ async function openCard(card){
     ["DEF",detail.def==null?"":detail.def]
   ].filter(x=>x[1]!==""&&x[1]!=null).map(x=>'<div class="metric"><span>'+esc(x[0])+'</span><b>'+esc(x[1])+'</b></div>').join("");
   const gradesHtml=cardGrades.length?'<h3>Grading salvati</h3>'+cardGrades.slice(0,5).map(g=>'<div class="metric"><span>'+new Date(g.createdAt).toLocaleDateString("it-IT")+' • '+esc(g.gradingAlgorithmVersion)+'</span><b>'+g.finalGrade+'/10 • '+g.confidence+'%</b></div>').join("")+'<button id="openHistoryFromCard">Apri storico grading</button>':"";
-  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2>'+metadata+'<p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button>'+scannerAction+'</div>'+copiesEditor(copies)+gradesHtml+'<h3>Prezzi osservati</h3>'+priceHtml+(observedReference?'<h3>Storico prezzo</h3><div class="scanner-actions"><button data-price-days="7">7 giorni</button><button data-price-days="30">30 giorni</button><button data-price-days="90">90 giorni</button><button data-price-days="365">1 anno</button></div><canvas id="priceHistoryChart" hidden></canvas><div id="priceHistoryInfo" class="notice">Caricamento storico…</div>':"")+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"");
+  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2>'+metadata+'<p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button><button id="scanThisCard">Scanner</button>'+scannerAction+'</div>'+copiesEditor(copies)+gradesHtml+'<h3>Prezzi osservati</h3>'+priceHtml+(observedReference?'<h3>Storico prezzo</h3><div class="scanner-actions"><button data-price-days="7">7 giorni</button><button data-price-days="30">30 giorni</button><button data-price-days="90">90 giorni</button><button data-price-days="365">1 anno</button></div><canvas id="priceHistoryChart" hidden></canvas><div id="priceHistoryInfo" class="notice">Caricamento storico…</div>':"")+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"")+marketSearchLinks(detail);
   $("#addCopyDialog").onclick=async()=>{await addCopy(card);await openCard(card)};
+  $("#scanThisCard").onclick=()=>{setRecognizedCard(card);$("#cardDialog").close();go("scanner")};
   if(observedReference){
     const chart=$("#priceHistoryChart"),historyPoints=await loadPriceHistory(detail.printingId,observedReference);
     drawPriceHistory(chart,historyPoints,30);
