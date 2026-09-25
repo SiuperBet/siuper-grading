@@ -5,7 +5,7 @@ import{ownedPrintingIds,addCopy,copiesFor,collectionStats,removeCopy,updateCopy}
 import{initScanner,stopCamera,getScannerState,setRecognizedCard}from"./scanner.js";
 import{renderHistory}from"./grading.js";
 import{getPricesForCard,reliability,referencePricesForCards}from"./prices.js";
-import{progressForCards}from"./mastersets.js";
+import{progressForCards,getCustomMasterSets,progressForCustom,variantKeys}from"./mastersets.js";
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 let albumGame="pokemon",deferredInstall=null;
@@ -93,17 +93,48 @@ async function openCard(card){
 async function renderSets(force=false){
   const root=$("#setsList");root.innerHTML='<div class="notice">Caricamento espansioni…</div>';
   try{
-    const sets=await getSets(albumGame,force);
-    root.innerHTML=sets.map(s=>'<button class="set-row" data-set="'+encodeURIComponent(JSON.stringify(s))+'"><div><h3>'+esc(s.name)+'</h3><small>'+esc(s.series||s.setCode||"")+' • '+(s.cardCount==null?"?":s.cardCount)+' carte</small></div><span>›</span></button>').join("");
-    root.querySelectorAll("[data-set]").forEach(b=>b.onclick=async()=>{const owned=await ownedPrintingIds();openSet(JSON.parse(decodeURIComponent(b.dataset.set)),owned)});
+    const sets=await getSets(albumGame,force),custom=(await getCustomMasterSets()).filter(x=>x.game===albumGame);
+    const customHtml=custom.length?'<div class="eyebrow">MASTER SET PERSONALIZZATI</div>'+custom.map(s=>'<button class="set-row" data-custom-set="'+encodeURIComponent(JSON.stringify(s))+'"><div><h3>'+esc(s.name)+'</h3><small>'+s.expectedSlots+' slot • struttura manuale</small></div><span>›</span></button>').join(""):"";
+    root.innerHTML=customHtml+sets.map(s=>'<button class="set-row" data-set="'+encodeURIComponent(JSON.stringify(s))+'"><div><h3>'+esc(s.name)+'</h3><small>'+esc(s.series||s.setCode||"")+' • '+(s.cardCount==null?"?":s.cardCount)+' carte</small></div><span>›</span></button>').join("");
+    root.querySelectorAll("[data-set]").forEach(b=>b.onclick=()=>openSet(JSON.parse(decodeURIComponent(b.dataset.set))));
+    root.querySelectorAll("[data-custom-set]").forEach(b=>b.onclick=()=>openCustomMasterSet(JSON.parse(decodeURIComponent(b.dataset.customSet))));
   }catch(e){root.innerHTML='<div class="notice">Impossibile caricare i set: '+esc(e.message)+'. Verranno usati i dati cache quando disponibili.</div>'}
 }
-async function openSet(set,ownedSet){
+async function openCustomMasterSet(master){
+  const panel=$("#setDetail"),copies=await getAll("ownedCopies"),progress=progressForCustom(master,copies);
+  panel.hidden=false;
+  const components=(master.components||[]).map(x=>'<div class="metric"><span>'+esc(x.name)+'</span><b>'+x.expectedSlots+' slot</b></div>').join("");
+  panel.innerHTML='<div class="section-head"><div><small>'+progress.owned+'/'+progress.total+' • '+progress.percent.toFixed(1)+'%</small><h2>'+esc(master.name)+'</h2></div><button id="closeSet" class="ghost">Chiudi</button></div><div class="progressbar"><span style="width:'+progress.percent.toFixed(2)+'%"></span></div>'+components+'<div class="notice">'+esc(master.note||"")+(progress.mapped?"":" La mappatura degli slot non è ancora popolata: il conteggio resta trasparente e non vengono create carte fittizie.")+'</div>';
+  $("#closeSet").onclick=()=>panel.hidden=true;
+}
+async function openSet(set){
   const panel=$("#setDetail");panel.hidden=false;panel.innerHTML='<div class="notice">Caricamento master set…</div>';
   try{
-    const cards=sortCards(await getSetCards(albumGame,set),"number-asc"),have=cards.filter(c=>ownedSet.has(c.printingId)).length,pct=cards.length?(have/cards.length*100).toFixed(1):"0.0";
-    panel.innerHTML='<div class="section-head"><div><small>'+have+'/'+cards.length+' • '+pct+'%</small><h2>'+esc(set.name)+'</h2></div><button id="closeSet" class="ghost">Chiudi</button></div><div class="cards-grid">'+cards.map(c=>'<article class="grid-card '+(ownedSet.has(c.printingId)?"":"missing-card")+'" data-card="'+encodeURIComponent(JSON.stringify(c))+'">'+cardImage(c)+'<span class="status-chip '+(ownedSet.has(c.printingId)?"have":"miss")+'">'+(ownedSet.has(c.printingId)?"✓ CE L’HO":"MI MANCA")+'</span><b>'+esc(c.name)+'</b><small>'+esc(c.collectionNumber||"—")+'</small></article>').join("")+'</div>';
-    $("#closeSet").onclick=()=>panel.hidden=true;bindCards(panel);
+    const cards=await getSetCards(albumGame,set),copies=await getAll("ownedCopies"),ownedSet=new Set(copies.map(x=>x.printingId));
+    const rarities=[...new Set(cards.map(x=>x.rarity).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"it"));
+    const hasVariants=cards.some(c=>variantKeys(c).some(v=>v!=="base"));
+    panel.innerHTML='<div class="section-head"><div><small id="setProgressText"></small><h2>'+esc(set.name)+'</h2></div><button id="closeSet" class="ghost">Chiudi</button></div><div class="progressbar"><span id="setProgressBar"></span></div><div class="set-tools"><select id="setProgressMode"><option value="number">Progresso per numero</option><option value="variants">Progresso per varianti</option></select><select id="setOwnedFilter"><option value="all">Tutte</option><option value="owned">Ce l’ho</option><option value="missing">Mi manca</option></select><input id="setTextFilter" placeholder="Nome o numero"><select id="setRarityFilter"><option value="">Tutte le rarità</option>'+rarities.map(r=>'<option>'+esc(r)+'</option>').join("")+'</select><select id="setConditionFilter"><option value="">Qualsiasi condizione</option><option>NM</option><option>LP</option><option>MP</option><option>HP</option><option>DAMAGED</option></select><select id="setCurrency"><option value="EUR">Prezzi EUR</option><option value="USD">Prezzi USD</option></select><select id="setSort"><option value="number-asc">Numero ↑</option><option value="number-desc">Numero ↓</option><option value="name-asc">Nome A-Z</option><option value="name-desc">Nome Z-A</option><option value="price-asc">Prezzo ↑</option><option value="price-desc">Prezzo ↓</option></select></div>'+(!hasVariants?'<div id="variantNotice" class="notice" hidden>Per questo set il catalogo corrente non contiene ancora metadati affidabili sulle varianti: il progresso per varianti coincide temporaneamente con quello per numero.</div>':"")+'<div id="setCardsGrid" class="cards-grid"></div>';
+    $("#closeSet").onclick=()=>panel.hidden=true;
+    const render=async()=>{
+      const mode=$("#setProgressMode").value,progress=progressForCards(cards,copies,mode);
+      $("#setProgressText").textContent=progress.owned+"/"+progress.total+" • "+progress.percent.toFixed(1)+"%";
+      $("#setProgressBar").style.width=progress.percent.toFixed(2)+"%";
+      const notice=$("#variantNotice");if(notice)notice.hidden=mode!=="variants";
+      let rows=[...cards],text=$("#setTextFilter").value.trim().toLowerCase(),ownedFilter=$("#setOwnedFilter").value,rarity=$("#setRarityFilter").value,condition=$("#setConditionFilter").value,sort=$("#setSort").value,currency=$("#setCurrency").value;
+      if(text)rows=rows.filter(x=>String(x.name||"").toLowerCase().includes(text)||String(x.collectionNumber||"").toLowerCase().includes(text));
+      if(ownedFilter==="owned")rows=rows.filter(x=>ownedSet.has(x.printingId));
+      if(ownedFilter==="missing")rows=rows.filter(x=>!ownedSet.has(x.printingId));
+      if(rarity)rows=rows.filter(x=>x.rarity===rarity);
+      if(condition){const ids=new Set(copies.filter(x=>x.condition===condition).map(x=>x.printingId));rows=rows.filter(x=>ids.has(x.printingId))}
+      let refs=new Map();
+      if(sort.startsWith("price-")){refs=await referencePricesForCards(rows,currency);rows.sort((a,b)=>{const av=refs.has(a.printingId)?Number(refs.get(a.printingId).value):null,bv=refs.has(b.printingId)?Number(refs.get(b.printingId).value):null;if(av==null&&bv==null)return 0;if(av==null)return 1;if(bv==null)return-1;return sort==="price-asc"?av-bv:bv-av})}
+      else rows=sortCards(rows,sort);
+      $("#setCardsGrid").innerHTML=rows.map(card=>{const have=ownedSet.has(card.printingId),rp=refs.get(card.printingId);return '<article class="grid-card '+(have?"":"missing-card")+'" data-card="'+encodeURIComponent(JSON.stringify(card))+'">'+cardImage(card)+'<span class="status-chip '+(have?"have":"miss")+'">'+(have?"✓ CE L’HO":"MI MANCA")+'</span><b>'+esc(card.name)+'</b><small>'+esc(card.collectionNumber||"—")+'</small>'+(rp?'<span class="card-price">'+esc(rp.currency)+' '+Number(rp.value).toFixed(2)+'</span>':"")+'</article>'}).join("")||'<div class="notice">Nessuna carta con questi filtri.</div>';
+      bindCards($("#setCardsGrid"));
+    };
+    ["setProgressMode","setOwnedFilter","setRarityFilter","setConditionFilter","setCurrency","setSort"].forEach(id=>$("#"+id).onchange=render);
+    $("#setTextFilter").oninput=render;
+    await render();
   }catch(e){panel.innerHTML='<div class="notice">Errore nel caricamento del set: '+esc(e.message)+'</div>'}
 }
 async function renderCollection(){
