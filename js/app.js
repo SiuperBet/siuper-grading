@@ -1,7 +1,7 @@
 import{APP_VERSION,DATABASE_VERSION,GRADING_ALGORITHM_VERSION,PRICE_ENGINE_VERSION,CONDITION_ESTIMATES}from"./config.js";
 import{openDB,getAll,clear,exportBackup,importBackup,setting,setSetting}from"./db.js";
 import{searchCards,getSets,getSetCards,getCardDetail,sortCards}from"./catalog.js";
-import{ownedPrintingIds,addCopy,copiesFor,collectionStats,removeCopy}from"./collection.js";
+import{ownedPrintingIds,addCopy,copiesFor,collectionStats,removeCopy,updateCopy}from"./collection.js";
 import{initScanner,stopCamera,getScannerState,setRecognizedCard}from"./scanner.js";
 import{renderHistory}from"./grading.js";
 import{getPricesForCard,reliability}from"./prices.js";
@@ -44,14 +44,38 @@ function conditionEstimates(observed){
     return '<div class="metric"><span>'+k+'</span><span>'+val+'</span></div>';
   }).join("");
 }
+function copiesEditor(copies){
+  if(!copies.length)return"";
+  return '<h3>Le mie copie</h3>'+copies.map((cp,i)=>
+    '<div class="copy-editor" data-copy-id="'+esc(cp.id)+'">'+
+    '<b>Copia '+(i+1)+'</b>'+
+    '<label>Condizione <select data-copy-field="condition">'+["NM","LP","MP","HP","DAMAGED"].map(v=>'<option value="'+v+'"'+(cp.condition===v?" selected":"")+'>'+v+'</option>').join("")+'</select></label>'+
+    '<label>Lingua <input data-copy-field="language" value="'+esc(cp.language||"it")+'"></label>'+
+    '<label>Variante <input data-copy-field="variant" value="'+esc(cp.variant||"")+'" placeholder="normal, holo, reverse…"></label>'+
+    '<label>Prezzo pagato <input data-copy-field="pricePaid" type="number" min="0" step="0.01" value="'+(cp.pricePaid==null?"":esc(cp.pricePaid))+'"></label>'+
+    '<label>Note <textarea data-copy-field="notes">'+esc(cp.notes||"")+'</textarea></label>'+
+    '<div class="scanner-actions"><button data-save-copy>Salva copia</button><button class="danger" data-delete-copy>Elimina copia</button></div>'+
+    '</div>'
+  ).join("");
+}
 async function openCard(card){
   const detail=await getCardDetail(card),copies=await copiesFor(card.printingId),prices=await getPricesForCard(detail);
   const priceHtml=prices.length?prices.map(p=>'<div class="price-line"><b>'+esc(p.source)+' • '+esc(p.priceType)+'</b><br>'+esc(p.currency)+' '+Number(p.value).toFixed(2)+'<br><small>Variante: '+esc(p.variant||detail.rarity||"non specificata")+' • Affidabilità: '+esc(reliability(p))+' • Aggiornato: '+esc(p.timestamp||"data non fornita")+'</small></div>').join(""):'<div class="notice">Prezzo non disponibile per questa stampa. Non viene usato il prezzo di un’altra stampa.</div>';
   const observedReference=prices.find(p=>p.priceType==="market")||prices.find(p=>p.priceType==="trend")||prices[0]||null;
   const estimate=observedReference?conditionEstimates(observedReference):"";
   const scanner=getScannerState(),scannerAction=scanner.captures.front?'<button id="useScannerCard">Usa come identificazione scanner</button>':"";
-  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2><p>'+esc(detail.collectionNumber||"—")+' • '+esc(detail.setName||"")+'</p><p>Rarità: '+esc(detail.rarity||"Dato non disponibile")+'</p><p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button>'+scannerAction+'</div><h3>Prezzi osservati</h3>'+priceHtml+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"");
+  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2><p>'+esc(detail.collectionNumber||"—")+' • '+esc(detail.setName||"")+'</p><p>Rarità: '+esc(detail.rarity||"Dato non disponibile")+'</p><p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button>'+scannerAction+'</div>'+copiesEditor(copies)+'<h3>Prezzi osservati</h3>'+priceHtml+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"");
   $("#addCopyDialog").onclick=async()=>{await addCopy(card);await openCard(card)};
+  $("#cardDialogBody").querySelectorAll("[data-copy-id]").forEach(box=>{
+    const id=box.dataset.copyId;
+    const get=name=>box.querySelector('[data-copy-field="'+name+'"]').value;
+    box.querySelector("[data-save-copy]").onclick=async()=>{
+      const rawPaid=get("pricePaid");
+      await updateCopy(id,{condition:get("condition"),language:get("language").trim()||"it",variant:get("variant").trim(),pricePaid:rawPaid===""?null:Number(rawPaid),notes:get("notes")});
+      await openCard(card);
+    };
+    box.querySelector("[data-delete-copy]").onclick=async()=>{await removeCopy(id);await openCard(card)};
+  });
   const use=$("#useScannerCard");if(use)use.onclick=()=>{setRecognizedCard(card);$("#cardDialog").close();go("scanner")};
   $("#cardDialog").showModal();
 }
