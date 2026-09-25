@@ -41,3 +41,22 @@ export function reliability(price){
   return"BASSA";
 }
 export function resetPriceCache(){currentPromise=null}
+
+const PRICE_PRIORITY={market:1,trend:2,mid:3,set_price:4,low:5,average:6,high:7,direct_low:8};
+export async function referencePricesForCards(cards,currency="EUR"){
+  const current=await loadCurrent(),wanted=new Set(cards.map(c=>c.printingId)),groups=new Map();
+  for(const p of current){
+    if(!wanted.has(p.printingId)||p.currency!==currency||!validNumber(p.value))continue;
+    if(!groups.has(p.printingId))groups.set(p.printingId,[]);
+    groups.get(p.printingId).push(p);
+  }
+  const out=new Map();
+  for(const card of cards){
+    const rows=groups.get(card.printingId)||[];
+    if(card.game==="pokemon")rows.push(...normalizePokemonRuntime(card).filter(p=>p.currency===currency));
+    else if(card.price&&card.price.currency===currency)rows.push(card.price);
+    rows.sort((a,b)=>(PRICE_PRIORITY[a.priceType]||99)-(PRICE_PRIORITY[b.priceType]||99));
+    if(rows[0])out.set(card.printingId,rows[0]);
+  }
+  return out;
+}
