@@ -48,7 +48,9 @@ function ygoPrices(cards){
     const value=Number(set.set_price);if(!Number.isFinite(value)||value<=0)continue;
     const clean=s=>String(s||"").toUpperCase().replace(/[^A-Z0-9]/g,"");
     const slug=s=>String(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
-    const pid="yugioh:"+card.id+":"+clean(set.set_code)+":ygo-"+slug(set.set_name)+":ygo-"+slug(set.set_rarity||"unknown");
+    const hashName=v=>{let h=2166136261;for(const ch of String(v||"")){h^=ch.charCodeAt(0);h=Math.imul(h,16777619)}return(h>>>0).toString(36)};
+    const sid="ygo-"+slug(set.set_name)+"-"+hashName(set.set_name);
+    const pid="yugioh:"+card.id+":"+clean(set.set_code)+":"+sid+":ygo-"+slug(set.set_rarity||"unknown");
     out.push({game:"yugioh",cardId:String(card.id),printingId:pid,source:"YGOPRODeck",currency:"USD",priceType:"set_price",variant:set.set_rarity||"",condition:null,value:value,timestamp:now,confidence:"MEDIA"});
   }
   return out;
