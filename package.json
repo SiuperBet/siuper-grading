@@ -1,0 +1,14 @@
+{
+  "name":"siuper-grading",
+  "version":"0.1.0",
+  "private":true,
+  "type":"module",
+  "scripts":{
+    "test":"node --test",
+    "validate:data":"node scripts/validate-data.mjs",
+    "update:pokemon":"node scripts/update-pokemon.mjs",
+    "update:yugioh":"node scripts/update-yugioh.mjs",
+    "update:prices":"node scripts/update-prices.mjs"
+  },
+  "engines":{"node":">=22"}
+}
