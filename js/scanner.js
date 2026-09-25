@@ -4,6 +4,7 @@ import{analyzeCanvas,saveGrade,professionalInterval,drawGradingOverlay}from"./gr
 import{GRADING_CONFIG}from"./grading-config.js";
 import{CONDITION_ESTIMATES}from"./config.js";
 import{getPricesForCard,reliability}from"./prices.js";
+import{addCopy}from"./collection.js";
 
 const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,stableFrames:0,lastQuality:null,borderConfidence:0,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
 const $=s=>document.querySelector(s);
@@ -184,7 +185,7 @@ async function gradingValueHtml(card,grade){
     const p=rows[0],lo=Number(p.value)*range[0],hi=Number(p.value)*range[1];
     blocks.push('<div class="analysis-box"><b>Valore Raw osservato • '+p.source+' '+p.priceType+'</b><div>'+currency+' '+Number(p.value).toFixed(2)+' • '+(p.variant||"variante non specificata")+'</div><small>Affidabilità '+reliability(p)+' • '+(p.timestamp||"data non fornita")+'</small><div class="metric"><span>STIMA PER CONDIZIONE '+condition+'</span><b>'+(lo===hi?currency+' '+lo.toFixed(2):currency+' '+lo.toFixed(2)+'–'+hi.toFixed(2))+'</b></div><small>Stima derivata dall’intervallo configurato, non prezzo osservato per condizione.</small></div>');
   }
-  return blocks.join("")+'<div class="notice">Dati insufficienti per stimare il valore da carta gradadata certificata. Non viene applicato alcun moltiplicatore PSA/CGC/BGS.</div>';
+  return blocks.join("")+'<div class="notice">Dati insufficienti per stimare il valore da carta gradata certificata. Non viene applicato alcun moltiplicatore PSA/CGC/BGS.</div>';
 }
 async function doGrading(){
   const front=state.captures.front;if(!front){$("#gradingResult").innerHTML='<div class="notice">Per il grading serve almeno il fronte.</div>';return}
@@ -207,7 +208,9 @@ async function doGrading(){
   const defectHtml=defects.length?'<div class="notice">'+defects.map(d=>d.message).join(" ")+'</div>':"";
   const capHtml=appliedCap!=null?'<div class="notice">Grade cap applicato: massimo '+appliedCap.toFixed(1)+' per un possibile difetto importante visibile nella fotografia.</div>':"";
   const valueHtml=await gradingValueHtml(state.recognized,cappedFinal);
-  root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico professionale indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo professionale. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>';
+  root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico professionale indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo professionale. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>'+valueHtml+(state.recognized?'<button id="addGradedCard" class="primary">Aggiungi alla collezione</button>':"");
+  const addGraded=$("#addGradedCard");
+  if(addGraded)addGraded.onclick=async()=>{await addCopy(state.recognized,{condition:conditionFromGrade(cappedFinal),notes:"Aggiunta da grading "+saved.gradingAlgorithmVersion});addGraded.disabled=true;addGraded.textContent="✓ Aggiunta alla collezione"};
 }
 export function getScannerState(){return state}
 export function setRecognizedCard(card){state.recognized=card;const root=document.querySelector("#recognitionResult");if(root&&card)root.innerHTML='<div class="analysis-box"><h3>Identificazione corretta manualmente</h3><b>'+card.name+'</b><div>'+(card.collectionNumber||"—")+' • '+(card.setName||card.setCode||"")+'</div><p class="confidence">Selezione manuale confermata.</p></div>'}
