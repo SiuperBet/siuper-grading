@@ -1,5 +1,5 @@
 import{GRADING_ALGORITHM_VERSION,GRADING_CONFIG}from"./config.js";
-import{put,getAll}from"./db.js";
+import{put,getAll,get}from"./db.js";
 
 function clamp(v,a,b){return Math.max(a,Math.min(b,v))}
 function sample(canvas,maxW=420){
@@ -97,10 +97,50 @@ export async function saveGrade(payload){
   const row=Object.assign({id:"grade:"+crypto.randomUUID(),createdAt:new Date().toISOString(),gradingAlgorithmVersion:GRADING_ALGORITHM_VERSION},payload);
   await put("grades",row);return row;
 }
+function escHtml(v=""){return String(v).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
+function blobCanvas(blob){
+  return new Promise((resolve,reject)=>{const url=URL.createObjectURL(blob),img=new Image();img.onload=()=>{const c=document.createElement("canvas");c.width=img.naturalWidth;c.height=img.naturalHeight;c.getContext("2d").drawImage(img,0,0);URL.revokeObjectURL(url);resolve(c)};img.onerror=e=>{URL.revokeObjectURL(url);reject(e)};img.src=url});
+}
+function combinedResult(front,back){
+  const avg=key=>back?Math.round(((front[key].score+back[key].score)/2)*10)/10:front[key].score,w=GRADING_CONFIG.weights;
+  const center=avg("centering"),corners=avg("corners"),edges=avg("edges"),surface=avg("surface");
+  let final=Math.round((center*w.centering+corners*w.corners+edges*w.edges+surface*w.surface)*10)/10;
+  const caps=[front.appliedCap,back&&back.appliedCap].filter(v=>v!=null),appliedCap=caps.length?Math.min(...caps):null;
+  if(appliedCap!=null)final=Math.min(final,appliedCap);
+  let confidence=back?Math.round((front.confidence+back.confidence)/2):Math.round(front.confidence*.72);
+  confidence=Math.min(confidence,back?82:64);
+  return{center, corners, edges, surface, finalGrade:final, confidence, appliedCap, defects:[...(front.defects||[]),...(back&&back.defects||[])]};
+}
+async function openGrade(row){
+  const dialog=document.querySelector("#cardDialog"),body=document.querySelector("#cardDialogBody");if(!dialog||!body)return;
+  const front=row.frontScanId?await get("scans",row.frontScanId):null,back=row.backScanId?await get("scans",row.backScanId):null,urls=[];
+  const imageHtml=(scan,label)=>{
+    if(!scan)return"";
+    const parts=[];
+    if(scan.originalBlob){const u=URL.createObjectURL(scan.originalBlob);urls.push(u);parts.push('<div><small>'+label+' originale</small><img class="detail-image" src="'+u+'" alt=""></div>')}
+    if(scan.correctedBlob){const u=URL.createObjectURL(scan.correctedBlob);urls.push(u);parts.push('<div><small>'+label+' raddrizzato</small><img class="detail-image" src="'+u+'" alt=""></div>')}
+    return parts.join("");
+  };
+  const fa=row.frontAnalysis,ba=row.backAnalysis,metrics=fa?'<div class="metric"><span>Centering</span><b>'+Number(ba?(fa.centering.score+ba.centering.score)/2:fa.centering.score).toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+Number(ba?(fa.corners.score+ba.corners.score)/2:fa.corners.score).toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+Number(ba?(fa.edges.score+ba.edges.score)/2:fa.edges.score).toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+Number(ba?(fa.surface.score+ba.surface.score)/2:fa.surface.score).toFixed(1)+'</b></div>':"";
+  const ratios=fa?'<p>FRONT L/R '+fa.centering.lr.join("/")+' • T/B '+fa.centering.tb.join("/")+(ba?'<br>BACK L/R '+ba.centering.lr.join("/")+' • T/B '+ba.centering.tb.join("/"):"")+'</p>':"";
+  body.innerHTML='<h2>'+escHtml(row.cardName||"Carta non identificata")+'</h2><p>'+new Date(row.createdAt).toLocaleString("it-IT")+'</p>'+metrics+'<div class="metric"><span>Final Grade</span><b>'+row.finalGrade+'/10</b></div><p class="confidence">Confidence '+row.confidence+'%</p>'+ratios+'<p>Algoritmo: '+escHtml(row.gradingAlgorithmVersion||"sconosciuto")+'</p>'+((row.defects||[]).length?'<div class="notice">'+row.defects.map(x=>escHtml(x.message||x.type)).join(" ")+'</div>':"")+imageHtml(front,"Fronte")+imageHtml(back,"Retro")+(front&&front.correctedBlob?'<button id="recalcGradeBtn" class="primary">Ricalcola con algoritmo attuale</button>':"");
+  const recalc=document.querySelector("#recalcGradeBtn");
+  if(recalc)recalc.onclick=async()=>{
+    recalc.disabled=true;recalc.textContent="Ricalcolo…";
+    try{
+      const frontCanvas=await blobCanvas(front.correctedBlob),backCanvas=back&&back.correctedBlob?await blobCanvas(back.correctedBlob):null,frontAnalysis=analyzeCanvas(frontCanvas),backAnalysis=backCanvas?analyzeCanvas(backCanvas):null,combined=combinedResult(frontAnalysis,backAnalysis);
+      await saveGrade({cardId:row.cardId||null,printingId:row.printingId||null,cardName:row.cardName||null,frontScanId:row.frontScanId,backScanId:row.backScanId||null,frontAnalysis,backAnalysis,finalGrade:combined.finalGrade,confidence:combined.confidence,appliedCap:combined.appliedCap,defects:combined.defects,recalculatedFrom:row.id});
+      dialog.close();await renderHistory();
+    }catch(e){recalc.disabled=false;recalc.textContent="Ricalcola con algoritmo attuale";alert("Ricalcolo non riuscito: "+e.message)}
+  };
+  const cleanup=()=>{urls.forEach(URL.revokeObjectURL);dialog.removeEventListener("close",cleanup)};dialog.addEventListener("close",cleanup);
+  dialog.showModal();
+}
 export async function renderHistory(){
   const root=document.querySelector("#gradingHistory");if(!root)return;
   const rows=(await getAll("grades")).sort((a,b)=>String(b.createdAt).localeCompare(String(a.createdAt)));
-  root.innerHTML=rows.length?rows.map(r=>'<article class="history-item"><b>'+(r.cardName||"Carta non identificata")+'</b><div>Grade '+r.finalGrade+'/10 • Confidence '+r.confidence+'%</div><small>'+new Date(r.createdAt).toLocaleString("it-IT")+' • algoritmo '+r.gradingAlgorithmVersion+'</small></article>').join(""):'<div class="notice">Nessun grading salvato.</div>';
+  root.innerHTML=rows.length?rows.map(r=>'<button class="history-item" data-grade-id="'+escHtml(r.id)+'"><b>'+(escHtml(r.cardName||"Carta non identificata"))+'</b><div>Grade '+r.finalGrade+'/10 • Confidence '+r.confidence+'%</div><small>'+new Date(r.createdAt).toLocaleString("it-IT")+' • algoritmo '+escHtml(r.gradingAlgorithmVersion)+'</small>'+(r.recalculatedFrom?'<small> • ricalcolo</small>':"")+'</button>').join(""):'<div class="notice">Nessun grading salvato.</div>';
+  root.querySelectorAll("[data-grade-id]").forEach(btn=>btn.onclick=()=>{const row=rows.find(x=>x.id===btn.dataset.gradeId);if(row)openGrade(row)});
 }
 export function professionalInterval(grade,confidence){
   if(confidence<45)return null;
