@@ -44,5 +44,13 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/yugioh data/meta.json data/validation-report.json assets/yugioh
           git commit -m "data: update Yu-Gi-Oh catalog"
-          git pull --rebase origin main
-          git push
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            if git push; then
+              exit 0
+            fi
+            echo "Push raced with another commit; retry $attempt/5"
+            sleep 6
+          done
+          echo "Unable to push after retries"
+          exit 1
