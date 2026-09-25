@@ -1,1 +1,11 @@
-{"databaseVersion":1,"pokemon":null,"yugioh":null}
+{
+  "databaseVersion": 1,
+  "pokemon": {
+    "source": "TCGdex",
+    "updatedAt": "2026-09-25T17:31:21.034Z",
+    "sets": 193,
+    "cards": 15741,
+    "failedSets": 0
+  },
+  "yugioh": null
+}

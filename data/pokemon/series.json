@@ -1,0 +1,77 @@
+[
+  {
+    "id": "base",
+    "name": "Originale"
+  },
+  {
+    "id": "neo",
+    "name": "Neo"
+  },
+  {
+    "id": "ecard",
+    "name": "e-Series"
+  },
+  {
+    "id": "ex",
+    "name": "EX"
+  },
+  {
+    "id": "pop",
+    "name": "POP"
+  },
+  {
+    "id": "tk",
+    "name": "Trainer Kit"
+  },
+  {
+    "id": "dp",
+    "name": "Diamante & Perla"
+  },
+  {
+    "id": "pl",
+    "name": "Platino"
+  },
+  {
+    "id": "hgss",
+    "name": "HeartGold SoulSilver"
+  },
+  {
+    "id": "col",
+    "name": "Richiamo delle Leggende"
+  },
+  {
+    "id": "bw",
+    "name": "Nero e Bianco"
+  },
+  {
+    "id": "mc",
+    "name": "McDonald's Collection"
+  },
+  {
+    "id": "xy",
+    "name": "XY"
+  },
+  {
+    "id": "sm",
+    "name": "Sole e Luna"
+  },
+  {
+    "id": "swsh",
+    "name": "Spada e Scudo",
+    "logo": "https://assets.tcgdex.net/it/swsh/swsh1/logo"
+  },
+  {
+    "id": "sv",
+    "name": "Scarlatto e Violetto",
+    "logo": "https://assets.tcgdex.net/it/sv/sv01/logo"
+  },
+  {
+    "id": "tcgp",
+    "name": "Gioco di Carte Collezionabili Pokémon Pocket"
+  },
+  {
+    "id": "me",
+    "name": "Megaevoluzione",
+    "logo": "https://assets.tcgdex.net/it/me/me01/logo"
+  }
+]

@@ -1,14 +1,15 @@
 {
-  "generatedAt": "2026-09-25T17:29:13.503Z",
+  "generatedAt": "2026-09-25T17:31:43.526Z",
   "ok": true,
   "errors": [],
   "warnings": [
-    "Catalogo Pokemon non ancora popolato: eseguire update-pokemon-data.",
     "Catalogo Yu-Gi-Oh! non ancora popolato: eseguire update-yugioh-data."
   ],
   "stats": {
-    "searchEntries": 0,
-    "pokemonSets": 0,
+    "searchEntries": 15741,
+    "pokemonSearchEntries": 15741,
+    "yugiohSearchEntries": 0,
+    "pokemonSets": 193,
     "yugiohSets": 0,
     "pricePoints": 12363
   }
