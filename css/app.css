@@ -13,3 +13,6 @@
 .set-tools{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px;margin:10px 0 14px}
 .set-tools input,.set-tools select{min-width:0;border:1px solid var(--line);background:var(--panel);color:var(--text);padding:10px;border-radius:12px}
 .progressbar{height:8px;background:#0b1220;border-radius:99px;overflow:hidden;margin:8px 0}.progressbar>span{display:block;height:100%;background:linear-gradient(90deg,var(--accent),var(--accent2))}
+
+#gradingOverlays canvas{display:block;width:100%;height:auto;margin:10px 0;border-radius:12px;background:#020617}
+#gradingOverlays canvas[hidden]{display:none}
