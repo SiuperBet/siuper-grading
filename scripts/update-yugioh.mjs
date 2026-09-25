@@ -81,8 +81,7 @@ if(process.env.MIRROR_IMAGES!=="false"){
   const ids=[...new Set(cards.flatMap(c=>(c.card_images||[]).slice(0,1).map(x=>x.id)).filter(Boolean))];
   const rs=await mapLimit(ids,8,mirrorOne);for(const r of rs)mirror[r]++;
 }
-const meta=await readJson("data/meta.json",{});
-meta.databaseVersion=1;meta.yugioh={source:"YGOPRODeck v7",updatedAt:now,sets:setByName.size,printings:index.length,images:mirror};
-await atomicJson("data/meta.json",meta);
+const meta={databaseVersion:1,game:"yugioh",source:"YGOPRODeck v7",updatedAt:now,sets:setByName.size,printings:index.length,images:mirror};
+await atomicJson("data/yugioh/meta.json",meta);
 console.log(JSON.stringify({source:"YGOPRODeck v7",sets:setByName.size,printings:index.length,images:mirror},null,2));
 if(!index.length)process.exitCode=1;
