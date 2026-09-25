@@ -1,0 +1,41 @@
+name: Update prices
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "13 4 * * 1,4"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-prices
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      POKEMON_PRICE_BATCH: "300"
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+      - run: npm run update:prices
+      - run: npm run validate:data
+      - name: Commit only real changes
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/prices data/validation-report.json
+          git commit -m "data: update exact-printing prices"
+          git push
