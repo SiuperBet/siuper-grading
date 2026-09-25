@@ -1,5 +1,5 @@
 import{SOURCES}from"./config.js";
-import{cacheGet,cachePut}from"./db.js";
+import{cacheGet,cachePut,setting}from"./db.js";
 import{normalizeSearchQuery,normalizeName,normalizeSetCode,scoreMatch,compareCardNumbers}from"./normalize.js";
 
 async function json(url,opts={}){
@@ -12,12 +12,13 @@ async function json(url,opts={}){
   return data;
 }
 async function staticJson(path){try{const r=await fetch(path,{cache:"no-cache"});if(r.ok)return await r.json()}catch(e){}return null}
+async function pokemonBase(){const lang=await setting("pokemonLanguage","it");return SOURCES.pokemon.base+"/"+(lang==="en"?"en":"it")}
 
 export function normalizePokemonBrief(c,set=null){
   const local=c.localId||c.local_id||c.number||"";
   const fallbackId=String(c.id||"");
   const sid=(c.set&&c.set.id)||(set&&set.id)||(fallbackId.includes("-")?fallbackId.split("-").slice(0,-1).join("-"):"");
-  return {id:"pokemon:"+c.id,cardId:c.id,printingId:"pokemon:"+c.id,game:"pokemon",name:c.name||"Senza nome",number:local,collectionNumber:local,setId:sid,setCode:sid,setName:(c.set&&c.set.name)||(set&&set.name)||"",series:(c.set&&c.set.serie&&c.set.serie.name)||(set&&set.serie&&set.serie.name)||"",rarity:c.rarity||"",printedTotal:(c.set&&c.set.cardCount&&c.set.cardCount.official)||(set&&set.cardCount&&set.cardCount.official)||null,image:c.image?c.image+"/low.webp":"",imageHigh:c.image?c.image+"/high.webp":"",source:"TCGdex",raw:c};
+  return {id:"pokemon:"+c.id,cardId:c.id,printingId:"pokemon:"+c.id,game:"pokemon",name:c.name||"Senza nome",number:local,collectionNumber:local,setId:sid,setCode:sid,setName:(c.set&&c.set.name)||(set&&set.name)||"",series:(c.set&&c.set.serie&&c.set.serie.name)||(set&&set.serie&&set.serie.name)||"",rarity:c.rarity||"",printedTotal:(c.set&&c.set.cardCount&&c.set.cardCount.official)||(set&&set.cardCount&&set.cardCount.official)||null,image:c.image?c.image+"/low.webp":"",imageHigh:c.image?c.image+"/high.webp":"",artist:c.illustrator||c.artist||"",types:c.types||[],variants:c.variants||{},category:c.category||"",hp:c.hp||null,stage:c.stage||"",dexId:c.dexId||[],regulationMark:c.regulationMark||"",source:"TCGdex",raw:c};
 }
 export function normalizeYgoPrinting(card,set){
   const code=(set&&set.set_code)||"";
@@ -43,11 +44,11 @@ export async function searchCards(query,opts={}){
   const remote=[];
   if(game==="all"||game==="pokemon"){
     try{
-      const all=await json(SOURCES.pokemon.base+"/it/cards",{ttl:7*86400000});
+      const all=await json((await pokemonBase())+"/cards",{ttl:7*86400000});
       let brief=all.map(normalizePokemonBrief);
       if(q.number&&q.number.normalizedTotal){
         try{
-          const sets=await json(SOURCES.pokemon.base+"/it/sets",{ttl:7*86400000});
+          const sets=await json((await pokemonBase())+"/sets",{ttl:7*86400000});
           const totals=new Map(sets.map(s=>[s.id,s.cardCount&&s.cardCount.official||null]));
           brief=brief.map(x=>Object.assign({},x,{printedTotal:totals.get(x.setId)||x.printedTotal||null}));
         }catch(e){}
@@ -73,7 +74,7 @@ export async function getSets(game,force=false){
   const local=await staticJson("./data/"+game+"/sets.json");
   if(Array.isArray(local)&&local.length)return local;
   if(game==="pokemon"){
-    const sets=await json(SOURCES.pokemon.base+"/it/sets",{force:force,ttl:7*86400000});
+    const sets=await json((await pokemonBase())+"/sets",{force:force,ttl:7*86400000});
     return sets.map(s=>({game:game,id:s.id,name:s.name,cardCount:s.cardCount?(s.cardCount.total||s.cardCount.official):null,logo:s.logo||"",releaseDate:s.releaseDate||"",series:s.serie?s.serie.name:""}));
   }
   const sets=await json(SOURCES.yugioh.base+"/cardsets.php",{force:force,ttl:7*86400000});
@@ -83,7 +84,7 @@ export async function getSetCards(game,set,force=false){
   const local=await staticJson("./data/"+game+"/cards/"+encodeURIComponent(set.id)+".json");
   if(Array.isArray(local)&&local.length)return local;
   if(game==="pokemon"){
-    const data=await json(SOURCES.pokemon.base+"/it/sets/"+encodeURIComponent(set.id),{force:force,ttl:7*86400000});
+    const data=await json((await pokemonBase())+"/sets/"+encodeURIComponent(set.id),{force:force,ttl:7*86400000});
     return (data.cards||[]).map(c=>normalizePokemonBrief(c,data));
   }
   const data=await json(SOURCES.yugioh.base+"/cardinfo.php?cardset="+encodeURIComponent(set.name),{force:force,ttl:7*86400000});
@@ -93,7 +94,7 @@ export async function getSetCards(game,set,force=false){
 }
 export async function getCardDetail(card){
   if(card.game==="pokemon"){
-    try{const c=await json(SOURCES.pokemon.base+"/it/cards/"+encodeURIComponent(card.cardId),{ttl:7*86400000});return normalizePokemonBrief(c,c.set)}catch(e){return card}
+    try{const c=await json((await pokemonBase())+"/cards/"+encodeURIComponent(card.cardId),{ttl:7*86400000});return normalizePokemonBrief(c,c.set)}catch(e){return card}
   }
   return card;
 }
