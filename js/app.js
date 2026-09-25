@@ -6,6 +6,7 @@ import{initScanner,stopCamera,getScannerState,setRecognizedCard}from"./scanner.j
 import{renderHistory}from"./grading.js";
 import{getPricesForCard,reliability,referencePricesForCards}from"./prices.js";
 import{progressForCards,getCustomMasterSets,progressForCustom,variantKeys}from"./mastersets.js";
+import{loadPriceHistory,drawPriceHistory}from"./price-history.js";
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 let albumGame="pokemon",deferredInstall=null;
@@ -90,8 +91,13 @@ async function openCard(card){
     ["DEF",detail.def==null?"":detail.def]
   ].filter(x=>x[1]!==""&&x[1]!=null).map(x=>'<div class="metric"><span>'+esc(x[0])+'</span><b>'+esc(x[1])+'</b></div>').join("");
   const gradesHtml=cardGrades.length?'<h3>Grading salvati</h3>'+cardGrades.slice(0,5).map(g=>'<div class="metric"><span>'+new Date(g.createdAt).toLocaleDateString("it-IT")+' • '+esc(g.gradingAlgorithmVersion)+'</span><b>'+g.finalGrade+'/10 • '+g.confidence+'%</b></div>').join("")+'<button id="openHistoryFromCard">Apri storico grading</button>':"";
-  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2>'+metadata+'<p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button>'+scannerAction+'</div>'+copiesEditor(copies)+gradesHtml+'<h3>Prezzi osservati</h3>'+priceHtml+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"");
+  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2>'+metadata+'<p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button>'+scannerAction+'</div>'+copiesEditor(copies)+gradesHtml+'<h3>Prezzi osservati</h3>'+priceHtml+(observedReference?'<h3>Storico prezzo</h3><div class="scanner-actions"><button data-price-days="7">7 giorni</button><button data-price-days="30">30 giorni</button><button data-price-days="90">90 giorni</button><button data-price-days="365">1 anno</button></div><canvas id="priceHistoryChart" hidden></canvas><div id="priceHistoryInfo" class="notice">Caricamento storico…</div>':"")+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"");
   $("#addCopyDialog").onclick=async()=>{await addCopy(card);await openCard(card)};
+  if(observedReference){
+    const chart=$("#priceHistoryChart"),historyPoints=await loadPriceHistory(detail.printingId,observedReference);
+    drawPriceHistory(chart,historyPoints,30);
+    $("#cardDialogBody").querySelectorAll("[data-price-days]").forEach(btn=>btn.onclick=()=>drawPriceHistory(chart,historyPoints,Number(btn.dataset.priceDays)));
+  }
   $("#cardDialogBody").querySelectorAll("[data-copy-id]").forEach(box=>{
     const id=box.dataset.copyId;
     const get=name=>box.querySelector('[data-copy-field="'+name+'"]').value;
