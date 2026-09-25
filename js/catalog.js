@@ -23,7 +23,8 @@ export function normalizeYgoPrinting(card,set){
   const code=(set&&set.set_code)||"";
   const img=card.card_images&&card.card_images[0];
   const rarity=(set&&set.set_rarity)||"";
-  const pid="yugioh:"+card.id+":"+normalizeSetCode(code)+":"+normalizeName(rarity);
+  const slug=v=>"ygo-"+normalizeName(v||"unknown").replace(/ /g,"-");
+  const pid="yugioh:"+card.id+":"+normalizeSetCode(code)+":"+slug((set&&set.set_name)||"set")+":"+slug(rarity);
   return {id:pid,cardId:String(card.id),printingId:pid,game:"yugioh",name:card.name,number:code,collectionNumber:code,setId:(set&&set.set_name)||"",setCode:code,setName:(set&&set.set_name)||"",series:"",rarity:rarity,edition:(set&&set.set_edition)||"",image:"",imageHigh:"",imageRemote:img?img.image_url_small:"",archetype:card.archetype||"",passcode:String(card.id),source:"YGOPRODeck",price:set&&set.set_price?{source:"YGOPRODeck",currency:"USD",priceType:"set_price",value:Number(set.set_price),condition:null,timestamp:null,confidence:"MEDIA"}:null,raw:{card:card,set:set}};
 }
 let indexPromise;
