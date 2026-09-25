@@ -17,10 +17,3 @@ export const CONDITION_ESTIMATES={
   HP:[0.15,0.40],
   DAMAGED:[0.05,0.20]
 };
-
-export const GRADING_CONFIG={
-  weights:{centering:.30,corners:.25,edges:.25,surface:.20},
-  minPhotoConfidence:.35,
-  severeDefectCaps:{crease:6,majorCorner:6.5,majorEdge:6.5,majorSurface:6},
-  professionalDisclaimer:"Questa è una stima fotografica non ufficiale e non sostituisce una valutazione fisica effettuata da un grading service."
-};
