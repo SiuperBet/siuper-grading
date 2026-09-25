@@ -1,4 +1,5 @@
-import{GRADING_ALGORITHM_VERSION,GRADING_CONFIG}from"./config.js";
+import{GRADING_ALGORITHM_VERSION}from"./config.js";
+import{GRADING_CONFIG}from"./grading-config.js";
 import{put,getAll,get}from"./db.js";
 
 function clamp(v,a,b){return Math.max(a,Math.min(b,v))}
