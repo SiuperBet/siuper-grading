@@ -122,9 +122,30 @@ async function openCard(card){
 async function renderSets(force=false){
   const root=$("#setsList");root.innerHTML='<div class="notice">Caricamento espansioni…</div>';
   try{
-    const sets=await getSets(albumGame,force),custom=(await getCustomMasterSets()).filter(x=>x.game===albumGame);
-    const customHtml=custom.length?'<div class="eyebrow">MASTER SET PERSONALIZZATI</div>'+custom.map(s=>'<button class="set-row" data-custom-set="'+encodeURIComponent(JSON.stringify(s))+'"><div><h3>'+esc(s.name)+'</h3><small>'+s.expectedSlots+' slot • struttura manuale</small></div><span>›</span></button>').join(""):"";
-    root.innerHTML=customHtml+sets.map(s=>'<button class="set-row" data-set="'+encodeURIComponent(JSON.stringify(s))+'"><div><h3>'+esc(s.name)+'</h3><small>'+esc(s.series||s.setCode||"")+' • '+(s.cardCount==null?"?":s.cardCount)+' carte</small></div><span>›</span></button>').join("");
+    const [sets,custom,copies]=await Promise.all([getSets(albumGame,force),getCustomMasterSets(),getAll("ownedCopies")]);
+    const gameCustom=custom.filter(x=>x.game===albumGame),gameCopies=copies.filter(x=>x.game===albumGame);
+    const [eurRefs,usdRefs]=await Promise.all([referencePricesForCards(gameCopies,"EUR"),referencePricesForCards(gameCopies,"USD")]);
+    const bySet=new Map();
+    for(const cp of gameCopies){
+      const key=cp.setName||cp.setCode||"";
+      if(!bySet.has(key))bySet.set(key,{ids:new Set(),eur:0,usd:0});
+      const info=bySet.get(key);info.ids.add(cp.printingId);
+      const er=eurRefs.get(cp.printingId),ur=usdRefs.get(cp.printingId);
+      if(er)info.eur+=Number(er.value)||0;if(ur)info.usd+=Number(ur.value)||0;
+    }
+    const row=s=>{
+      const info=bySet.get(s.name)||{ids:new Set(),eur:0,usd:0},owned=info.ids.size,total=Number(s.cardCount)||0,pct=total?owned/total*100:0;
+      const values=(info.eur>0?' • €'+info.eur.toFixed(2):"")+(info.usd>0?' • $'+info.usd.toFixed(2):"");
+      return '<button class="set-row" data-set="'+encodeURIComponent(JSON.stringify(s))+'"><div><h3>'+esc(s.name)+'</h3><small>'+owned+'/'+(total||"?")+' • '+pct.toFixed(1)+'%'+values+'</small></div><span>›</span></button>';
+    };
+    const customHtml=gameCustom.length?'<div class="eyebrow">MASTER SET PERSONALIZZATI</div>'+gameCustom.map(s=>'<button class="set-row" data-custom-set="'+encodeURIComponent(JSON.stringify(s))+'"><div><h3>'+esc(s.name)+'</h3><small>'+s.expectedSlots+' slot • struttura manuale</small></div><span>›</span></button>').join(""):"";
+    let officialHtml="";
+    if(albumGame==="pokemon"){
+      const groups=new Map();
+      for(const s of sets){const key=s.series||"Altre espansioni";if(!groups.has(key))groups.set(key,[]);groups.get(key).push(s)}
+      officialHtml=[...groups.entries()].map(([series,rows])=>'<div class="series-block"><div class="eyebrow">'+esc(series)+'</div>'+rows.map(row).join("")+'</div>').join("");
+    }else officialHtml=sets.map(row).join("");
+    root.innerHTML=customHtml+officialHtml;
     root.querySelectorAll("[data-set]").forEach(b=>b.onclick=()=>openSet(JSON.parse(decodeURIComponent(b.dataset.set))));
     root.querySelectorAll("[data-custom-set]").forEach(b=>b.onclick=()=>openCustomMasterSet(JSON.parse(decodeURIComponent(b.dataset.customSet))));
   }catch(e){root.innerHTML='<div class="notice">Impossibile caricare i set: '+esc(e.message)+'. Verranno usati i dati cache quando disponibili.</div>'}
