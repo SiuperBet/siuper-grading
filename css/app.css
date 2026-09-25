@@ -16,3 +16,7 @@
 
 #gradingOverlays canvas{display:block;width:100%;height:auto;margin:10px 0;border-radius:12px;background:#020617}
 #gradingOverlays canvas[hidden]{display:none}
+
+.history-item{display:block;width:100%;text-align:left;color:var(--text)}
+.history-item div{margin:5px 0}.history-item small{color:var(--muted)}
+#priceHistoryChart{display:block;max-width:100%;border:1px solid var(--line);border-radius:12px;background:#0b1220;margin:8px 0}
