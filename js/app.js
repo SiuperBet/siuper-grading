@@ -4,7 +4,8 @@ import{searchCards,getSets,getSetCards,getCardDetail,sortCards}from"./catalog.js
 import{ownedPrintingIds,addCopy,copiesFor,collectionStats,removeCopy,updateCopy}from"./collection.js";
 import{initScanner,stopCamera,getScannerState,setRecognizedCard}from"./scanner.js";
 import{renderHistory}from"./grading.js";
-import{getPricesForCard,reliability}from"./prices.js";
+import{getPricesForCard,reliability,referencePricesForCards}from"./prices.js";
+import{progressForCards}from"./mastersets.js";
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 let albumGame="pokemon",deferredInstall=null;
@@ -22,17 +23,27 @@ export function go(view){
 }
 function cardRow(card,owned=false){
   const encoded=encodeURIComponent(JSON.stringify(card));
-  return '<article class="card-row" data-card="'+encoded+'">'+cardImage(card)+'<div><h3>'+esc(card.name)+'</h3><p>'+esc(card.collectionNumber||"—")+' • '+esc(card.setName||card.setCode||"Set non disponibile")+'</p><span class="badge '+(owned?"owned":"missing")+'">'+(owned?"✓ CE L'HO":"MI MANCA")+'</span></div><span>›</span></article>';
+  const rp=card._referencePrice,price=rp?'<span class="card-price">'+esc(rp.currency)+' '+Number(rp.value).toFixed(2)+' • '+esc(rp.source)+' '+esc(rp.priceType)+'</span>':"";
+  return '<article class="card-row" data-card="'+encoded+'">'+cardImage(card)+'<div><h3>'+esc(card.name)+'</h3><p>'+esc(card.collectionNumber||"—")+' • '+esc(card.setName||card.setCode||"Set non disponibile")+'</p>'+price+'<span class="badge '+(owned?"owned":"missing")+'">'+(owned?"✓ CE L'HO":"MI MANCA")+'</span></div><span>›</span></article>';
 }
 async function doSearch(){
   const query=$("#searchInput").value.trim(),root=$("#searchResults");
   if(query.length<2&&!/\d/.test(query)){root.innerHTML="";$("#searchHint").textContent="Scrivi almeno 2 caratteri, oppure un numero/codice carta.";return}
   $("#searchHint").textContent="Ricerca…";
   try{
-    const game=$("#searchGame").value;let rows=await searchCards(query,{game:game}),owned=await ownedPrintingIds(),ownFilter=$("#searchOwned").value;
+    const game=$("#searchGame").value,ownedCopies=await getAll("ownedCopies"),owned=new Set(ownedCopies.map(x=>x.printingId)),ownFilter=$("#searchOwned").value;
+    let rows=await searchCards(query,{game:game});
     if(ownFilter==="owned")rows=rows.filter(x=>owned.has(x.printingId));
     if(ownFilter==="missing")rows=rows.filter(x=>!owned.has(x.printingId));
-    rows=sortCards(rows,$("#searchSort").value);
+    const setFilter=$("#searchSet").value.trim().toLowerCase(),rarityFilter=$("#searchRarity").value.trim().toLowerCase(),condition=$("#searchCondition").value;
+    if(setFilter)rows=rows.filter(x=>String(x.setName||x.setCode||"").toLowerCase().includes(setFilter));
+    if(rarityFilter)rows=rows.filter(x=>String(x.rarity||"").toLowerCase().includes(rarityFilter));
+    if(condition!=="all"){const ids=new Set(ownedCopies.filter(x=>x.condition===condition).map(x=>x.printingId));rows=rows.filter(x=>ids.has(x.printingId))}
+    const sort=$("#searchSort").value,currency=$("#searchCurrency").value;
+    if(sort.startsWith("price-")){
+      const refs=await referencePricesForCards(rows,currency);rows=rows.map(x=>Object.assign({},x,{_referencePrice:refs.get(x.printingId)||null}));
+      rows.sort((a,b)=>{const av=a._referencePrice?Number(a._referencePrice.value):Infinity,bv=b._referencePrice?Number(b._referencePrice.value):Infinity;return sort==="price-asc"?av-bv:(bv===Infinity?-1:av===Infinity?1:bv-av)});
+    }else rows=sortCards(rows,sort);
     root.innerHTML=rows.map(x=>cardRow(x,owned.has(x.printingId))).join("")||'<div class="notice">Nessun risultato compatibile.</div>';
     $("#searchHint").textContent=rows.length+" risultati. Numero/set code esatto ha priorità sul nome.";
   }catch(e){root.innerHTML='<div class="notice">Ricerca non disponibile: '+esc(e.message)+'. Se offline verranno usati i dati già in cache.</div>'}
@@ -111,7 +122,7 @@ async function boot(){
   $$(".bottom-nav button").forEach(b=>b.onclick=()=>go(b.dataset.view));$$("[data-go]").forEach(b=>b.onclick=()=>go(b.dataset.go));
   $$(".game-btn").forEach(b=>b.onclick=()=>{$$(".game-btn").forEach(x=>x.classList.remove("active"));b.classList.add("active");$("#searchGame").value=b.dataset.game});
   $$(".album-game").forEach(b=>b.onclick=()=>{$$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;$("#setDetail").hidden=true;renderSets()});
-  let timer;$("#searchInput").addEventListener("input",()=>{clearTimeout(timer);timer=setTimeout(doSearch,220)});$("#searchGame").onchange=doSearch;$("#searchOwned").onchange=doSearch;$("#searchSort").onchange=doSearch;$("#refreshSets").onclick=()=>renderSets(true);
+  let timer;$("#searchInput").addEventListener("input",()=>{clearTimeout(timer);timer=setTimeout(doSearch,220)});$("#searchGame").onchange=doSearch;$("#searchOwned").onchange=doSearch;$("#searchSort").onchange=doSearch;$("#searchCurrency").onchange=doSearch;$("#searchCondition").onchange=doSearch;$("#searchSet").oninput=doSearch;$("#searchRarity").oninput=doSearch;$("#refreshSets").onclick=()=>renderSets(true);
   $("#searchResults").addEventListener("click",e=>{const el=e.target.closest("[data-card]");if(el)openCard(JSON.parse(decodeURIComponent(el.dataset.card)))});
   $("#cardDialog [data-close]").onclick=()=>$("#cardDialog").close();
   $("#exportBtn").onclick=downloadBackup;$("#exportAllBtn").onclick=downloadBackup;$("#historyBtn").onclick=()=>go("history");
