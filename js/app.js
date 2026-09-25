@@ -198,8 +198,15 @@ async function downloadBackup(){
   const data=await exportBackup(),blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),a=document.createElement("a");
   a.href=URL.createObjectURL(blob);a.download="siuper-grading-backup-"+new Date().toISOString().slice(0,10)+".json";a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);
 }
+async function loadDatabaseFreshness(){
+  const read=async path=>{try{const r=await fetch(path,{cache:"no-cache"});return r.ok?await r.json():null}catch{return null}};
+  const [p,y]=await Promise.all([read("./data/pokemon/meta.json"),read("./data/yugioh/meta.json")]);
+  const fmt=m=>m&&m.updatedAt?new Date(m.updatedAt).toLocaleString("it-IT"):"non disponibile";
+  $("#dbStatus").textContent="Pokémon: "+fmt(p)+" • Yu-Gi-Oh!: "+fmt(y);
+  return{pokemon:p,yugioh:y};
+}
 async function boot(){
-  await openDB();$("#dbStatus").textContent="database locale pronto";
+  await openDB();$("#dbStatus").textContent="database locale pronto";const freshness=await loadDatabaseFreshness();
   $$(".bottom-nav button").forEach(b=>b.onclick=()=>go(b.dataset.view));$$("[data-go]").forEach(b=>b.onclick=()=>go(b.dataset.go));
   $$(".game-btn").forEach(b=>b.onclick=()=>{$$(".game-btn").forEach(x=>x.classList.remove("active"));b.classList.add("active");$("#searchGame").value=b.dataset.game});
   $$(".album-game").forEach(b=>b.onclick=()=>{$$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;$("#setDetail").hidden=true;renderSets()});
@@ -211,7 +218,7 @@ async function boot(){
   $("#clearCacheBtn").onclick=async()=>{await clear("catalogCache");alert("Cache catalogo svuotata.")};
   $("#pokemonLanguage").value=await setting("pokemonLanguage","it");$("#pokemonLanguage").onchange=e=>setSetting("pokemonLanguage",e.target.value);
   $("#autoCapture").checked=await setting("autoCapture",true);$("#autoCapture").onchange=e=>setSetting("autoCapture",e.target.checked);
-  $("#versionInfo").textContent="App "+APP_VERSION+" • DB "+DATABASE_VERSION+" • Grading "+GRADING_ALGORITHM_VERSION+" • Price engine "+PRICE_ENGINE_VERSION;
+  $("#versionInfo").innerHTML="App "+APP_VERSION+" • DB "+DATABASE_VERSION+" • Grading "+GRADING_ALGORITHM_VERSION+" • Price engine "+PRICE_ENGINE_VERSION+"<br>Pokémon aggiornato: "+(freshness.pokemon&&freshness.pokemon.updatedAt?new Date(freshness.pokemon.updatedAt).toLocaleString("it-IT"):"dato non disponibile")+"<br>Yu-Gi-Oh! aggiornato: "+(freshness.yugioh&&freshness.yugioh.updatedAt?new Date(freshness.yugioh.updatedAt).toLocaleString("it-IT"):"dato non disponibile");
   initScanner({onCardIdentified:openCard});
   const hash=location.hash.slice(1);if(["home","search","album","collection","scanner","history","settings"].includes(hash))go(hash);
   window.addEventListener("hashchange",()=>{const v=location.hash.slice(1);if(["home","search","album","collection","scanner","history","settings"].includes(v))go(v)});
