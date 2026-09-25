@@ -92,8 +92,7 @@ await atomicJson(OUT+"/sets.json",setsOut.sort((a,b)=>String(b.releaseDate).loca
 await atomicJson(OUT+"/series.json",series);
 await atomicJson("data/pokemon/search-index.json",indexOut);
 
-const meta=await readJson("data/meta.json",{});
-meta.databaseVersion=1;meta.pokemon={source:"TCGdex",updatedAt:now,sets:setsOut.length,cards:indexOut.length,failedSets:failed};
-await atomicJson("data/meta.json",meta);
+const meta={databaseVersion:1,game:"pokemon",source:"TCGdex",updatedAt:now,sets:setsOut.length,cards:indexOut.length,failedSets:failed};
+await atomicJson("data/pokemon/meta.json",meta);
 console.log(JSON.stringify({source:"TCGdex",sets:setsOut.length,cards:indexOut.length,updatedSets:updated,failedSets:failed},null,2));
 if(!indexOut.length)process.exitCode=1;
