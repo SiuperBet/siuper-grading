@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#111827">
+  <meta name="description" content="Siuper Grading - catalogo, collezione, scanner e grading fotografico TCG">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./css/app.css">
+  <title>Siuper Grading</title>
+</head>
+<body>
+  <header class="topbar">
+    <div><strong>SIUPER GRADING</strong><small id="dbStatus">database: caricamento…</small></div>
+    <button id="installBtn" class="ghost" hidden>Installa</button>
+  </header>
+  <main>
+    <section id="view-home" class="view active">
+      <div class="hero"><div class="eyebrow">TCG • LOCAL FIRST • 0 €</div><h1>Le tue carte, dal riconoscimento alla collezione.</h1><p>Nessun account obbligatorio. I dati personali restano sul dispositivo.</p></div>
+      <div class="game-switch"><button class="game-btn active" data-game="pokemon">POKÉMON</button><button class="game-btn" data-game="yugioh">YU-GI-OH!</button></div>
+      <div class="quick-grid">
+        <button class="quick-card" data-go="scanner"><span>📷</span><b>Scanner / Grading</b><small>Fotocamera, bordi, OCR e analisi</small></button>
+        <button class="quick-card" data-go="search"><span>🔎</span><b>Cerca carte</b><small>Nome, numero o set code</small></button>
+        <button class="quick-card" data-go="album"><span>🗂️</span><b>Album / Espansioni</b><small>Master set e progresso</small></button>
+        <button class="quick-card" data-go="collection"><span>⭐</span><b>La mia collezione</b><small>Copie, condizioni e note</small></button>
+      </div>
+    </section>
+    <section id="view-search" class="view">
+      <div class="section-head"><div><small>CATALOGO</small><h2>Cerca carte</h2></div></div>
+      <label class="searchbox"><span>⌕</span><input id="searchInput" autocomplete="off" inputmode="search" placeholder="Cerca nome, numero o codice carta…"></label>
+      <div class="filters">
+        <select id="searchGame"><option value="all">Tutti i giochi</option><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh!</option></select>
+        <select id="searchOwned"><option value="all">Tutte</option><option value="owned">Ce l'ho</option><option value="missing">Mi manca</option></select>
+        <select id="searchSort"><option value="relevance">Pertinenza</option><option value="name-asc">Nome A-Z</option><option value="name-desc">Nome Z-A</option><option value="number-asc">Numero ↑</option><option value="number-desc">Numero ↓</option></select>
+      </div>
+      <div id="searchHint" class="notice">Scrivi almeno 2 caratteri, oppure un numero/codice carta.</div>
+      <div id="searchResults" class="card-list"></div>
+    </section>
+    <section id="view-album" class="view">
+      <div class="section-head"><div><small>MASTER SET</small><h2>Album / Espansioni</h2></div><button id="refreshSets" class="ghost">Aggiorna</button></div>
+      <div class="game-switch"><button class="album-game active" data-game="pokemon">POKÉMON</button><button class="album-game" data-game="yugioh">YU-GI-OH!</button></div>
+      <div id="setsList" class="set-list"><div class="notice">Caricamento espansioni…</div></div>
+      <div id="setDetail" class="set-detail" hidden></div>
+    </section>
+    <section id="view-collection" class="view">
+      <div class="section-head"><div><small>LOCAL FIRST</small><h2>La mia collezione</h2></div><button id="exportBtn" class="ghost">Backup</button></div>
+      <div class="stats" id="collectionStats"></div><div id="collectionList" class="card-list"></div>
+    </section>
+    <section id="view-scanner" class="view">
+      <div class="section-head"><div><small>FOTOCAMERA</small><h2>Scanner / Grading</h2></div><button id="stopCameraBtn" class="ghost">Chiudi camera</button></div>
+      <div id="scannerRoot">
+        <div class="scanner-stage" id="cameraStage"><video id="cameraVideo" playsinline muted></video><canvas id="analysisCanvas" hidden></canvas><div class="card-guide"></div><div id="scanQuality" class="scan-quality">Camera non avviata</div></div>
+        <div class="scanner-actions"><button id="startCameraBtn" class="primary">Apri fotocamera</button><button id="captureBtn" disabled>Scatto manuale</button><label class="file-btn">Carica foto<input id="photoFile" type="file" accept="image/*" capture="environment"></label></div>
+        <div class="capture-mode"><b>Lato:</b><button id="sideFrontBtn" class="active">FRONTE</button><button id="sideBackBtn">RETRO</button><span id="captureStatus">fronte non acquisito • retro opzionale</span></div>
+        <div id="borderEditor" class="editor" hidden>
+          <h3>Correggi i 4 angoli</h3><p>La foto originale resta intatta. Trascina i punti; se l'automazione fallisce puoi correggerli subito.</p>
+          <canvas id="editorCanvas"></canvas><label class="zoom-row">Zoom <input id="editorZoom" type="range" min="1" max="3" step=".05" value="1"></label>
+          <div class="scanner-actions"><button id="resetCornersBtn">Ripristina bordi</button><button id="confirmCornersBtn" class="primary">CONFERMA BORDI</button></div>
+        </div>
+        <div id="correctedPanel" hidden><h3>Immagine raddrizzata</h3><canvas id="correctedCanvas"></canvas><div class="scanner-actions"><button id="ocrBtn" class="primary">Riconosci carta</button><button id="gradeBtn">Analizza grading</button></div><div id="recognitionResult"></div><div id="gradingResult"></div></div>
+      </div>
+    </section>
+    <section id="view-history" class="view"><div class="section-head"><div><small>VERSIONATO</small><h2>Storico grading</h2></div></div><div id="gradingHistory" class="history-list"></div></section>
+    <section id="view-settings" class="view">
+      <div class="section-head"><div><small>APP</small><h2>Impostazioni</h2></div></div>
+      <div class="settings-card">
+        <label>Lingua catalogo Pokémon<select id="pokemonLanguage"><option value="it">Italiano</option><option value="en">English</option></select></label>
+        <label>Acquisizione automatica<input id="autoCapture" type="checkbox" checked></label>
+        <button id="historyBtn">Storico grading</button><button id="exportAllBtn">Esporta backup JSON</button>
+        <label class="file-btn">Importa backup JSON<input id="importFile" type="file" accept="application/json"></label>
+        <button id="clearCacheBtn" class="danger">Svuota solo cache catalogo</button>
+      </div><div id="versionInfo" class="notice"></div>
+    </section>
+  </main>
+  <nav class="bottom-nav"><button data-view="home" class="active">⌂<span>Home</span></button><button data-view="search">⌕<span>Cerca</span></button><button data-view="scanner">▣<span>Scanner</span></button><button data-view="collection">★<span>Collezione</span></button><button data-view="settings">⚙<span>Altro</span></button></nav>
+  <dialog id="cardDialog"><button class="dialog-close" data-close>×</button><div id="cardDialogBody"></div></dialog>
+  <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js" defer></script>
+  <script async src="https://docs.opencv.org/4.x/opencv.js"></script>
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>
