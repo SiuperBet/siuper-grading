@@ -1,4 +1,5 @@
 name: Update Yu-Gi-Oh data
+# bootstrap-schema: collision-safe-v2
 
 on:
   workflow_dispatch:
