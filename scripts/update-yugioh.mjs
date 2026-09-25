@@ -9,6 +9,8 @@ const now=new Date().toISOString();
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const slug=s=>"ygo-"+String(s||"set").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 const compact=s=>String(s||"").toUpperCase().replace(/[^A-Z0-9]/g,"");
+const hashName=v=>{let h=2166136261;for(const ch of String(v||"")){h^=ch.charCodeAt(0);h=Math.imul(h,16777619)}return(h>>>0).toString(36)};
+const setId=name=>slug(name)+"-"+hashName(name);
 
 async function fetchJson(url,tries=3){
   let last;
@@ -24,7 +26,7 @@ async function atomicJson(file,data){
 }
 async function readJson(file,fallback){try{return JSON.parse(await readFile(file,"utf8"))}catch{return fallback}}
 function printingId(card,set){
-  return"yugioh:"+card.id+":"+compact(set.set_code)+":"+slug(set.set_name)+":"+slug(set.set_rarity||"unknown");
+  return"yugioh:"+card.id+":"+compact(set.set_code)+":"+setId(set.set_name)+":"+slug(set.set_rarity||"unknown");
 }
 function normalizePrinting(card,set){
   const imageId=card.card_images&&card.card_images[0]&&card.card_images[0].id;
@@ -32,7 +34,7 @@ function normalizePrinting(card,set){
   return{
     id:printingId(card,set),cardId:String(card.id),printingId:printingId(card,set),game:"yugioh",
     name:card.name||"Senza nome",number:set.set_code||"",collectionNumber:set.set_code||"",
-    setId:slug(set.set_name),setCode:set.set_code||"",setName:set.set_name||"",
+    setId:setId(set.set_name),setCode:set.set_code||"",setName:set.set_name||"",
     rarity:set.set_rarity||"",edition:set.set_edition||"",archetype:card.archetype||"",
     passcode:String(card.id),type:card.type||"",attribute:card.attribute||"",level:card.level??null,
     rank:card.type&&card.type.includes("XYZ")?card.level??null:null,link:card.linkval??null,
@@ -60,12 +62,12 @@ async function mapLimit(items,limit,fn){
 
 const [setsRaw,cardsRaw]=await Promise.all([fetchJson(API+"/cardsets.php"),fetchJson(API+"/cardinfo.php")]);
 const cards=cardsRaw.data||[];
-const setRows=setsRaw.map(s=>({game:"yugioh",id:slug(s.set_name),name:s.set_name,setCode:s.set_code||"",cardCount:s.num_of_cards||0,releaseDate:s.tcg_date||"",updatedAt:now}));
+const setRows=setsRaw.map(s=>({game:"yugioh",id:setId(s.set_name),name:s.set_name,setCode:s.set_code||"",cardCount:s.num_of_cards||0,releaseDate:s.tcg_date||"",updatedAt:now}));
 const setByName=new Map(setRows.map(s=>[s.name,s]));
 const groups=new Map(),index=[];
 for(const card of cards){
   for(const set of card.card_sets||[]){
-    if(!setByName.has(set.set_name))setByName.set(set.set_name,{game:"yugioh",id:slug(set.set_name),name:set.set_name,setCode:(set.set_code||"").split("-")[0],cardCount:0,releaseDate:"",updatedAt:now});
+    if(!setByName.has(set.set_name))setByName.set(set.set_name,{game:"yugioh",id:setId(set.set_name),name:set.set_name,setCode:(set.set_code||"").split("-")[0],cardCount:0,releaseDate:"",updatedAt:now});
     const p=normalizePrinting(card,set),key=p.setId;if(!groups.has(key))groups.set(key,new Map());groups.get(key).set(p.printingId,p);
   }
 }
