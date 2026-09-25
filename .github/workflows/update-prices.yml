@@ -5,7 +5,8 @@ on:
   push:
     paths:
       - ".github/workflows/update-prices.yml"
-      - "data/search-index.json"
+      - "data/pokemon/search-index.json"
+      - "data/yugioh/search-index.json"
   schedule:
     - cron: "13 4 * * 1,4"
 
@@ -42,4 +43,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/prices data/validation-report.json
           git commit -m "data: update exact-printing prices"
+          git pull --rebase origin main
           git push
