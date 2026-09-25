@@ -1,0 +1,36 @@
+export function stripDiacritics(value=""){return value.normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
+export function normalizeName(value=""){return stripDiacritics(String(value)).toLowerCase().replace(/[’']/g,"").replace(/[^a-z0-9]+/g," ").trim().replace(/\s+/g," ")}
+export function normalizeSetCode(value=""){return stripDiacritics(String(value)).toUpperCase().replace(/[^A-Z0-9]/g,"")}
+export function parseCollectionNumber(value=""){
+  const raw=String(value==null?"":value).trim().toUpperCase().replace(/\s+/g,"");
+  const parts=raw.split("/");
+  const clean=v=>v.replace(/[^A-Z0-9]/g,"");
+  return {rawNumber:raw,normalizedPrimary:clean(parts[0]||""),normalizedTotal:clean(parts[1]||"")};
+}
+export function normalizeCollectionNumber(value=""){const p=parseCollectionNumber(value);return p.normalizedTotal?p.normalizedPrimary+"/"+p.normalizedTotal:p.normalizedPrimary}
+export function normalizeSearchQuery(value=""){
+  const raw=String(value==null?"":value).trim();
+  const compact=normalizeSetCode(raw);
+  const number=parseCollectionNumber(raw);
+  const looksSetCode=/^[a-z]{2,8}[-\s]?(?:en|e|it|fr|de|pt)?\d{1,5}$/i.test(raw);
+  const looksNumber=/^(?:[a-z]{0,8})?\d{1,5}(?:\/(?:[a-z]{0,8})?\d{1,5})?$/i.test(raw.replace(/\s/g,""));
+  return {raw:raw,name:normalizeName(raw),compact:compact,number:number,looksSetCode:looksSetCode,looksNumber:looksNumber};
+}
+function tokenParts(v=""){const m=String(v).toUpperCase().match(/^([A-Z]*)(\d+)(.*)$/);return m?[m[1],Number(m[2]),m[3]]:[String(v).toUpperCase(),Number.MAX_SAFE_INTEGER,""]}
+export function compareCardNumbers(a,b){
+  const pa=parseCollectionNumber(a),pb=parseCollectionNumber(b);
+  const aa=tokenParts(pa.normalizedPrimary),bb=tokenParts(pb.normalizedPrimary);
+  return aa[0].localeCompare(bb[0])||aa[1]-bb[1]||aa[2].localeCompare(bb[2])||pa.normalizedTotal.localeCompare(pb.normalizedTotal);
+}
+export function scoreMatch(card,query){
+  const q=typeof query==="string"?normalizeSearchQuery(query):query;
+  const name=normalizeName(card.name),num=normalizeCollectionNumber(card.collectionNumber||card.number),code=normalizeSetCode(card.setCode||"");
+  let s=0;
+  if(q.compact&&code===q.compact)s+=100;
+  if(q.number.normalizedPrimary&&num===normalizeCollectionNumber(q.raw))s+=95;
+  else if(q.number.normalizedPrimary&&parseCollectionNumber(num).normalizedPrimary===q.number.normalizedPrimary)s+=70;
+  if(q.name&&name===q.name)s+=85;
+  else if(q.name&&name.includes(q.name))s+=45;
+  if(q.compact&&code.includes(q.compact)&&code!==q.compact)s+=55;
+  return s;
+}
