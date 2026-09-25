@@ -3,7 +3,7 @@ import{recognizeCard}from"./recognition.js";
 import{analyzeCanvas,saveGrade,professionalInterval,drawGradingOverlay}from"./grading.js";
 import{GRADING_CONFIG}from"./grading-config.js";
 
-const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,stableFrames:0,lastQuality:null,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
+const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,stableFrames:0,lastQuality:null,borderConfidence:0,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
 const $=s=>document.querySelector(s);
 function clamp(v,a,b){return Math.max(a,Math.min(b,v))}
 function dist(a,b){return Math.hypot(a.x-b.x,a.y-b.y)}
@@ -33,7 +33,13 @@ function detectQuadCV(canvas){
     let best=null,bestArea=0,total=canvas.width*canvas.height;
     for(let i=0;i<contours.size();i++){const cnt=contours.get(i),peri=cv.arcLength(cnt,true),approx=new cv.Mat();cv.approxPolyDP(cnt,approx,.025*peri,true);const area=Math.abs(cv.contourArea(approx));
       if(approx.rows===4&&area>total*.12&&area>bestArea&&cv.isContourConvex(approx)){const pts=[];for(let j=0;j<4;j++)pts.push({x:approx.intPtr(j,0)[0],y:approx.intPtr(j,0)[1]});best=orderQuad(pts);bestArea=area}approx.delete();cnt.delete();}
-    return best;
+    if(!best)return null;
+    const top=dist(best[0],best[1]),bottom=dist(best[3],best[2]),left=dist(best[0],best[3]),right=dist(best[1],best[2]);
+    const ww=(top+bottom)/2,hh=(left+right)/2,aspect=Math.min(ww,hh)/Math.max(ww,hh),areaRatio=bestArea/total;
+    const clipped=best.some(p=>p.x<canvas.width*.018||p.x>canvas.width*.982||p.y<canvas.height*.018||p.y>canvas.height*.982);
+    const aspectScore=clamp(1-Math.abs(aspect-(2.5/3.5))/.22,0,1);
+    const sizeScore=areaRatio<.16?0:areaRatio>.88?0:clamp(1-Math.abs(areaRatio-.48)/.48,0,1);
+    return {points:best,aspect:aspect,areaRatio:areaRatio,clipped:clipped,confidence:Math.round(100*(aspectScore*.55+sizeScore*.35+(clipped?0:.10)))};
   }catch(e){return null}finally{for(const m of[src,gray,blur,edges,contours,hierarchy])if(m&&m.delete)try{m.delete()}catch(e){}}
 }
 function orderQuad(pts){
@@ -47,10 +53,19 @@ async function analysisTick(){
   const video=$("#cameraVideo");if(video.readyState<2){state.timer=setTimeout(analysisTick,500);return}
   const c=$("#analysisCanvas"),w=260,h=Math.max(160,Math.round(w*video.videoHeight/video.videoWidth));c.width=w;c.height=h;c.getContext("2d").drawImage(video,0,0,w,h);
   const q=frameQuality(c);state.lastQuality=q;
-  const quad=detectQuadCV(c);if(quad)state.detectedCorners=quad.map(p=>({x:p.x/w,y:p.y/h}));
-  if(q.good&&quad)state.stableFrames++;else state.stableFrames=0;
-  const hints=[];if(!quad)hints.push("carta/bordi non rilevati");if(q.brightness<=48)hints.push("più luce");if(q.brightness>=218)hints.push("troppa luce");if(q.blur<=45)hints.push("immagine poco nitida");if(q.glare>=.075)hints.push("riflessi");if(q.motion>=8.5)hints.push("tieni fermo");
-  $("#scanQuality").textContent=hints.length?hints.join(" • "):"Pronto • bordi rilevati • immagine stabile";
+  const quad=detectQuadCV(c),shapeOk=quad&&quad.aspect>.54&&quad.aspect<.84&&quad.areaRatio>.16&&quad.areaRatio<.88&&!quad.clipped;
+  if(quad){state.detectedCorners=quad.points.map(p=>({x:p.x/w,y:p.y/h}));state.borderConfidence=quad.confidence}else{state.detectedCorners=null;state.borderConfidence=0}
+  if(q.good&&shapeOk)state.stableFrames++;else state.stableFrames=0;
+  const hints=[];
+  if(!quad)hints.push("carta/bordi non rilevati");
+  else{
+    if(quad.areaRatio<=.16)hints.push("avvicina la carta");
+    if(quad.areaRatio>=.88)hints.push("allontana la carta");
+    if(quad.aspect<=.54||quad.aspect>=.84)hints.push("proporzioni/bordi da correggere");
+    if(quad.clipped)hints.push("carta tagliata dall'inquadratura");
+  }
+  if(q.brightness<=48)hints.push("più luce");if(q.brightness>=218)hints.push("troppa luce");if(q.blur<=45)hints.push("immagine poco nitida");if(q.glare>=.075)hints.push("riflessi");if(q.motion>=8.5)hints.push("tieni fermo");
+  $("#scanQuality").textContent=hints.length?hints.join(" • "):"Pronto • 4 bordi validi • nitida • stabile";
   const auto=await setting("autoCapture",true);
   if(auto&&state.stableFrames>=3){state.stableFrames=0;await captureFromVideo(true)}
   state.timer=setTimeout(analysisTick,520);
@@ -118,7 +133,7 @@ async function confirmCorners(){
   $("#confirmCornersBtn").disabled=true;$("#confirmCornersBtn").textContent="Raddrizzamento…";
   try{
     const corrected=perspectiveWarp(state.original,state.corners),copy=cloneCanvas(corrected),correctedBlob=await canvasBlob(copy);
-    const scanId="scan:"+crypto.randomUUID(),row={id:scanId,side:state.currentSide,createdAt:new Date().toISOString(),originalBlob:state.originalBlob,correctedBlob:correctedBlob,corners:state.corners.map(p=>({x:Math.round(p.x),y:Math.round(p.y)})),borderDetectionConfidence:state.detectedCorners?Math.min(99,70+state.stableFrames*5):0};
+    const scanId="scan:"+crypto.randomUUID(),row={id:scanId,side:state.currentSide,createdAt:new Date().toISOString(),originalBlob:state.originalBlob,correctedBlob:correctedBlob,corners:state.corners.map(p=>({x:Math.round(p.x),y:Math.round(p.y)})),borderDetectionConfidence:state.detectedCorners?state.borderConfidence:0};
     await put("scans",row);state.captures[state.currentSide]={scanId:scanId,canvas:copy,corners:row.corners,quality:state.lastQuality};
     $("#borderEditor").hidden=true;$("#correctedPanel").hidden=false;renderCurrentSide();updateCaptureStatus();
     if(state.currentSide==="front"&&!state.captures.back)$("#scanQuality").textContent="Fronte pronto. Puoi acquisire il retro o continuare solo con il fronte.";
