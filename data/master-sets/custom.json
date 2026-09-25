@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "masterSets": [
+    {
+      "id": "pokemon-30th-celebration",
+      "game": "pokemon",
+      "name": "30th Celebration",
+      "mode": "manual-slots",
+      "expectedSlots": 199,
+      "components": [
+        {"id":"main","name":"Set principale","expectedSlots":161},
+        {"id":"classic","name":"Classic Collection","expectedSlots":30},
+        {"id":"energies","name":"Energie","expectedSlots":8}
+      ],
+      "slots": [],
+      "status": "slot-mapping-pending",
+      "note": "La struttura 161 + 30 + 8 è definita. Gli ID delle carte verranno associati solo quando dati verificati saranno disponibili; nessuna carta viene inventata."
+    }
+  ]
+}
