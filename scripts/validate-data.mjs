@@ -9,12 +9,12 @@ function duplicateValues(rows,key,label){
   for(const r of rows){const v=r&&r[key];if(v==null)continue;if(seen.has(v))dup.add(v);else seen.add(v)}
   if(dup.size)errors.push(label+" duplicati: "+[...dup].slice(0,20).join(", "));
 }
-const index=await readJson("data/search-index.json",[]);
+const pokemonIndex=await readJson("data/pokemon/search-index.json",[]),yugiohIndex=await readJson("data/yugioh/search-index.json",[]),index=pokemonIndex.concat(yugiohIndex);
 const pokemonSets=await readJson("data/pokemon/sets.json",[]);
 const ygoSets=await readJson("data/yugioh/sets.json",[]);
 const prices=await readJson("data/prices/current.json",[]);
 
-stats.searchEntries=index.length;stats.pokemonSets=pokemonSets.length;stats.yugiohSets=ygoSets.length;stats.pricePoints=prices.length;
+stats.searchEntries=index.length;stats.pokemonSearchEntries=pokemonIndex.length;stats.yugiohSearchEntries=yugiohIndex.length;stats.pokemonSets=pokemonSets.length;stats.yugiohSets=ygoSets.length;stats.pricePoints=prices.length;
 duplicateValues(index,"printingId","printingId");
 duplicateValues(pokemonSets,"id","ID set Pokemon");
 duplicateValues(ygoSets,"id","ID set Yu-Gi-Oh!");
