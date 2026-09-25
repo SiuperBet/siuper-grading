@@ -71,10 +71,8 @@ for(const card of cards){
 }
 for(const [key,map]of groups){const rows=[...map.values()];index.push(...rows);await atomicJson(OUT+"/cards/"+encodeURIComponent(key)+".json",rows)}
 
-const previous=await readJson("data/search-index.json",[]);
-const nonYgo=previous.filter(x=>x.game!=="yugioh");
 await atomicJson(OUT+"/sets.json",[...setByName.values()].sort((a,b)=>String(b.releaseDate).localeCompare(String(a.releaseDate))||a.name.localeCompare(b.name)));
-await atomicJson("data/search-index.json",nonYgo.concat(index));
+await atomicJson("data/yugioh/search-index.json",index);
 
 let mirror={new:0,cached:0,failed:0};
 if(process.env.MIRROR_IMAGES!=="false"){
