@@ -1,6 +1,16 @@
 export function stripDiacritics(value=""){return value.normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
 export function normalizeName(value=""){return stripDiacritics(String(value)).toLowerCase().replace(/[’']/g,"").replace(/[^a-z0-9]+/g," ").trim().replace(/\s+/g," ")}
 export function normalizeSetCode(value=""){return stripDiacritics(String(value)).toUpperCase().replace(/[^A-Z0-9]/g,"")}
+export function normalizeSetCodeLoose(value=""){
+  const raw=stripDiacritics(String(value)).toUpperCase().replace(/[^A-Z0-9-]/g,"");
+  const m=raw.match(/^([A-Z]{2,8})-?(?:EN|E|IT|FR|DE|PT)?-?(\d{1,5})$/);
+  return m?m[1]+String(Number(m[2])):normalizeSetCode(value);
+}
+export function canonicalNumberToken(value=""){
+  const clean=String(value).toUpperCase().replace(/[^A-Z0-9]/g,"");
+  const m=clean.match(/^([A-Z]*)(\d+)$/);
+  return m?m[1]+String(Number(m[2])):clean;
+}
 export function parseCollectionNumber(value=""){
   const raw=String(value==null?"":value).trim().toUpperCase().replace(/\s+/g,"");
   const parts=raw.split("/");
@@ -25,10 +35,15 @@ export function compareCardNumbers(a,b){
 export function scoreMatch(card,query){
   const q=typeof query==="string"?normalizeSearchQuery(query):query;
   const name=normalizeName(card.name),num=normalizeCollectionNumber(card.collectionNumber||card.number),code=normalizeSetCode(card.setCode||"");
+  const looseCode=normalizeSetCodeLoose(card.setCode||""),qLoose=normalizeSetCodeLoose(q.raw);
+  const cardNum=parseCollectionNumber(num),primaryEq=canonicalNumberToken(cardNum.normalizedPrimary)===canonicalNumberToken(q.number.normalizedPrimary);
+  const cardTotal=canonicalNumberToken(cardNum.normalizedTotal||card.printedTotal||""),qTotal=canonicalNumberToken(q.number.normalizedTotal||"");
   let s=0;
   if(q.compact&&code===q.compact)s+=100;
+  else if(q.looksSetCode&&qLoose&&looseCode===qLoose)s+=90;
   if(q.number.normalizedPrimary&&num===normalizeCollectionNumber(q.raw))s+=95;
-  else if(q.number.normalizedPrimary&&parseCollectionNumber(num).normalizedPrimary===q.number.normalizedPrimary)s+=70;
+  else if(q.number.normalizedPrimary&&primaryEq&&qTotal&&cardTotal===qTotal)s+=92;
+  else if(q.number.normalizedPrimary&&primaryEq)s+=70;
   if(q.name&&name===q.name)s+=85;
   else if(q.name&&name.includes(q.name))s+=45;
   if(q.compact&&code.includes(q.compact)&&code!==q.compact)s+=55;
