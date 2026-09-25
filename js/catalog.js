@@ -30,7 +30,16 @@ export function normalizeYgoPrinting(card,set){
 }
 let indexPromise;
 export async function getSearchIndex(){
-  if(!indexPromise)indexPromise=(async()=>{const d=await staticJson("./data/search-index.json");return Array.isArray(d)?d:[]})();
+  if(!indexPromise)indexPromise=(async()=>{
+    const [pokemon,yugioh,legacy]=await Promise.all([
+      staticJson("./data/pokemon/search-index.json"),
+      staticJson("./data/yugioh/search-index.json"),
+      staticJson("./data/search-index.json")
+    ]);
+    const rows=[...(Array.isArray(pokemon)?pokemon:[]),...(Array.isArray(yugioh)?yugioh:[])];
+    if(rows.length)return rows;
+    return Array.isArray(legacy)?legacy:[];
+  })();
   return indexPromise;
 }
 export function resetSearchIndex(){indexPromise=null}
