@@ -1,7 +1,7 @@
 import{setting,put}from"./db.js";
 import{recognizeCard}from"./recognition.js";
 import{analyzeCanvas,saveGrade,professionalInterval,drawGradingOverlay}from"./grading.js";
-import{GRADING_CONFIG}from"./config.js";
+import{GRADING_CONFIG}from"./grading-config.js";
 
 const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,stableFrames:0,lastQuality:null,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
 const $=s=>document.querySelector(s);
