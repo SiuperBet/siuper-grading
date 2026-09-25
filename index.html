@@ -29,10 +29,19 @@
     <section id="view-search" class="view">
       <div class="section-head"><div><small>CATALOGO</small><h2>Cerca carte</h2></div></div>
       <label class="searchbox"><span>⌕</span><input id="searchInput" autocomplete="off" inputmode="search" placeholder="Cerca nome, numero o codice carta…"></label>
-      <div class="filters">
+      <div class="filters search-filters">
         <select id="searchGame"><option value="all">Tutti i giochi</option><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh!</option></select>
         <select id="searchOwned"><option value="all">Tutte</option><option value="owned">Ce l'ho</option><option value="missing">Mi manca</option></select>
-        <select id="searchSort"><option value="relevance">Pertinenza</option><option value="name-asc">Nome A-Z</option><option value="name-desc">Nome Z-A</option><option value="number-asc">Numero ↑</option><option value="number-desc">Numero ↓</option></select>
+        <input id="searchSet" placeholder="Espansione / set">
+        <input id="searchRarity" placeholder="Rarità">
+        <select id="searchCondition"><option value="all">Qualsiasi condizione</option><option>NM</option><option>LP</option><option>MP</option><option>HP</option><option>DAMAGED</option></select>
+        <select id="searchCurrency"><option value="EUR">Prezzi EUR</option><option value="USD">Prezzi USD</option></select>
+        <select id="searchSort">
+          <option value="relevance">Pertinenza</option>
+          <option value="name-asc">Nome A-Z</option><option value="name-desc">Nome Z-A</option>
+          <option value="number-asc">Numero ↑</option><option value="number-desc">Numero ↓</option>
+          <option value="price-asc">Prezzo ↑</option><option value="price-desc">Prezzo ↓</option>
+        </select>
       </div>
       <div id="searchHint" class="notice">Scrivi almeno 2 caratteri, oppure un numero/codice carta.</div>
       <div id="searchResults" class="card-list"></div>
