@@ -4,6 +4,7 @@ import{searchCards,getSets,getSetCards,getCardDetail,sortCards}from"./catalog.js
 import{ownedPrintingIds,addCopy,copiesFor,collectionStats,removeCopy}from"./collection.js";
 import{initScanner,stopCamera,getScannerState,setRecognizedCard}from"./scanner.js";
 import{renderHistory}from"./grading.js";
+import{getPricesForCard,reliability}from"./prices.js";
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 let albumGame="pokemon",deferredInstall=null;
@@ -44,12 +45,12 @@ function conditionEstimates(observed){
   }).join("");
 }
 async function openCard(card){
-  const detail=await getCardDetail(card),copies=await copiesFor(card.printingId),prices=[];
-  if(detail.price&&Number.isFinite(detail.price.value)&&detail.price.value>0)prices.push(detail.price);
-  const priceHtml=prices.length?prices.map(p=>'<div class="price-line"><b>'+esc(p.source)+' • '+esc(p.priceType)+'</b><br>'+esc(p.currency)+' '+Number(p.value).toFixed(2)+'<br><small>Variante/stampa: '+esc(detail.setCode||detail.collectionNumber||"esatta")+' • Aggiornamento fonte: '+esc(p.timestamp||"data non fornita")+'</small></div>').join(""):'<div class="notice">Prezzo non disponibile per questa stampa. Non viene usato il prezzo di un’altra stampa.</div>';
-  const estimate=prices.length?conditionEstimates(prices[0]):"";
+  const detail=await getCardDetail(card),copies=await copiesFor(card.printingId),prices=await getPricesForCard(detail);
+  const priceHtml=prices.length?prices.map(p=>'<div class="price-line"><b>'+esc(p.source)+' • '+esc(p.priceType)+'</b><br>'+esc(p.currency)+' '+Number(p.value).toFixed(2)+'<br><small>Variante: '+esc(p.variant||detail.rarity||"non specificata")+' • Affidabilità: '+esc(reliability(p))+' • Aggiornato: '+esc(p.timestamp||"data non fornita")+'</small></div>').join(""):'<div class="notice">Prezzo non disponibile per questa stampa. Non viene usato il prezzo di un’altra stampa.</div>';
+  const observedReference=prices.find(p=>p.priceType==="market")||prices.find(p=>p.priceType==="trend")||prices[0]||null;
+  const estimate=observedReference?conditionEstimates(observedReference):"";
   const scanner=getScannerState(),scannerAction=scanner.captures.front?'<button id="useScannerCard">Usa come identificazione scanner</button>':"";
-  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2><p>'+esc(detail.collectionNumber||"—")+' • '+esc(detail.setName||"")+'</p><p>Rarità: '+esc(detail.rarity||"Dato non disponibile")+'</p><p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button>'+scannerAction+'</div><h3>Prezzi osservati</h3>'+priceHtml+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati dal riferimento osservato e dalla configurazione NM/LP/MP/HP/Damaged. Non sono vendite osservate per condizione.</div>'+estimate:"");
+  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2><p>'+esc(detail.collectionNumber||"—")+' • '+esc(detail.setName||"")+'</p><p>Rarità: '+esc(detail.rarity||"Dato non disponibile")+'</p><p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button>'+scannerAction+'</div><h3>Prezzi osservati</h3>'+priceHtml+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"");
   $("#addCopyDialog").onclick=async()=>{await addCopy(card);await openCard(card)};
   const use=$("#useScannerCard");if(use)use.onclick=()=>{setRecognizedCard(card);$("#cardDialog").close();go("scanner")};
   $("#cardDialog").showModal();
