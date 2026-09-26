@@ -6,7 +6,7 @@ import{initScanner,stopCamera,getScannerState,setRecognizedCard}from"./scanner.j
 import{renderHistory}from"./grading.js";
 import{getPricesForCard,reliability,referencePricesForCards}from"./prices.js";
 import{progressForCards,getCustomMasterSets,progressForCustom,variantKeys}from"./mastersets.js";
-import{loadPriceHistory,drawPriceHistory}from"./price-history.js";
+import{loadPriceHistory,drawPriceHistory,buildOnlineMarketTrend,drawOnlineMarketTrend}from"./price-history.js";
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 let albumGame="pokemon",albumLanguage="it",deferredInstall=null;
@@ -145,6 +145,7 @@ async function openCard(card){
   const detail=await getCardDetail(card),copies=await copiesFor(card.printingId),prices=await getPricesForCard(detail),allGrades=await getAll("grades"),cardGrades=allGrades.filter(g=>g.printingId===card.printingId).sort((a,b)=>String(b.createdAt).localeCompare(String(a.createdAt)));
   const priceHtml=prices.length?prices.map(p=>'<div class="price-line"><b>'+esc(p.source)+' • '+esc(p.priceType)+'</b><br>'+esc(p.currency)+' '+Number(p.value).toFixed(2)+'<br><small>Variante: '+esc(p.variant||detail.rarity||"non specificata")+' • Affidabilità: '+esc(reliability(p))+' • Aggiornato: '+esc(p.timestamp||"data non fornita")+'</small></div>').join(""):'<div class="notice">Prezzo non disponibile per questa stampa. Non viene usato il prezzo di un’altra stampa.</div>';
   const observedReference=prices.find(p=>p.priceType==="market")||prices.find(p=>p.priceType==="trend")||prices[0]||null;
+  const onlineTrend=buildOnlineMarketTrend(prices,"normal");
   const estimate=observedReference?conditionEstimates(observedReference):"";
   const scanner=getScannerState(),scannerAction=scanner.captures.front?'<button id="useScannerCard">Usa come identificazione scanner</button>':"";
   const metadata=[
@@ -163,9 +164,12 @@ async function openCard(card){
     ["DEF",detail.def==null?"":detail.def]
   ].filter(x=>x[1]!==""&&x[1]!=null).map(x=>'<div class="metric"><span>'+esc(x[0])+'</span><b>'+esc(x[1])+'</b></div>').join("");
   const gradesHtml=cardGrades.length?'<h3>Grading salvati</h3>'+cardGrades.slice(0,5).map(g=>'<div class="metric"><span>'+new Date(g.createdAt).toLocaleDateString("it-IT")+' • '+esc(g.gradingAlgorithmVersion)+'</span><b>'+g.finalGrade+'/10 • '+g.confidence+'%</b></div>').join("")+'<button id="openHistoryFromCard">Apri storico grading</button>':"";
-  $("#cardDialogBody").innerHTML=cardImage(detail,"detail-image","high")+'<h2>'+esc(detail.name)+'</h2>'+metadata+'<p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button><button id="scanThisCard">Scanner</button>'+scannerAction+'</div>'+copiesEditor(copies)+gradesHtml+'<h3>Prezzi osservati</h3>'+priceHtml+(observedReference?'<h3>Storico prezzo</h3><div class="scanner-actions"><button data-price-days="7">7 giorni</button><button data-price-days="30">30 giorni</button><button data-price-days="90">90 giorni</button><button data-price-days="365">1 anno</button></div><canvas id="priceHistoryChart" hidden></canvas><div id="priceHistoryInfo" class="notice">Caricamento storico…</div>':"")+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"")+marketSearchLinks(detail);
+  $("#cardDialogBody").innerHTML=cardImage(detail,"detail-image","high")+'<h2>'+esc(detail.name)+'</h2>'+metadata+'<p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button><button id="scanThisCard">Scanner</button>'+scannerAction+'</div>'+copiesEditor(copies)+gradesHtml+'<h3>Prezzi osservati</h3>'+priceHtml+(onlineTrend.length>=2?'<h3>Andamento online</h3><canvas id="onlineTrendChart" hidden></canvas><div id="onlineTrendInfo" class="notice">Caricamento andamento Cardmarket…</div>':"")+(observedReference?'<h3>Storico giornaliero</h3><div class="scanner-actions"><button data-price-days="7">7 giorni</button><button data-price-days="30">30 giorni</button><button data-price-days="90">90 giorni</button><button data-price-days="365">1 anno</button></div><canvas id="priceHistoryChart" hidden></canvas><div id="priceHistoryInfo" class="notice">Caricamento storico…</div>':"")+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"")+marketSearchLinks(detail);
   $("#addCopyDialog").onclick=async()=>{await addCopy(card);await openCard(card)};
   $("#scanThisCard").onclick=()=>{setRecognizedCard(card);$("#cardDialog").close();go("scanner")};
+  if(onlineTrend.length>=2){
+    const onlineChart=$("#onlineTrendChart");drawOnlineMarketTrend(onlineChart,onlineTrend);
+  }
   if(observedReference){
     const chart=$("#priceHistoryChart"),historyPoints=await loadPriceHistory(detail.printingId,observedReference);
     drawPriceHistory(chart,historyPoints,30);
