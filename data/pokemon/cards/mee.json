@@ -17,10 +17,19 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "it",
     "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:mee-002",
@@ -40,10 +49,19 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "it",
     "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:mee-003",
@@ -63,10 +81,19 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "it",
     "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:mee-004",
@@ -86,10 +113,19 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "it",
     "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:mee-005",
@@ -109,10 +145,19 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "it",
     "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:mee-006",
@@ -132,10 +177,19 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "it",
     "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:mee-007",
@@ -155,10 +209,19 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "it",
     "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:mee-008",
@@ -178,9 +241,18 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "it",
     "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   }
 ]

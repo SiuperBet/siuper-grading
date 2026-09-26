@@ -17,10 +17,19 @@
     "releaseDate": "2023-06-02",
     "image": "https://assets.tcgdex.net/zh-tw/SV/SVP1/001/low.webp",
     "imageHigh": "https://assets.tcgdex.net/zh-tw/SV/SVP1/001/high.webp",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-002",
@@ -40,10 +49,19 @@
     "releaseDate": "2023-06-02",
     "image": "https://assets.tcgdex.net/zh-tw/SV/SVP1/002/low.webp",
     "imageHigh": "https://assets.tcgdex.net/zh-tw/SV/SVP1/002/high.webp",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-003",
@@ -63,10 +81,19 @@
     "releaseDate": "2023-06-02",
     "image": "https://assets.tcgdex.net/zh-tw/SV/SVP1/003/low.webp",
     "imageHigh": "https://assets.tcgdex.net/zh-tw/SV/SVP1/003/high.webp",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-004",
@@ -86,10 +113,19 @@
     "releaseDate": "2023-06-02",
     "image": "https://assets.tcgdex.net/zh-tw/SV/SVP1/004/low.webp",
     "imageHigh": "https://assets.tcgdex.net/zh-tw/SV/SVP1/004/high.webp",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-005",
@@ -109,10 +145,19 @@
     "releaseDate": "2023-06-02",
     "image": "https://assets.tcgdex.net/zh-tw/SV/SVP1/005/low.webp",
     "imageHigh": "https://assets.tcgdex.net/zh-tw/SV/SVP1/005/high.webp",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-006",
@@ -132,10 +177,19 @@
     "releaseDate": "2023-06-02",
     "image": "https://assets.tcgdex.net/zh-tw/SV/SVP1/006/low.webp",
     "imageHigh": "https://assets.tcgdex.net/zh-tw/SV/SVP1/006/high.webp",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-007",
@@ -155,9 +209,18 @@
     "releaseDate": "2023-06-02",
     "image": "https://assets.tcgdex.net/zh-tw/SV/SVP1/007/low.webp",
     "imageHigh": "https://assets.tcgdex.net/zh-tw/SV/SVP1/007/high.webp",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   }
 ]

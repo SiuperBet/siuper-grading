@@ -17,10 +17,19 @@
     "releaseDate": "2014-02-05",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:en:xya-28a",
@@ -40,10 +49,19 @@
     "releaseDate": "2014-02-05",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:en:xya-54a",
@@ -63,10 +81,19 @@
     "releaseDate": "2014-02-05",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:en:xya-55a",
@@ -86,10 +113,19 @@
     "releaseDate": "2014-02-05",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:en:xya-92a",
@@ -109,10 +145,19 @@
     "releaseDate": "2014-02-05",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   },
   {
     "id": "pokemon:en:xya-107a",
@@ -132,9 +177,18 @@
     "releaseDate": "2014-02-05",
     "image": "",
     "imageHigh": "",
+    "variants": {},
+    "variantsDetailed": null,
+    "category": "",
+    "artist": "",
+    "types": [],
+    "hp": null,
+    "stage": "",
+    "dexId": [],
+    "regulationMark": "",
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:38:00.873Z"
+    "updatedAt": "2026-09-26T16:33:12.619Z"
   }
 ]
