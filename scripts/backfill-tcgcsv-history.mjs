@@ -17,8 +17,8 @@ function targetDates(){
   return[...set].filter(x=>x>=START&&x<=iso(end)).sort();
 }
 async function download(url,file){
-  const r=await fetch(url,{headers:{"user-agent":UA}});if(!r.ok)throw new Error("download "+r.status+" "+r.statusText);
-  await mkdir(path.dirname(file),{recursive:true});await pipeline(Readable.fromWeb(r.body),createWriteStream(file));
+  await mkdir(path.dirname(file),{recursive:true});
+  await execFileAsync("curl",["-fL","--retry","4","--retry-delay","2","--connect-timeout","20","-A","Mozilla/5.0 SiuperGrading/1.0",url,"-o",file],{maxBuffer:1024*1024*4});
 }
 function num(v){const n=Number(v);return Number.isFinite(n)&&n>=0?n:null}
 function cleanVariant(v=""){return String(v).trim()||"Unknown"}
