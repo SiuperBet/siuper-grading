@@ -76,8 +76,8 @@ try{const y=await fetchJson(YGO+"/cardinfo.php");fetchedYgo=ygoPrices(y.data||[]
 
 const current=await readJson("data/prices/current.json",[]);
 const map=new Map(current.map(r=>[keyOf(r),r]));
-const changes=[];
-for(const r of fetchedPokemon.concat(fetchedYgo)){
+const fetched=fetchedPokemon.concat(fetchedYgo),changes=[];
+for(const r of fetched){
   const k=keyOf(r),old=map.get(k);
   if(!old||Number(old.value)!==Number(r.value)){changes.push(r)}
   map.set(k,r);
@@ -85,10 +85,12 @@ for(const r of fetchedPokemon.concat(fetchedYgo)){
 const next=[...map.values()].sort((a,b)=>a.printingId.localeCompare(b.printingId)||a.source.localeCompare(b.source)||a.priceType.localeCompare(b.priceType));
 await atomicJson("data/prices/current.json",next);
 
-if(changes.length){
+if(fetched.length){
   const historyFile="data/prices/history/"+month+".json";
   const history=await readJson(historyFile,[]);
-  history.push(...changes.map(r=>Object.assign({snapshotDate:day},r)));
-  await atomicJson(historyFile,history);
+  const snapshotMap=new Map(history.map(r=>[(r.snapshotDate||String(r.timestamp||"").slice(0,10))+"|"+keyOf(r),r]));
+  for(const r of fetched)snapshotMap.set(day+"|"+keyOf(r),Object.assign({snapshotDate:day},r));
+  const nextHistory=[...snapshotMap.values()].sort((a,b)=>String(a.snapshotDate||a.timestamp||"").localeCompare(String(b.snapshotDate||b.timestamp||""))||keyOf(a).localeCompare(keyOf(b)));
+  await atomicJson(historyFile,nextHistory);
 }
-console.log(JSON.stringify({pokemonRequested:selected.length,pokemonPricePoints:fetchedPokemon.length,yugiohPricePoints:fetchedYgo.length,changed:changes.length,current:next.length},null,2));
+console.log(JSON.stringify({pokemonRequested:selected.length,pokemonPricePoints:fetchedPokemon.length,yugiohPricePoints:fetchedYgo.length,changed:changes.length,snapshotted:fetched.length,current:next.length},null,2));
