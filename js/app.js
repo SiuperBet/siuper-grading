@@ -9,9 +9,10 @@ import{progressForCards,getCustomMasterSets,progressForCustom,variantKeys}from".
 import{loadPriceHistory,drawPriceHistory}from"./price-history.js";
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
-let albumGame="pokemon",deferredInstall=null;
+let albumGame="pokemon",albumLanguage="it",deferredInstall=null;
 
 function esc(s=""){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
+function languageLabel(lang=""){return({it:"IT",en:"EN",ja:"JP","zh-tw":"ZH-TW","zh-cn":"ZH-CN"})[lang]||String(lang||"").toUpperCase()}
 function cardImage(card,cls=""){return card.image?'<img class="'+cls+'" loading="lazy" src="'+esc(card.image)+'" alt="">':'<div class="img-placeholder '+cls+'"></div>'}
 export function go(view){
   $$(".view").forEach(v=>v.classList.toggle("active",v.id==="view-"+view));
@@ -25,15 +26,15 @@ export function go(view){
 function cardRow(card,owned=false){
   const encoded=encodeURIComponent(JSON.stringify(card));
   const rp=card._referencePrice,price=rp?'<span class="card-price">'+esc(rp.currency)+' '+Number(rp.value).toFixed(2)+' • '+esc(rp.source)+' '+esc(rp.priceType)+'</span>':"";
-  return '<article class="card-row" data-card="'+encoded+'">'+cardImage(card)+'<div><h3>'+esc(card.name)+'</h3><p>'+esc(card.collectionNumber||"—")+' • '+esc(card.setName||card.setCode||"Set non disponibile")+'</p>'+price+'<span class="badge '+(owned?"owned":"missing")+'">'+(owned?"✓ CE L'HO":"MI MANCA")+'</span></div><span>›</span></article>';
+  return '<article class="card-row" data-card="'+encoded+'">'+cardImage(card)+'<div><h3>'+esc(card.name)+'</h3><p>'+esc(card.collectionNumber||"—")+' • '+esc(card.setName||card.setCode||"Set non disponibile")+(card.game==="pokemon"&&card.catalogLanguage?' • '+esc(languageLabel(card.catalogLanguage)):"")+'</p>'+price+'<span class="badge '+(owned?"owned":"missing")+'">'+(owned?"✓ CE L'HO":"MI MANCA")+'</span></div><span>›</span></article>';
 }
 async function doSearch(){
   const query=$("#searchInput").value.trim(),root=$("#searchResults");
   if(query.length<2&&!/\d/.test(query)){root.innerHTML="";$("#searchHint").textContent="Scrivi almeno 2 caratteri, oppure un numero/codice carta.";return}
   $("#searchHint").textContent="Ricerca…";
   try{
-    const game=$("#searchGame").value,ownedCopies=await getAll("ownedCopies"),owned=new Set(ownedCopies.map(x=>x.printingId)),ownFilter=$("#searchOwned").value;
-    let rows=await searchCards(query,{game:game});
+    const game=$("#searchGame").value,language=$("#searchLanguage").value,ownedCopies=await getAll("ownedCopies"),owned=new Set(ownedCopies.map(x=>x.printingId)),ownFilter=$("#searchOwned").value;
+    let rows=await searchCards(query,{game:game,language:language});
     if(ownFilter==="owned")rows=rows.filter(x=>owned.has(x.printingId));
     if(ownFilter==="missing")rows=rows.filter(x=>!owned.has(x.printingId));
     const setFilter=$("#searchSet").value.trim().toLowerCase(),rarityFilter=$("#searchRarity").value.trim().toLowerCase(),condition=$("#searchCondition").value;
@@ -68,7 +69,7 @@ function copiesEditor(copies){
     '<div class="copy-editor" data-copy-id="'+esc(cp.id)+'">'+
     '<b>Copia '+(i+1)+'</b>'+
     '<label>Condizione <select data-copy-field="condition">'+["NM","LP","MP","HP","DAMAGED"].map(v=>'<option value="'+v+'"'+(cp.condition===v?" selected":"")+'>'+v+'</option>').join("")+'</select></label>'+
-    '<label>Lingua <input data-copy-field="language" value="'+esc(cp.language||"it")+'"></label>'+
+    '<label>Lingua stampa <b>'+esc(languageLabel(cp.language||"it"))+'</b></label>'+
     '<label>Variante <input data-copy-field="variant" value="'+esc(cp.variant||"")+'" placeholder="normal, holo, reverse…"></label>'+
     '<label>Prezzo pagato <input data-copy-field="pricePaid" type="number" min="0" step="0.01" value="'+(cp.pricePaid==null?"":esc(cp.pricePaid))+'"></label>'+
     '<label>Note <textarea data-copy-field="notes">'+esc(cp.notes||"")+'</textarea></label>'+
@@ -84,6 +85,7 @@ async function openCard(card){
   const scanner=getScannerState(),scannerAction=scanner.captures.front?'<button id="useScannerCard">Usa come identificazione scanner</button>':"";
   const metadata=[
     ["Gioco",detail.game==="pokemon"?"Pokémon TCG":"Yu-Gi-Oh!"],
+    ["Lingua stampa",detail.game==="pokemon"?languageLabel(detail.catalogLanguage||detail.language||"it"):""],
     ["Numero / codice",detail.collectionNumber||"Dato non disponibile"],
     ["Set",detail.setName||"Dato non disponibile"],
     ["Serie",detail.series||""],
@@ -110,7 +112,7 @@ async function openCard(card){
     const get=name=>box.querySelector('[data-copy-field="'+name+'"]').value;
     box.querySelector("[data-save-copy]").onclick=async()=>{
       const rawPaid=get("pricePaid");
-      await updateCopy(id,{condition:get("condition"),language:get("language").trim()||"it",variant:get("variant").trim(),pricePaid:rawPaid===""?null:Number(rawPaid),notes:get("notes")});
+      await updateCopy(id,{condition:get("condition"),variant:get("variant").trim(),pricePaid:rawPaid===""?null:Number(rawPaid),notes:get("notes")});
       await openCard(card);
     };
     box.querySelector("[data-delete-copy]").onclick=async()=>{await removeCopy(id);await openCard(card)};
@@ -122,8 +124,8 @@ async function openCard(card){
 async function renderSets(force=false){
   const root=$("#setsList");root.hidden=false;$("#setDetail").hidden=true;root.innerHTML='<div class="notice">Caricamento espansioni…</div>';
   try{
-    const [sets,custom,copies]=await Promise.all([getSets(albumGame,force),getCustomMasterSets(),getAll("ownedCopies")]);
-    const gameCustom=custom.filter(x=>x.game===albumGame),gameCopies=copies.filter(x=>x.game===albumGame);
+    const [sets,custom,copies]=await Promise.all([getSets(albumGame,force,albumGame==="pokemon"?albumLanguage:null),getCustomMasterSets(),getAll("ownedCopies")]);
+    const gameCustom=custom.filter(x=>x.game===albumGame&&(albumGame!=="pokemon"||!x.catalogLanguage||x.catalogLanguage===albumLanguage)),gameCopies=copies.filter(x=>x.game===albumGame&&(albumGame!=="pokemon"||(x.language||"it")===albumLanguage));
     const [eurRefs,usdRefs]=await Promise.all([referencePricesForCards(gameCopies,"EUR"),referencePricesForCards(gameCopies,"USD")]);
     const bySet=new Map();
     for(const cp of gameCopies){
@@ -153,12 +155,13 @@ async function renderSets(force=false){
 async function openCustomMasterSet(master){
   const panel=$("#setDetail"),root=$("#setsList");root.hidden=true;panel.hidden=false;panel.innerHTML='<div class="notice">Caricamento carte del Master Set…</div>';panel.scrollIntoView({behavior:"smooth",block:"start"});
   try{
-    const [allSets,copies]=await Promise.all([getSets(master.game||albumGame),getAll("ownedCopies")]);
+    const masterLanguage=master.catalogLanguage||albumLanguage;
+    const [allSets,copies]=await Promise.all([getSets(master.game||albumGame,false,master.game==="pokemon"?masterLanguage:null),getAll("ownedCopies")]);
     const setById=new Map(allSets.map(x=>[String(x.id),x])),components=master.components||[],loaded=[];
     for(const component of components){
       const set=component.sourceSetId?setById.get(String(component.sourceSetId)):null;
       if(!set){loaded.push({component,set:null,cards:[],error:"Set sorgente non disponibile"});continue}
-      try{loaded.push({component,set,cards:await getSetCards(master.game||albumGame,set),error:null})}
+      try{loaded.push({component,set,cards:await getSetCards(master.game||albumGame,set,false,master.game==="pokemon"?masterLanguage:null),error:null})}
       catch(e){loaded.push({component,set,cards:[],error:e.message})}
     }
     const cards=loaded.flatMap(x=>x.cards.map(card=>Object.assign({},card,{_masterComponentId:x.component.id,_masterComponentName:x.component.name})));
@@ -198,7 +201,7 @@ async function openCustomMasterSet(master){
 async function openSet(set){
   const panel=$("#setDetail"),root=$("#setsList");root.hidden=true;panel.hidden=false;panel.innerHTML='<div class="notice">Caricamento master set…</div>';
   try{
-    const cards=await getSetCards(albumGame,set),copies=await getAll("ownedCopies"),ownedSet=new Set(copies.map(x=>x.printingId));
+    const cards=await getSetCards(albumGame,set,false,albumGame==="pokemon"?albumLanguage:null),copies=await getAll("ownedCopies"),ownedSet=new Set(copies.map(x=>x.printingId));
     const rarities=[...new Set(cards.map(x=>x.rarity).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"it"));
     const hasVariants=cards.some(c=>variantKeys(c).some(v=>v!=="base"));
     panel.innerHTML='<div class="section-head"><div><small id="setProgressText"></small><h2>'+esc(set.name)+'</h2></div><button id="closeSet" class="ghost">Chiudi</button></div><div class="progressbar"><span id="setProgressBar"></span></div><div class="set-tools"><select id="setProgressMode"><option value="number">Progresso per numero</option><option value="variants">Progresso per varianti</option></select><select id="setOwnedFilter"><option value="all">Tutte</option><option value="owned">Ce l’ho</option><option value="missing">Mi manca</option></select><input id="setTextFilter" placeholder="Nome o numero"><select id="setRarityFilter"><option value="">Tutte le rarità</option>'+rarities.map(r=>'<option>'+esc(r)+'</option>').join("")+'</select><select id="setConditionFilter"><option value="">Qualsiasi condizione</option><option>NM</option><option>LP</option><option>MP</option><option>HP</option><option>DAMAGED</option></select><select id="setCurrency"><option value="EUR">Prezzi EUR</option><option value="USD">Prezzi USD</option></select><select id="setSort"><option value="number-asc">Numero ↑</option><option value="number-desc">Numero ↓</option><option value="name-asc">Nome A-Z</option><option value="name-desc">Nome Z-A</option><option value="price-asc">Prezzo ↑</option><option value="price-desc">Prezzo ↓</option></select></div>'+(!hasVariants?'<div id="variantNotice" class="notice" hidden>Per questo set il catalogo corrente non contiene ancora metadati affidabili sulle varianti: il progresso per varianti coincide temporaneamente con quello per numero.</div>':"")+'<div id="setCardsGrid" class="cards-grid"></div>';
@@ -228,7 +231,7 @@ async function openSet(set){
 async function renderCollection(){
   const rows=await getAll("ownedCopies"),stats=await collectionStats();
   $("#collectionStats").innerHTML='<div class="stat"><b>'+stats.unique+'</b><small>stampe</small></div><div class="stat"><b>'+stats.copies+'</b><small>copie</small></div><div class="stat"><b>'+stats.pokemon+'/'+stats.yugioh+'</b><small>PKM / YGO</small></div>';
-  $("#collectionList").innerHTML=rows.map(r=>{const card=encodeURIComponent(JSON.stringify(r));return '<article class="card-row" data-card="'+card+'">'+(r.image?'<img src="'+esc(r.image)+'" alt="">':"")+'<div><h3>'+esc(r.name)+'</h3><p>'+esc(r.collectionNumber)+' • '+esc(r.setName)+'</p><span class="badge owned">'+esc(r.condition)+'</span></div><button data-remove="'+esc(r.id)+'" aria-label="Rimuovi copia">×</button></article>'}).join("")||'<div class="notice">La collezione è vuota.</div>';
+  $("#collectionList").innerHTML=rows.map(r=>{const card=encodeURIComponent(JSON.stringify(r));return '<article class="card-row" data-card="'+card+'">'+(r.image?'<img src="'+esc(r.image)+'" alt="">':"")+'<div><h3>'+esc(r.name)+'</h3><p>'+esc(r.collectionNumber)+' • '+esc(r.setName)+(r.game==="pokemon"?' • '+esc(languageLabel(r.language||"it")):"")+'</p><span class="badge owned">'+esc(r.condition)+'</span></div><button data-remove="'+esc(r.id)+'" aria-label="Rimuovi copia">×</button></article>'}).join("")||'<div class="notice">La collezione è vuota.</div>';
   bindCards($("#collectionList"));$("[data-remove]").forEach(b=>b.onclick=async e=>{e.stopPropagation();await removeCopy(b.dataset.remove);renderCollection()});
 }
 function bindCards(root=document){root.querySelectorAll("[data-card]").forEach(el=>el.onclick=()=>openCard(JSON.parse(decodeURIComponent(el.dataset.card))))}
@@ -247,14 +250,15 @@ async function boot(){
   await openDB();$("#dbStatus").textContent="database locale pronto";const freshness=await loadDatabaseFreshness();
   $$(".bottom-nav button").forEach(b=>b.onclick=()=>go(b.dataset.view));$$("[data-go]").forEach(b=>b.onclick=()=>go(b.dataset.go));
   $$(".game-btn").forEach(b=>b.onclick=()=>{$$(".game-btn").forEach(x=>x.classList.remove("active"));b.classList.add("active");$("#searchGame").value=b.dataset.game});
-  $$(".album-game").forEach(b=>b.onclick=()=>{$$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;$("#setDetail").hidden=true;renderSets()});
-  let timer;$("#searchInput").addEventListener("input",()=>{clearTimeout(timer);timer=setTimeout(doSearch,220)});$("#searchGame").onchange=doSearch;$("#searchOwned").onchange=doSearch;$("#searchSort").onchange=doSearch;$("#searchCurrency").onchange=doSearch;$("#searchCondition").onchange=doSearch;$("#searchSet").oninput=doSearch;$("#searchRarity").oninput=doSearch;$("#refreshSets").onclick=()=>renderSets(true);
+  $(".album-game").forEach(b=>b.onclick=()=>{$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;$("#albumPokemonLanguage").parentElement.hidden=albumGame!=="pokemon";$("#setDetail").hidden=true;renderSets()});
+  let timer;$("#searchInput").addEventListener("input",()=>{clearTimeout(timer);timer=setTimeout(doSearch,220)});$("#searchGame").onchange=doSearch;$("#searchLanguage").onchange=doSearch;$("#searchOwned").onchange=doSearch;$("#searchSort").onchange=doSearch;$("#searchCurrency").onchange=doSearch;$("#searchCondition").onchange=doSearch;$("#searchSet").oninput=doSearch;$("#searchRarity").oninput=doSearch;$("#refreshSets").onclick=()=>renderSets(true);
   $("#searchResults").addEventListener("click",e=>{const el=e.target.closest("[data-card]");if(el)openCard(JSON.parse(decodeURIComponent(el.dataset.card)))});
   $("#cardDialog [data-close]").onclick=()=>$("#cardDialog").close();
   $("#exportBtn").onclick=downloadBackup;$("#exportAllBtn").onclick=downloadBackup;$("#historyBtn").onclick=()=>go("history");
   $("#importFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;try{await importBackup(JSON.parse(await f.text()));alert("Backup importato correttamente.");location.reload()}catch(err){alert("Backup non valido: "+err.message)}};
   $("#clearCacheBtn").onclick=async()=>{await clear("catalogCache");alert("Cache catalogo svuotata.")};
-  $("#pokemonLanguage").value=await setting("pokemonLanguage","it");$("#pokemonLanguage").onchange=e=>setSetting("pokemonLanguage",e.target.value);
+  albumLanguage=await setting("albumPokemonLanguage",await setting("pokemonLanguage","it"));$("#albumPokemonLanguage").value=albumLanguage;$("#albumPokemonLanguage").onchange=async e=>{albumLanguage=e.target.value;await setSetting("albumPokemonLanguage",albumLanguage);$("#setDetail").hidden=true;renderSets()};
+  $("#pokemonLanguage").value=await setting("pokemonLanguage","it");$("#pokemonLanguage").onchange=async e=>{await setSetting("pokemonLanguage",e.target.value);albumLanguage=e.target.value;$("#albumPokemonLanguage").value=albumLanguage;await setSetting("albumPokemonLanguage",albumLanguage)};
   $("#autoCapture").checked=await setting("autoCapture",true);$("#autoCapture").onchange=e=>setSetting("autoCapture",e.target.checked);
   $("#versionInfo").innerHTML="App "+APP_VERSION+" • DB "+DATABASE_VERSION+" • Grading "+GRADING_ALGORITHM_VERSION+" • Price engine "+PRICE_ENGINE_VERSION+"<br>Pokémon aggiornato: "+(freshness.pokemon&&freshness.pokemon.updatedAt?new Date(freshness.pokemon.updatedAt).toLocaleString("it-IT"):"dato non disponibile")+"<br>Yu-Gi-Oh! aggiornato: "+(freshness.yugioh&&freshness.yugioh.updatedAt?new Date(freshness.yugioh.updatedAt).toLocaleString("it-IT"):"dato non disponibile");
   initScanner({onCardIdentified:openCard});
