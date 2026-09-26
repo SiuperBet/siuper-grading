@@ -1,3 +1,4 @@
+# GitHub Pages is configured to deploy from GitHub Actions.
 name: Deploy GitHub Pages
 
 on:
