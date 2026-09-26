@@ -35,6 +35,7 @@ jobs:
       - name: Commit only real changes
         shell: bash
         run: |
+          git restore --worktree data/validation-report.json 2>/dev/null || true
           if git diff --quiet; then
             echo "No changes"
             exit 0
