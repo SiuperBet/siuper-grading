@@ -45,6 +45,24 @@
         </select>
       </div>
       <div id="searchHint" class="notice">Scrivi almeno 2 caratteri, oppure un numero/codice carta.</div>
+      <details class="settings-card" id="customPrintingPanel">
+        <summary>Stampa non trovata / OCG</summary>
+        <p class="notice">Usa questa se la stampa esatta non è presente nelle fonti. Viene salvata solo nella tua collezione e non viene inventata nel catalogo globale.</p>
+        <div class="filters">
+          <select id="customGame"><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh!</option></select>
+          <select id="customLanguage"><option value="it">Italiano</option><option value="en">English</option><option value="ja">日本語 / JP</option><option value="zh-tw">中文繁體</option><option value="zh-cn">中文简体</option><option value="ocg-jp">Yu-Gi-Oh! OCG JP</option><option value="ocg-zh">Yu-Gi-Oh! OCG CN</option></select>
+          <input id="customName" placeholder="Nome carta *">
+          <input id="customSetName" placeholder="Set / espansione / pack">
+          <input id="customCode" placeholder="Numero o codice stampa *">
+          <input id="customRarity" placeholder="Rarità">
+          <input id="customVariant" placeholder="Variante: normal, holo, reverse…">
+          <select id="customCondition"><option>NM</option><option>LP</option><option>MP</option><option>HP</option><option>DAMAGED</option></select>
+          <input id="customImageUrl" type="url" placeholder="URL immagine esatta (opzionale)">
+          <textarea id="customNotes" placeholder="Note"></textarea>
+        </div>
+        <button id="addCustomPrinting" class="primary">Aggiungi stampa alla collezione</button>
+        <div id="customPrintingStatus"></div>
+      </details>
       <div id="searchResults" class="card-list"></div>
     </section>
     <section id="view-album" class="view">
