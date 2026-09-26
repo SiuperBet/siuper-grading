@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pokemon:en:miscp-001",
+    "cardId": "miscp-001",
+    "printingId": "pokemon:en:miscp-001",
+    "game": "pokemon",
+    "name": "Ancient Mew",
+    "number": "001",
+    "collectionNumber": "001",
+    "setId": "miscp",
+    "setCode": "miscp",
+    "setName": "Miscellaneous Promos",
+    "series": "Miscellaneous",
+    "rarity": "",
+    "printedTotal": 1,
+    "releaseDate": "1996-01-01",
+    "image": "",
+    "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
+    "source": "TCGdex",
+    "updatedAt": "2026-09-26T11:27:00.203Z"
+  }
+]
