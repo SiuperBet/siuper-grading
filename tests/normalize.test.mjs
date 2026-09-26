@@ -38,3 +38,7 @@ test("LOB-001 e LOB-EN001 hanno alias storico compatibile",()=>{
   const c={name:"Blue-Eyes White Dragon",collectionNumber:"LOB-EN001",setCode:"LOB-EN001"};
   assert.ok(scoreMatch(c,"LOB-001")>=90);
 });
+
+test("mantiene nomi giapponesi",()=>{assert.equal(normalizeName("ピカチュウ"),"ピカチュウ")});
+test("mantiene nomi cinesi",()=>{assert.equal(normalizeName("皮卡丘"),"皮卡丘")});
+test("ricerca esatta nome giapponese",()=>{const c={name:"ピカチュウ",collectionNumber:"001",setCode:"x"};assert.ok(scoreMatch(c,"ピカチュウ")>=85)});
