@@ -34,14 +34,18 @@ async function initPwaUpdater(){
     if(refreshing)return;refreshing=true;location.reload();
   });
   const reg=await navigator.serviceWorker.register("./service-worker.js",{updateViaCache:"none"});
-  const inspect=()=>{
-    if(reg.waiting&&navigator.serviceWorker.controller)showUpdateBanner(reg.waiting);
+  const canAutoReload=()=>!document.querySelector("dialog[open]")&&!(getScannerState().captures&&getScannerState().captures.front);
+  const applyWaiting=worker=>{
+    if(!worker||!navigator.serviceWorker.controller)return;
+    if(canAutoReload())worker.postMessage({type:"SKIP_WAITING"});
+    else showUpdateBanner(worker);
   };
+  const inspect=()=>applyWaiting(reg.waiting);
   inspect();
   reg.addEventListener("updatefound",()=>{
     const worker=reg.installing;if(!worker)return;
     worker.addEventListener("statechange",()=>{
-      if(worker.state==="installed"&&navigator.serviceWorker.controller)showUpdateBanner(worker);
+      if(worker.state==="installed"&&navigator.serviceWorker.controller)applyWaiting(worker);
     });
   });
   const check=()=>reg.update().catch(()=>{});
