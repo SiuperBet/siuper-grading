@@ -39,6 +39,10 @@ function cardBrief(c,set,language){
     printedTotal:set.cardCount&&set.cardCount.official||null,
     releaseDate:set.releaseDate||"",
     image:c.image?c.image+"/low.webp":"",imageHigh:c.image?c.image+"/high.webp":"",
+    variants:c.variants&&typeof c.variants==="object"?c.variants:{},
+    variantsDetailed:c.variants_detailed&&typeof c.variants_detailed==="object"?c.variants_detailed:null,
+    category:c.category||"",artist:c.illustrator||c.artist||"",types:Array.isArray(c.types)?c.types:[],
+    hp:c.hp??null,stage:c.stage||"",dexId:Array.isArray(c.dexId)?c.dexId:[],regulationMark:c.regulationMark||"",
     language,catalogLanguage:language,source:"TCGdex",updatedAt:now
   };
 }
