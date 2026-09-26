@@ -17,21 +17,32 @@ async function staticJson(path){try{const r=await fetch(path,{cache:"no-cache"})
 export{normalizePokemonBrief,normalizeYgoPrinting};
 function pokemonDir(language="it"){return language==="it"?"pokemon":"pokemon-"+language}
 function supportedPokemonLanguage(language){return Object.prototype.hasOwnProperty.call(POKEMON_LANGUAGES,language)}
+let ygoOcgPromise;
+async function ygoOcgData(){
+  if(!ygoOcgPromise)ygoOcgPromise=staticJson("./data/yugioh/ocg-aliases.json").then(x=>x&&x.aliases?x.aliases:{});
+  return ygoOcgPromise;
+}
+function decorateYgoOcg(card,aliases){
+  if(!card||card.game!=="yugioh")return card;const a=aliases&&aliases[String(card.cardId)]||null;if(!a)return card;
+  const names=[a.jpName,a.jpRuby,a.zhName,a.scName,a.cnocgName,a.masterDuelName,a.enName].filter(Boolean);
+  return Object.assign({},card,{aliases:[...new Set(names)],jpName:a.jpName||"",jpRuby:a.jpRuby||"",zhName:a.zhName||"",scName:a.scName||"",ocgCid:a.cid??null,ocgRelease:a.release||null});
+}
 let indexPromise;
 export async function getSearchIndex(){
   if(!indexPromise)indexPromise=(async()=>{
-    const [it,en,ja,zhtw,zhcn,yugioh,legacy]=await Promise.all([
+    const [it,en,ja,zhtw,zhcn,yugioh,ocg,legacy]=await Promise.all([
       staticJson("./data/pokemon/search-index.json"),
       staticJson("./data/pokemon-en/search-index.json"),
       staticJson("./data/pokemon-ja/search-index.json"),
       staticJson("./data/pokemon-zh-tw/search-index.json"),
       staticJson("./data/pokemon-zh-cn/search-index.json"),
       staticJson("./data/yugioh/search-index.json"),
+      ygoOcgData(),
       staticJson("./data/search-index.json")
     ]);
     const merged=[it,en,ja,zhtw,zhcn].flatMap(x=>Array.isArray(x)?x:[]);
-    const pokemon=[...new Map(merged.map(x=>[x.printingId,x])).values()];
-    const rows=[...pokemon,...(Array.isArray(yugioh)?yugioh:[])];
+    const pokemon=[...new Map(merged.map(x=>[x.printingId,x])).values()],ygoRows=(Array.isArray(yugioh)?yugioh:[]).map(x=>decorateYgoOcg(x,ocg));
+    const rows=[...pokemon,...ygoRows];
     if(rows.length)return rows;
     return Array.isArray(legacy)?legacy:[];
   })();
@@ -105,10 +116,10 @@ export async function getSetCards(game,set,force=false,language=null){
     return data.cards.map(c=>normalizePokemonBrief(c,displaySet,actualLanguage));
   }
   const local=await staticJson("./data/"+game+"/cards/"+encodeURIComponent(set.id)+".json");
-  if(Array.isArray(local)&&local.length)return local;
+  if(Array.isArray(local)&&local.length){const ocg=await ygoOcgData();return local.map(x=>decorateYgoOcg(x,ocg))}
   const data=await json(SOURCES.yugioh.base+"/cardinfo.php?cardset="+encodeURIComponent(set.name),{force:force,ttl:7*86400000});
   const out=[];
-  for(const card of(data.data||[]))for(const printing of(card.card_sets||[]).filter(x=>x.set_name===set.name))out.push(normalizeYgoPrinting(card,printing));
+  const ocg=await ygoOcgData();for(const card of(data.data||[]))for(const printing of(card.card_sets||[]).filter(x=>x.set_name===set.name))out.push(decorateYgoOcg(normalizeYgoPrinting(card,printing),ocg));
   return out;
 }
 export async function getCardDetail(card){
@@ -119,6 +130,7 @@ export async function getCardDetail(card){
       return normalizePokemonBrief(c,c.set,lang);
     }catch(e){return decoratePokemonImages(card,null,card.catalogLanguage||card.language||"it")}
   }
+  if(card.game==="yugioh")return decorateYgoOcg(card,await ygoOcgData());
   return card;
 }
 export function sortCards(cards,mode){
