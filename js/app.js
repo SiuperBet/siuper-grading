@@ -259,7 +259,7 @@ async function renderCollection(){
   const rows=await getAll("ownedCopies"),stats=await collectionStats();
   $("#collectionStats").innerHTML='<div class="stat"><b>'+stats.unique+'</b><small>stampe</small></div><div class="stat"><b>'+stats.copies+'</b><small>copie</small></div><div class="stat"><b>'+stats.pokemon+'/'+stats.yugioh+'</b><small>PKM / YGO</small></div>';
   $("#collectionList").innerHTML=rows.map(r=>{const card=encodeURIComponent(JSON.stringify(r));return '<article class="card-row" data-card="'+card+'">'+cardImage(r)+'<div><h3>'+esc(r.name)+'</h3><p>'+esc(r.collectionNumber)+' • '+esc(r.setName)+(r.game==="pokemon"?' • '+esc(languageLabel(r.language||"it")):"")+'</p><span class="badge owned">'+esc(r.condition)+'</span></div><button data-remove="'+esc(r.id)+'" aria-label="Rimuovi copia">×</button></article>'}).join("")||'<div class="notice">La collezione è vuota.</div>';
-  bindCards($("#collectionList"));$("[data-remove]").forEach(b=>b.onclick=async e=>{e.stopPropagation();await removeCopy(b.dataset.remove);renderCollection()});
+  bindCards($("#collectionList"));$$("[data-remove]").forEach(b=>b.onclick=async e=>{e.stopPropagation();await removeCopy(b.dataset.remove);renderCollection()});
 }
 function bindCards(root=document){root.querySelectorAll("[data-card]").forEach(el=>el.onclick=()=>openCard(JSON.parse(decodeURIComponent(el.dataset.card))))}
 async function downloadBackup(){
@@ -278,7 +278,7 @@ async function boot(){
   await openDB();$("#dbStatus").textContent="database locale pronto";const freshness=await loadDatabaseFreshness();
   $$(".bottom-nav button").forEach(b=>b.onclick=()=>go(b.dataset.view));$$("[data-go]").forEach(b=>b.onclick=()=>go(b.dataset.go));
   $$(".game-btn").forEach(b=>b.onclick=()=>{$$(".game-btn").forEach(x=>x.classList.remove("active"));b.classList.add("active");$("#searchGame").value=b.dataset.game});
-  $(".album-game").forEach(b=>b.onclick=()=>{$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;const al=$("#albumPokemonLanguage");if(al&&al.parentElement)al.parentElement.hidden=albumGame!=="pokemon";$("#setDetail").hidden=true;renderSets()});
+  $$(".album-game").forEach(b=>b.onclick=()=>{$$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;const al=$("#albumPokemonLanguage");if(al&&al.parentElement)al.parentElement.hidden=albumGame!=="pokemon";$("#setDetail").hidden=true;renderSets()});
   let timer;$("#searchInput").addEventListener("input",()=>{clearTimeout(timer);timer=setTimeout(doSearch,220)});$("#searchGame").onchange=doSearch;const searchLanguage=$("#searchLanguage");if(searchLanguage)searchLanguage.onchange=doSearch;$("#searchOwned").onchange=doSearch;$("#searchSort").onchange=doSearch;$("#searchCurrency").onchange=doSearch;$("#searchCondition").onchange=doSearch;$("#searchSet").oninput=doSearch;$("#searchRarity").oninput=doSearch;$("#refreshSets").onclick=()=>renderSets(true);
   $("#searchResults").addEventListener("click",e=>{const el=e.target.closest("[data-card]");if(el)openCard(JSON.parse(decodeURIComponent(el.dataset.card)))});
   $("#cardDialog [data-close]").onclick=()=>$("#cardDialog").close();
