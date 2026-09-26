@@ -13,7 +13,34 @@ let albumGame="pokemon",albumLanguage="it",deferredInstall=null;
 
 function esc(s=""){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
 function languageLabel(lang=""){return({it:"IT",en:"EN",ja:"JP","zh-tw":"ZH-TW","zh-cn":"ZH-CN"})[lang]||String(lang||"").toUpperCase()}
-function cardImage(card,cls=""){return card.image?'<img class="'+cls+'" loading="lazy" src="'+esc(card.image)+'" alt="">':'<div class="img-placeholder '+cls+'"></div>'}
+function imageCandidates(card,quality="low"){
+  const raw=Array.isArray(card&&card.imageCandidates)?card.imageCandidates:[];
+  const rows=raw.map(x=>({url:quality==="high"?(x.high||x.low):(x.low||x.high),reference:Boolean(x.reference),label:x.label||""})).filter(x=>x.url);
+  if(!rows.length&&card){const url=quality==="high"?(card.imageHigh||card.image):(card.image||card.imageHigh);if(url)rows.push({url,reference:false,label:""})}
+  return rows;
+}
+function cardImage(card,cls="",quality="low"){
+  const rows=imageCandidates(card,quality);
+  if(!rows.length)return '<div class="img-placeholder '+cls+'"><span>Immagine non disponibile</span></div>';
+  return '<img class="'+cls+'" loading="lazy" src="'+esc(rows[0].url)+'" data-image-candidates="'+encodeURIComponent(JSON.stringify(rows))+'" data-image-index="0" alt="'+esc(card&&card.name||"Carta")+'">';
+}
+function initImageFallbacks(){
+  if(window.__siuperImageFallbacks)return;window.__siuperImageFallbacks=true;
+  document.addEventListener("error",e=>{
+    const img=e.target;if(!(img instanceof HTMLImageElement)||!img.dataset.imageCandidates)return;
+    let rows=[];try{rows=JSON.parse(decodeURIComponent(img.dataset.imageCandidates))}catch{}
+    const next=Number(img.dataset.imageIndex||0)+1;
+    if(next<rows.length){img.dataset.imageIndex=String(next);img.src=rows[next].url;return}
+    const ph=document.createElement("div");ph.className="img-placeholder "+(img.className||"");ph.innerHTML="<span>Immagine non disponibile</span>";img.replaceWith(ph);
+  },true);
+  document.addEventListener("load",e=>{
+    const img=e.target;if(!(img instanceof HTMLImageElement)||!img.dataset.imageCandidates)return;
+    let rows=[];try{rows=JSON.parse(decodeURIComponent(img.dataset.imageCandidates))}catch{}
+    const row=rows[Number(img.dataset.imageIndex||0)];if(!row||!row.reference)return;
+    const host=img.closest(".grid-card,.card-row")||img.parentElement;if(!host||host.querySelector(".image-ref-label"))return;
+    const badge=document.createElement("span");badge.className="image-ref-label";badge.textContent=row.label||"IMMAGINE RIF.";host.appendChild(badge);
+  },true);
+}
 export function go(view){
   $$(".view").forEach(v=>v.classList.toggle("active",v.id==="view-"+view));
   $$(".bottom-nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===view));
@@ -33,7 +60,7 @@ async function doSearch(){
   if(query.length<2&&!/\d/.test(query)){root.innerHTML="";$("#searchHint").textContent="Scrivi almeno 2 caratteri, oppure un numero/codice carta.";return}
   $("#searchHint").textContent="Ricerca…";
   try{
-    const game=$("#searchGame").value,language=$("#searchLanguage").value,ownedCopies=await getAll("ownedCopies"),owned=new Set(ownedCopies.map(x=>x.printingId)),ownFilter=$("#searchOwned").value;
+    const game=$("#searchGame").value,language=$("#searchLanguage")?$("#searchLanguage").value:"all",ownedCopies=await getAll("ownedCopies"),owned=new Set(ownedCopies.map(x=>x.printingId)),ownFilter=$("#searchOwned").value;
     let rows=await searchCards(query,{game:game,language:language});
     if(ownFilter==="owned")rows=rows.filter(x=>owned.has(x.printingId));
     if(ownFilter==="missing")rows=rows.filter(x=>!owned.has(x.printingId));
@@ -99,7 +126,7 @@ async function openCard(card){
     ["DEF",detail.def==null?"":detail.def]
   ].filter(x=>x[1]!==""&&x[1]!=null).map(x=>'<div class="metric"><span>'+esc(x[0])+'</span><b>'+esc(x[1])+'</b></div>').join("");
   const gradesHtml=cardGrades.length?'<h3>Grading salvati</h3>'+cardGrades.slice(0,5).map(g=>'<div class="metric"><span>'+new Date(g.createdAt).toLocaleDateString("it-IT")+' • '+esc(g.gradingAlgorithmVersion)+'</span><b>'+g.finalGrade+'/10 • '+g.confidence+'%</b></div>').join("")+'<button id="openHistoryFromCard">Apri storico grading</button>':"";
-  $("#cardDialogBody").innerHTML=(detail.imageHigh||detail.image?'<img class="detail-image" src="'+esc(detail.imageHigh||detail.image)+'" alt="">':"")+'<h2>'+esc(detail.name)+'</h2>'+metadata+'<p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button><button id="scanThisCard">Scanner</button>'+scannerAction+'</div>'+copiesEditor(copies)+gradesHtml+'<h3>Prezzi osservati</h3>'+priceHtml+(observedReference?'<h3>Storico prezzo</h3><div class="scanner-actions"><button data-price-days="7">7 giorni</button><button data-price-days="30">30 giorni</button><button data-price-days="90">90 giorni</button><button data-price-days="365">1 anno</button></div><canvas id="priceHistoryChart" hidden></canvas><div id="priceHistoryInfo" class="notice">Caricamento storico…</div>':"")+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"")+marketSearchLinks(detail);
+  $("#cardDialogBody").innerHTML=cardImage(detail,"detail-image","high")+'<h2>'+esc(detail.name)+'</h2>'+metadata+'<p>Copie possedute: <b>'+copies.length+'</b></p><div class="scanner-actions"><button id="addCopyDialog" class="primary">+ Aggiungi copia</button><button id="scanThisCard">Scanner</button>'+scannerAction+'</div>'+copiesEditor(copies)+gradesHtml+'<h3>Prezzi osservati</h3>'+priceHtml+(observedReference?'<h3>Storico prezzo</h3><div class="scanner-actions"><button data-price-days="7">7 giorni</button><button data-price-days="30">30 giorni</button><button data-price-days="90">90 giorni</button><button data-price-days="365">1 anno</button></div><canvas id="priceHistoryChart" hidden></canvas><div id="priceHistoryInfo" class="notice">Caricamento storico…</div>':"")+(estimate?'<h3>STIMA PER CONDIZIONE</h3><div class="notice">Intervalli derivati da '+esc(observedReference.source)+' '+esc(observedReference.priceType)+' nella stessa valuta. Sono stime configurabili, NON vendite osservate per condizione.</div>'+estimate:"")+marketSearchLinks(detail);
   $("#addCopyDialog").onclick=async()=>{await addCopy(card);await openCard(card)};
   $("#scanThisCard").onclick=()=>{setRecognizedCard(card);$("#cardDialog").close();go("scanner")};
   if(observedReference){
@@ -231,7 +258,7 @@ async function openSet(set){
 async function renderCollection(){
   const rows=await getAll("ownedCopies"),stats=await collectionStats();
   $("#collectionStats").innerHTML='<div class="stat"><b>'+stats.unique+'</b><small>stampe</small></div><div class="stat"><b>'+stats.copies+'</b><small>copie</small></div><div class="stat"><b>'+stats.pokemon+'/'+stats.yugioh+'</b><small>PKM / YGO</small></div>';
-  $("#collectionList").innerHTML=rows.map(r=>{const card=encodeURIComponent(JSON.stringify(r));return '<article class="card-row" data-card="'+card+'">'+(r.image?'<img src="'+esc(r.image)+'" alt="">':"")+'<div><h3>'+esc(r.name)+'</h3><p>'+esc(r.collectionNumber)+' • '+esc(r.setName)+(r.game==="pokemon"?' • '+esc(languageLabel(r.language||"it")):"")+'</p><span class="badge owned">'+esc(r.condition)+'</span></div><button data-remove="'+esc(r.id)+'" aria-label="Rimuovi copia">×</button></article>'}).join("")||'<div class="notice">La collezione è vuota.</div>';
+  $("#collectionList").innerHTML=rows.map(r=>{const card=encodeURIComponent(JSON.stringify(r));return '<article class="card-row" data-card="'+card+'">'+cardImage(r)+'<div><h3>'+esc(r.name)+'</h3><p>'+esc(r.collectionNumber)+' • '+esc(r.setName)+(r.game==="pokemon"?' • '+esc(languageLabel(r.language||"it")):"")+'</p><span class="badge owned">'+esc(r.condition)+'</span></div><button data-remove="'+esc(r.id)+'" aria-label="Rimuovi copia">×</button></article>'}).join("")||'<div class="notice">La collezione è vuota.</div>';
   bindCards($("#collectionList"));$("[data-remove]").forEach(b=>b.onclick=async e=>{e.stopPropagation();await removeCopy(b.dataset.remove);renderCollection()});
 }
 function bindCards(root=document){root.querySelectorAll("[data-card]").forEach(el=>el.onclick=()=>openCard(JSON.parse(decodeURIComponent(el.dataset.card))))}
@@ -247,18 +274,19 @@ async function loadDatabaseFreshness(){
   return{pokemon:p,yugioh:y};
 }
 async function boot(){
+  initImageFallbacks();
   await openDB();$("#dbStatus").textContent="database locale pronto";const freshness=await loadDatabaseFreshness();
   $$(".bottom-nav button").forEach(b=>b.onclick=()=>go(b.dataset.view));$$("[data-go]").forEach(b=>b.onclick=()=>go(b.dataset.go));
   $$(".game-btn").forEach(b=>b.onclick=()=>{$$(".game-btn").forEach(x=>x.classList.remove("active"));b.classList.add("active");$("#searchGame").value=b.dataset.game});
-  $(".album-game").forEach(b=>b.onclick=()=>{$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;$("#albumPokemonLanguage").parentElement.hidden=albumGame!=="pokemon";$("#setDetail").hidden=true;renderSets()});
-  let timer;$("#searchInput").addEventListener("input",()=>{clearTimeout(timer);timer=setTimeout(doSearch,220)});$("#searchGame").onchange=doSearch;$("#searchLanguage").onchange=doSearch;$("#searchOwned").onchange=doSearch;$("#searchSort").onchange=doSearch;$("#searchCurrency").onchange=doSearch;$("#searchCondition").onchange=doSearch;$("#searchSet").oninput=doSearch;$("#searchRarity").oninput=doSearch;$("#refreshSets").onclick=()=>renderSets(true);
+  $(".album-game").forEach(b=>b.onclick=()=>{$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;const al=$("#albumPokemonLanguage");if(al&&al.parentElement)al.parentElement.hidden=albumGame!=="pokemon";$("#setDetail").hidden=true;renderSets()});
+  let timer;$("#searchInput").addEventListener("input",()=>{clearTimeout(timer);timer=setTimeout(doSearch,220)});$("#searchGame").onchange=doSearch;const searchLanguage=$("#searchLanguage");if(searchLanguage)searchLanguage.onchange=doSearch;$("#searchOwned").onchange=doSearch;$("#searchSort").onchange=doSearch;$("#searchCurrency").onchange=doSearch;$("#searchCondition").onchange=doSearch;$("#searchSet").oninput=doSearch;$("#searchRarity").oninput=doSearch;$("#refreshSets").onclick=()=>renderSets(true);
   $("#searchResults").addEventListener("click",e=>{const el=e.target.closest("[data-card]");if(el)openCard(JSON.parse(decodeURIComponent(el.dataset.card)))});
   $("#cardDialog [data-close]").onclick=()=>$("#cardDialog").close();
   $("#exportBtn").onclick=downloadBackup;$("#exportAllBtn").onclick=downloadBackup;$("#historyBtn").onclick=()=>go("history");
   $("#importFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;try{await importBackup(JSON.parse(await f.text()));alert("Backup importato correttamente.");location.reload()}catch(err){alert("Backup non valido: "+err.message)}};
   $("#clearCacheBtn").onclick=async()=>{await clear("catalogCache");alert("Cache catalogo svuotata.")};
-  albumLanguage=await setting("albumPokemonLanguage",await setting("pokemonLanguage","it"));$("#albumPokemonLanguage").value=albumLanguage;$("#albumPokemonLanguage").onchange=async e=>{albumLanguage=e.target.value;await setSetting("albumPokemonLanguage",albumLanguage);$("#setDetail").hidden=true;renderSets()};
-  $("#pokemonLanguage").value=await setting("pokemonLanguage","it");$("#pokemonLanguage").onchange=async e=>{await setSetting("pokemonLanguage",e.target.value);albumLanguage=e.target.value;$("#albumPokemonLanguage").value=albumLanguage;await setSetting("albumPokemonLanguage",albumLanguage)};
+  albumLanguage=await setting("albumPokemonLanguage",await setting("pokemonLanguage","it"));const albumLanguageEl=$("#albumPokemonLanguage");if(albumLanguageEl){albumLanguageEl.value=albumLanguage;albumLanguageEl.onchange=async e=>{albumLanguage=e.target.value;await setSetting("albumPokemonLanguage",albumLanguage);$("#setDetail").hidden=true;renderSets()}};
+  const pokemonLanguageEl=$("#pokemonLanguage");if(pokemonLanguageEl){pokemonLanguageEl.value=await setting("pokemonLanguage","it");pokemonLanguageEl.onchange=async e=>{await setSetting("pokemonLanguage",e.target.value);albumLanguage=e.target.value;if(albumLanguageEl)albumLanguageEl.value=albumLanguage;await setSetting("albumPokemonLanguage",albumLanguage)}};
   $("#autoCapture").checked=await setting("autoCapture",true);$("#autoCapture").onchange=e=>setSetting("autoCapture",e.target.checked);
   $("#versionInfo").innerHTML="App "+APP_VERSION+" • DB "+DATABASE_VERSION+" • Grading "+GRADING_ALGORITHM_VERSION+" • Price engine "+PRICE_ENGINE_VERSION+"<br>Pokémon aggiornato: "+(freshness.pokemon&&freshness.pokemon.updatedAt?new Date(freshness.pokemon.updatedAt).toLocaleString("it-IT"):"dato non disponibile")+"<br>Yu-Gi-Oh! aggiornato: "+(freshness.yugioh&&freshness.yugioh.updatedAt?new Date(freshness.yugioh.updatedAt).toLocaleString("it-IT"):"dato non disponibile");
   initScanner({onCardIdentified:openCard});
