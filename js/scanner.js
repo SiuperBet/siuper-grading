@@ -6,14 +6,14 @@ import{CONDITION_ESTIMATES}from"./config.js";
 import{getPricesForCard,reliability}from"./prices.js";
 import{addCopy}from"./collection.js";
 
-const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,stableFrames:0,lastQuality:null,borderConfidence:0,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
+const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,stableFrames:0,lastQuality:null,borderConfidence:0,detectedValid:false,captureBorderConfidence:0,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
 const $=s=>document.querySelector(s);
 function clamp(v,a,b){return Math.max(a,Math.min(b,v))}
 function dist(a,b){return Math.hypot(a.x-b.x,a.y-b.y)}
 function cloneCanvas(source){const c=document.createElement("canvas");c.width=source.width;c.height=source.height;c.getContext("2d").drawImage(source,0,0);return c}
 function canvasBlob(canvas,type="image/jpeg",quality=.91){return new Promise(resolve=>canvas.toBlob(resolve,type,quality))}
 function imageFromBlob(blob){return new Promise((resolve,reject)=>{const img=new Image();img.onload=()=>{URL.revokeObjectURL(img.src);resolve(img)};img.onerror=reject;img.src=URL.createObjectURL(blob)})}
-function defaultCorners(img){const mx=img.width*.12,my=img.height*.08;return[{x:mx,y:my},{x:img.width-mx,y:my},{x:img.width-mx,y:img.height-my},{x:mx,y:img.height-my}]}
+function defaultCorners(img){let w=img.width*.68,h=w*1.4;if(h>img.height*.74){h=img.height*.74;w=h/1.4}const x=(img.width-w)/2,y=(img.height-h)/2;return[{x:x,y:y},{x:x+w,y:y},{x:x+w,y:y+h},{x:x,y:y+h}]}
 
 function frameQuality(canvas){
   const ctx=canvas.getContext("2d",{willReadFrequently:true}),im=ctx.getImageData(0,0,canvas.width,canvas.height),d=im.data,w=canvas.width,h=canvas.height;
@@ -27,23 +27,47 @@ function frameQuality(canvas){
   const good=brightness>48&&brightness<218&&blur>45&&glare<.075&&motion<8.5;
   return {brightness:brightness,blur:blur,glare:glare,motion:motion,good:good};
 }
+function quadAngleScore(pts){
+  let total=0;
+  for(let i=0;i<4;i++){const p=pts[i],a=pts[(i+3)%4],b=pts[(i+1)%4],ax=a.x-p.x,ay=a.y-p.y,bx=b.x-p.x,by=b.y-p.y,den=Math.hypot(ax,ay)*Math.hypot(bx,by)||1,cos=Math.abs((ax*bx+ay*by)/den);total+=1-clamp(cos/.38,0,1)}
+  return total/4;
+}
+function quadEdgeScore(edges,pts){
+  let total=0,n=0;
+  for(let e=0;e<4;e++){const a=pts[e],b=pts[(e+1)%4];for(let i=1;i<20;i++){const t=i/20,x=Math.round(a.x+(b.x-a.x)*t),y=Math.round(a.y+(b.y-a.y)*t);let best=0;for(let oy=-2;oy<=2;oy++)for(let ox=-2;ox<=2;ox++){const xx=x+ox,yy=y+oy;if(xx>=0&&yy>=0&&xx<edges.cols&&yy<edges.rows)best=Math.max(best,edges.ucharPtr(yy,xx)[0])}total+=best/255;n++}}
+  return n?total/n:0;
+}
+function isUsableQuad(q,minConfidence=62){return!!(q&&q.aspect>.56&&q.aspect<.82&&q.areaRatio>.11&&q.areaRatio<.91&&!q.clipped&&q.confidence>=minConfidence)}
 function detectQuadCV(canvas){
   if(!window.cv||!window.cv.imread)return null;
   let src,gray,blur,edges,contours,hierarchy;
   try{
     src=cv.imread(canvas);gray=new cv.Mat();blur=new cv.Mat();edges=new cv.Mat();contours=new cv.MatVector();hierarchy=new cv.Mat();
-    cv.cvtColor(src,gray,cv.COLOR_RGBA2GRAY);cv.GaussianBlur(gray,blur,new cv.Size(5,5),0);cv.Canny(blur,edges,60,150);cv.findContours(edges,contours,hierarchy,cv.RETR_EXTERNAL,cv.CHAIN_APPROX_SIMPLE);
-    let best=null,bestArea=0,total=canvas.width*canvas.height;
-    for(let i=0;i<contours.size();i++){const cnt=contours.get(i),peri=cv.arcLength(cnt,true),approx=new cv.Mat();cv.approxPolyDP(cnt,approx,.025*peri,true);const area=Math.abs(cv.contourArea(approx));
-      if(approx.rows===4&&area>total*.12&&area>bestArea&&cv.isContourConvex(approx)){const pts=[];for(let j=0;j<4;j++)pts.push({x:approx.intPtr(j,0)[0],y:approx.intPtr(j,0)[1]});best=orderQuad(pts);bestArea=area}approx.delete();cnt.delete();}
-    if(!best)return null;
-    const top=dist(best[0],best[1]),bottom=dist(best[3],best[2]),left=dist(best[0],best[3]),right=dist(best[1],best[2]);
-    const ww=(top+bottom)/2,hh=(left+right)/2,aspect=Math.min(ww,hh)/Math.max(ww,hh),areaRatio=bestArea/total;
-    const clipped=best.some(p=>p.x<canvas.width*.018||p.x>canvas.width*.982||p.y<canvas.height*.018||p.y>canvas.height*.982);
-    const aspectScore=clamp(1-Math.abs(aspect-(2.5/3.5))/.22,0,1);
-    const sizeScore=areaRatio<.16?0:areaRatio>.88?0:clamp(1-Math.abs(areaRatio-.48)/.48,0,1);
-    return {points:best,aspect:aspect,areaRatio:areaRatio,clipped:clipped,confidence:Math.round(100*(aspectScore*.55+sizeScore*.35+(clipped?0:.10)))};
+    cv.cvtColor(src,gray,cv.COLOR_RGBA2GRAY);cv.GaussianBlur(gray,blur,new cv.Size(5,5),0);cv.Canny(blur,edges,45,145);cv.findContours(edges,contours,hierarchy,cv.RETR_LIST,cv.CHAIN_APPROX_SIMPLE);
+    let best=null,bestScore=-1,total=canvas.width*canvas.height;
+    for(let i=0;i<contours.size();i++){
+      const cnt=contours.get(i),area0=Math.abs(cv.contourArea(cnt));if(area0<total*.10||area0>total*.94){cnt.delete();continue}
+      const peri=cv.arcLength(cnt,true);let chosen=null;
+      for(const eps of[.012,.018,.025,.035]){const approx=new cv.Mat();cv.approxPolyDP(cnt,approx,eps*peri,true);if(approx.rows===4&&cv.isContourConvex(approx)){chosen=approx;break}approx.delete()}
+      if(!chosen){cnt.delete();continue}
+      const pts=[];for(let j=0;j<4;j++)pts.push({x:chosen.intPtr(j,0)[0],y:chosen.intPtr(j,0)[1]});
+      const q=orderQuad(pts),area=Math.abs(cv.contourArea(chosen));chosen.delete();cnt.delete();if(!q)continue;
+      const top=dist(q[0],q[1]),bottom=dist(q[3],q[2]),left=dist(q[0],q[3]),right=dist(q[1],q[2]),ww=(top+bottom)/2,hh=(left+right)/2,aspect=Math.min(ww,hh)/Math.max(ww,hh),areaRatio=area/total;
+      if(aspect<.50||aspect>.88||areaRatio<.10||areaRatio>.94)continue;
+      const clipped=q.some(p=>p.x<canvas.width*.015||p.x>canvas.width*.985||p.y<canvas.height*.015||p.y>canvas.height*.985);
+      const cx=q.reduce((a,p)=>a+p.x,0)/4,cy=q.reduce((a,p)=>a+p.y,0)/4,centerDist=Math.hypot((cx-canvas.width/2)/(canvas.width/2),(cy-canvas.height/2)/(canvas.height/2));
+      const aspectScore=clamp(1-Math.abs(aspect-(2.5/3.5))/.19,0,1),angleScore=quadAngleScore(q),oppositeScore=(clamp(Math.min(top,bottom)/Math.max(top,bottom),0,1)+clamp(Math.min(left,right)/Math.max(left,right),0,1))/2,centerScore=clamp(1-centerDist/.95,0,1),sizeScore=clamp(1-Math.abs(areaRatio-.48)/.48,0,1),edgeScore=quadEdgeScore(edges,q);
+      let score=aspectScore*.24+angleScore*.18+oppositeScore*.10+centerScore*.12+sizeScore*.10+edgeScore*.26;if(clipped)score*=.56;
+      const confidence=Math.round(score*100);
+      if(score>bestScore){bestScore=score;best={points:q,aspect,areaRatio,clipped,confidence,edgeScore:Math.round(edgeScore*100)}}
+    }
+    return best;
   }catch(e){return null}finally{for(const m of[src,gray,blur,edges,contours,hierarchy])if(m&&m.delete)try{m.delete()}catch(e){}}
+}
+function detectImageQuad(img,minConfidence=64){
+  const maxSide=1200,scale=Math.min(1,maxSide/Math.max(img.width,img.height)),c=document.createElement("canvas");c.width=Math.max(1,Math.round(img.width*scale));c.height=Math.max(1,Math.round(img.height*scale));c.getContext("2d").drawImage(img,0,0,c.width,c.height);
+  const q=detectQuadCV(c);if(!isUsableQuad(q,minConfidence))return null;
+  return{points:q.points.map(p=>({x:p.x/scale,y:p.y/scale})),confidence:q.confidence,aspect:q.aspect,areaRatio:q.areaRatio};
 }
 function orderQuad(pts){
   if(!pts||pts.length!==4)return null;
@@ -56,12 +80,14 @@ async function analysisTick(){
   const video=$("#cameraVideo");if(video.readyState<2){state.timer=setTimeout(analysisTick,500);return}
   const c=$("#analysisCanvas"),w=260,h=Math.max(160,Math.round(w*video.videoHeight/video.videoWidth));c.width=w;c.height=h;c.getContext("2d").drawImage(video,0,0,w,h);
   const q=frameQuality(c);state.lastQuality=q;
-  const quad=detectQuadCV(c),shapeOk=quad&&quad.aspect>.54&&quad.aspect<.84&&quad.areaRatio>.16&&quad.areaRatio<.88&&!quad.clipped;
-  if(quad){state.detectedCorners=quad.points.map(p=>({x:p.x/w,y:p.y/h}));state.borderConfidence=quad.confidence}else{state.detectedCorners=null;state.borderConfidence=0}
+  const quad=detectQuadCV(c),shapeOk=isUsableQuad(quad,62);
+  state.borderConfidence=quad?quad.confidence:0;state.detectedValid=shapeOk;
+  if(shapeOk)state.detectedCorners=quad.points.map(p=>({x:p.x/w,y:p.y/h}));else state.detectedCorners=null
   if(q.good&&shapeOk)state.stableFrames++;else state.stableFrames=0;
   const hints=[];
   if(!quad)hints.push("carta/bordi non rilevati");
   else{
+    if(quad.confidence<62)hints.push("bordi incerti: correggi i 4 punti");
     if(quad.areaRatio<=.16)hints.push("avvicina la carta");
     if(quad.areaRatio>=.88)hints.push("allontana la carta");
     if(quad.aspect<=.54||quad.aspect>=.84)hints.push("proporzioni/bordi da correggere");
@@ -90,9 +116,9 @@ async function captureFromVideo(auto=false){
   if(state.busy||!state.stream)return;state.busy=true;
   try{
     const v=$("#cameraVideo"),scale=Math.min(1,1600/v.videoWidth),c=document.createElement("canvas");c.width=Math.round(v.videoWidth*scale);c.height=Math.round(v.videoHeight*scale);c.getContext("2d").drawImage(v,0,0,c.width,c.height);
-    const blob=await canvasBlob(c);const img=await imageFromBlob(blob);
-    let corners=state.detectedCorners?state.detectedCorners.map(p=>({x:p.x*img.width,y:p.y*img.height})):defaultCorners(img);
-    openEditor(img,corners,blob,auto);
+    const blob=await canvasBlob(c);const img=await imageFromBlob(blob),fullQuad=detectQuadCV(c);
+    let corners,confidence=0;if(isUsableQuad(fullQuad,66)){corners=fullQuad.points;confidence=fullQuad.confidence}else if(state.detectedValid&&state.detectedCorners&&state.borderConfidence>=66){corners=state.detectedCorners.map(p=>({x:p.x*img.width,y:p.y*img.height}));confidence=state.borderConfidence}else corners=defaultCorners(img);
+    openEditor(img,corners,blob,auto,confidence);
   }finally{state.busy=false}
 }
 function viewTransform(){
@@ -106,10 +132,10 @@ function drawEditor(){
   const pts=state.corners.map(toScreen);ctx.strokeStyle="#22d3ee";ctx.lineWidth=4;ctx.beginPath();ctx.moveTo(pts[0].x,pts[0].y);for(let i=1;i<4;i++)ctx.lineTo(pts[i].x,pts[i].y);ctx.closePath();ctx.stroke();
   pts.forEach((p,i)=>{ctx.fillStyle="#8b5cf6";ctx.beginPath();ctx.arc(p.x,p.y,15,0,Math.PI*2);ctx.fill();ctx.fillStyle="white";ctx.font="bold 15px sans-serif";ctx.fillText(String(i+1),p.x-4,p.y+5)});
 }
-function openEditor(img,corners,blob,auto){
-  state.original=img;state.corners=orderQuad(corners)||defaultCorners(img);state.originalBlob=blob;state.zoom=1;state.panX=0;state.panY=0;
+function openEditor(img,corners,blob,auto,borderConfidence=0){
+  state.original=img;state.corners=orderQuad(corners)||defaultCorners(img);state.originalBlob=blob;state.captureBorderConfidence=borderConfidence;state.zoom=1;state.panX=0;state.panY=0;
   const c=$("#editorCanvas");c.width=800;c.height=900;$("#editorZoom").value="1";$("#borderEditor").hidden=false;$("#correctedPanel").hidden=true;drawEditor();
-  $("#scanQuality").textContent=auto?"Scatto automatico eseguito. Verifica i 4 punti.":"Foto acquisita. Verifica i 4 punti.";
+  $("#scanQuality").textContent=borderConfidence>=66?(auto?"Scatto automatico: bordi rilevati con confidenza "+borderConfidence+"%. Verifica i 4 punti.":"Bordi rilevati con confidenza "+borderConfidence+"%. Verifica i 4 punti."):"Bordi automatici non abbastanza sicuri: regola i 4 punti sulla carta.";
 }
 function solveLinear(A,b){
   const n=b.length;
@@ -136,7 +162,7 @@ async function confirmCorners(){
   $("#confirmCornersBtn").disabled=true;$("#confirmCornersBtn").textContent="Raddrizzamento…";
   try{
     const corrected=perspectiveWarp(state.original,state.corners),copy=cloneCanvas(corrected),correctedBlob=await canvasBlob(copy);
-    const scanId="scan:"+crypto.randomUUID(),row={id:scanId,side:state.currentSide,createdAt:new Date().toISOString(),originalBlob:state.originalBlob,correctedBlob:correctedBlob,corners:state.corners.map(p=>({x:Math.round(p.x),y:Math.round(p.y)})),borderDetectionConfidence:state.detectedCorners?state.borderConfidence:0};
+    const scanId="scan:"+crypto.randomUUID(),row={id:scanId,side:state.currentSide,createdAt:new Date().toISOString(),originalBlob:state.originalBlob,correctedBlob:correctedBlob,corners:state.corners.map(p=>({x:Math.round(p.x),y:Math.round(p.y)})),borderDetectionConfidence:state.captureBorderConfidence||0};
     await put("scans",row);state.captures[state.currentSide]={scanId:scanId,canvas:copy,corners:row.corners,quality:state.lastQuality};
     $("#borderEditor").hidden=true;$("#correctedPanel").hidden=false;renderCurrentSide();updateCaptureStatus();
     if(state.currentSide==="front"&&!state.captures.back)$("#scanQuality").textContent="Fronte pronto. Puoi acquisire il retro o continuare solo con il fronte.";
@@ -219,9 +245,9 @@ export function initScanner(options={}){
   state.onCardIdentified=options.onCardIdentified||null;
   $("#startCameraBtn").onclick=()=>startCamera().catch(()=>{});
   $("#stopCameraBtn").onclick=stopCamera;$("#captureBtn").onclick=()=>captureFromVideo(false);
-  $("#photoFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;const img=await imageFromBlob(f);openEditor(img,defaultCorners(img),f,false)};
+  $("#photoFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;const img=await imageFromBlob(f),q=detectImageQuad(img,64);openEditor(img,q?q.points:defaultCorners(img),f,false,q?q.confidence:0)};
   $("#editorZoom").oninput=e=>{state.zoom=Number(e.target.value);drawEditor()};
-  $("#resetCornersBtn").onclick=()=>{state.corners=defaultCorners(state.original);state.zoom=1;state.panX=0;state.panY=0;$("#editorZoom").value="1";drawEditor()};
+  $("#resetCornersBtn").onclick=()=>{const q=detectImageQuad(state.original,60);state.corners=q?q.points:defaultCorners(state.original);state.captureBorderConfidence=q?q.confidence:0;state.zoom=1;state.panX=0;state.panY=0;$("#editorZoom").value="1";drawEditor()};
   $("#confirmCornersBtn").onclick=confirmCorners;$("#sideFrontBtn").onclick=()=>selectSide("front");$("#sideBackBtn").onclick=()=>selectSide("back");
   $("#ocrBtn").onclick=doRecognition;$("#gradeBtn").onclick=doGrading;
   const canvas=$("#editorCanvas");
