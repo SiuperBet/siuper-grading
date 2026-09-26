@@ -12,7 +12,24 @@ const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 let albumGame="pokemon",albumLanguage="it",deferredInstall=null;
 
 function esc(s=""){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
-function languageLabel(lang=""){return({it:"IT",en:"EN",ja:"JP","zh-tw":"ZH-TW","zh-cn":"ZH-CN"})[lang]||String(lang||"").toUpperCase()}
+function languageLabel(lang=""){return({it:"IT",en:"EN",ja:"JP","zh-tw":"ZH-TW","zh-cn":"ZH-CN","ocg-jp":"OCG JP","ocg-zh":"OCG CN"})[lang]||String(lang||"").toUpperCase()}
+function stableHash(value=""){
+  let h=2166136261;for(const ch of String(value)){h^=ch.charCodeAt(0);h=Math.imul(h,16777619)}return(h>>>0).toString(36);
+}
+function customCardFromForm(){
+  const game=$("#customGame").value,language=$("#customLanguage").value,name=$("#customName").value.trim(),setName=$("#customSetName").value.trim(),code=$("#customCode").value.trim(),rarity=$("#customRarity").value.trim(),variant=$("#customVariant").value.trim(),image=$("#customImageUrl").value.trim();
+  if(!name||!code)throw new Error("Nome e numero/codice stampa sono obbligatori.");
+  const key=[game,language,name,setName,code,rarity].join("|").toLowerCase(),printingId="custom:"+game+":"+language+":"+stableHash(key);
+  return{id:printingId,cardId:printingId,printingId,game,name,number:code,collectionNumber:code,setId:"custom:"+stableHash(setName||"unknown"),setCode:code,setName:setName||"Stampa personalizzata",rarity,language,catalogLanguage:language,variant,image,imageHigh:image,imageCandidates:image?[{low:image,high:image,language,reference:false,label:"PERSONALE"}]:[],source:"Manuale verificata dall’utente",customPrinting:true};
+}
+async function addCustomPrinting(){
+  const status=$("#customPrintingStatus");
+  try{
+    const card=customCardFromForm(),condition=$("#customCondition").value,variant=$("#customVariant").value.trim(),notes=$("#customNotes").value.trim();
+    await addCopy(card,{condition,language:card.language,variant,notes});
+    status.innerHTML='<div class="notice">✓ Stampa aggiunta alla collezione come voce personale. Non viene propagata al catalogo globale.</div>';
+  }catch(e){status.innerHTML='<div class="notice">'+esc(e.message)+'</div>'}
+}
 function showUpdateBanner(worker){
   let banner=document.querySelector("#appUpdateBanner");
   if(!banner){
@@ -319,7 +336,7 @@ async function openSet(set){
 async function renderCollection(){
   const rows=await getAll("ownedCopies"),stats=await collectionStats();
   $("#collectionStats").innerHTML='<div class="stat"><b>'+stats.unique+'</b><small>stampe</small></div><div class="stat"><b>'+stats.copies+'</b><small>copie</small></div><div class="stat"><b>'+stats.pokemon+'/'+stats.yugioh+'</b><small>PKM / YGO</small></div>';
-  $("#collectionList").innerHTML=rows.map(r=>{const card=encodeURIComponent(JSON.stringify(r));return '<article class="card-row" data-card="'+card+'">'+cardImage(r)+'<div><h3>'+esc(r.name)+'</h3><p>'+esc(r.collectionNumber)+' • '+esc(r.setName)+(r.game==="pokemon"?' • '+esc(languageLabel(r.language||"it")):"")+'</p><span class="badge owned">'+esc(r.condition)+'</span></div><button data-remove="'+esc(r.id)+'" aria-label="Rimuovi copia">×</button></article>'}).join("")||'<div class="notice">La collezione è vuota.</div>';
+  $("#collectionList").innerHTML=rows.map(r=>{const card=encodeURIComponent(JSON.stringify(r));return '<article class="card-row" data-card="'+card+'">'+cardImage(r)+'<div><h3>'+esc(r.name)+'</h3><p>'+esc(r.collectionNumber)+' • '+esc(r.setName)+(r.language?' • '+esc(languageLabel(r.language)):"")+'</p><span class="badge owned">'+esc(r.condition)+'</span></div><button data-remove="'+esc(r.id)+'" aria-label="Rimuovi copia">×</button></article>'}).join("")||'<div class="notice">La collezione è vuota.</div>';
   bindCards($("#collectionList"));$$("[data-remove]").forEach(b=>b.onclick=async e=>{e.stopPropagation();await removeCopy(b.dataset.remove);renderCollection()});
 }
 function bindCards(root=document){root.querySelectorAll("[data-card]").forEach(el=>el.onclick=()=>openCard(JSON.parse(decodeURIComponent(el.dataset.card))))}
@@ -342,6 +359,7 @@ async function boot(){
   $$(".album-game").forEach(b=>b.onclick=()=>{$$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;const al=$("#albumPokemonLanguage");if(al&&al.parentElement)al.parentElement.hidden=albumGame!=="pokemon";$("#setDetail").hidden=true;renderSets()});
   let timer;$("#searchInput").addEventListener("input",()=>{clearTimeout(timer);timer=setTimeout(doSearch,220)});$("#searchGame").onchange=doSearch;const searchLanguage=$("#searchLanguage");if(searchLanguage)searchLanguage.onchange=doSearch;$("#searchOwned").onchange=doSearch;$("#searchSort").onchange=doSearch;$("#searchCurrency").onchange=doSearch;$("#searchCondition").onchange=doSearch;$("#searchSet").oninput=doSearch;$("#searchRarity").oninput=doSearch;$("#refreshSets").onclick=()=>renderSets(true);
   $("#searchResults").addEventListener("click",e=>{const el=e.target.closest("[data-card]");if(el)openCard(JSON.parse(decodeURIComponent(el.dataset.card)))});
+  const addCustom=$("#addCustomPrinting");if(addCustom)addCustom.onclick=addCustomPrinting;
   $("#cardDialog [data-close]").onclick=()=>$("#cardDialog").close();
   $("#exportBtn").onclick=downloadBackup;$("#exportAllBtn").onclick=downloadBackup;$("#historyBtn").onclick=()=>go("history");
   $("#importFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;try{await importBackup(JSON.parse(await f.text()));alert("Backup importato correttamente.");location.reload()}catch(err){alert("Backup non valido: "+err.message)}};
