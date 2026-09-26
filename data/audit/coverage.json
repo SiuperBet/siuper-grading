@@ -1,0 +1,819 @@
+{
+  "generatedAt": "2026-09-26T16:37:02.759Z",
+  "catalogs": [
+    {
+      "name": "pokemon-it",
+      "updatedAt": "2026-09-26T16:33:12.619Z",
+      "sets": 193,
+      "cards": 21647,
+      "primaryImages": 20090,
+      "primaryImageCoverage": 0.9280731741118862,
+      "variantMetadata": 0,
+      "variantCoverage": 0,
+      "emptySets": [
+        {
+          "id": "wp",
+          "name": "Carte Promo Wizards",
+          "declared": 7
+        }
+      ]
+    },
+    {
+      "name": "pokemon-en",
+      "updatedAt": "2026-09-26T16:33:12.619Z",
+      "sets": 220,
+      "cards": 23736,
+      "primaryImages": 21987,
+      "primaryImageCoverage": 0.926314459049545,
+      "variantMetadata": 0,
+      "variantCoverage": 0,
+      "emptySets": [
+        {
+          "id": "rc",
+          "name": "Radiant Collection",
+          "declared": 25
+        },
+        {
+          "id": "sp",
+          "name": "Sample",
+          "declared": 10
+        },
+        {
+          "id": "jumbo",
+          "name": "Jumbo cards",
+          "declared": 160
+        },
+        {
+          "id": "wp",
+          "name": "W Promotional",
+          "declared": 7
+        }
+      ]
+    },
+    {
+      "name": "pokemon-ja",
+      "updatedAt": "2026-09-26T16:33:12.619Z",
+      "sets": 184,
+      "cards": 12781,
+      "primaryImages": 3882,
+      "primaryImageCoverage": 0.30373210233941006,
+      "variantMetadata": 0,
+      "variantCoverage": 0,
+      "emptySets": [
+        {
+          "id": "CS2b",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS2.5",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS4",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS1.5",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS3.5",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS3b",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS2a",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS3a",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS4a",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS1a",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS1b",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS4b",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CSA",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS3D",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS4Da",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "S10b",
+          "name": "Pokémon GO",
+          "declared": 71
+        },
+        {
+          "id": "S10D",
+          "name": "タイムゲイザー",
+          "declared": 67
+        },
+        {
+          "id": "S8a",
+          "name": "25th アニバーサリーコレクション",
+          "declared": 28
+        },
+        {
+          "id": "S7R",
+          "name": "蒼空ストリーム",
+          "declared": 67
+        },
+        {
+          "id": "S6a",
+          "name": "イーブイヒーローズ",
+          "declared": 69
+        },
+        {
+          "id": "S5a",
+          "name": "双璧のファイター",
+          "declared": 70
+        },
+        {
+          "id": "S5R",
+          "name": "連撃マスター",
+          "declared": 70
+        },
+        {
+          "id": "S4a",
+          "name": "シャイニースターV",
+          "declared": 190
+        },
+        {
+          "id": "S4",
+          "name": "仰天のボルテッカー",
+          "declared": 100
+        },
+        {
+          "id": "S3a",
+          "name": "伝説の鼓動",
+          "declared": 76
+        },
+        {
+          "id": "S3",
+          "name": "ムゲンゾーン",
+          "declared": 100
+        },
+        {
+          "id": "S2a",
+          "name": "爆炎ウォーカー",
+          "declared": 70
+        },
+        {
+          "id": "S2",
+          "name": "反逆クラッシュ",
+          "declared": 96
+        },
+        {
+          "id": "S1a",
+          "name": "VMAXライジング",
+          "declared": 70
+        },
+        {
+          "id": "S1H",
+          "name": "シールド",
+          "declared": 60
+        },
+        {
+          "id": "S1W",
+          "name": "ソード",
+          "declared": 60
+        },
+        {
+          "id": "SMP2",
+          "name": "名探偵ピカチュウ",
+          "declared": 24
+        },
+        {
+          "id": "SM5+",
+          "name": "ウルトラフォース",
+          "declared": 50
+        },
+        {
+          "id": "SM4+",
+          "name": "GXバトルブースト",
+          "declared": 114
+        },
+        {
+          "id": "SM3+",
+          "name": "ひかる伝説",
+          "declared": 72
+        },
+        {
+          "id": "sm2+",
+          "name": "新たなる試練の向こう",
+          "declared": 49
+        },
+        {
+          "id": "SM1+",
+          "name": "サン＆ムーン",
+          "declared": 51
+        },
+        {
+          "id": "SM0",
+          "name": "ピカチュウと新しい仲間たち",
+          "declared": 4
+        },
+        {
+          "id": "CP6",
+          "name": "ポケットモンスターカードゲーム 拡張パック 20th Anniversary",
+          "declared": 87
+        },
+        {
+          "id": "CP5",
+          "name": "冷酷の反逆者",
+          "declared": 36
+        },
+        {
+          "id": "XY11b",
+          "name": "冷酷の反逆者",
+          "declared": 54
+        },
+        {
+          "id": "XY11a",
+          "name": "爆熱の闘士",
+          "declared": 54
+        },
+        {
+          "id": "CP4",
+          "name": "プレミアムチャンピオンパック EX×M×BREAK",
+          "declared": 131
+        },
+        {
+          "id": "XY10",
+          "name": "めざめる超王",
+          "declared": 78
+        },
+        {
+          "id": "CP3",
+          "name": "ポケキュンコレクション",
+          "declared": 32
+        },
+        {
+          "id": "XY9",
+          "name": "破天の怒り",
+          "declared": 80
+        },
+        {
+          "id": "XY8b",
+          "name": "赤い閃光",
+          "declared": 59
+        },
+        {
+          "id": "XY8a",
+          "name": "青い衝撃",
+          "declared": 59
+        },
+        {
+          "id": "XY7",
+          "name": "バンデットリング",
+          "declared": 81
+        },
+        {
+          "id": "XY6",
+          "name": "エメラルドブレイク",
+          "declared": 78
+        },
+        {
+          "id": "XY5a",
+          "name": "ガイアボルケーノ",
+          "declared": 70
+        },
+        {
+          "id": "XY5b",
+          "name": "タイダルストーム",
+          "declared": 70
+        },
+        {
+          "id": "XY4",
+          "name": "ファントムゲート",
+          "declared": 88
+        },
+        {
+          "id": "XY3",
+          "name": "ライジングフィスト",
+          "declared": 96
+        },
+        {
+          "id": "XY2",
+          "name": "ワイルドブレイズ",
+          "declared": 80
+        },
+        {
+          "id": "XY1a",
+          "name": "コレクションX",
+          "declared": 60
+        },
+        {
+          "id": "XY1b",
+          "name": "コレクションY",
+          "declared": 60
+        },
+        {
+          "id": "L3",
+          "name": "頂上大激突",
+          "declared": 70
+        },
+        {
+          "id": "LL",
+          "name": "強化パック ロストリンク",
+          "declared": 40
+        },
+        {
+          "id": "L2",
+          "name": "よみがえる伝説",
+          "declared": 70
+        },
+        {
+          "id": "L1b",
+          "name": "ソウルシルバーコレクション",
+          "declared": 70
+        },
+        {
+          "id": "L1a",
+          "name": "ハートゴールドコレクション",
+          "declared": 70
+        },
+        {
+          "id": "PCG10",
+          "name": "ワールドチャンピオンズパック",
+          "declared": 108
+        },
+        {
+          "id": "ADV5",
+          "name": "とかれた封印",
+          "declared": 83
+        },
+        {
+          "id": "ADV4",
+          "name": "強化拡張パックex1マグマVSアクア ふたつの野望",
+          "declared": 80
+        },
+        {
+          "id": "ADV3",
+          "name": "天空の覇者",
+          "declared": 54
+        },
+        {
+          "id": "ADV2",
+          "name": "砂漠のきせき",
+          "declared": 53
+        },
+        {
+          "id": "ADV1",
+          "name": "拡張パック",
+          "declared": 55
+        }
+      ]
+    },
+    {
+      "name": "pokemon-zh-tw",
+      "updatedAt": "2026-09-26T16:33:12.619Z",
+      "sets": 98,
+      "cards": 7436,
+      "primaryImages": 2146,
+      "primaryImageCoverage": 0.28859601936525014,
+      "variantMetadata": 0,
+      "variantCoverage": 0,
+      "emptySets": [
+        {
+          "id": "CS2b",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS2.5",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS4",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS1.5",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS3.5",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS3b",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS2a",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS3a",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS4a",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS1a",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS1b",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS4b",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CSA",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS3D",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS4Da",
+          "name": "三連音爆",
+          "declared": 101
+        }
+      ]
+    },
+    {
+      "name": "pokemon-zh-cn",
+      "updatedAt": "2026-09-26T16:33:12.619Z",
+      "sets": 57,
+      "cards": 877,
+      "primaryImages": 0,
+      "primaryImageCoverage": 0,
+      "variantMetadata": 0,
+      "variantCoverage": 0,
+      "emptySets": [
+        {
+          "id": "CSV9.5C",
+          "name": "太晶盛聚",
+          "declared": 208
+        },
+        {
+          "id": "CSV9C",
+          "name": "星彩晶璃",
+          "declared": 208
+        },
+        {
+          "id": "CBB5C",
+          "name": "宝石包 Vol.5",
+          "declared": 7
+        },
+        {
+          "id": "CSV8C",
+          "name": "璀璨诡幻",
+          "declared": 207
+        },
+        {
+          "id": "CBB4C",
+          "name": "宝石包 Vol.4",
+          "declared": 7
+        },
+        {
+          "id": "CSV7C",
+          "name": "利刃猛醒",
+          "declared": 204
+        },
+        {
+          "id": "CSV6C",
+          "name": "真实玄虚",
+          "declared": 128
+        },
+        {
+          "id": "CBB3C",
+          "name": "宝石包Vol.3",
+          "declared": 7
+        },
+        {
+          "id": "CSV5C",
+          "name": "黑晶炽诚",
+          "declared": 129
+        },
+        {
+          "id": "CSV4C",
+          "name": "嘉奖回合",
+          "declared": 129
+        },
+        {
+          "id": "CBB2C",
+          "name": "宝石包Vol.2",
+          "declared": 15
+        },
+        {
+          "id": "CSV3C",
+          "name": "无畏太晶",
+          "declared": 130
+        },
+        {
+          "id": "CSV2C",
+          "name": "奇迹启程",
+          "declared": 128
+        },
+        {
+          "id": "CSV1C",
+          "name": "亘古开来",
+          "declared": 127
+        },
+        {
+          "id": "CSV1C",
+          "name": "亘古开来",
+          "declared": 127
+        },
+        {
+          "id": "CS6.5C",
+          "name": "胜象星引",
+          "declared": 72
+        },
+        {
+          "id": "CS6aC",
+          "name": "碧海暗影 啸",
+          "declared": 131
+        },
+        {
+          "id": "CS6bC",
+          "name": "碧海暗影 逐",
+          "declared": 131
+        },
+        {
+          "id": "CS5.5C",
+          "name": "暗影夺辉",
+          "declared": 66
+        },
+        {
+          "id": "CS5bC",
+          "name": "勇魅群星 勇",
+          "declared": 128
+        },
+        {
+          "id": "CS5aC",
+          "name": "勇魅群星 魅",
+          "declared": 127
+        },
+        {
+          "id": "CS4.5C",
+          "name": "终末炎舞",
+          "declared": 63
+        },
+        {
+          "id": "CS4aC",
+          "name": "九彩汇聚 朋",
+          "declared": 132
+        },
+        {
+          "id": "CS4bC",
+          "name": "九彩汇聚 源",
+          "declared": 132
+        },
+        {
+          "id": "CS3.5C",
+          "name": "怒炎灼天",
+          "declared": 66
+        },
+        {
+          "id": "CS3bC",
+          "name": "洪荒演武 激",
+          "declared": 122
+        },
+        {
+          "id": "CS3aC",
+          "name": "洪荒演武 茂",
+          "declared": 125
+        },
+        {
+          "id": "CS2.5C",
+          "name": "璀璨反击",
+          "declared": 59
+        },
+        {
+          "id": "CS2bC",
+          "name": "浓墨重彩 靛",
+          "declared": 115
+        },
+        {
+          "id": "CS2aC",
+          "name": "浓墨重彩 黎",
+          "declared": 115
+        },
+        {
+          "id": "CS1.5C",
+          "name": "极巨攻防",
+          "declared": 55
+        },
+        {
+          "id": "CS1bC",
+          "name": "极巨争锋 焰",
+          "declared": 136
+        },
+        {
+          "id": "CS1aC",
+          "name": "横空出世 赫",
+          "declared": 135
+        },
+        {
+          "id": "CSM2.5C",
+          "name": "炫奇争胜",
+          "declared": 61
+        },
+        {
+          "id": "csm2.5",
+          "name": "精彩的比赛",
+          "declared": 151
+        },
+        {
+          "id": "CSM2cC",
+          "name": "交相辉映 唤",
+          "declared": 150
+        },
+        {
+          "id": "CSM2aC",
+          "name": "交相辉映 沐",
+          "declared": 150
+        },
+        {
+          "id": "CSM2bC",
+          "name": "交相辉映 魁",
+          "declared": 150
+        },
+        {
+          "id": "csm2c",
+          "name": "闪耀协同效应",
+          "declared": 192
+        },
+        {
+          "id": "csm2b",
+          "name": "闪耀协同效应",
+          "declared": 193
+        },
+        {
+          "id": "csm2a",
+          "name": "闪耀协同效应",
+          "declared": 194
+        },
+        {
+          "id": "CSM1.5C",
+          "name": "对战精英",
+          "declared": 60
+        },
+        {
+          "id": "csm1.5",
+          "name": "战斗精英",
+          "declared": 151
+        },
+        {
+          "id": "csm1b",
+          "name": "风暴涌现",
+          "declared": 204
+        },
+        {
+          "id": "csm1a",
+          "name": "风暴涌现",
+          "declared": 211
+        },
+        {
+          "id": "csm1c",
+          "name": "风暴涌现",
+          "declared": 212
+        },
+        {
+          "id": "CSM1cC",
+          "name": "横空出世 泽",
+          "declared": 151
+        },
+        {
+          "id": "CSM1bC",
+          "name": "横空出世 苍",
+          "declared": 151
+        },
+        {
+          "id": "CSM1aC",
+          "name": "横空出世 赫",
+          "declared": 151
+        }
+      ]
+    },
+    {
+      "name": "yugioh",
+      "updatedAt": "2026-09-26T10:15:50.964Z",
+      "sets": 1036,
+      "cards": 44640,
+      "primaryImages": 44640,
+      "primaryImageCoverage": 1,
+      "variantMetadata": 0,
+      "variantCoverage": 0,
+      "emptySets": [
+        {
+          "id": "ygo-adidas-collaboration-card-1gr76l2",
+          "name": "Adidas collaboration card",
+          "declared": 1
+        },
+        {
+          "id": "ygo-the-lost-art-promotion-2023-d-ivd0uz",
+          "name": "The Lost Art Promotion 2023 D",
+          "declared": 1
+        },
+        {
+          "id": "ygo-kaiba-s-collector-box-6kp4ep",
+          "name": "Kaiba's Collector Box",
+          "declared": 1
+        },
+        {
+          "id": "ygo-yugi-s-collector-box-1ynsslr",
+          "name": "Yugi's Collector Box",
+          "declared": 1
+        },
+        {
+          "id": "ygo-yu-gi-oh-power-of-chaos-yugi-the-destiny-limited-collector-s-edition-12jwk6d",
+          "name": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny Limited Collector's Edition",
+          "declared": 2
+        }
+      ]
+    }
+  ],
+  "yugiohMirroredImages": 44640,
+  "yugiohPrintings": 44640,
+  "pricePoints": 30401,
+  "tcgcsv": {
+    "mappedCards": 18668,
+    "mappedSets": 163,
+    "ambiguousSets": 11,
+    "unmappedSets": 46
+  },
+  "tcgcsvBackfill": null,
+  "customMasterSets": [
+    {
+      "id": "pokemon-30th-celebration",
+      "name": "30th Celebration",
+      "expectedSlots": 199,
+      "components": 3,
+      "explicitSlots": 0
+    }
+  ],
+  "warnings": [
+    "pokemon-it: 1 set senza carte nella fonte corrente",
+    "pokemon-en: 4 set senza carte nella fonte corrente",
+    "pokemon-ja: 68 set senza carte nella fonte corrente",
+    "pokemon-ja: copertura immagini primarie 30.4%",
+    "pokemon-zh-tw: 15 set senza carte nella fonte corrente",
+    "pokemon-zh-tw: copertura immagini primarie 28.9%",
+    "pokemon-zh-cn: 49 set senza carte nella fonte corrente",
+    "pokemon-zh-cn: copertura immagini primarie 0.0%",
+    "yugioh: 5 set senza carte nella fonte corrente",
+    "TCGCSV: 11 set ambigui esclusi automaticamente",
+    "TCGCSV: 46 set non mappati"
+  ]
+}
