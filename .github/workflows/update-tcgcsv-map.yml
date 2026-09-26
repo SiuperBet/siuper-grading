@@ -34,7 +34,7 @@ jobs:
       - name: Commit mapping
         shell: bash
         run: |
-          if git diff --quiet data/prices/tcgcsv-map.json; then
+          if [ -z "$(git status --porcelain -- data/prices/tcgcsv-map.json)" ]; then
             echo "No mapping changes"
             exit 0
           fi
