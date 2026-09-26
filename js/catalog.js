@@ -1,7 +1,7 @@
 import{SOURCES}from"./config.js";
 import{cacheGet,cachePut,setting}from"./db.js";
 import{normalizeSearchQuery,scoreMatch,compareCardNumbers}from"./normalize.js";
-import{pokemonBase,normalizePokemonBrief,normalizePokemonSet,POKEMON_LANGUAGES}from"./data/pokemon-adapter.js";
+import{pokemonBase,normalizePokemonBrief,normalizePokemonSet,decoratePokemonImages,POKEMON_LANGUAGES}from"./data/pokemon-adapter.js";
 import{normalizeYgoPrinting,normalizeYgoSet}from"./data/yugioh-adapter.js";
 
 async function json(url,opts={}){
@@ -43,7 +43,7 @@ export async function searchCards(query,opts={}){
   const game=opts.game||"all",limit=opts.limit||80,language=opts.language||"all",q=normalizeSearchQuery(query);
   if(!q.raw)return[];
   const idx=await getSearchIndex();
-  let results=idx.filter(c=>(game==="all"||c.game===game)&&(language==="all"||c.game!=="pokemon"||c.catalogLanguage===language||c.language===language)).map(c=>Object.assign({},c,{_score:scoreMatch(c,q)})).filter(c=>c._score>0).sort((a,b)=>b._score-a._score).slice(0,limit);
+  let results=idx.filter(c=>(game==="all"||c.game===game)&&(language==="all"||c.game!=="pokemon"||c.catalogLanguage===language||c.language===language)).map(c=>Object.assign({},c,{_score:scoreMatch(c,q)})).filter(c=>c._score>0).sort((a,b)=>b._score-a._score).slice(0,limit).map(c=>c.game==="pokemon"?decoratePokemonImages(c,null,c.catalogLanguage||c.language||"it"):c);
   if(results.length>=Math.min(12,limit))return results;
   const remote=[];
   if(game==="all"||game==="pokemon"){
@@ -79,7 +79,7 @@ export async function getSets(game,force=false,language=null){
   if(game==="pokemon"){
     const lang=language||await setting("pokemonLanguage","it"),safe=supportedPokemonLanguage(lang)?lang:"it",dir=pokemonDir(safe);
     const local=await staticJson("./data/"+dir+"/sets.json");
-    if(Array.isArray(local)&&local.length)return local;
+    if(Array.isArray(local)&&local.length)return local.map(c=>decoratePokemonImages(c,set,safe));
     const sets=await json((await pokemonBase(safe))+"/sets",{force:force,ttl:7*86400000});
     return sets.map(s=>normalizePokemonSet(s,safe));
   }
