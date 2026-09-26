@@ -13,23 +13,42 @@ export async function loadPriceHistory(printingId,reference){
     p.printingId===printingId&&p.source===reference.source&&p.currency===reference.currency&&p.priceType===reference.priceType&&(p.variant||"")===(reference.variant||"")
   );
   const map=new Map();
-  for(const p of rows){const day=p.snapshotDate||String(p.timestamp||"").slice(0,10);if(day)map.set(day,{date:day,value:Number(p.value),source:p.source,currency:p.currency,priceType:p.priceType,variant:p.variant||""})}
+  for(const p of rows){
+    const day=p.snapshotDate||String(p.timestamp||"").slice(0,10);
+    if(day)map.set(day,{date:day,value:Number(p.value),source:p.source,currency:p.currency,priceType:p.priceType,variant:p.variant||""});
+  }
+  const refDay=String(reference.snapshotDate||reference.timestamp||new Date().toISOString()).slice(0,10);
+  if(refDay&&Number.isFinite(Number(reference.value))&&Number(reference.value)>0){
+    map.set(refDay,{date:refDay,value:Number(reference.value),source:reference.source,currency:reference.currency,priceType:reference.priceType,variant:reference.variant||""});
+  }
   return [...map.values()].filter(p=>Number.isFinite(p.value)&&p.value>0).sort((a,b)=>a.date.localeCompare(b.date));
 }
 export function drawPriceHistory(canvas,points,days=30){
   const info=document.querySelector("#priceHistoryInfo"),cut=Date.now()-days*86400000,rows=points.filter(p=>new Date(p.date+"T00:00:00Z").getTime()>=cut);
-  if(rows.length<2){canvas.hidden=true;if(info)info.textContent="Dati storici insufficienti per questo intervallo.";return false}
-  canvas.hidden=false;const ratio=Math.min(2,window.devicePixelRatio||1),cssW=Math.max(300,canvas.parentElement&&canvas.parentElement.clientWidth||320),cssH=190;
+  if(!rows.length){canvas.hidden=true;if(info)info.textContent="Nessun dato storico disponibile per questo intervallo.";return false}
+  canvas.hidden=false;
+  const ratio=Math.min(2,window.devicePixelRatio||1),cssW=Math.max(300,canvas.parentElement&&canvas.parentElement.clientWidth||320),cssH=190;
   canvas.width=Math.round(cssW*ratio);canvas.height=Math.round(cssH*ratio);canvas.style.width=cssW+"px";canvas.style.height=cssH+"px";
   const ctx=canvas.getContext("2d");ctx.scale(ratio,ratio);ctx.clearRect(0,0,cssW,cssH);
-  const pad={l:46,r:12,t:16,b:30},w=cssW-pad.l-pad.r,h=cssH-pad.t-pad.b,min=Math.min(...rows.map(x=>x.value)),max=Math.max(...rows.map(x=>x.value)),span=Math.max(.01,max-min),times=rows.map(x=>new Date(x.date+"T00:00:00Z").getTime()),t0=Math.min(...times),t1=Math.max(...times),ts=Math.max(1,t1-t0);
+  const pad={l:50,r:12,t:16,b:30},w=cssW-pad.l-pad.r,h=cssH-pad.t-pad.b;
+  const values=rows.map(x=>x.value),rawMin=Math.min(...values),rawMax=Math.max(...values);
+  const margin=Math.max(.01,(rawMax-rawMin)*.15,rawMax*.05),min=Math.max(0,rawMin-margin),max=rawMax+margin,span=Math.max(.01,max-min);
+  const times=rows.map(x=>new Date(x.date+"T00:00:00Z").getTime()),t0=Math.min(...times),t1=Math.max(...times),ts=Math.max(1,t1-t0);
   ctx.strokeStyle="#28344a";ctx.fillStyle="#9ca3af";ctx.font="11px sans-serif";ctx.lineWidth=1;
   for(let i=0;i<=4;i++){const y=pad.t+h*i/4;ctx.beginPath();ctx.moveTo(pad.l,y);ctx.lineTo(pad.l+w,y);ctx.stroke();const v=max-span*i/4;ctx.fillText(v.toFixed(2),4,y+4)}
-  ctx.strokeStyle="#22d3ee";ctx.lineWidth=2;ctx.beginPath();
-  rows.forEach((p,i)=>{const x=pad.l+(times[i]-t0)/ts*w,y=pad.t+(max-p.value)/span*h;i?ctx.lineTo(x,y):ctx.moveTo(x,y)});
-  ctx.stroke();
-  ctx.fillStyle="#f8fafc";rows.forEach((p,i)=>{const x=pad.l+(times[i]-t0)/ts*w,y=pad.t+(max-p.value)/span*h;ctx.beginPath();ctx.arc(x,y,2.5,0,Math.PI*2);ctx.fill()});
-  ctx.fillStyle="#9ca3af";ctx.fillText(rows[0].date,pad.l,cssH-8);const last=rows[rows.length-1].date;ctx.fillText(last,Math.max(pad.l,cssW-75),cssH-8);
-  if(info)info.textContent=rows.length+" snapshot • "+rows[0].source+" "+rows[0].priceType+" • "+rows[0].currency+(rows[0].variant?" • "+rows[0].variant:"");
+  const xy=rows.map((p,i)=>({x:rows.length===1?pad.l+w/2:pad.l+(times[i]-t0)/ts*w,y:pad.t+(max-p.value)/span*h}));
+  if(rows.length>1){
+    ctx.strokeStyle="#22d3ee";ctx.lineWidth=2;ctx.beginPath();
+    xy.forEach((p,i)=>{i?ctx.lineTo(p.x,p.y):ctx.moveTo(p.x,p.y)});ctx.stroke();
+  }
+  ctx.fillStyle="#f8fafc";xy.forEach(p=>{ctx.beginPath();ctx.arc(p.x,p.y,rows.length===1?4:2.8,0,Math.PI*2);ctx.fill()});
+  ctx.fillStyle="#9ca3af";
+  if(rows.length===1){const label=rows[0].date;ctx.fillText(label,Math.max(pad.l,xy[0].x-28),cssH-8)}
+  else{ctx.fillText(rows[0].date,pad.l,cssH-8);const last=rows[rows.length-1].date;ctx.fillText(last,Math.max(pad.l,cssW-75),cssH-8)}
+  if(info){
+    info.textContent=rows.length===1
+      ?"1 rilevazione disponibile • il grafico crescerà automaticamente con i prossimi aggiornamenti • "+rows[0].source+" "+rows[0].priceType+" • "+rows[0].currency+(rows[0].variant?" • "+rows[0].variant:"")
+      :rows.length+" rilevazioni • "+rows[0].source+" "+rows[0].priceType+" • "+rows[0].currency+(rows[0].variant?" • "+rows[0].variant:"");
+  }
   return true;
 }
