@@ -1,4 +1,4 @@
-export const APP_VERSION="0.1.0";
+export const APP_VERSION="0.1.1";
 export const DATABASE_VERSION=1;
 export const GRADING_ALGORITHM_VERSION="0.2.0";
 export const PRICE_ENGINE_VERSION="0.1.0";
