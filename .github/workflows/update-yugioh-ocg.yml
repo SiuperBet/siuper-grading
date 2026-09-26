@@ -1,0 +1,47 @@
+name: Update Yu-Gi-Oh OCG metadata
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/update-yugioh-ocg.yml"
+      - "scripts/update-yugioh-ocg.mjs"
+  schedule:
+    - cron: "11 5 * * 3"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-yugioh-ocg
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+      - run: command -v unzip >/dev/null || sudo apt-get install -y unzip
+      - run: npm run update:yugioh-ocg
+      - run: npm run check:syntax
+      - name: Commit OCG metadata
+        shell: bash
+        run: |
+          if [ -z "$(git status --porcelain -- data/yugioh/ocg-aliases.json data/yugioh/ocg-meta.json)" ]; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/yugioh/ocg-aliases.json data/yugioh/ocg-meta.json
+          git commit -m "data: update Yu-Gi-Oh OCG metadata"
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            if git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep 6
+          done
+          exit 1
