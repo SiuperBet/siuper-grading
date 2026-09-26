@@ -1,0 +1,51 @@
+name: Update TCGCSV map
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/update-tcgcsv-map.yml"
+      - "scripts/update-tcgcsv-map.mjs"
+      - "data/pokemon-en/sets.json"
+      - "data/pokemon-en/cards/**"
+  schedule:
+    - cron: "37 5 * * 0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-tcgcsv-map
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+      - run: npm run update:tcgcsv-map
+      - run: npm run check:syntax
+      - name: Commit mapping
+        shell: bash
+        run: |
+          if git diff --quiet data/prices/tcgcsv-map.json; then
+            echo "No mapping changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/prices/tcgcsv-map.json
+          git commit -m "data: update TCGCSV exact-printing map"
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            if git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep 6
+          done
+          exit 1
