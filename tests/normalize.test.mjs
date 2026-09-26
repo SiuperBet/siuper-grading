@@ -42,3 +42,6 @@ test("LOB-001 e LOB-EN001 hanno alias storico compatibile",()=>{
 test("mantiene nomi giapponesi",()=>{assert.equal(normalizeName("ピカチュウ"),"ピカチュウ")});
 test("mantiene nomi cinesi",()=>{assert.equal(normalizeName("皮卡丘"),"皮卡丘")});
 test("ricerca esatta nome giapponese",()=>{const c={name:"ピカチュウ",collectionNumber:"001",setCode:"x"};assert.ok(scoreMatch(c,"ピカチュウ")>=85)});
+
+test("alias giapponese Yu-Gi-Oh trova la stampa",()=>{const c={name:"Blue-Eyes White Dragon",aliases:["青眼の白龍"],collectionNumber:"LOB-001",setCode:"LOB-001"};assert.ok(scoreMatch(c,"青眼の白龍")>=82)});
+test("codice OCG JP è normalizzato",()=>{assert.equal(normalizeSetCodeLoose("PAC1-JP001"),normalizeSetCodeLoose("PAC1-JP001"))});
