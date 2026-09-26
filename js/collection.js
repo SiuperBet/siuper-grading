@@ -3,7 +3,7 @@ export function newId(prefix="id"){return prefix+":"+crypto.randomUUID()}
 export async function ownedPrintingIds(){return new Set((await getAll("ownedCopies")).map(x=>x.printingId))}
 export async function copiesFor(printingId){return byIndex("ownedCopies","printingId",printingId)}
 export async function addCopy(card,extra={}){
-  const row={id:newId("copy"),game:card.game,cardId:card.cardId,printingId:card.printingId,name:card.name,setName:card.setName||"",setCode:card.setCode||"",collectionNumber:card.collectionNumber||"",image:card.image||"",imageHigh:card.imageHigh||"",imageCandidates:Array.isArray(card.imageCandidates)?card.imageCandidates:[],seriesId:card.seriesId||"",condition:extra.condition||"NM",language:extra.language||card.catalogLanguage||card.language||"it",variant:extra.variant||card.variant||"",pricePaid:extra.pricePaid==null?null:extra.pricePaid,notes:extra.notes||"",createdAt:new Date().toISOString()};
+  const row={id:newId("copy"),game:card.game,cardId:card.cardId,printingId:card.printingId,name:card.name,setName:card.setName||"",setCode:card.setCode||"",collectionNumber:card.collectionNumber||"",image:card.image||"",imageHigh:card.imageHigh||"",imageCandidates:Array.isArray(card.imageCandidates)?card.imageCandidates:[],seriesId:card.seriesId||"",condition:extra.condition||"NM",language:extra.language||card.catalogLanguage||card.language||"it",variant:Object.prototype.hasOwnProperty.call(extra,"variant")?extra.variant:(card.variant||((card.variants&&card.variants.normal)?"normal":"")),pricePaid:extra.pricePaid==null?null:extra.pricePaid,notes:extra.notes||"",createdAt:new Date().toISOString()};
   await put("ownedCopies",row);return row;
 }
 export async function updateCopy(id,patch={}){
