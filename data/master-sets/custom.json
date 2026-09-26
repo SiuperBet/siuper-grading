@@ -29,7 +29,8 @@
       ],
       "slots": [],
       "status": "source-sets-linked",
-      "note": "Il Master Set è collegato ai cataloghi reali disponibili: 30th, 30th-c e mee. Il set principale contiene attualmente 158 carte nel catalogo verificato; i 3 slot mancanti rispetto ai 161 previsti restano indicati come non ancora disponibili, senza creare carte fittizie."
+      "note": "Il Master Set è collegato ai cataloghi reali disponibili: 30th, 30th-c e mee. Il set principale contiene attualmente 158 carte nel catalogo verificato; i 3 slot mancanti rispetto ai 161 previsti restano indicati come non ancora disponibili, senza creare carte fittizie.",
+      "catalogLanguage": "it"
     }
   ]
 }
