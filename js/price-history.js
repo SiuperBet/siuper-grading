@@ -52,3 +52,34 @@ export function drawPriceHistory(canvas,points,days=30){
   }
   return true;
 }
+
+export function buildOnlineMarketTrend(prices,variant="normal"){
+  const rows=(prices||[]).filter(p=>p.source==="Cardmarket"&&p.currency==="EUR"&&(p.variant||"normal")===variant);
+  const byType=new Map(rows.map(p=>[p.priceType,p]));
+  const order=[["avg30","Media 30g"],["avg7","Media 7g"],["avg1","Media 1g"],["trend","Trend oggi"]];
+  return order.map(([type,label])=>{
+    const p=byType.get(type),value=p&&Number(p.value);
+    return p&&Number.isFinite(value)&&value>0?{label,value,source:"Cardmarket",currency:"EUR",priceType:type,variant:p.variant||variant,timestamp:p.timestamp||null}:null;
+  }).filter(Boolean);
+}
+export function drawOnlineMarketTrend(canvas,points){
+  const info=document.querySelector("#onlineTrendInfo");
+  if(!canvas||!points||points.length<2){
+    if(canvas)canvas.hidden=true;
+    if(info)info.textContent="Andamento online 1/7/30 giorni non disponibile per questa stampa.";
+    return false;
+  }
+  canvas.hidden=false;
+  const ratio=Math.min(2,window.devicePixelRatio||1),cssW=Math.max(300,canvas.parentElement&&canvas.parentElement.clientWidth||320),cssH=190;
+  canvas.width=Math.round(cssW*ratio);canvas.height=Math.round(cssH*ratio);canvas.style.width=cssW+"px";canvas.style.height=cssH+"px";
+  const ctx=canvas.getContext("2d");ctx.scale(ratio,ratio);ctx.clearRect(0,0,cssW,cssH);
+  const pad={l:50,r:14,t:16,b:38},w=cssW-pad.l-pad.r,h=cssH-pad.t-pad.b,values=points.map(x=>x.value),rawMin=Math.min(...values),rawMax=Math.max(...values),margin=Math.max(.01,(rawMax-rawMin)*.18,rawMax*.05),min=Math.max(0,rawMin-margin),max=rawMax+margin,span=Math.max(.01,max-min);
+  ctx.strokeStyle="#28344a";ctx.fillStyle="#9ca3af";ctx.font="11px sans-serif";ctx.lineWidth=1;
+  for(let i=0;i<=4;i++){const y=pad.t+h*i/4;ctx.beginPath();ctx.moveTo(pad.l,y);ctx.lineTo(pad.l+w,y);ctx.stroke();ctx.fillText("€"+(max-span*i/4).toFixed(2),4,y+4)}
+  const xy=points.map((p,i)=>({x:points.length===1?pad.l+w/2:pad.l+w*i/(points.length-1),y:pad.t+(max-p.value)/span*h}));
+  ctx.strokeStyle="#22d3ee";ctx.lineWidth=2.4;ctx.beginPath();xy.forEach((p,i)=>i?ctx.lineTo(p.x,p.y):ctx.moveTo(p.x,p.y));ctx.stroke();
+  ctx.fillStyle="#f8fafc";xy.forEach(p=>{ctx.beginPath();ctx.arc(p.x,p.y,3.4,0,Math.PI*2);ctx.fill()});
+  ctx.fillStyle="#9ca3af";ctx.textAlign="center";points.forEach((p,i)=>ctx.fillText(p.label,xy[i].x,cssH-10));ctx.textAlign="start";
+  if(info)info.textContent="Cardmarket EUR • medie mobili online 30g / 7g / 1g + trend corrente. Non sono quattro prezzi osservati in date puntuali.";
+  return true;
+}
