@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:34124316:HL2EN001:ygo-hobby-league-2-participation-card-a-bymkng:ygo-ultra-parallel-rare",
+    "cardId": "34124316",
+    "printingId": "yugioh:34124316:HL2EN001:ygo-hobby-league-2-participation-card-a-bymkng:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Cyber Jar",
+    "number": "HL2-EN001",
+    "collectionNumber": "HL2-EN001",
+    "setId": "ygo-hobby-league-2-participation-card-a-bymkng",
+    "setCode": "HL2-EN001",
+    "setName": "Hobby League 2 participation card A",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "34124316",
+    "type": "Flip Effect Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 900,
+    "def": 900,
+    "image": "./assets/yugioh/thumbs/34124316.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/34124316.jpg",
+    "artworkIds": [
+      34124316
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 20.82,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

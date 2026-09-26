@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:92881099:LARTEN028:ygo-the-lost-art-promotion-2020-p-161lmw2:ygo-ultra-rare",
+    "cardId": "92881099",
+    "printingId": "yugioh:92881099:LARTEN028:ygo-the-lost-art-promotion-2020-p-161lmw2:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Alluring Mirror Split",
+    "number": "LART-EN028",
+    "collectionNumber": "LART-EN028",
+    "setId": "ygo-the-lost-art-promotion-2020-p-161lmw2",
+    "setCode": "LART-EN028",
+    "setName": "The Lost Art Promotion 2020 P",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Harpie",
+    "passcode": "92881099",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/92881099.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/92881099.jpg",
+    "artworkIds": [
+      92881099
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

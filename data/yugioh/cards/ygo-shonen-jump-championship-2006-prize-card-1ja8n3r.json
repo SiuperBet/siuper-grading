@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:55713623:SJCEN003:ygo-shonen-jump-championship-2006-prize-card-1ja8n3r:ygo-ultra-rare",
+    "cardId": "55713623",
+    "printingId": "yugioh:55713623:SJCEN003:ygo-shonen-jump-championship-2006-prize-card-1ja8n3r:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Shrink",
+    "number": "SJC-EN003",
+    "collectionNumber": "SJC-EN003",
+    "setId": "ygo-shonen-jump-championship-2006-prize-card-1ja8n3r",
+    "setCode": "SJC-EN003",
+    "setName": "Shonen Jump Championship 2006 Prize Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "55713623",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/55713623.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/55713623.jpg",
+    "artworkIds": [
+      55713623
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 18530,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

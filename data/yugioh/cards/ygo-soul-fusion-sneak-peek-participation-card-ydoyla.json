@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:43534808:SOFUENSP1:ygo-soul-fusion-sneak-peek-participation-card-ydoyla:ygo-ultra-rare",
+    "cardId": "43534808",
+    "printingId": "yugioh:43534808:SOFUENSP1:ygo-soul-fusion-sneak-peek-participation-card-ydoyla:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Token Collector",
+    "number": "SOFU-ENSP1",
+    "collectionNumber": "SOFU-ENSP1",
+    "setId": "ygo-soul-fusion-sneak-peek-participation-card-ydoyla",
+    "setCode": "SOFU-ENSP1",
+    "setName": "Soul Fusion Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "43534808",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/43534808.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/43534808.jpg",
+    "artworkIds": [
+      43534808
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 10.49,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

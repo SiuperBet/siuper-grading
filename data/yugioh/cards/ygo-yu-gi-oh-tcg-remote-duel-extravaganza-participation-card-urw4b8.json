@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:2139640:21CCEN001:ygo-yu-gi-oh-tcg-remote-duel-extravaganza-participation-card-urw4b8:ygo-common",
+    "cardId": "2139640",
+    "printingId": "yugioh:2139640:21CCEN001:ygo-yu-gi-oh-tcg-remote-duel-extravaganza-participation-card-urw4b8:ygo-common",
+    "game": "yugioh",
+    "name": "Amabie",
+    "number": "21CC-EN001",
+    "collectionNumber": "21CC-EN001",
+    "setId": "ygo-yu-gi-oh-tcg-remote-duel-extravaganza-participation-card-urw4b8",
+    "setCode": "21CC-EN001",
+    "setName": "Yu-Gi-Oh! TCG Remote Duel Extravaganza participation card",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "",
+    "passcode": "2139640",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/2139640.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/2139640.jpg",
+    "artworkIds": [
+      2139640
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 11.27,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "yugioh:27911549:LARTEN043:ygo-the-lost-art-promotion-2022-a-2z5tyn:ygo-ultra-rare",
+    "cardId": "27911549",
+    "printingId": "yugioh:27911549:LARTEN043:ygo-the-lost-art-promotion-2022-a-2z5tyn:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Parasite Paracide",
+    "number": "LART-EN043",
+    "collectionNumber": "LART-EN043",
+    "setId": "ygo-the-lost-art-promotion-2022-a-2z5tyn",
+    "setCode": "LART-EN043",
+    "setName": "The Lost Art Promotion 2022 A",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Parasite",
+    "passcode": "27911549",
+    "type": "Flip Effect Monster",
+    "attribute": "EARTH",
+    "level": 2,
+    "rank": null,
+    "link": null,
+    "atk": 500,
+    "def": 300,
+    "image": "./assets/yugioh/thumbs/27911549.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/27911549.jpg",
+    "artworkIds": [
+      27911549,
+      27911550
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

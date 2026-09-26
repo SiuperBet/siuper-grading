@@ -1,0 +1,81 @@
+[
+  {
+    "id": "yugioh:1546123:STONENSE1:ygo-strike-of-neos-special-edition-j0k3d6:ygo-super-rare",
+    "cardId": "1546123",
+    "printingId": "yugioh:1546123:STONENSE1:ygo-strike-of-neos-special-edition-j0k3d6:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Cyber End Dragon",
+    "number": "STON-ENSE1",
+    "collectionNumber": "STON-ENSE1",
+    "setId": "ygo-strike-of-neos-special-edition-j0k3d6",
+    "setCode": "STON-ENSE1",
+    "setName": "Strike of Neos: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "1546123",
+    "type": "Fusion Monster",
+    "attribute": "LIGHT",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 2800,
+    "image": "./assets/yugioh/thumbs/1546123.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/1546123.jpg",
+    "artworkIds": [
+      1546123,
+      1546124
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.77,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:55713623:STONENSE2:ygo-strike-of-neos-special-edition-j0k3d6:ygo-super-rare",
+    "cardId": "55713623",
+    "printingId": "yugioh:55713623:STONENSE2:ygo-strike-of-neos-special-edition-j0k3d6:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Shrink",
+    "number": "STON-ENSE2",
+    "collectionNumber": "STON-ENSE2",
+    "setId": "ygo-strike-of-neos-special-edition-j0k3d6",
+    "setCode": "STON-ENSE2",
+    "setName": "Strike of Neos: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "55713623",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/55713623.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/55713623.jpg",
+    "artworkIds": [
+      55713623
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.76,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

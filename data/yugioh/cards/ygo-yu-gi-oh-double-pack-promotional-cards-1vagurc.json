@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:50725996:RODEN001:ygo-yu-gi-oh-double-pack-promotional-cards-1vagurc:ygo-super-parallel-rare",
+    "cardId": "50725996",
+    "printingId": "yugioh:50725996:RODEN001:ygo-yu-gi-oh-double-pack-promotional-cards-1vagurc:ygo-super-parallel-rare",
+    "game": "yugioh",
+    "name": "Dark Magician Knight",
+    "number": "ROD-EN001",
+    "collectionNumber": "ROD-EN001",
+    "setId": "ygo-yu-gi-oh-double-pack-promotional-cards-1vagurc",
+    "setCode": "ROD-EN001",
+    "setName": "Yu-Gi-Oh! Double Pack promotional cards",
+    "rarity": "Super Parallel Rare",
+    "edition": "",
+    "archetype": "Dark Magician",
+    "passcode": "50725996",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 2100,
+    "image": "./assets/yugioh/thumbs/50725996.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/50725996.jpg",
+    "artworkIds": [
+      50725996
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 17.83,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:87210505:RODEN002:ygo-yu-gi-oh-double-pack-promotional-cards-1vagurc:ygo-super-parallel-rare",
+    "cardId": "87210505",
+    "printingId": "yugioh:87210505:RODEN002:ygo-yu-gi-oh-double-pack-promotional-cards-1vagurc:ygo-super-parallel-rare",
+    "game": "yugioh",
+    "name": "Knight's Title",
+    "number": "ROD-EN002",
+    "collectionNumber": "ROD-EN002",
+    "setId": "ygo-yu-gi-oh-double-pack-promotional-cards-1vagurc",
+    "setCode": "ROD-EN002",
+    "setName": "Yu-Gi-Oh! Double Pack promotional cards",
+    "rarity": "Super Parallel Rare",
+    "edition": "",
+    "archetype": "Dark Magician",
+    "passcode": "87210505",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/87210505.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/87210505.jpg",
+    "artworkIds": [
+      87210505
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.01,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

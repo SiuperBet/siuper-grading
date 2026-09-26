@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:90238142:LARTEN022:ygo-the-lost-art-promotion-2020-j-139plyc:ygo-ultra-rare",
+    "cardId": "90238142",
+    "printingId": "yugioh:90238142:LARTEN022:ygo-the-lost-art-promotion-2020-j-139plyc:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Harpie Channeler",
+    "number": "LART-EN022",
+    "collectionNumber": "LART-EN022",
+    "setId": "ygo-the-lost-art-promotion-2020-j-139plyc",
+    "setCode": "LART-EN022",
+    "setName": "The Lost Art Promotion 2020 J",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Harpie",
+    "passcode": "90238142",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1400,
+    "def": 1300,
+    "image": "./assets/yugioh/thumbs/90238142.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/90238142.jpg",
+    "artworkIds": [
+      90238142
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

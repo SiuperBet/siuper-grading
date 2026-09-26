@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:29654737:SP1EN002:ygo-the-lost-millennium-sneak-peek-participation-card-5z2a94:ygo-ultra-rare",
+    "cardId": "29654737",
+    "printingId": "yugioh:29654737:SP1EN002:ygo-the-lost-millennium-sneak-peek-participation-card-5z2a94:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Amazoness Chain Master",
+    "number": "SP1-EN002",
+    "collectionNumber": "SP1-EN002",
+    "setId": "ygo-the-lost-millennium-sneak-peek-participation-card-5z2a94",
+    "setCode": "SP1-EN002",
+    "setName": "The Lost Millennium Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Amazoness",
+    "passcode": "29654737",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1500,
+    "def": 1300,
+    "image": "./assets/yugioh/thumbs/29654737.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/29654737.jpg",
+    "artworkIds": [
+      29654737
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.94,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

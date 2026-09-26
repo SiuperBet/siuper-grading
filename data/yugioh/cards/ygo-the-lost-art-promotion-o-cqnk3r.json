@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:30068120:LARTEN015:ygo-the-lost-art-promotion-o-cqnk3r:ygo-ultra-rare",
+    "cardId": "30068120",
+    "printingId": "yugioh:30068120:LARTEN015:ygo-the-lost-art-promotion-o-cqnk3r:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Edge Imp Sabres",
+    "number": "LART-EN015",
+    "collectionNumber": "LART-EN015",
+    "setId": "ygo-the-lost-art-promotion-o-cqnk3r",
+    "setCode": "LART-EN015",
+    "setName": "The Lost Art Promotion O",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Edge Imp",
+    "passcode": "30068120",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1200,
+    "def": 800,
+    "image": "./assets/yugioh/thumbs/30068120.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/30068120.jpg",
+    "artworkIds": [
+      30068120
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

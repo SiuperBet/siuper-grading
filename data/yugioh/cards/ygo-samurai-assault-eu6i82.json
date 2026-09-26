@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:61737116:SAASEN001:ygo-samurai-assault-eu6i82:ygo-super-rare",
+    "cardId": "61737116",
+    "printingId": "yugioh:61737116:SAASEN001:ygo-samurai-assault-eu6i82:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Elder of the Six Samurai",
+    "number": "SAAS-EN001",
+    "collectionNumber": "SAAS-EN001",
+    "setId": "ygo-samurai-assault-eu6i82",
+    "setCode": "SAAS-EN001",
+    "setName": "Samurai Assault",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Six Samurai",
+    "passcode": "61737116",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 400,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/61737116.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/61737116.jpg",
+    "artworkIds": [
+      61737116
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.44,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

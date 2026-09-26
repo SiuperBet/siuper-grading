@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:42024143:ANPRENSP1:ygo-ancient-prophecy-sneak-peek-participation-card-1p5ui6f:ygo-ultra-rare",
+    "cardId": "42024143",
+    "printingId": "yugioh:42024143:ANPRENSP1:ygo-ancient-prophecy-sneak-peek-participation-card-1p5ui6f:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "XX-Saber Gardestrike",
+    "number": "ANPR-ENSP1",
+    "collectionNumber": "ANPR-ENSP1",
+    "setId": "ygo-ancient-prophecy-sneak-peek-participation-card-1p5ui6f",
+    "setCode": "ANPR-ENSP1",
+    "setName": "Ancient Prophecy Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "X-Saber",
+    "passcode": "42024143",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2100,
+    "def": 1400,
+    "image": "./assets/yugioh/thumbs/42024143.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/42024143.jpg",
+    "artworkIds": [
+      42024143
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.87,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

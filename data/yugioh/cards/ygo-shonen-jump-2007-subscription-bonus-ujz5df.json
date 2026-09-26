@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:66973070:JUMPEN015:ygo-shonen-jump-2007-subscription-bonus-ujz5df:ygo-ultra-rare",
+    "cardId": "66973070",
+    "printingId": "yugioh:66973070:JUMPEN015:ygo-shonen-jump-2007-subscription-bonus-ujz5df:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Dreadscythe Harvester",
+    "number": "JUMP-EN015",
+    "collectionNumber": "JUMP-EN015",
+    "setId": "ygo-shonen-jump-2007-subscription-bonus-ujz5df",
+    "setCode": "JUMP-EN015",
+    "setName": "Shonen Jump 2007 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "66973070",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2300,
+    "def": 1600,
+    "image": "./assets/yugioh/thumbs/66973070.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/66973070.jpg",
+    "artworkIds": [
+      66973070
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 14.79,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:46668237:JUMPEN014:ygo-shonen-jump-2007-subscription-bonus-ujz5df:ygo-ultra-rare",
+    "cardId": "46668237",
+    "printingId": "yugioh:46668237:JUMPEN014:ygo-shonen-jump-2007-subscription-bonus-ujz5df:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Green Baboon, Defender of the Forest",
+    "number": "JUMP-EN014",
+    "collectionNumber": "JUMP-EN014",
+    "setId": "ygo-shonen-jump-2007-subscription-bonus-ujz5df",
+    "setCode": "JUMP-EN014",
+    "setName": "Shonen Jump 2007 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "46668237",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2600,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/46668237.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/46668237.jpg",
+    "artworkIds": [
+      46668237
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 25.1,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

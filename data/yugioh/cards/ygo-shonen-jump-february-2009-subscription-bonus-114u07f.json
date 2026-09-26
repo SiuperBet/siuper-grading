@@ -1,0 +1,81 @@
+[
+  {
+    "id": "yugioh:15341821:JUMPEN029:ygo-shonen-jump-february-2009-subscription-bonus-114u07f:ygo-ultra-rare",
+    "cardId": "15341821",
+    "printingId": "yugioh:15341821:JUMPEN029:ygo-shonen-jump-february-2009-subscription-bonus-114u07f:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Dandylion",
+    "number": "JUMP-EN029",
+    "collectionNumber": "JUMP-EN029",
+    "setId": "ygo-shonen-jump-february-2009-subscription-bonus-114u07f",
+    "setCode": "JUMP-EN029",
+    "setName": "Shonen Jump February 2009 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "15341821",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 300,
+    "def": 300,
+    "image": "./assets/yugioh/thumbs/15341821.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/15341821.jpg",
+    "artworkIds": [
+      15341821
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 17.55,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:88264978:JUMPEN030:ygo-shonen-jump-february-2009-subscription-bonus-114u07f:ygo-ultra-rare",
+    "cardId": "88264978",
+    "printingId": "yugioh:88264978:JUMPEN030:ygo-shonen-jump-february-2009-subscription-bonus-114u07f:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Red-Eyes Darkness Metal Dragon",
+    "number": "JUMP-EN030",
+    "collectionNumber": "JUMP-EN030",
+    "setId": "ygo-shonen-jump-february-2009-subscription-bonus-114u07f",
+    "setCode": "JUMP-EN030",
+    "setName": "Shonen Jump February 2009 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Red-Eyes",
+    "passcode": "88264978",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 2800,
+    "def": 2400,
+    "image": "./assets/yugioh/thumbs/88264978.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/88264978.jpg",
+    "artworkIds": [
+      88264978,
+      88264979
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 82.31,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

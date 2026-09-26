@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:1557341:CSOCENSP1:ygo-crossroads-of-chaos-sneak-peek-participation-card-1jqj5fv:ygo-super-rare",
+    "cardId": "1557341",
+    "printingId": "yugioh:1557341:CSOCENSP1:ygo-crossroads-of-chaos-sneak-peek-participation-card-1jqj5fv:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Rose, Warrior of Revenge",
+    "number": "CSOC-ENSP1",
+    "collectionNumber": "CSOC-ENSP1",
+    "setId": "ygo-crossroads-of-chaos-sneak-peek-participation-card-1jqj5fv",
+    "setCode": "CSOC-ENSP1",
+    "setName": "Crossroads of Chaos Sneak Peek Participation Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Rose Dragon",
+    "passcode": "1557341",
+    "type": "Tuner Monster",
+    "attribute": "FIRE",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1600,
+    "def": 600,
+    "image": "./assets/yugioh/thumbs/1557341.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/1557341.jpg",
+    "artworkIds": [
+      1557341
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.18,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

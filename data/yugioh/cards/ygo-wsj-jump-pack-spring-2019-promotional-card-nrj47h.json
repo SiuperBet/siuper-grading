@@ -1,0 +1,42 @@
+[
+  {
+    "id": "yugioh:40044918:JMPSEN008:ygo-wsj-jump-pack-spring-2019-promotional-card-nrj47h:ygo-ultra-rare",
+    "cardId": "40044918",
+    "printingId": "yugioh:40044918:JMPSEN008:ygo-wsj-jump-pack-spring-2019-promotional-card-nrj47h:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Elemental HERO Stratos",
+    "number": "JMPS-EN008",
+    "collectionNumber": "JMPS-EN008",
+    "setId": "ygo-wsj-jump-pack-spring-2019-promotional-card-nrj47h",
+    "setCode": "JMPS-EN008",
+    "setName": "WSJ Jump Pack Spring 2019 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Elemental HERO",
+    "passcode": "40044918",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 300,
+    "image": "./assets/yugioh/thumbs/40044918.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/40044918.jpg",
+    "artworkIds": [
+      40044918,
+      40044919
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.8,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

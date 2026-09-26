@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:17484499:SP1EN004:ygo-elemental-energy-sneak-peek-participation-card-8unuge:ygo-ultra-rare",
+    "cardId": "17484499",
+    "printingId": "yugioh:17484499:SP1EN004:ygo-elemental-energy-sneak-peek-participation-card-8unuge:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Exchange of the Spirit",
+    "number": "SP1-EN004",
+    "collectionNumber": "SP1-EN004",
+    "setId": "ygo-elemental-energy-sneak-peek-participation-card-8unuge",
+    "setCode": "SP1-EN004",
+    "setName": "Elemental Energy Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "17484499",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/17484499.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/17484499.jpg",
+    "artworkIds": [
+      17484499
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 18.92,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

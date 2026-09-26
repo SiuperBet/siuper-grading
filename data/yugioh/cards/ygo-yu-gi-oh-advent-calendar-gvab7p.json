@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:69181753:AC19EN024:ygo-yu-gi-oh-advent-calendar-gvab7p:ygo-ultra-rare",
+    "cardId": "69181753",
+    "printingId": "yugioh:69181753:AC19EN024:ygo-yu-gi-oh-advent-calendar-gvab7p:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Performapal Kuribohble",
+    "number": "AC19-EN024",
+    "collectionNumber": "AC19-EN024",
+    "setId": "ygo-yu-gi-oh-advent-calendar-gvab7p",
+    "setCode": "AC19-EN024",
+    "setName": "Yu-Gi-Oh! Advent Calendar",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Performapal",
+    "passcode": "69181753",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 1,
+    "rank": null,
+    "link": null,
+    "atk": 300,
+    "def": 200,
+    "image": "./assets/yugioh/thumbs/69181753.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/69181753.jpg",
+    "artworkIds": [
+      69181753
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.5,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

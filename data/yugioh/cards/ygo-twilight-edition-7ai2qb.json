@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:37742478:TWEDEN001:ygo-twilight-edition-7ai2qb:ygo-ultra-rare",
+    "cardId": "37742478",
+    "printingId": "yugioh:37742478:TWEDEN001:ygo-twilight-edition-7ai2qb:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Honest",
+    "number": "TWED-EN001",
+    "collectionNumber": "TWED-EN001",
+    "setId": "ygo-twilight-edition-7ai2qb",
+    "setCode": "TWED-EN001",
+    "setName": "Twilight Edition",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "37742478",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1100,
+    "def": 1900,
+    "image": "./assets/yugioh/thumbs/37742478.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/37742478.jpg",
+    "artworkIds": [
+      37742478
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.61,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

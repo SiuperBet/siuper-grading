@@ -1,0 +1,48 @@
+[
+  {
+    "id": "yugioh:89631139:JMPEN001:ygo-swedish-shonen-jump-2004-issue-2-promotional-card-1kkdwh4:ygo-ultra-rare",
+    "cardId": "89631139",
+    "printingId": "yugioh:89631139:JMPEN001:ygo-swedish-shonen-jump-2004-issue-2-promotional-card-1kkdwh4:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Blue-Eyes White Dragon",
+    "number": "JMP-EN001",
+    "collectionNumber": "JMP-EN001",
+    "setId": "ygo-swedish-shonen-jump-2004-issue-2-promotional-card-1kkdwh4",
+    "setCode": "JMP-EN001",
+    "setName": "Swedish Shonen Jump 2004, Issue 2 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Blue-Eyes",
+    "passcode": "89631139",
+    "type": "Normal Monster",
+    "attribute": "LIGHT",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/89631139.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/89631139.jpg",
+    "artworkIds": [
+      89631139,
+      89631140,
+      89631141,
+      89631142,
+      89631143,
+      89631144,
+      89631145,
+      89631146
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 674.33,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

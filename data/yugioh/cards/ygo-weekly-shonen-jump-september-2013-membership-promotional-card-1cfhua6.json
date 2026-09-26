@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:98012938:JUMPEN066:ygo-weekly-shonen-jump-september-2013-membership-promotional-card-1cfhua6:ygo-ultra-rare",
+    "cardId": "98012938",
+    "printingId": "yugioh:98012938:JUMPEN066:ygo-weekly-shonen-jump-september-2013-membership-promotional-card-1cfhua6:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Vulcan the Divine",
+    "number": "JUMP-EN066",
+    "collectionNumber": "JUMP-EN066",
+    "setId": "ygo-weekly-shonen-jump-september-2013-membership-promotional-card-1cfhua6",
+    "setCode": "JUMP-EN066",
+    "setName": "Weekly Shonen Jump September 2013 membership promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "98012938",
+    "type": "Synchro Monster",
+    "attribute": "FIRE",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2000,
+    "def": 1600,
+    "image": "./assets/yugioh/thumbs/98012938.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/98012938.jpg",
+    "artworkIds": [
+      98012938
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.08,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:46700124:EM1EN001:ygo-yu-gi-oh-trading-card-game-tour-2004-promotional-card-19eqy8i:ygo-ultra-rare",
+    "cardId": "46700124",
+    "printingId": "yugioh:46700124:EM1EN001:ygo-yu-gi-oh-trading-card-game-tour-2004-promotional-card-19eqy8i:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Machine King",
+    "number": "EM1-EN001",
+    "collectionNumber": "EM1-EN001",
+    "setId": "ygo-yu-gi-oh-trading-card-game-tour-2004-promotional-card-19eqy8i",
+    "setCode": "EM1-EN001",
+    "setName": "Yu-Gi-Oh! Trading Card Game Tour 2004 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "46700124",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/46700124.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/46700124.jpg",
+    "artworkIds": [
+      46700124
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 23.83,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

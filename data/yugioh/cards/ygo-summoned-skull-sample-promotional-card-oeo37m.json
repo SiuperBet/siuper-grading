@@ -1,0 +1,36 @@
+[
+  {
+    "id": "yugioh:70781052:SDY004:ygo-summoned-skull-sample-promotional-card-oeo37m:ygo-common",
+    "cardId": "70781052",
+    "printingId": "yugioh:70781052:SDY004:ygo-summoned-skull-sample-promotional-card-oeo37m:ygo-common",
+    "game": "yugioh",
+    "name": "Summoned Skull",
+    "number": "SDY-004",
+    "collectionNumber": "SDY-004",
+    "setId": "ygo-summoned-skull-sample-promotional-card-oeo37m",
+    "setCode": "SDY-004",
+    "setName": "Summoned Skull Sample promotional card",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "Archfiend",
+    "passcode": "70781052",
+    "type": "Normal Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/70781052.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/70781052.jpg",
+    "artworkIds": [
+      70781052,
+      70781053,
+      70781054,
+      70781055
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

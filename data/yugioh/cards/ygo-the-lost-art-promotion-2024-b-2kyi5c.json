@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:12538374:LARTEN073:ygo-the-lost-art-promotion-2024-b-2kyi5c:ygo-ultra-rare",
+    "cardId": "12538374",
+    "printingId": "yugioh:12538374:LARTEN073:ygo-the-lost-art-promotion-2024-b-2kyi5c:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Treeborn Frog",
+    "number": "LART-EN073",
+    "collectionNumber": "LART-EN073",
+    "setId": "ygo-the-lost-art-promotion-2024-b-2kyi5c",
+    "setCode": "LART-EN073",
+    "setName": "The Lost Art Promotion 2024 B",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Frog",
+    "passcode": "12538374",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 1,
+    "rank": null,
+    "link": null,
+    "atk": 100,
+    "def": 100,
+    "image": "./assets/yugioh/thumbs/12538374.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/12538374.jpg",
+    "artworkIds": [
+      12538374
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

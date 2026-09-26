@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:92092092:INOVENSP1:ygo-invasion-vengeance-sneak-peek-participation-card-2xiceq:ygo-ultra-rare",
+    "cardId": "92092092",
+    "printingId": "yugioh:92092092:INOVENSP1:ygo-invasion-vengeance-sneak-peek-participation-card-2xiceq:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Space Dragster",
+    "number": "INOV-ENSP1",
+    "collectionNumber": "INOV-ENSP1",
+    "setId": "ygo-invasion-vengeance-sneak-peek-participation-card-2xiceq",
+    "setCode": "INOV-ENSP1",
+    "setName": "Invasion: Vengeance Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "92092092",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/92092092.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/92092092.jpg",
+    "artworkIds": [
+      92092092
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 1.21,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

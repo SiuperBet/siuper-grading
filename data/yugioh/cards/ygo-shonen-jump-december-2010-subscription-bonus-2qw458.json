@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:87259077:JUMPEN046:ygo-shonen-jump-december-2010-subscription-bonus-2qw458:ygo-ultra-rare",
+    "cardId": "87259077",
+    "printingId": "yugioh:87259077:JUMPEN046:ygo-shonen-jump-december-2010-subscription-bonus-2qw458:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Lightning Warrior",
+    "number": "JUMP-EN046",
+    "collectionNumber": "JUMP-EN046",
+    "setId": "ygo-shonen-jump-december-2010-subscription-bonus-2qw458",
+    "setCode": "JUMP-EN046",
+    "setName": "Shonen Jump December 2010 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "87259077",
+    "type": "Synchro Monster",
+    "attribute": "LIGHT",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/87259077.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/87259077.jpg",
+    "artworkIds": [
+      87259077
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 10.82,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:43366227:JUMPEN047:ygo-shonen-jump-december-2010-subscription-bonus-2qw458:ygo-ultra-rare",
+    "cardId": "43366227",
+    "printingId": "yugioh:43366227:JUMPEN047:ygo-shonen-jump-december-2010-subscription-bonus-2qw458:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Seven Swords Warrior",
+    "number": "JUMP-EN047",
+    "collectionNumber": "JUMP-EN047",
+    "setId": "ygo-shonen-jump-december-2010-subscription-bonus-2qw458",
+    "setCode": "JUMP-EN047",
+    "setName": "Shonen Jump December 2010 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "43366227",
+    "type": "Synchro Monster",
+    "attribute": "EARTH",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2300,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/43366227.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/43366227.jpg",
+    "artworkIds": [
+      43366227
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 11.23,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

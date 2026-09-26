@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:37195861:JUMPEN013:ygo-shonen-jump-vol-5-issue-6-promotional-card-16i4z77:ygo-ultra-rare",
+    "cardId": "37195861",
+    "printingId": "yugioh:37195861:JUMPEN013:ygo-shonen-jump-vol-5-issue-6-promotional-card-16i4z77:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Elemental HERO Ocean",
+    "number": "JUMP-EN013",
+    "collectionNumber": "JUMP-EN013",
+    "setId": "ygo-shonen-jump-vol-5-issue-6-promotional-card-16i4z77",
+    "setCode": "JUMP-EN013",
+    "setName": "Shonen Jump Vol. 5, Issue 6 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Elemental HERO",
+    "passcode": "37195861",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1500,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/37195861.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/37195861.jpg",
+    "artworkIds": [
+      37195861
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.06,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

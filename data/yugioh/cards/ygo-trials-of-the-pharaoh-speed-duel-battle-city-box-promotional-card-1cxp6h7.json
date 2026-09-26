@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:14087893:OPTPEN003:ygo-trials-of-the-pharaoh-speed-duel-battle-city-box-promotional-card-1cxp6h7:ygo-super-rare",
+    "cardId": "14087893",
+    "printingId": "yugioh:14087893:OPTPEN003:ygo-trials-of-the-pharaoh-speed-duel-battle-city-box-promotional-card-1cxp6h7:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Book of Moon",
+    "number": "OPTP-EN003",
+    "collectionNumber": "OPTP-EN003",
+    "setId": "ygo-trials-of-the-pharaoh-speed-duel-battle-city-box-promotional-card-1cxp6h7",
+    "setCode": "OPTP-EN003",
+    "setName": "Trials of the Pharaoh - Speed Duel: Battle City Box promotional card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Book of",
+    "passcode": "14087893",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/14087893.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/14087893.jpg",
+    "artworkIds": [
+      14087893
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 436.13,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

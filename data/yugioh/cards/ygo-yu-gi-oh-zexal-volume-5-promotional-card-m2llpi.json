@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:75253697:YZ05EN001:ygo-yu-gi-oh-zexal-volume-5-promotional-card-m2llpi:ygo-ultra-rare",
+    "cardId": "75253697",
+    "printingId": "yugioh:75253697:YZ05EN001:ygo-yu-gi-oh-zexal-volume-5-promotional-card-m2llpi:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Number 72: Shogi Rook",
+    "number": "YZ05-EN001",
+    "collectionNumber": "YZ05-EN001",
+    "setId": "ygo-yu-gi-oh-zexal-volume-5-promotional-card-m2llpi",
+    "setCode": "YZ05-EN001",
+    "setName": "Yu-Gi-Oh! ZEXAL Volume 5 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "75253697",
+    "type": "XYZ Monster",
+    "attribute": "EARTH",
+    "level": 6,
+    "rank": 6,
+    "link": null,
+    "atk": 2500,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/75253697.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/75253697.jpg",
+    "artworkIds": [
+      75253697
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 17.7,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

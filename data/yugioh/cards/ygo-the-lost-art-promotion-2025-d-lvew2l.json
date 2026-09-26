@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:50915474:LARTEN079:ygo-the-lost-art-promotion-2025-d-lvew2l:ygo-ultra-rare",
+    "cardId": "50915474",
+    "printingId": "yugioh:50915474:LARTEN079:ygo-the-lost-art-promotion-2025-d-lvew2l:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Goddess of the Two Sides",
+    "number": "LART-EN079",
+    "collectionNumber": "LART-EN079",
+    "setId": "ygo-the-lost-art-promotion-2025-d-lvew2l",
+    "setCode": "LART-EN079",
+    "setName": "The Lost Art Promotion 2025 D",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "50915474",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 950,
+    "def": 700,
+    "image": "./assets/yugioh/thumbs/50915474.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/50915474.jpg",
+    "artworkIds": [
+      50915474
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

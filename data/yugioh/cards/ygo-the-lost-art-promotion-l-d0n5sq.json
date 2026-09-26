@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:82732705:LARTEN012:ygo-the-lost-art-promotion-l-d0n5sq:ygo-ultra-rare",
+    "cardId": "82732705",
+    "printingId": "yugioh:82732705:LARTEN012:ygo-the-lost-art-promotion-l-d0n5sq:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Skill Drain",
+    "number": "LART-EN012",
+    "collectionNumber": "LART-EN012",
+    "setId": "ygo-the-lost-art-promotion-l-d0n5sq",
+    "setCode": "LART-EN012",
+    "setName": "The Lost Art Promotion L",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "82732705",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/82732705.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/82732705.jpg",
+    "artworkIds": [
+      82732705
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

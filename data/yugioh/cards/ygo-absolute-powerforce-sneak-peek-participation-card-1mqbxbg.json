@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:3381441:ABPFENSP1:ygo-absolute-powerforce-sneak-peek-participation-card-1mqbxbg:ygo-ultra-rare",
+    "cardId": "3381441",
+    "printingId": "yugioh:3381441:ABPFENSP1:ygo-absolute-powerforce-sneak-peek-participation-card-1mqbxbg:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Gravekeeper's Priestess",
+    "number": "ABPF-ENSP1",
+    "collectionNumber": "ABPF-ENSP1",
+    "setId": "ygo-absolute-powerforce-sneak-peek-participation-card-1mqbxbg",
+    "setCode": "ABPF-ENSP1",
+    "setName": "Absolute Powerforce Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Gravekeeper's",
+    "passcode": "3381441",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1000,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/3381441.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/3381441.jpg",
+    "artworkIds": [
+      3381441
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 8.78,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:35546670:EXFOENSP1:ygo-extreme-force-sneak-peek-participation-card-1o5wp44:ygo-ultra-rare",
+    "cardId": "35546670",
+    "printingId": "yugioh:35546670:EXFOENSP1:ygo-extreme-force-sneak-peek-participation-card-1o5wp44:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "World Legacy Scars",
+    "number": "EXFO-ENSP1",
+    "collectionNumber": "EXFO-ENSP1",
+    "setId": "ygo-extreme-force-sneak-peek-participation-card-1o5wp44",
+    "setCode": "EXFO-ENSP1",
+    "setName": "Extreme Force Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Mekk-Knight",
+    "passcode": "35546670",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/35546670.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/35546670.jpg",
+    "artworkIds": [
+      35546670
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.48,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

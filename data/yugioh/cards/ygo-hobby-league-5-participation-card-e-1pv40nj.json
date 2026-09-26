@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:95519486:HL05EN005:ygo-hobby-league-5-participation-card-e-1pv40nj:ygo-ultra-parallel-rare",
+    "cardId": "95519486",
+    "printingId": "yugioh:95519486:HL05EN005:ygo-hobby-league-5-participation-card-e-1pv40nj:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "The Six Samurai - Zanji",
+    "number": "HL05-EN005",
+    "collectionNumber": "HL05-EN005",
+    "setId": "ygo-hobby-league-5-participation-card-e-1pv40nj",
+    "setCode": "HL05-EN005",
+    "setName": "Hobby League 5 participation card E",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "Six Samurai",
+    "passcode": "95519486",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 1300,
+    "image": "./assets/yugioh/thumbs/95519486.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/95519486.jpg",
+    "artworkIds": [
+      95519486
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.37,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

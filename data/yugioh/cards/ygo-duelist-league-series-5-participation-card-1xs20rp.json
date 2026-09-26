@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:99518961:DL5EN001:ygo-duelist-league-series-5-participation-card-1xs20rp:ygo-super-rare",
+    "cardId": "99518961",
+    "printingId": "yugioh:99518961:DL5EN001:ygo-duelist-league-series-5-participation-card-1xs20rp:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Restructer Revolution",
+    "number": "DL5-EN001",
+    "collectionNumber": "DL5-EN001",
+    "setId": "ygo-duelist-league-series-5-participation-card-1xs20rp",
+    "setCode": "DL5-EN001",
+    "setName": "Duelist League Series 5 participation card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "99518961",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/99518961.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/99518961.jpg",
+    "artworkIds": [
+      99518961
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.57,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

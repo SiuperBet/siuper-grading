@@ -1,0 +1,72 @@
+[
+  {
+    "id": "yugioh:55713623:PT02EN001:ygo-pharaoh-tour-2006-promotional-cards-1twln5j:ygo-ultra-rare",
+    "cardId": "55713623",
+    "printingId": "yugioh:55713623:PT02EN001:ygo-pharaoh-tour-2006-promotional-cards-1twln5j:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Shrink",
+    "number": "PT02-EN001",
+    "collectionNumber": "PT02-EN001",
+    "setId": "ygo-pharaoh-tour-2006-promotional-cards-1twln5j",
+    "setCode": "PT02-EN001",
+    "setName": "Pharaoh Tour 2006 promotional cards",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "55713623",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/55713623.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/55713623.jpg",
+    "artworkIds": [
+      55713623
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:90960358:PT02EN002:ygo-pharaoh-tour-2006-promotional-cards-1twln5j:ygo-common",
+    "cardId": "90960358",
+    "printingId": "yugioh:90960358:PT02EN002:ygo-pharaoh-tour-2006-promotional-cards-1twln5j:ygo-common",
+    "game": "yugioh",
+    "name": "Toon Dark Magician Girl",
+    "number": "PT02-EN002",
+    "collectionNumber": "PT02-EN002",
+    "setId": "ygo-pharaoh-tour-2006-promotional-cards-1twln5j",
+    "setCode": "PT02-EN002",
+    "setName": "Pharaoh Tour 2006 promotional cards",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "Toon",
+    "passcode": "90960358",
+    "type": "Toon Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2000,
+    "def": 1700,
+    "image": "./assets/yugioh/thumbs/90960358.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/90960358.jpg",
+    "artworkIds": [
+      90960358
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 26.78,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

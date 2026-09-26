@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:86188410:GSEEN001:ygo-yu-gi-oh-gx-special-edition-1t12pnd:ygo-ultra-secret-rare",
+    "cardId": "86188410",
+    "printingId": "yugioh:86188410:GSEEN001:ygo-yu-gi-oh-gx-special-edition-1t12pnd:ygo-ultra-secret-rare",
+    "game": "yugioh",
+    "name": "Elemental HERO Wildheart",
+    "number": "GSE-EN001",
+    "collectionNumber": "GSE-EN001",
+    "setId": "ygo-yu-gi-oh-gx-special-edition-1t12pnd",
+    "setCode": "GSE-EN001",
+    "setName": "Yu-Gi-Oh! GX Special Edition",
+    "rarity": "Ultra Secret Rare",
+    "edition": "",
+    "archetype": "Elemental HERO",
+    "passcode": "86188410",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1500,
+    "def": 1600,
+    "image": "./assets/yugioh/thumbs/86188410.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/86188410.jpg",
+    "artworkIds": [
+      86188410
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 10.58,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

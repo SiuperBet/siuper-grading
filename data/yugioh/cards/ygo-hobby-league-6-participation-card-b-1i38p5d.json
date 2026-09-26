@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:23171610:HL06EN002:ygo-hobby-league-6-participation-card-b-1i38p5d:ygo-ultra-parallel-rare",
+    "cardId": "23171610",
+    "printingId": "yugioh:23171610:HL06EN002:ygo-hobby-league-6-participation-card-b-1i38p5d:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Limiter Removal",
+    "number": "HL06-EN002",
+    "collectionNumber": "HL06-EN002",
+    "setId": "ygo-hobby-league-6-participation-card-b-1i38p5d",
+    "setCode": "HL06-EN002",
+    "setName": "Hobby League 6 participation card B",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "23171610",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/23171610.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/23171610.jpg",
+    "artworkIds": [
+      23171610
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 16.51,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

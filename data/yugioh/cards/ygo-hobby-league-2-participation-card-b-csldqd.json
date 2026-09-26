@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:5318639:HL2EN002:ygo-hobby-league-2-participation-card-b-csldqd:ygo-ultra-parallel-rare",
+    "cardId": "5318639",
+    "printingId": "yugioh:5318639:HL2EN002:ygo-hobby-league-2-participation-card-b-csldqd:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Mystical Space Typhoon",
+    "number": "HL2-EN002",
+    "collectionNumber": "HL2-EN002",
+    "setId": "ygo-hobby-league-2-participation-card-b-csldqd",
+    "setCode": "HL2-EN002",
+    "setName": "Hobby League 2 participation card B",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "5318639",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/5318639.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/5318639.jpg",
+    "artworkIds": [
+      5318639
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 25.7,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

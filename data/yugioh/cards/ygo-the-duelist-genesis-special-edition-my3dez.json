@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:54974237:TDGSENSE1:ygo-the-duelist-genesis-special-edition-my3dez:ygo-super-rare",
+    "cardId": "54974237",
+    "printingId": "yugioh:54974237:TDGSENSE1:ygo-the-duelist-genesis-special-edition-my3dez:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Eradicator Epidemic Virus",
+    "number": "TDGS-ENSE1",
+    "collectionNumber": "TDGS-ENSE1",
+    "setId": "ygo-the-duelist-genesis-special-edition-my3dez",
+    "setCode": "TDGS-ENSE1",
+    "setName": "The Duelist Genesis: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "54974237",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/54974237.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/54974237.jpg",
+    "artworkIds": [
+      54974237
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.79,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:27346636:TDGSENSE2:ygo-the-duelist-genesis-special-edition-my3dez:ygo-super-rare",
+    "cardId": "27346636",
+    "printingId": "yugioh:27346636:TDGSENSE2:ygo-the-duelist-genesis-special-edition-my3dez:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Gladiator Beast Heraklinos",
+    "number": "TDGS-ENSE2",
+    "collectionNumber": "TDGS-ENSE2",
+    "setId": "ygo-the-duelist-genesis-special-edition-my3dez",
+    "setCode": "TDGS-ENSE2",
+    "setName": "The Duelist Genesis: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Gladiator Beast",
+    "passcode": "27346636",
+    "type": "Fusion Monster",
+    "attribute": "FIRE",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 2800,
+    "image": "./assets/yugioh/thumbs/27346636.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/27346636.jpg",
+    "artworkIds": [
+      27346636
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.19,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:62271284:SP02EN004:ygo-cyberdark-impact-sneak-peek-participation-card-uc2mw8:ygo-ultra-rare",
+    "cardId": "62271284",
+    "printingId": "yugioh:62271284:SP02EN004:ygo-cyberdark-impact-sneak-peek-participation-card-uc2mw8:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Justi-Break",
+    "number": "SP02-EN004",
+    "collectionNumber": "SP02-EN004",
+    "setId": "ygo-cyberdark-impact-sneak-peek-participation-card-uc2mw8",
+    "setCode": "SP02-EN004",
+    "setName": "Cyberdark Impact Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "62271284",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/62271284.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/62271284.jpg",
+    "artworkIds": [
+      62271284
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.73,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

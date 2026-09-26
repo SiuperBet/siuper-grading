@@ -1,0 +1,34 @@
+[
+  {
+    "id": "yugioh:83764719:LARTEN074:ygo-the-lost-art-promotion-2024-h-5cuj32:ygo-ultra-rare",
+    "cardId": "83764719",
+    "printingId": "yugioh:83764719:LARTEN074:ygo-the-lost-art-promotion-2024-h-5cuj32:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Monster Reborn",
+    "number": "LART-EN074",
+    "collectionNumber": "LART-EN074",
+    "setId": "ygo-the-lost-art-promotion-2024-h-5cuj32",
+    "setCode": "LART-EN074",
+    "setName": "The Lost Art Promotion 2024 H",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "83764719",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/83764719.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/83764719.jpg",
+    "artworkIds": [
+      83764719,
+      83764718
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

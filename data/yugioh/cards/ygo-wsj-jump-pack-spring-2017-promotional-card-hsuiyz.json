@@ -1,0 +1,43 @@
+[
+  {
+    "id": "yugioh:10000000:JMPSEN004:ygo-wsj-jump-pack-spring-2017-promotional-card-hsuiyz:ygo-ultra-rare",
+    "cardId": "10000000",
+    "printingId": "yugioh:10000000:JMPSEN004:ygo-wsj-jump-pack-spring-2017-promotional-card-hsuiyz:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Obelisk the Tormentor",
+    "number": "JMPS-EN004",
+    "collectionNumber": "JMPS-EN004",
+    "setId": "ygo-wsj-jump-pack-spring-2017-promotional-card-hsuiyz",
+    "setCode": "JMPS-EN004",
+    "setName": "WSJ Jump Pack Spring 2017 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Egyptian God",
+    "passcode": "10000000",
+    "type": "Effect Monster",
+    "attribute": "DIVINE",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/10000000.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/10000000.jpg",
+    "artworkIds": [
+      10000000,
+      10000001,
+      10000002
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 30.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

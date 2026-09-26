@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:80304126:SDSCENSE1:ygo-spellcaster-s-command-structure-deck-special-edition-nkho1n:ygo-ultra-rare",
+    "cardId": "80304126",
+    "printingId": "yugioh:80304126:SDSCENSE1:ygo-spellcaster-s-command-structure-deck-special-edition-nkho1n:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Magician's Valkyria",
+    "number": "SDSC-ENSE1",
+    "collectionNumber": "SDSC-ENSE1",
+    "setId": "ygo-spellcaster-s-command-structure-deck-special-edition-nkho1n",
+    "setCode": "SDSC-ENSE1",
+    "setName": "Spellcaster's Command Structure Deck: Special Edition",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "80304126",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1600,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/80304126.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/80304126.jpg",
+    "artworkIds": [
+      80304126
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

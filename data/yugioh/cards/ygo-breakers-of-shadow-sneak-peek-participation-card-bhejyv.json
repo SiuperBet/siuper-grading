@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:2396042:BOSHENSP1:ygo-breakers-of-shadow-sneak-peek-participation-card-bhejyv:ygo-ultra-rare",
+    "cardId": "2396042",
+    "printingId": "yugioh:2396042:BOSHENSP1:ygo-breakers-of-shadow-sneak-peek-participation-card-bhejyv:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Steel Cavalry of Dinon",
+    "number": "BOSH-ENSP1",
+    "collectionNumber": "BOSH-ENSP1",
+    "setId": "ygo-breakers-of-shadow-sneak-peek-participation-card-bhejyv",
+    "setCode": "BOSH-ENSP1",
+    "setName": "Breakers of Shadow Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "2396042",
+    "type": "Pendulum Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1600,
+    "def": 2600,
+    "image": "./assets/yugioh/thumbs/2396042.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/2396042.jpg",
+    "artworkIds": [
+      2396042
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.13,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

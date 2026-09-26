@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:22061412:YG06EN001:ygo-yu-gi-oh-gx-volume-6-promotional-card-cgcikm:ygo-ultra-rare",
+    "cardId": "22061412",
+    "printingId": "yugioh:22061412:YG06EN001:ygo-yu-gi-oh-gx-volume-6-promotional-card-cgcikm:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Elemental HERO The Shining",
+    "number": "YG06-EN001",
+    "collectionNumber": "YG06-EN001",
+    "setId": "ygo-yu-gi-oh-gx-volume-6-promotional-card-cgcikm",
+    "setCode": "YG06-EN001",
+    "setName": "Yu-Gi-Oh! GX Volume 6 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Elemental HERO",
+    "passcode": "22061412",
+    "type": "Fusion Monster",
+    "attribute": "LIGHT",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2600,
+    "def": 2100,
+    "image": "./assets/yugioh/thumbs/22061412.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/22061412.jpg",
+    "artworkIds": [
+      22061412
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 11.74,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

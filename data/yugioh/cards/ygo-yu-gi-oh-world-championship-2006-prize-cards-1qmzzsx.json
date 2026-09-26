@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:501000004:WCPSEN601:ygo-yu-gi-oh-world-championship-2006-prize-cards-1qmzzsx:ygo-ultra-rare",
+    "cardId": "501000004",
+    "printingId": "yugioh:501000004:WCPSEN601:ygo-yu-gi-oh-world-championship-2006-prize-cards-1qmzzsx:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Testament of the Arcane Lords",
+    "number": "WCPS-EN601",
+    "collectionNumber": "WCPS-EN601",
+    "setId": "ygo-yu-gi-oh-world-championship-2006-prize-cards-1qmzzsx",
+    "setCode": "WCPS-EN601",
+    "setName": "Yu-Gi-Oh! World Championship 2006 prize cards",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "501000004",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/501000004.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/501000004.jpg",
+    "artworkIds": [
+      501000004
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

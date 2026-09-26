@@ -1,0 +1,34 @@
+[
+  {
+    "id": "yugioh:60643553:LARTEN024:ygo-the-lost-art-promotion-2020-l-12pqeke:ygo-ultra-rare",
+    "cardId": "60643553",
+    "printingId": "yugioh:60643553:LARTEN024:ygo-the-lost-art-promotion-2020-l-12pqeke:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Ghost Sister & Spooky Dogwood",
+    "number": "LART-EN024",
+    "collectionNumber": "LART-EN024",
+    "setId": "ygo-the-lost-art-promotion-2020-l-12pqeke",
+    "setCode": "LART-EN024",
+    "setName": "The Lost Art Promotion 2020 L",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "60643553",
+    "type": "Tuner Monster",
+    "attribute": "WATER",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/60643553.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/60643553.jpg",
+    "artworkIds": [
+      60643553,
+      60643554
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

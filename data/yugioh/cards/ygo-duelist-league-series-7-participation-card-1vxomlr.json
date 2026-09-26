@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:15270885:DL7EN001:ygo-duelist-league-series-7-participation-card-1vxomlr:ygo-super-rare",
+    "cardId": "15270885",
+    "printingId": "yugioh:15270885:DL7EN001:ygo-duelist-league-series-7-participation-card-1vxomlr:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Toon Goblin Attack Force",
+    "number": "DL7-EN001",
+    "collectionNumber": "DL7-EN001",
+    "setId": "ygo-duelist-league-series-7-participation-card-1vxomlr",
+    "setCode": "DL7-EN001",
+    "setName": "Duelist League Series 7 participation card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Toon",
+    "passcode": "15270885",
+    "type": "Toon Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 2300,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/15270885.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/15270885.jpg",
+    "artworkIds": [
+      15270885
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.64,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

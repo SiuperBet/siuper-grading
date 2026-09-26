@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:53582587:HL04EN006:ygo-hobby-league-4-participation-card-f-80d2dz:ygo-ultra-parallel-rare",
+    "cardId": "53582587",
+    "printingId": "yugioh:53582587:HL04EN006:ygo-hobby-league-4-participation-card-f-80d2dz:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Torrential Tribute",
+    "number": "HL04-EN006",
+    "collectionNumber": "HL04-EN006",
+    "setId": "ygo-hobby-league-4-participation-card-f-80d2dz",
+    "setCode": "HL04-EN006",
+    "setName": "Hobby League 4 participation card F",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "53582587",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/53582587.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/53582587.jpg",
+    "artworkIds": [
+      53582587
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 22.22,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

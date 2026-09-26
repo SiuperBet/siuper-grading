@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:64681432:JUMPEN028:ygo-shonen-jump-vol-7-issue-1-promotional-card-16rhqn6:ygo-ultra-rare",
+    "cardId": "64681432",
+    "printingId": "yugioh:64681432:JUMPEN028:ygo-shonen-jump-vol-7-issue-1-promotional-card-16rhqn6:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Gandora the Dragon of Destruction",
+    "number": "JUMP-EN028",
+    "collectionNumber": "JUMP-EN028",
+    "setId": "ygo-shonen-jump-vol-7-issue-1-promotional-card-16rhqn6",
+    "setCode": "JUMP-EN028",
+    "setName": "Shonen Jump Vol. 7, Issue 1 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Gandora",
+    "passcode": "64681432",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/64681432.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/64681432.jpg",
+    "artworkIds": [
+      64681432
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 11.52,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

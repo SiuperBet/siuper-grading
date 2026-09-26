@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:2460565:HL2EN005:ygo-hobby-league-2-participation-card-e-auo5vk:ygo-ultra-parallel-rare",
+    "cardId": "2460565",
+    "printingId": "yugioh:2460565:HL2EN005:ygo-hobby-league-2-participation-card-e-auo5vk:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Marauding Captain",
+    "number": "HL2-EN005",
+    "collectionNumber": "HL2-EN005",
+    "setId": "ygo-hobby-league-2-participation-card-e-auo5vk",
+    "setCode": "HL2-EN005",
+    "setName": "Hobby League 2 participation card E",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "2460565",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1200,
+    "def": 400,
+    "image": "./assets/yugioh/thumbs/2460565.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/2460565.jpg",
+    "artworkIds": [
+      2460565
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 16.98,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:95772051:ABYRENSP1:ygo-abyss-rising-sneak-peek-participation-card-1bkibej:ygo-ultra-rare",
+    "cardId": "95772051",
+    "printingId": "yugioh:95772051:ABYRENSP1:ygo-abyss-rising-sneak-peek-participation-card-1bkibej:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Ignoble Knight of Black Laundsallyn",
+    "number": "ABYR-ENSP1",
+    "collectionNumber": "ABYR-ENSP1",
+    "setId": "ygo-abyss-rising-sneak-peek-participation-card-1bkibej",
+    "setCode": "ABYR-ENSP1",
+    "setName": "Abyss Rising Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Noble Knight",
+    "passcode": "95772051",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2000,
+    "def": 800,
+    "image": "./assets/yugioh/thumbs/95772051.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/95772051.jpg",
+    "artworkIds": [
+      95772051
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.59,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

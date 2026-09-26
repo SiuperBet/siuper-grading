@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:5640330:PTDNENSE2:ygo-phantom-darkness-special-edition-1p6xjvw:ygo-super-rare",
+    "cardId": "5640330",
+    "printingId": "yugioh:5640330:PTDNENSE2:ygo-phantom-darkness-special-edition-1p6xjvw:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Hannibal Necromancer",
+    "number": "PTDN-ENSE2",
+    "collectionNumber": "PTDN-ENSE2",
+    "setId": "ygo-phantom-darkness-special-edition-1p6xjvw",
+    "setCode": "PTDN-ENSE2",
+    "setName": "Phantom Darkness: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "5640330",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1400,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/5640330.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/5640330.jpg",
+    "artworkIds": [
+      5640330
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.06,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:11508758:PTDNENSE1:ygo-phantom-darkness-special-edition-1p6xjvw:ygo-super-rare",
+    "cardId": "11508758",
+    "printingId": "yugioh:11508758:PTDNENSE1:ygo-phantom-darkness-special-edition-1p6xjvw:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Mutant Mindmaster",
+    "number": "PTDN-ENSE1",
+    "collectionNumber": "PTDN-ENSE1",
+    "setId": "ygo-phantom-darkness-special-edition-1p6xjvw",
+    "setCode": "PTDN-ENSE1",
+    "setName": "Phantom Darkness: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "11508758",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/11508758.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/11508758.jpg",
+    "artworkIds": [
+      11508758
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 1.66,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

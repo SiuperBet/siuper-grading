@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:68815132:LARTEN023:ygo-the-lost-art-promotion-2020-k-13jp7nb:ygo-ultra-rare",
+    "cardId": "68815132",
+    "printingId": "yugioh:68815132:LARTEN023:ygo-the-lost-art-promotion-2020-k-13jp7nb:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Harpie Dancer",
+    "number": "LART-EN023",
+    "collectionNumber": "LART-EN023",
+    "setId": "ygo-the-lost-art-promotion-2020-k-13jp7nb",
+    "setCode": "LART-EN023",
+    "setName": "The Lost Art Promotion 2020 K",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Harpie",
+    "passcode": "68815132",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1200,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/68815132.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/68815132.jpg",
+    "artworkIds": [
+      68815132
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

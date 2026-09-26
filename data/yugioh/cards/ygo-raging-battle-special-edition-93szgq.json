@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:1475311:RGBTENSE2:ygo-raging-battle-special-edition-93szgq:ygo-super-rare",
+    "cardId": "1475311",
+    "printingId": "yugioh:1475311:RGBTENSE2:ygo-raging-battle-special-edition-93szgq:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Allure of Darkness",
+    "number": "RGBT-ENSE2",
+    "collectionNumber": "RGBT-ENSE2",
+    "setId": "ygo-raging-battle-special-edition-93szgq",
+    "setCode": "RGBT-ENSE2",
+    "setName": "Raging Battle: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "1475311",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/1475311.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/1475311.jpg",
+    "artworkIds": [
+      1475311
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.08,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:92719314:RGBTENSE1:ygo-raging-battle-special-edition-93szgq:ygo-super-rare",
+    "cardId": "92719314",
+    "printingId": "yugioh:92719314:RGBTENSE1:ygo-raging-battle-special-edition-93szgq:ygo-super-rare",
+    "game": "yugioh",
+    "name": "The Dark Creator",
+    "number": "RGBT-ENSE1",
+    "collectionNumber": "RGBT-ENSE1",
+    "setId": "ygo-raging-battle-special-edition-93szgq",
+    "setCode": "RGBT-ENSE1",
+    "setName": "Raging Battle: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "92719314",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2300,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/92719314.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/92719314.jpg",
+    "artworkIds": [
+      92719314
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.46,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

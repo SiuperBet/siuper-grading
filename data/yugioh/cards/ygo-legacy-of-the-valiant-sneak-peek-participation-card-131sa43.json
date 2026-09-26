@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:11682713:LVALENSP1:ygo-legacy-of-the-valiant-sneak-peek-participation-card-131sa43:ygo-ultra-rare",
+    "cardId": "11682713",
+    "printingId": "yugioh:11682713:LVALENSP1:ygo-legacy-of-the-valiant-sneak-peek-participation-card-131sa43:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Sylvan Bladefender",
+    "number": "LVAL-ENSP1",
+    "collectionNumber": "LVAL-ENSP1",
+    "setId": "ygo-legacy-of-the-valiant-sneak-peek-participation-card-131sa43",
+    "setCode": "LVAL-ENSP1",
+    "setName": "Legacy of the Valiant Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Sylvan",
+    "passcode": "11682713",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1900,
+    "def": 700,
+    "image": "./assets/yugioh/thumbs/11682713.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/11682713.jpg",
+    "artworkIds": [
+      11682713
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 1.68,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

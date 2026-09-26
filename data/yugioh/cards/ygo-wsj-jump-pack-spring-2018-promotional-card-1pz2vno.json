@@ -1,0 +1,43 @@
+[
+  {
+    "id": "yugioh:10000010:JMPSEN006:ygo-wsj-jump-pack-spring-2018-promotional-card-1pz2vno:ygo-ultra-rare",
+    "cardId": "10000010",
+    "printingId": "yugioh:10000010:JMPSEN006:ygo-wsj-jump-pack-spring-2018-promotional-card-1pz2vno:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "The Winged Dragon of Ra",
+    "number": "JMPS-EN006",
+    "collectionNumber": "JMPS-EN006",
+    "setId": "ygo-wsj-jump-pack-spring-2018-promotional-card-1pz2vno",
+    "setCode": "JMPS-EN006",
+    "setName": "WSJ Jump Pack Spring 2018 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Egyptian God",
+    "passcode": "10000010",
+    "type": "Effect Monster",
+    "attribute": "DIVINE",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": -1,
+    "image": "./assets/yugioh/thumbs/10000010.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/10000010.jpg",
+    "artworkIds": [
+      10000010,
+      10000011,
+      10000012
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 78.83,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

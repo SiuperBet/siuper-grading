@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:88369727:LARTEN042:ygo-the-lost-art-promotion-2021-l-g7oq1l:ygo-ultra-rare",
+    "cardId": "88369727",
+    "printingId": "yugioh:88369727:LARTEN042:ygo-the-lost-art-promotion-2021-l-g7oq1l:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Foolish Return",
+    "number": "LART-EN042",
+    "collectionNumber": "LART-EN042",
+    "setId": "ygo-the-lost-art-promotion-2021-l-g7oq1l",
+    "setCode": "LART-EN042",
+    "setName": "The Lost Art Promotion 2021 L",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "88369727",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/88369727.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/88369727.jpg",
+    "artworkIds": [
+      88369727
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

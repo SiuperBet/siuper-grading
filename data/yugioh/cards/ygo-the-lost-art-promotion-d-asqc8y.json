@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:33396948:LARTEN004:ygo-the-lost-art-promotion-d-asqc8y:ygo-ultra-rare",
+    "cardId": "33396948",
+    "printingId": "yugioh:33396948:LARTEN004:ygo-the-lost-art-promotion-d-asqc8y:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Exodia the Forbidden One",
+    "number": "LART-EN004",
+    "collectionNumber": "LART-EN004",
+    "setId": "ygo-the-lost-art-promotion-d-asqc8y",
+    "setCode": "LART-EN004",
+    "setName": "The Lost Art Promotion D",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Exodia",
+    "passcode": "33396948",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1000,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/33396948.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/33396948.jpg",
+    "artworkIds": [
+      33396948
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 42.75,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

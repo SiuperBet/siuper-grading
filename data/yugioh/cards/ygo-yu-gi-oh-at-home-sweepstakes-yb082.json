@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:68007326:SBPREN002:ygo-yu-gi-oh-at-home-sweepstakes-yb082:ygo-secret-rare",
+    "cardId": "68007326",
+    "printingId": "yugioh:68007326:SBPREN002:ygo-yu-gi-oh-at-home-sweepstakes-yb082:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Guardian Angel Joan",
+    "number": "SBPR-EN002",
+    "collectionNumber": "SBPR-EN002",
+    "setId": "ygo-yu-gi-oh-at-home-sweepstakes-yb082",
+    "setCode": "SBPR-EN002",
+    "setName": "Yu-Gi-Oh! at Home Sweepstakes",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "Fairy",
+    "passcode": "68007326",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2800,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/68007326.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/68007326.jpg",
+    "artworkIds": [
+      68007326
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

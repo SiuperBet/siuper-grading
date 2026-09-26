@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:31036355:HL03EN002:ygo-hobby-league-3-participation-card-b-1ss1ho8:ygo-ultra-parallel-rare",
+    "cardId": "31036355",
+    "printingId": "yugioh:31036355:HL03EN002:ygo-hobby-league-3-participation-card-b-1ss1ho8:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Creature Swap",
+    "number": "HL03-EN002",
+    "collectionNumber": "HL03-EN002",
+    "setId": "ygo-hobby-league-3-participation-card-b-1ss1ho8",
+    "setCode": "HL03-EN002",
+    "setName": "Hobby League 3 participation card B",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "31036355",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/31036355.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/31036355.jpg",
+    "artworkIds": [
+      31036355
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 18.83,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "yugioh:89631139:2020EN001:ygo-kc-grand-tournament-prize-card-1qvb4g6:ygo-extra-secret-rare",
+    "cardId": "89631139",
+    "printingId": "yugioh:89631139:2020EN001:ygo-kc-grand-tournament-prize-card-1qvb4g6:ygo-extra-secret-rare",
+    "game": "yugioh",
+    "name": "Blue-Eyes White Dragon",
+    "number": "2020-EN001",
+    "collectionNumber": "2020-EN001",
+    "setId": "ygo-kc-grand-tournament-prize-card-1qvb4g6",
+    "setCode": "2020-EN001",
+    "setName": "KC Grand Tournament prize card",
+    "rarity": "Extra Secret Rare",
+    "edition": "",
+    "archetype": "Blue-Eyes",
+    "passcode": "89631139",
+    "type": "Normal Monster",
+    "attribute": "LIGHT",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/89631139.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/89631139.jpg",
+    "artworkIds": [
+      89631139,
+      89631140,
+      89631141,
+      89631142,
+      89631143,
+      89631144,
+      89631145,
+      89631146
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

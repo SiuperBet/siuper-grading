@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:39037517:SOVRENSP1:ygo-stardust-overdrive-sneak-peek-participation-card-v3ucq3:ygo-ultra-rare",
+    "cardId": "39037517",
+    "printingId": "yugioh:39037517:SOVRENSP1:ygo-stardust-overdrive-sneak-peek-participation-card-v3ucq3:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Koa'ki Meiru Beetle",
+    "number": "SOVR-ENSP1",
+    "collectionNumber": "SOVR-ENSP1",
+    "setId": "ygo-stardust-overdrive-sneak-peek-participation-card-v3ucq3",
+    "setCode": "SOVR-ENSP1",
+    "setName": "Stardust Overdrive Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Koa'ki Meiru",
+    "passcode": "39037517",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1900,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/39037517.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/39037517.jpg",
+    "artworkIds": [
+      39037517
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 1.19,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

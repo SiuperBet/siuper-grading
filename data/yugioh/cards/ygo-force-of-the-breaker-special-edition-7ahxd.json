@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:70969517:FOTBENSE1:ygo-force-of-the-breaker-special-edition-7ahxd:ygo-super-rare",
+    "cardId": "70969517",
+    "printingId": "yugioh:70969517:FOTBENSE1:ygo-force-of-the-breaker-special-edition-7ahxd:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Phantom Beast Rock-Lizard",
+    "number": "FOTB-ENSE1",
+    "collectionNumber": "FOTB-ENSE1",
+    "setId": "ygo-force-of-the-breaker-special-edition-7ahxd",
+    "setCode": "FOTB-ENSE1",
+    "setName": "Force of the Breaker: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "70969517",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/70969517.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/70969517.jpg",
+    "artworkIds": [
+      70969517
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.17,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:18430390:FOTBENSE2:ygo-force-of-the-breaker-special-edition-7ahxd:ygo-super-rare",
+    "cardId": "18430390",
+    "printingId": "yugioh:18430390:FOTBENSE2:ygo-force-of-the-breaker-special-edition-7ahxd:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Winged Rhynos",
+    "number": "FOTB-ENSE2",
+    "collectionNumber": "FOTB-ENSE2",
+    "setId": "ygo-force-of-the-breaker-special-edition-7ahxd",
+    "setCode": "FOTB-ENSE2",
+    "setName": "Force of the Breaker: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "18430390",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 500,
+    "image": "./assets/yugioh/thumbs/18430390.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/18430390.jpg",
+    "artworkIds": [
+      18430390
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.41,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

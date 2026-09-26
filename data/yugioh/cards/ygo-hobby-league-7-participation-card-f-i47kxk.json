@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:13839120:HL07EN006:ygo-hobby-league-7-participation-card-f-i47kxk:ygo-ultra-parallel-rare",
+    "cardId": "13839120",
+    "printingId": "yugioh:13839120:HL07EN006:ygo-hobby-league-7-participation-card-f-i47kxk:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Yellow Gadget",
+    "number": "HL07-EN006",
+    "collectionNumber": "HL07-EN006",
+    "setId": "ygo-hobby-league-7-participation-card-f-i47kxk",
+    "setCode": "HL07-EN006",
+    "setName": "Hobby League 7 participation card F",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "Gadget",
+    "passcode": "13839120",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1200,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/13839120.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/13839120.jpg",
+    "artworkIds": [
+      13839120
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 14.62,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

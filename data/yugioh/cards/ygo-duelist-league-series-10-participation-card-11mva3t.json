@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:20101223:DL10EN001:ygo-duelist-league-series-10-participation-card-11mva3t:ygo-super-rare",
+    "cardId": "20101223",
+    "printingId": "yugioh:20101223:DL10EN001:ygo-duelist-league-series-10-participation-card-11mva3t:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Breath of Light",
+    "number": "DL10-EN001",
+    "collectionNumber": "DL10-EN001",
+    "setId": "ygo-duelist-league-series-10-participation-card-11mva3t",
+    "setCode": "DL10-EN001",
+    "setName": "Duelist League Series 10 participation card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "20101223",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/20101223.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/20101223.jpg",
+    "artworkIds": [
+      20101223
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 97.8,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

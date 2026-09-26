@@ -1,0 +1,34 @@
+[
+  {
+    "id": "yugioh:95440946:LARTEN066:ygo-the-lost-art-promotion-2024-a-3exb89:ygo-ultra-rare",
+    "cardId": "95440946",
+    "printingId": "yugioh:95440946:LARTEN066:ygo-the-lost-art-promotion-2024-a-3exb89:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Eldlich the Golden Lord",
+    "number": "LART-EN066",
+    "collectionNumber": "LART-EN066",
+    "setId": "ygo-the-lost-art-promotion-2024-a-3exb89",
+    "setCode": "LART-EN066",
+    "setName": "The Lost Art Promotion 2024 A",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Eldlich",
+    "passcode": "95440946",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 2800,
+    "image": "./assets/yugioh/thumbs/95440946.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/95440946.jpg",
+    "artworkIds": [
+      95440946,
+      95440947
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

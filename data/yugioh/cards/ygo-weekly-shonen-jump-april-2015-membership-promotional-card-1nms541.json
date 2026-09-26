@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:1686814:JUMPEN072:ygo-weekly-shonen-jump-april-2015-membership-promotional-card-1nms541:ygo-ultra-rare",
+    "cardId": "1686814",
+    "printingId": "yugioh:1686814:JUMPEN072:ygo-weekly-shonen-jump-april-2015-membership-promotional-card-1nms541:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Ultimaya Tzolkin",
+    "number": "JUMP-EN072",
+    "collectionNumber": "JUMP-EN072",
+    "setId": "ygo-weekly-shonen-jump-april-2015-membership-promotional-card-1nms541",
+    "setCode": "JUMP-EN072",
+    "setName": "Weekly Shonen Jump April 2015 membership promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Power Tool",
+    "passcode": "1686814",
+    "type": "Synchro Monster",
+    "attribute": "DARK",
+    "level": 0,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/1686814.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/1686814.jpg",
+    "artworkIds": [
+      1686814
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 32.44,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:41172955:HL05EN002:ygo-hobby-league-5-participation-card-b-1p157km:ygo-ultra-parallel-rare",
+    "cardId": "41172955",
+    "printingId": "yugioh:41172955:HL05EN002:ygo-hobby-league-5-participation-card-b-1p157km:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Green Gadget",
+    "number": "HL05-EN002",
+    "collectionNumber": "HL05-EN002",
+    "setId": "ygo-hobby-league-5-participation-card-b-1p157km",
+    "setCode": "HL05-EN002",
+    "setName": "Hobby League 5 participation card B",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "Gadget",
+    "passcode": "41172955",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1400,
+    "def": 600,
+    "image": "./assets/yugioh/thumbs/41172955.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/41172955.jpg",
+    "artworkIds": [
+      41172955
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 10.97,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

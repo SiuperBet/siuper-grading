@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:61204971:MF01EN001:ygo-mattel-action-figure-promotional-cards-series-1-1mrveor:ygo-normal-parallel-rare",
+    "cardId": "61204971",
+    "printingId": "yugioh:61204971:MF01EN001:ygo-mattel-action-figure-promotional-cards-series-1-1mrveor:ygo-normal-parallel-rare",
+    "game": "yugioh",
+    "name": "Elemental HERO Thunder Giant",
+    "number": "MF01-EN001",
+    "collectionNumber": "MF01-EN001",
+    "setId": "ygo-mattel-action-figure-promotional-cards-series-1-1mrveor",
+    "setCode": "MF01-EN001",
+    "setName": "Mattel Action Figure promotional cards: Series 1",
+    "rarity": "Normal Parallel Rare",
+    "edition": "",
+    "archetype": "Elemental HERO",
+    "passcode": "61204971",
+    "type": "Fusion Monster",
+    "attribute": "LIGHT",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/61204971.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/61204971.jpg",
+    "artworkIds": [
+      61204971
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

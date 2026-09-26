@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:77235086:LARTEN049:ygo-the-lost-art-promotion-2022-g-2f6mkp:ygo-ultra-rare",
+    "cardId": "77235086",
+    "printingId": "yugioh:77235086:LARTEN049:ygo-the-lost-art-promotion-2022-g-2f6mkp:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Cyber Angel Benten",
+    "number": "LART-EN049",
+    "collectionNumber": "LART-EN049",
+    "setId": "ygo-the-lost-art-promotion-2022-g-2f6mkp",
+    "setCode": "LART-EN049",
+    "setName": "The Lost Art Promotion 2022 G",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Cyber Angel",
+    "passcode": "77235086",
+    "type": "Ritual Effect Monster",
+    "attribute": "LIGHT",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/77235086.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/77235086.jpg",
+    "artworkIds": [
+      77235086
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

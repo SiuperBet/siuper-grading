@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:23562407:CBLZENSP1:ygo-cosmo-blazer-sneak-peek-participation-card-cm0pxe:ygo-ultra-rare",
+    "cardId": "23562407",
+    "printingId": "yugioh:23562407:CBLZENSP1:ygo-cosmo-blazer-sneak-peek-participation-card-cm0pxe:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Noble Arms - Caliburn",
+    "number": "CBLZ-ENSP1",
+    "collectionNumber": "CBLZ-ENSP1",
+    "setId": "ygo-cosmo-blazer-sneak-peek-participation-card-cm0pxe",
+    "setCode": "CBLZ-ENSP1",
+    "setName": "Cosmo Blazer Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Noble Knight",
+    "passcode": "23562407",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/23562407.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/23562407.jpg",
+    "artworkIds": [
+      23562407
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.93,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

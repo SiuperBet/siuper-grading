@@ -1,0 +1,34 @@
+[
+  {
+    "id": "yugioh:39751094:LARTEN076:ygo-the-lost-art-promotion-2025-a-khgvlq:ygo-ultra-rare",
+    "cardId": "39751094",
+    "printingId": "yugioh:39751094:LARTEN076:ygo-the-lost-art-promotion-2025-a-khgvlq:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Otohime",
+    "number": "LART-EN076",
+    "collectionNumber": "LART-EN076",
+    "setId": "ygo-the-lost-art-promotion-2025-a-khgvlq",
+    "setCode": "LART-EN076",
+    "setName": "The Lost Art Promotion 2025 A",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "39751094",
+    "type": "Spirit Monster",
+    "attribute": "LIGHT",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 100,
+    "image": "./assets/yugioh/thumbs/39751094.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/39751094.jpg",
+    "artworkIds": [
+      39751094,
+      39751093
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

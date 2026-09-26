@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:11066358:JOTLENSP1:ygo-judgment-of-the-light-sneak-peek-participation-card-fyxwal:ygo-ultra-rare",
+    "cardId": "11066358",
+    "printingId": "yugioh:11066358:JOTLENSP1:ygo-judgment-of-the-light-sneak-peek-participation-card-fyxwal:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Galaxy Serpent",
+    "number": "JOTL-ENSP1",
+    "collectionNumber": "JOTL-ENSP1",
+    "setId": "ygo-judgment-of-the-light-sneak-peek-participation-card-fyxwal",
+    "setCode": "JOTL-ENSP1",
+    "setName": "Judgment of the Light Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "11066358",
+    "type": "Normal Tuner Monster",
+    "attribute": "LIGHT",
+    "level": 2,
+    "rank": null,
+    "link": null,
+    "atk": 1000,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/11066358.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/11066358.jpg",
+    "artworkIds": [
+      11066358
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.06,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

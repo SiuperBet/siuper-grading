@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:73915051:HL05EN006:ygo-hobby-league-5-participation-card-f-1q53mci:ygo-ultra-parallel-rare",
+    "cardId": "73915051",
+    "printingId": "yugioh:73915051:HL05EN006:ygo-hobby-league-5-participation-card-f-1q53mci:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Scapegoat",
+    "number": "HL05-EN006",
+    "collectionNumber": "HL05-EN006",
+    "setId": "ygo-hobby-league-5-participation-card-f-1q53mci",
+    "setCode": "HL05-EN006",
+    "setName": "Hobby League 5 participation card F",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "73915051",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/73915051.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/73915051.jpg",
+    "artworkIds": [
+      73915051
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 19.27,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

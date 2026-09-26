@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:89907227:YA04EN001:ygo-yu-gi-oh-arc-v-volume-4-promotional-card-9puk66:ygo-ultra-rare",
+    "cardId": "89907227",
+    "printingId": "yugioh:89907227:YA04EN001:ygo-yu-gi-oh-arc-v-volume-4-promotional-card-9puk66:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "White Aura Bihamut",
+    "number": "YA04-EN001",
+    "collectionNumber": "YA04-EN001",
+    "setId": "ygo-yu-gi-oh-arc-v-volume-4-promotional-card-9puk66",
+    "setCode": "YA04-EN001",
+    "setName": "Yu-Gi-Oh! ARC-V Volume 4 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "White",
+    "passcode": "89907227",
+    "type": "Synchro Monster",
+    "attribute": "WATER",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 3300,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/89907227.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/89907227.jpg",
+    "artworkIds": [
+      89907227
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 10.6,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

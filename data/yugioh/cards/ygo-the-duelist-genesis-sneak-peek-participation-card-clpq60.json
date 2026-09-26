@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:69514125:TDGSENSP1:ygo-the-duelist-genesis-sneak-peek-participation-card-clpq60:ygo-super-rare",
+    "cardId": "69514125",
+    "printingId": "yugioh:69514125:TDGSENSP1:ygo-the-duelist-genesis-sneak-peek-participation-card-clpq60:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Avenging Knight Parshath",
+    "number": "TDGS-ENSP1",
+    "collectionNumber": "TDGS-ENSP1",
+    "setId": "ygo-the-duelist-genesis-sneak-peek-participation-card-clpq60",
+    "setCode": "TDGS-ENSP1",
+    "setName": "The Duelist Genesis Sneak Peek Participation Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Parshath",
+    "passcode": "69514125",
+    "type": "Synchro Monster",
+    "attribute": "LIGHT",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2600,
+    "def": 2100,
+    "image": "./assets/yugioh/thumbs/69514125.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/69514125.jpg",
+    "artworkIds": [
+      69514125
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 16.22,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

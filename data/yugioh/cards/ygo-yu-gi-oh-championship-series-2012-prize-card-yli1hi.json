@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:29515122:YCSWEN005:ygo-yu-gi-oh-championship-series-2012-prize-card-yli1hi:ygo-super-rare",
+    "cardId": "29515122",
+    "printingId": "yugioh:29515122:YCSWEN005:ygo-yu-gi-oh-championship-series-2012-prize-card-yli1hi:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Digvorzhak, King of Heavy Industry",
+    "number": "YCSW-EN005",
+    "collectionNumber": "YCSW-EN005",
+    "setId": "ygo-yu-gi-oh-championship-series-2012-prize-card-yli1hi",
+    "setCode": "YCSW-EN005",
+    "setName": "Yu-Gi-Oh! Championship Series 2012 Prize Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "29515122",
+    "type": "XYZ Monster",
+    "attribute": "EARTH",
+    "level": 5,
+    "rank": 5,
+    "link": null,
+    "atk": 3200,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/29515122.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/29515122.jpg",
+    "artworkIds": [
+      29515122
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 1931.93,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:29515122:YCSWEN005:ygo-yu-gi-oh-championship-series-2012-prize-card-yli1hi:ygo-ultra-rare",
+    "cardId": "29515122",
+    "printingId": "yugioh:29515122:YCSWEN005:ygo-yu-gi-oh-championship-series-2012-prize-card-yli1hi:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Digvorzhak, King of Heavy Industry",
+    "number": "YCSW-EN005",
+    "collectionNumber": "YCSW-EN005",
+    "setId": "ygo-yu-gi-oh-championship-series-2012-prize-card-yli1hi",
+    "setCode": "YCSW-EN005",
+    "setName": "Yu-Gi-Oh! Championship Series 2012 Prize Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "29515122",
+    "type": "XYZ Monster",
+    "attribute": "EARTH",
+    "level": 5,
+    "rank": 5,
+    "link": null,
+    "atk": 3200,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/29515122.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/29515122.jpg",
+    "artworkIds": [
+      29515122
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2242.58,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:70865988:LARTEN075:ygo-the-lost-art-promotion-2025-f-lbfoon:ygo-ultra-rare",
+    "cardId": "70865988",
+    "printingId": "yugioh:70865988:LARTEN075:ygo-the-lost-art-promotion-2025-f-lbfoon:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Full Salvo",
+    "number": "LART-EN075",
+    "collectionNumber": "LART-EN075",
+    "setId": "ygo-the-lost-art-promotion-2025-f-lbfoon",
+    "setCode": "LART-EN075",
+    "setName": "The Lost Art Promotion 2025 F",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "70865988",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/70865988.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/70865988.jpg",
+    "artworkIds": [
+      70865988
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

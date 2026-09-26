@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:51452091:HL03EN006:ygo-hobby-league-3-participation-card-f-1tvzwg4:ygo-ultra-parallel-rare",
+    "cardId": "51452091",
+    "printingId": "yugioh:51452091:HL03EN006:ygo-hobby-league-3-participation-card-f-1tvzwg4:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Royal Decree",
+    "number": "HL03-EN006",
+    "collectionNumber": "HL03-EN006",
+    "setId": "ygo-hobby-league-3-participation-card-f-1tvzwg4",
+    "setCode": "HL03-EN006",
+    "setName": "Hobby League 3 participation card F",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "51452091",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/51452091.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/51452091.jpg",
+    "artworkIds": [
+      51452091
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 19.44,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

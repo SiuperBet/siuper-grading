@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:37115575:JUMPEN048:ygo-shonen-jump-vol-9-issue-3-promotional-card-9jojbm:ygo-ultra-rare",
+    "cardId": "37115575",
+    "printingId": "yugioh:37115575:JUMPEN048:ygo-shonen-jump-vol-9-issue-3-promotional-card-9jojbm:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Malefic Truth Dragon",
+    "number": "JUMP-EN048",
+    "collectionNumber": "JUMP-EN048",
+    "setId": "ygo-shonen-jump-vol-9-issue-3-promotional-card-9jojbm",
+    "setCode": "JUMP-EN048",
+    "setName": "Shonen Jump Vol. 9, Issue 3 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Malefic",
+    "passcode": "37115575",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 12,
+    "rank": null,
+    "link": null,
+    "atk": 5000,
+    "def": 5000,
+    "image": "./assets/yugioh/thumbs/37115575.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/37115575.jpg",
+    "artworkIds": [
+      37115575
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 14.32,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

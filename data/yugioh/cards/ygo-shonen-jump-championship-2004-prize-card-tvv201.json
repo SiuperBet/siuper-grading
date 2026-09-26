@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:69015963:SJCEN001:ygo-shonen-jump-championship-2004-prize-card-tvv201:ygo-ultra-rare",
+    "cardId": "69015963",
+    "printingId": "yugioh:69015963:SJCEN001:ygo-shonen-jump-championship-2004-prize-card-tvv201:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Cyber-Stein",
+    "number": "SJC-EN001",
+    "collectionNumber": "SJC-EN001",
+    "setId": "ygo-shonen-jump-championship-2004-prize-card-tvv201",
+    "setCode": "SJC-EN001",
+    "setName": "Shonen Jump Championship 2004 Prize Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "69015963",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 2,
+    "rank": null,
+    "link": null,
+    "atk": 700,
+    "def": 500,
+    "image": "./assets/yugioh/thumbs/69015963.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/69015963.jpg",
+    "artworkIds": [
+      69015963
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 24067.8,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

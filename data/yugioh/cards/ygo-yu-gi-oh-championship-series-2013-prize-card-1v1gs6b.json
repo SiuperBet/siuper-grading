@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:63746411:YCSWEN006:ygo-yu-gi-oh-championship-series-2013-prize-card-1v1gs6b:ygo-super-rare",
+    "cardId": "63746411",
+    "printingId": "yugioh:63746411:YCSWEN006:ygo-yu-gi-oh-championship-series-2013-prize-card-1v1gs6b:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Number 106: Giant Hand",
+    "number": "YCSW-EN006",
+    "collectionNumber": "YCSW-EN006",
+    "setId": "ygo-yu-gi-oh-championship-series-2013-prize-card-1v1gs6b",
+    "setCode": "YCSW-EN006",
+    "setName": "Yu-Gi-Oh! Championship Series 2013 Prize Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "63746411",
+    "type": "XYZ Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": 4,
+    "link": null,
+    "atk": 2000,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/63746411.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/63746411.jpg",
+    "artworkIds": [
+      63746411
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 1952.54,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:63746411:YCSWEN006:ygo-yu-gi-oh-championship-series-2013-prize-card-1v1gs6b:ygo-ultra-rare",
+    "cardId": "63746411",
+    "printingId": "yugioh:63746411:YCSWEN006:ygo-yu-gi-oh-championship-series-2013-prize-card-1v1gs6b:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Number 106: Giant Hand",
+    "number": "YCSW-EN006",
+    "collectionNumber": "YCSW-EN006",
+    "setId": "ygo-yu-gi-oh-championship-series-2013-prize-card-1v1gs6b",
+    "setCode": "YCSW-EN006",
+    "setName": "Yu-Gi-Oh! Championship Series 2013 Prize Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "63746411",
+    "type": "XYZ Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": 4,
+    "link": null,
+    "atk": 2000,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/63746411.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/63746411.jpg",
+    "artworkIds": [
+      63746411
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 8915.68,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

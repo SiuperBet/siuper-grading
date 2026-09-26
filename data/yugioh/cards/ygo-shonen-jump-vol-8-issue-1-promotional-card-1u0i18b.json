@@ -1,0 +1,43 @@
+[
+  {
+    "id": "yugioh:10000000:JUMPEN037:ygo-shonen-jump-vol-8-issue-1-promotional-card-1u0i18b:ygo-ultra-rare",
+    "cardId": "10000000",
+    "printingId": "yugioh:10000000:JUMPEN037:ygo-shonen-jump-vol-8-issue-1-promotional-card-1u0i18b:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Obelisk the Tormentor",
+    "number": "JUMP-EN037",
+    "collectionNumber": "JUMP-EN037",
+    "setId": "ygo-shonen-jump-vol-8-issue-1-promotional-card-1u0i18b",
+    "setCode": "JUMP-EN037",
+    "setName": "Shonen Jump Vol. 8, Issue 1 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Egyptian God",
+    "passcode": "10000000",
+    "type": "Effect Monster",
+    "attribute": "DIVINE",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/10000000.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/10000000.jpg",
+    "artworkIds": [
+      10000000,
+      10000001,
+      10000002
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 15.71,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

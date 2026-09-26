@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:53982768:LARTEN010:ygo-the-lost-art-promotion-j-bcpjmw:ygo-ultra-rare",
+    "cardId": "53982768",
+    "printingId": "yugioh:53982768:LARTEN010:ygo-the-lost-art-promotion-j-bcpjmw:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Dark Ruler Ha Des",
+    "number": "LART-EN010",
+    "collectionNumber": "LART-EN010",
+    "setId": "ygo-the-lost-art-promotion-j-bcpjmw",
+    "setCode": "LART-EN010",
+    "setName": "The Lost Art Promotion J",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "53982768",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2450,
+    "def": 1600,
+    "image": "./assets/yugioh/thumbs/53982768.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/53982768.jpg",
+    "artworkIds": [
+      53982768
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:94381039:LARTEN036:ygo-the-lost-art-promotion-2021-f-hvmc7f:ygo-ultra-rare",
+    "cardId": "94381039",
+    "printingId": "yugioh:94381039:LARTEN036:ygo-the-lost-art-promotion-2021-f-hvmc7f:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Celestia, Lightsworn Angel",
+    "number": "LART-EN036",
+    "collectionNumber": "LART-EN036",
+    "setId": "ygo-the-lost-art-promotion-2021-f-hvmc7f",
+    "setCode": "LART-EN036",
+    "setName": "The Lost Art Promotion 2021 F",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Lightsworn",
+    "passcode": "94381039",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2300,
+    "def": 200,
+    "image": "./assets/yugioh/thumbs/94381039.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/94381039.jpg",
+    "artworkIds": [
+      94381039
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

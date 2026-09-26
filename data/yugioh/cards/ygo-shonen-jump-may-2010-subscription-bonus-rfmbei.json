@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:88071625:JUMPEN041:ygo-shonen-jump-may-2010-subscription-bonus-rfmbei:ygo-ultra-rare",
+    "cardId": "88071625",
+    "printingId": "yugioh:88071625:JUMPEN041:ygo-shonen-jump-may-2010-subscription-bonus-rfmbei:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "The Tyrant Neptune",
+    "number": "JUMP-EN041",
+    "collectionNumber": "JUMP-EN041",
+    "setId": "ygo-shonen-jump-may-2010-subscription-bonus-rfmbei",
+    "setCode": "JUMP-EN041",
+    "setName": "Shonen Jump May 2010 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "88071625",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/88071625.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/88071625.jpg",
+    "artworkIds": [
+      88071625
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 47.97,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:66094973:JUMPEN042:ygo-shonen-jump-may-2010-subscription-bonus-rfmbei:ygo-ultra-rare",
+    "cardId": "66094973",
+    "printingId": "yugioh:66094973:JUMPEN042:ygo-shonen-jump-may-2010-subscription-bonus-rfmbei:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Transforming Sphere",
+    "number": "JUMP-EN042",
+    "collectionNumber": "JUMP-EN042",
+    "setId": "ygo-shonen-jump-may-2010-subscription-bonus-rfmbei",
+    "setCode": "JUMP-EN042",
+    "setName": "Shonen Jump May 2010 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "66094973",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 100,
+    "def": 100,
+    "image": "./assets/yugioh/thumbs/66094973.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/66094973.jpg",
+    "artworkIds": [
+      66094973
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 8.53,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

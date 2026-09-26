@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:5861892:JUMPEN027:ygo-shonen-jump-vol-6-issue-12-promotional-card-bcpacl:ygo-ultra-rare",
+    "cardId": "5861892",
+    "printingId": "yugioh:5861892:JUMPEN027:ygo-shonen-jump-vol-6-issue-12-promotional-card-bcpacl:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Arcana Force EX - The Light Ruler",
+    "number": "JUMP-EN027",
+    "collectionNumber": "JUMP-EN027",
+    "setId": "ygo-shonen-jump-vol-6-issue-12-promotional-card-bcpacl",
+    "setCode": "JUMP-EN027",
+    "setName": "Shonen Jump Vol. 6, Issue 12 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Arcana Force",
+    "passcode": "5861892",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/5861892.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/5861892.jpg",
+    "artworkIds": [
+      5861892
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.91,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

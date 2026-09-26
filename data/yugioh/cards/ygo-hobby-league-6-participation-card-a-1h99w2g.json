@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:71044499:HL06EN001:ygo-hobby-league-6-participation-card-a-1h99w2g:ygo-ultra-parallel-rare",
+    "cardId": "71044499",
+    "printingId": "yugioh:71044499:HL06EN001:ygo-hobby-league-6-participation-card-a-1h99w2g:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Nobleman of Crossout",
+    "number": "HL06-EN001",
+    "collectionNumber": "HL06-EN001",
+    "setId": "ygo-hobby-league-6-participation-card-a-1h99w2g",
+    "setCode": "HL06-EN001",
+    "setName": "Hobby League 6 participation card A",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "71044499",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/71044499.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/71044499.jpg",
+    "artworkIds": [
+      71044499
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 20.79,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

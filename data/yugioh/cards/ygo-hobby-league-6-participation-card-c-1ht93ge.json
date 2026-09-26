@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:7572887:HL06EN003:ygo-hobby-league-6-participation-card-c-1ht93ge:ygo-ultra-parallel-rare",
+    "cardId": "7572887",
+    "printingId": "yugioh:7572887:HL06EN003:ygo-hobby-league-6-participation-card-c-1ht93ge:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "D.D. Warrior Lady",
+    "number": "HL06-EN003",
+    "collectionNumber": "HL06-EN003",
+    "setId": "ygo-hobby-league-6-participation-card-c-1ht93ge",
+    "setCode": "HL06-EN003",
+    "setName": "Hobby League 6 participation card C",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "D.D.",
+    "passcode": "7572887",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1500,
+    "def": 1600,
+    "image": "./assets/yugioh/thumbs/7572887.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/7572887.jpg",
+    "artworkIds": [
+      7572887
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 19.53,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

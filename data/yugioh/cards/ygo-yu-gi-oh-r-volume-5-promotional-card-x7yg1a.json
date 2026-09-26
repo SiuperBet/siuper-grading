@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:17573739:YR05EN001:ygo-yu-gi-oh-r-volume-5-promotional-card-x7yg1a:ygo-ultra-rare",
+    "cardId": "17573739",
+    "printingId": "yugioh:17573739:YR05EN001:ygo-yu-gi-oh-r-volume-5-promotional-card-x7yg1a:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Alector, Sovereign of Birds",
+    "number": "YR05-EN001",
+    "collectionNumber": "YR05-EN001",
+    "setId": "ygo-yu-gi-oh-r-volume-5-promotional-card-x7yg1a",
+    "setCode": "YR05-EN001",
+    "setName": "Yu-Gi-Oh! R Volume 5 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "17573739",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/17573739.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/17573739.jpg",
+    "artworkIds": [
+      17573739
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.71,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

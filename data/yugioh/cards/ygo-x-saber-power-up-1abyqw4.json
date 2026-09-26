@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:78422252:XSPUEN001:ygo-x-saber-power-up-1abyqw4:ygo-super-rare",
+    "cardId": "78422252",
+    "printingId": "yugioh:78422252:XSPUEN001:ygo-x-saber-power-up-1abyqw4:ygo-super-rare",
+    "game": "yugioh",
+    "name": "XX-Saber Fulhelmknight",
+    "number": "XSPU-EN001",
+    "collectionNumber": "XSPU-EN001",
+    "setId": "ygo-x-saber-power-up-1abyqw4",
+    "setCode": "XSPU-EN001",
+    "setName": "X-Saber Power-Up",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "X-Saber",
+    "passcode": "78422252",
+    "type": "Tuner Monster",
+    "attribute": "EARTH",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1300,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/78422252.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/78422252.jpg",
+    "artworkIds": [
+      78422252
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.04,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

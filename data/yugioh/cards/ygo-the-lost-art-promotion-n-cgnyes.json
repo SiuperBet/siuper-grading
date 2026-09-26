@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:41420027:LARTEN014:ygo-the-lost-art-promotion-n-cgnyes:ygo-ultra-rare",
+    "cardId": "41420027",
+    "printingId": "yugioh:41420027:LARTEN014:ygo-the-lost-art-promotion-n-cgnyes:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Solemn Judgment",
+    "number": "LART-EN014",
+    "collectionNumber": "LART-EN014",
+    "setId": "ygo-the-lost-art-promotion-n-cgnyes",
+    "setCode": "LART-EN014",
+    "setName": "The Lost Art Promotion N",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Solemn",
+    "passcode": "41420027",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/41420027.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/41420027.jpg",
+    "artworkIds": [
+      41420027
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

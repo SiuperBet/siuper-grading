@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:68182934:COREENSP1:ygo-clash-of-rebellions-sneak-peek-participation-card-we7gz2:ygo-ultra-rare",
+    "cardId": "68182934",
+    "printingId": "yugioh:68182934:COREENSP1:ygo-clash-of-rebellions-sneak-peek-participation-card-we7gz2:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Sky Dragoons of Draconia",
+    "number": "CORE-ENSP1",
+    "collectionNumber": "CORE-ENSP1",
+    "setId": "ygo-clash-of-rebellions-sneak-peek-participation-card-we7gz2",
+    "setCode": "CORE-ENSP1",
+    "setName": "Clash of Rebellions Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Draconia",
+    "passcode": "68182934",
+    "type": "Pendulum Normal Monster",
+    "attribute": "WIND",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 200,
+    "image": "./assets/yugioh/thumbs/68182934.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/68182934.jpg",
+    "artworkIds": [
+      68182934
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 9.8,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

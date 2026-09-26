@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:43930492:TDILENSP1:ygo-the-dark-illusion-sneak-peek-participation-card-hoa0vj:ygo-ultra-rare",
+    "cardId": "43930492",
+    "printingId": "yugioh:43930492:TDILENSP1:ygo-the-dark-illusion-sneak-peek-participation-card-hoa0vj:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Magical Something",
+    "number": "TDIL-ENSP1",
+    "collectionNumber": "TDIL-ENSP1",
+    "setId": "ygo-the-dark-illusion-sneak-peek-participation-card-hoa0vj",
+    "setCode": "TDIL-ENSP1",
+    "setName": "The Dark Illusion Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "43930492",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 1300,
+    "image": "./assets/yugioh/thumbs/43930492.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/43930492.jpg",
+    "artworkIds": [
+      43930492
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.28,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

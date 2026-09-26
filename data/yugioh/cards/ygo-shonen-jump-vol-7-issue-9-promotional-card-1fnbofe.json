@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:98777036:JUMPEN033:ygo-shonen-jump-vol-7-issue-9-promotional-card-1fnbofe:ygo-ultra-rare",
+    "cardId": "98777036",
+    "printingId": "yugioh:98777036:JUMPEN033:ygo-shonen-jump-vol-7-issue-9-promotional-card-1fnbofe:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Tragoedia",
+    "number": "JUMP-EN033",
+    "collectionNumber": "JUMP-EN033",
+    "setId": "ygo-shonen-jump-vol-7-issue-9-promotional-card-1fnbofe",
+    "setCode": "JUMP-EN033",
+    "setName": "Shonen Jump Vol. 7, Issue 9 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "98777036",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": -1,
+    "image": "./assets/yugioh/thumbs/98777036.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/98777036.jpg",
+    "artworkIds": [
+      98777036
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.42,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

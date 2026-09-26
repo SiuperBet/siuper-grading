@@ -1,0 +1,81 @@
+[
+  {
+    "id": "yugioh:44508094:SHSPENSE1:ygo-shadow-specters-special-edition-1j0rt0n:ygo-super-rare",
+    "cardId": "44508094",
+    "printingId": "yugioh:44508094:SHSPENSE1:ygo-shadow-specters-special-edition-1j0rt0n:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Stardust Dragon",
+    "number": "SHSP-ENSE1",
+    "collectionNumber": "SHSP-ENSE1",
+    "setId": "ygo-shadow-specters-special-edition-1j0rt0n",
+    "setCode": "SHSP-ENSE1",
+    "setName": "Shadow Specters: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Stardust",
+    "passcode": "44508094",
+    "type": "Synchro Monster",
+    "attribute": "WIND",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/44508094.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/44508094.jpg",
+    "artworkIds": [
+      44508094,
+      44508095
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.28,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:96363153:SHSPENSE2:ygo-shadow-specters-special-edition-1j0rt0n:ygo-super-rare",
+    "cardId": "96363153",
+    "printingId": "yugioh:96363153:SHSPENSE2:ygo-shadow-specters-special-edition-1j0rt0n:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Tuning",
+    "number": "SHSP-ENSE2",
+    "collectionNumber": "SHSP-ENSE2",
+    "setId": "ygo-shadow-specters-special-edition-1j0rt0n",
+    "setCode": "SHSP-ENSE2",
+    "setName": "Shadow Specters: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "96363153",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/96363153.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/96363153.jpg",
+    "artworkIds": [
+      96363153
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.7,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

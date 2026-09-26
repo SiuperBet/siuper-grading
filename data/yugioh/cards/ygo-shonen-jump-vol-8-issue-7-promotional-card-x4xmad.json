@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:9666558:JUMPEN040:ygo-shonen-jump-vol-8-issue-7-promotional-card-x4xmad:ygo-ultra-rare",
+    "cardId": "9666558",
+    "printingId": "yugioh:9666558:JUMPEN040:ygo-shonen-jump-vol-8-issue-7-promotional-card-x4xmad:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Golem Dragon",
+    "number": "JUMP-EN040",
+    "collectionNumber": "JUMP-EN040",
+    "setId": "ygo-shonen-jump-vol-8-issue-7-promotional-card-x4xmad",
+    "setCode": "JUMP-EN040",
+    "setName": "Shonen Jump Vol. 8, Issue 7 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "9666558",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 200,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/9666558.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/9666558.jpg",
+    "artworkIds": [
+      9666558
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.91,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

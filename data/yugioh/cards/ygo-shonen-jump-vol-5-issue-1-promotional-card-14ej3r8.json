@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:44910027:JUMPEN011:ygo-shonen-jump-vol-5-issue-1-promotional-card-14ej3r8:ygo-secret-rare",
+    "cardId": "44910027",
+    "printingId": "yugioh:44910027:JUMPEN011:ygo-shonen-jump-vol-5-issue-1-promotional-card-14ej3r8:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Victory Dragon",
+    "number": "JUMP-EN011",
+    "collectionNumber": "JUMP-EN011",
+    "setId": "ygo-shonen-jump-vol-5-issue-1-promotional-card-14ej3r8",
+    "setCode": "JUMP-EN011",
+    "setName": "Shonen Jump Vol. 5, Issue 1 promotional card",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "44910027",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/44910027.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/44910027.jpg",
+    "artworkIds": [
+      44910027
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 17.68,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:94886282:SOVRENSE2:ygo-stardust-overdrive-special-edition-18ejrue:ygo-super-rare",
+    "cardId": "94886282",
+    "printingId": "yugioh:94886282:SOVRENSE2:ygo-stardust-overdrive-special-edition-18ejrue:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Charge of the Light Brigade",
+    "number": "SOVR-ENSE2",
+    "collectionNumber": "SOVR-ENSE2",
+    "setId": "ygo-stardust-overdrive-special-edition-18ejrue",
+    "setCode": "SOVR-ENSE2",
+    "setName": "Stardust Overdrive: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Lightsworn",
+    "passcode": "94886282",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/94886282.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/94886282.jpg",
+    "artworkIds": [
+      94886282
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.01,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:63101919:SOVRENSE1:ygo-stardust-overdrive-special-edition-18ejrue:ygo-super-rare",
+    "cardId": "63101919",
+    "printingId": "yugioh:63101919:SOVRENSE1:ygo-stardust-overdrive-special-edition-18ejrue:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Tempest Magician",
+    "number": "SOVR-ENSE1",
+    "collectionNumber": "SOVR-ENSE1",
+    "setId": "ygo-stardust-overdrive-special-edition-18ejrue",
+    "setCode": "SOVR-ENSE1",
+    "setName": "Stardust Overdrive: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "63101919",
+    "type": "Synchro Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 1400,
+    "image": "./assets/yugioh/thumbs/63101919.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/63101919.jpg",
+    "artworkIds": [
+      63101919
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.85,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

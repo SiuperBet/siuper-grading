@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:56784842:YR04EN001:ygo-yu-gi-oh-r-volume-4-promotional-card-vlzwxz:ygo-ultra-rare",
+    "cardId": "56784842",
+    "printingId": "yugioh:56784842:YR04EN001:ygo-yu-gi-oh-r-volume-4-promotional-card-vlzwxz:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Angel O7",
+    "number": "YR04-EN001",
+    "collectionNumber": "YR04-EN001",
+    "setId": "ygo-yu-gi-oh-r-volume-4-promotional-card-vlzwxz",
+    "setCode": "YR04-EN001",
+    "setName": "Yu-Gi-Oh! R Volume 4 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Fairy",
+    "passcode": "56784842",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/56784842.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/56784842.jpg",
+    "artworkIds": [
+      56784842
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 12.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

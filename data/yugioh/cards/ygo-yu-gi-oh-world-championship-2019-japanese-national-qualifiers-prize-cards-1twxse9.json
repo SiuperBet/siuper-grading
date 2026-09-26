@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:662855:2019EN003:ygo-yu-gi-oh-world-championship-2019-japanese-national-qualifiers-prize-cards-1twxse9:ygo-ultra-rare",
+    "cardId": "662855",
+    "printingId": "yugioh:662855:2019EN003:ygo-yu-gi-oh-world-championship-2019-japanese-national-qualifiers-prize-cards-1twxse9:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Amatsu-Okami of the Divine Peaks",
+    "number": "2019-EN003",
+    "collectionNumber": "2019-EN003",
+    "setId": "ygo-yu-gi-oh-world-championship-2019-japanese-national-qualifiers-prize-cards-1twxse9",
+    "setCode": "2019-EN003",
+    "setName": "Yu-Gi-Oh! World Championship 2019 Japanese National Qualifiers prize cards",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "662855",
+    "type": "Link Monster",
+    "attribute": "LIGHT",
+    "level": null,
+    "rank": null,
+    "link": 4,
+    "atk": 3000,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/662855.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/662855.jpg",
+    "artworkIds": [
+      662855
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 867.04,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:662854:2019EN004:ygo-yu-gi-oh-world-championship-2019-japanese-national-qualifiers-prize-cards-1twxse9:ygo-ultra-rare",
+    "cardId": "662854",
+    "printingId": "yugioh:662854:2019EN004:ygo-yu-gi-oh-world-championship-2019-japanese-national-qualifiers-prize-cards-1twxse9:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Noritoshi in Darkest Rainment",
+    "number": "2019-EN004",
+    "collectionNumber": "2019-EN004",
+    "setId": "ygo-yu-gi-oh-world-championship-2019-japanese-national-qualifiers-prize-cards-1twxse9",
+    "setCode": "2019-EN004",
+    "setName": "Yu-Gi-Oh! World Championship 2019 Japanese National Qualifiers prize cards",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "662854",
+    "type": "Link Monster",
+    "attribute": "DARK",
+    "level": null,
+    "rank": null,
+    "link": 5,
+    "atk": 2500,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/662854.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/662854.jpg",
+    "artworkIds": [
+      662854
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 394.55,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

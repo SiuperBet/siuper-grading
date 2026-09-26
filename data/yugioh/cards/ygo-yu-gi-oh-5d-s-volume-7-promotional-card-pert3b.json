@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:33698022:YF07EN001:ygo-yu-gi-oh-5d-s-volume-7-promotional-card-pert3b:ygo-ultra-rare",
+    "cardId": "33698022",
+    "printingId": "yugioh:33698022:YF07EN001:ygo-yu-gi-oh-5d-s-volume-7-promotional-card-pert3b:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Black Rose Moonlight Dragon",
+    "number": "YF07-EN001",
+    "collectionNumber": "YF07-EN001",
+    "setId": "ygo-yu-gi-oh-5d-s-volume-7-promotional-card-pert3b",
+    "setCode": "YF07-EN001",
+    "setName": "Yu-Gi-Oh! 5D's Volume 7 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Rose Dragon",
+    "passcode": "33698022",
+    "type": "Synchro Monster",
+    "attribute": "LIGHT",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/33698022.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/33698022.jpg",
+    "artworkIds": [
+      33698022
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

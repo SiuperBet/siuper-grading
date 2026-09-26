@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:38109772:JUMPEN026:ygo-shonen-jump-vol-6-issue-9-promotional-card-1h6jelp:ygo-ultra-rare",
+    "cardId": "38109772",
+    "printingId": "yugioh:38109772:JUMPEN026:ygo-shonen-jump-vol-6-issue-9-promotional-card-1h6jelp:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Dragonic Knight",
+    "number": "JUMP-EN026",
+    "collectionNumber": "JUMP-EN026",
+    "setId": "ygo-shonen-jump-vol-6-issue-9-promotional-card-1h6jelp",
+    "setCode": "JUMP-EN026",
+    "setName": "Shonen Jump Vol. 6, Issue 9 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "38109772",
+    "type": "Effect Monster",
+    "attribute": "FIRE",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2800,
+    "def": 2300,
+    "image": "./assets/yugioh/thumbs/38109772.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/38109772.jpg",
+    "artworkIds": [
+      38109772
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.47,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

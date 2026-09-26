@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:79229522:JUMPEN031:ygo-shonen-jump-vol-7-issue-3-promotional-card-1n8pml4:ygo-ultra-rare",
+    "cardId": "79229522",
+    "printingId": "yugioh:79229522:JUMPEN031:ygo-shonen-jump-vol-7-issue-3-promotional-card-1n8pml4:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Chimeratech Fortress Dragon",
+    "number": "JUMP-EN031",
+    "collectionNumber": "JUMP-EN031",
+    "setId": "ygo-shonen-jump-vol-7-issue-3-promotional-card-1n8pml4",
+    "setCode": "JUMP-EN031",
+    "setName": "Shonen Jump Vol. 7, Issue 3 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "79229522",
+    "type": "Fusion Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/79229522.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/79229522.jpg",
+    "artworkIds": [
+      79229522
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 15.72,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:41933425:CYHOENSP1:ygo-cybernetic-horizon-sneak-peek-participation-card-1nyehtu:ygo-ultra-rare",
+    "cardId": "41933425",
+    "printingId": "yugioh:41933425:CYHOENSP1:ygo-cybernetic-horizon-sneak-peek-participation-card-1nyehtu:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Contact Gate",
+    "number": "CYHO-ENSP1",
+    "collectionNumber": "CYHO-ENSP1",
+    "setId": "ygo-cybernetic-horizon-sneak-peek-participation-card-1nyehtu",
+    "setCode": "CYHO-ENSP1",
+    "setName": "Cybernetic Horizon Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Neo-Spacian",
+    "passcode": "41933425",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/41933425.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/41933425.jpg",
+    "artworkIds": [
+      41933425
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.14,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

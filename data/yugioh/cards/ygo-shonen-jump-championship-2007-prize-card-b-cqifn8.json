@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:75500286:SJCSEN005:ygo-shonen-jump-championship-2007-prize-card-b-cqifn8:ygo-ultra-rare",
+    "cardId": "75500286",
+    "printingId": "yugioh:75500286:SJCSEN005:ygo-shonen-jump-championship-2007-prize-card-b-cqifn8:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Gold Sarcophagus",
+    "number": "SJCS-EN005",
+    "collectionNumber": "SJCS-EN005",
+    "setId": "ygo-shonen-jump-championship-2007-prize-card-b-cqifn8",
+    "setCode": "SJCS-EN005",
+    "setName": "Shonen Jump Championship 2007 Prize Card B",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "75500286",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/75500286.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/75500286.jpg",
+    "artworkIds": [
+      75500286
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 24000,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

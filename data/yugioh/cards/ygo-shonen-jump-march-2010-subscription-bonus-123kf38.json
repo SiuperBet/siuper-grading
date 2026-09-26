@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:31038159:JUMPEN034:ygo-shonen-jump-march-2010-subscription-bonus-123kf38:ygo-ultra-rare",
+    "cardId": "31038159",
+    "printingId": "yugioh:31038159:JUMPEN034:ygo-shonen-jump-march-2010-subscription-bonus-123kf38:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Genesis Dragon",
+    "number": "JUMP-EN034",
+    "collectionNumber": "JUMP-EN034",
+    "setId": "ygo-shonen-jump-march-2010-subscription-bonus-123kf38",
+    "setCode": "JUMP-EN034",
+    "setName": "Shonen Jump March 2010 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "31038159",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/31038159.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/31038159.jpg",
+    "artworkIds": [
+      31038159
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 48.54,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:7634581:JUMPEN035:ygo-shonen-jump-march-2010-subscription-bonus-123kf38:ygo-ultra-rare",
+    "cardId": "7634581",
+    "printingId": "yugioh:7634581:JUMPEN035:ygo-shonen-jump-march-2010-subscription-bonus-123kf38:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Orichalcos Shunoros",
+    "number": "JUMP-EN035",
+    "collectionNumber": "JUMP-EN035",
+    "setId": "ygo-shonen-jump-march-2010-subscription-bonus-123kf38",
+    "setCode": "JUMP-EN035",
+    "setName": "Shonen Jump March 2010 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "7634581",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/7634581.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/7634581.jpg",
+    "artworkIds": [
+      7634581
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 42.6,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

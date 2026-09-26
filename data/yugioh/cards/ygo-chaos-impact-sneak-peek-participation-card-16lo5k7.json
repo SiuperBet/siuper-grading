@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:88996322:CHIMENSP1:ygo-chaos-impact-sneak-peek-participation-card-16lo5k7:ygo-ultra-rare",
+    "cardId": "88996322",
+    "printingId": "yugioh:88996322:CHIMENSP1:ygo-chaos-impact-sneak-peek-participation-card-16lo5k7:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Gladiator Beast Vespasius",
+    "number": "CHIM-ENSP1",
+    "collectionNumber": "CHIM-ENSP1",
+    "setId": "ygo-chaos-impact-sneak-peek-participation-card-16lo5k7",
+    "setCode": "CHIM-ENSP1",
+    "setName": "Chaos Impact Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Gladiator Beast",
+    "passcode": "88996322",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2300,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/88996322.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/88996322.jpg",
+    "artworkIds": [
+      88996322
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.26,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

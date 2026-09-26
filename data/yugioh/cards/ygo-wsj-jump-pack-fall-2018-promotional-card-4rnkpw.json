@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:30603688:JMPSEN007:ygo-wsj-jump-pack-fall-2018-promotional-card-4rnkpw:ygo-ultra-rare",
+    "cardId": "30603688",
+    "printingId": "yugioh:30603688:JMPSEN007:ygo-wsj-jump-pack-fall-2018-promotional-card-4rnkpw:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Apprentice Illusion Magician",
+    "number": "JMPS-EN007",
+    "collectionNumber": "JMPS-EN007",
+    "setId": "ygo-wsj-jump-pack-fall-2018-promotional-card-4rnkpw",
+    "setCode": "JMPS-EN007",
+    "setName": "WSJ Jump Pack Fall 2018 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Dark Magician",
+    "passcode": "30603688",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2000,
+    "def": 1700,
+    "image": "./assets/yugioh/thumbs/30603688.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/30603688.jpg",
+    "artworkIds": [
+      30603688
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 35.95,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

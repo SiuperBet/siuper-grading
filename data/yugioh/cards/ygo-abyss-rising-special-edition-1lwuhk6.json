@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:41930553:ABYRENSE2:ygo-abyss-rising-special-edition-1lwuhk6:ygo-super-rare",
+    "cardId": "41930553",
+    "printingId": "yugioh:41930553:ABYRENSE2:ygo-abyss-rising-special-edition-1lwuhk6:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Dark Smog",
+    "number": "ABYR-ENSE2",
+    "collectionNumber": "ABYR-ENSE2",
+    "setId": "ygo-abyss-rising-special-edition-1lwuhk6",
+    "setCode": "ABYR-ENSE2",
+    "setName": "Abyss Rising: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "41930553",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/41930553.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/41930553.jpg",
+    "artworkIds": [
+      41930553
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.12,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:3606728:ABYRENSE1:ygo-abyss-rising-special-edition-1lwuhk6:ygo-super-rare",
+    "cardId": "3606728",
+    "printingId": "yugioh:3606728:ABYRENSE1:ygo-abyss-rising-special-edition-1lwuhk6:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Gagaga Girl",
+    "number": "ABYR-ENSE1",
+    "collectionNumber": "ABYR-ENSE1",
+    "setId": "ygo-abyss-rising-special-edition-1lwuhk6",
+    "setCode": "ABYR-ENSE1",
+    "setName": "Abyss Rising: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Gagaga",
+    "passcode": "3606728",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1000,
+    "def": 800,
+    "image": "./assets/yugioh/thumbs/3606728.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/3606728.jpg",
+    "artworkIds": [
+      3606728
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.74,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

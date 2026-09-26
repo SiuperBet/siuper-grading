@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:99177923:WC09EN001:ygo-yu-gi-oh-5d-s-world-championship-2009-stardust-accelerator-promotional-cards-1ps8dpc:ygo-super-rare",
+    "cardId": "99177923",
+    "printingId": "yugioh:99177923:WC09EN001:ygo-yu-gi-oh-5d-s-world-championship-2009-stardust-accelerator-promotional-cards-1ps8dpc:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Infernity Archfiend",
+    "number": "WC09-EN001",
+    "collectionNumber": "WC09-EN001",
+    "setId": "ygo-yu-gi-oh-5d-s-world-championship-2009-stardust-accelerator-promotional-cards-1ps8dpc",
+    "setCode": "WC09-EN001",
+    "setName": "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator promotional cards",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Archfiend",
+    "passcode": "99177923",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/99177923.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/99177923.jpg",
+    "artworkIds": [
+      99177923
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 38.63,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:99177923:WC09EN001:ygo-yu-gi-oh-5d-s-world-championship-2009-stardust-accelerator-promotional-cards-1ps8dpc:ygo-ultra-rare",
+    "cardId": "99177923",
+    "printingId": "yugioh:99177923:WC09EN001:ygo-yu-gi-oh-5d-s-world-championship-2009-stardust-accelerator-promotional-cards-1ps8dpc:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Infernity Archfiend",
+    "number": "WC09-EN001",
+    "collectionNumber": "WC09-EN001",
+    "setId": "ygo-yu-gi-oh-5d-s-world-championship-2009-stardust-accelerator-promotional-cards-1ps8dpc",
+    "setCode": "WC09-EN001",
+    "setName": "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator promotional cards",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Archfiend",
+    "passcode": "99177923",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/99177923.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/99177923.jpg",
+    "artworkIds": [
+      99177923
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 15.19,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

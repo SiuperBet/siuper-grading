@@ -1,0 +1,42 @@
+[
+  {
+    "id": "yugioh:77585513:OPTPEN002:ygo-trials-of-the-pharaoh-match-of-the-millennium-twisted-nightmares-promotional-card-tzaf41:ygo-ultra-rare",
+    "cardId": "77585513",
+    "printingId": "yugioh:77585513:OPTPEN002:ygo-trials-of-the-pharaoh-match-of-the-millennium-twisted-nightmares-promotional-card-tzaf41:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Jinzo",
+    "number": "OPTP-EN002",
+    "collectionNumber": "OPTP-EN002",
+    "setId": "ygo-trials-of-the-pharaoh-match-of-the-millennium-twisted-nightmares-promotional-card-tzaf41",
+    "setCode": "OPTP-EN002",
+    "setName": "Trials of the Pharaoh - Match of the Millennium & Twisted Nightmares promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Jinzo",
+    "passcode": "77585513",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/77585513.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/77585513.jpg",
+    "artworkIds": [
+      77585513,
+      77585514
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 219.41,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

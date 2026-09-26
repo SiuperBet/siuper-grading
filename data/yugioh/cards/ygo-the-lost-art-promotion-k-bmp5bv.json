@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:73599290:LARTEN011:ygo-the-lost-art-promotion-k-bmp5bv:ygo-ultra-rare",
+    "cardId": "73599290",
+    "printingId": "yugioh:73599290:LARTEN011:ygo-the-lost-art-promotion-k-bmp5bv:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Soul Drain",
+    "number": "LART-EN011",
+    "collectionNumber": "LART-EN011",
+    "setId": "ygo-the-lost-art-promotion-k-bmp5bv",
+    "setCode": "LART-EN011",
+    "setName": "The Lost Art Promotion K",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "73599290",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/73599290.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/73599290.jpg",
+    "artworkIds": [
+      73599290
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:5998840:TSHDENSP1:ygo-the-shining-darkness-sneak-peek-participation-card-33yl7n:ygo-ultra-rare",
+    "cardId": "5998840",
+    "printingId": "yugioh:5998840:TSHDENSP1:ygo-the-shining-darkness-sneak-peek-participation-card-33yl7n:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "XX-Saber Boggart Knight",
+    "number": "TSHD-ENSP1",
+    "collectionNumber": "TSHD-ENSP1",
+    "setId": "ygo-the-shining-darkness-sneak-peek-participation-card-33yl7n",
+    "setCode": "TSHD-ENSP1",
+    "setName": "The Shining Darkness Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "X-Saber",
+    "passcode": "5998840",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1900,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/5998840.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/5998840.jpg",
+    "artworkIds": [
+      5998840
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.1,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "yugioh:58932615:LARTEN041:ygo-the-lost-art-promotion-2021-k-ghobqk:ygo-ultra-rare",
+    "cardId": "58932615",
+    "printingId": "yugioh:58932615:LARTEN041:ygo-the-lost-art-promotion-2021-k-ghobqk:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Elemental HERO Burstinatrix",
+    "number": "LART-EN041",
+    "collectionNumber": "LART-EN041",
+    "setId": "ygo-the-lost-art-promotion-2021-k-ghobqk",
+    "setCode": "LART-EN041",
+    "setName": "The Lost Art Promotion 2021 K",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Elemental HERO",
+    "passcode": "58932615",
+    "type": "Normal Monster",
+    "attribute": "FIRE",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1200,
+    "def": 800,
+    "image": "./assets/yugioh/thumbs/58932615.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/58932615.jpg",
+    "artworkIds": [
+      58932615,
+      58932616
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

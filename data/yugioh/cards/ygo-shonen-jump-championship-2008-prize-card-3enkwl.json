@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:78700060:SJCSEN006:ygo-shonen-jump-championship-2008-prize-card-3enkwl:ygo-ultra-rare",
+    "cardId": "78700060",
+    "printingId": "yugioh:78700060:SJCSEN006:ygo-shonen-jump-championship-2008-prize-card-3enkwl:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Doomcaliber Knight",
+    "number": "SJCS-EN006",
+    "collectionNumber": "SJCS-EN006",
+    "setId": "ygo-shonen-jump-championship-2008-prize-card-3enkwl",
+    "setCode": "SJCS-EN006",
+    "setName": "Shonen Jump Championship 2008 Prize Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "78700060",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1900,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/78700060.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/78700060.jpg",
+    "artworkIds": [
+      78700060
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

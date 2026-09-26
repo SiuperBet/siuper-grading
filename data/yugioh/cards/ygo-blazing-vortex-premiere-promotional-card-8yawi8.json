@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:34611551:BLVOENSP1:ygo-blazing-vortex-premiere-promotional-card-8yawi8:ygo-ultra-rare",
+    "cardId": "34611551",
+    "printingId": "yugioh:34611551:BLVOENSP1:ygo-blazing-vortex-premiere-promotional-card-8yawi8:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Armed Dragon Flash",
+    "number": "BLVO-ENSP1",
+    "collectionNumber": "BLVO-ENSP1",
+    "setId": "ygo-blazing-vortex-premiere-promotional-card-8yawi8",
+    "setCode": "BLVO-ENSP1",
+    "setName": "Blazing Vortex Premiere! promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Armed Dragon",
+    "passcode": "34611551",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/34611551.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/34611551.jpg",
+    "artworkIds": [
+      34611551
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 23.29,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

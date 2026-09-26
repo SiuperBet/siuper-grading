@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:51011872:JUMPEN083:ygo-weekly-shonen-jump-january-2018-membership-promotional-card-1cntevc:ygo-ultra-rare",
+    "cardId": "51011872",
+    "printingId": "yugioh:51011872:JUMPEN083:ygo-weekly-shonen-jump-january-2018-membership-promotional-card-1cntevc:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Trickstar Crimson Heart",
+    "number": "JUMP-EN083",
+    "collectionNumber": "JUMP-EN083",
+    "setId": "ygo-weekly-shonen-jump-january-2018-membership-promotional-card-1cntevc",
+    "setCode": "JUMP-EN083",
+    "setName": "Weekly Shonen Jump January 2018 membership promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Trickstar",
+    "passcode": "51011872",
+    "type": "Link Monster",
+    "attribute": "LIGHT",
+    "level": null,
+    "rank": null,
+    "link": 2,
+    "atk": 2000,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/51011872.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/51011872.jpg",
+    "artworkIds": [
+      51011872
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.55,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

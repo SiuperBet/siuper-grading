@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:47741109:PRIOENPL1:ygo-primal-origin-plus-13e7by2:ygo-starfoil-rare",
+    "cardId": "47741109",
+    "printingId": "yugioh:47741109:PRIOENPL1:ygo-primal-origin-plus-13e7by2:ygo-starfoil-rare",
+    "game": "yugioh",
+    "name": "Sylvan Snapdrassinagon",
+    "number": "PRIO-ENPL1",
+    "collectionNumber": "PRIO-ENPL1",
+    "setId": "ygo-primal-origin-plus-13e7by2",
+    "setCode": "PRIO-ENPL1",
+    "setName": "Primal Origin Plus",
+    "rarity": "Starfoil Rare",
+    "edition": "",
+    "archetype": "Sylvan",
+    "passcode": "47741109",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 1,
+    "rank": null,
+    "link": null,
+    "atk": 900,
+    "def": 400,
+    "image": "./assets/yugioh/thumbs/47741109.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/47741109.jpg",
+    "artworkIds": [
+      47741109
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.16,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

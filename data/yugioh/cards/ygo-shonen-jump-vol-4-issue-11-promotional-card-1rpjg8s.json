@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:80304126:JUMPEN009:ygo-shonen-jump-vol-4-issue-11-promotional-card-1rpjg8s:ygo-ultra-rare",
+    "cardId": "80304126",
+    "printingId": "yugioh:80304126:JUMPEN009:ygo-shonen-jump-vol-4-issue-11-promotional-card-1rpjg8s:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Magician's Valkyria",
+    "number": "JUMP-EN009",
+    "collectionNumber": "JUMP-EN009",
+    "setId": "ygo-shonen-jump-vol-4-issue-11-promotional-card-1rpjg8s",
+    "setCode": "JUMP-EN009",
+    "setName": "Shonen Jump Vol. 4, Issue 11 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "80304126",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1600,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/80304126.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/80304126.jpg",
+    "artworkIds": [
+      80304126
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 20.99,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

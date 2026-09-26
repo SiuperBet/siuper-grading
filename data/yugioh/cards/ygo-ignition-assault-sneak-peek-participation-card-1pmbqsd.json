@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:46271408:IGASENSP1:ygo-ignition-assault-sneak-peek-participation-card-1pmbqsd:ygo-ultra-rare",
+    "cardId": "46271408",
+    "printingId": "yugioh:46271408:IGASENSP1:ygo-ignition-assault-sneak-peek-participation-card-1pmbqsd:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Sky Striker Maneuver - Scissors Cross",
+    "number": "IGAS-ENSP1",
+    "collectionNumber": "IGAS-ENSP1",
+    "setId": "ygo-ignition-assault-sneak-peek-participation-card-1pmbqsd",
+    "setCode": "IGAS-ENSP1",
+    "setName": "Ignition Assault Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Sky Striker",
+    "passcode": "46271408",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/46271408.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/46271408.jpg",
+    "artworkIds": [
+      46271408
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.7,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

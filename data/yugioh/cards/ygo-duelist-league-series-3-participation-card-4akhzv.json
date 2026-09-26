@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:47355498:DL3001:ygo-duelist-league-series-3-participation-card-4akhzv:ygo-rare",
+    "cardId": "47355498",
+    "printingId": "yugioh:47355498:DL3001:ygo-duelist-league-series-3-participation-card-4akhzv:ygo-rare",
+    "game": "yugioh",
+    "name": "Necrovalley",
+    "number": "DL3-001",
+    "collectionNumber": "DL3-001",
+    "setId": "ygo-duelist-league-series-3-participation-card-4akhzv",
+    "setCode": "DL3-001",
+    "setName": "Duelist League Series 3 participation card",
+    "rarity": "Rare",
+    "edition": "",
+    "archetype": "Gravekeeper's",
+    "passcode": "47355498",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/47355498.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/47355498.jpg",
+    "artworkIds": [
+      47355498
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.83,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

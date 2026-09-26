@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:2130625:PSVEN023:ygo-pharaoh-s-servant-25th-anniversary-edition-afxy4r:ygo-common",
+    "cardId": "2130625",
+    "printingId": "yugioh:2130625:PSVEN023:ygo-pharaoh-s-servant-25th-anniversary-edition-afxy4r:ygo-common",
+    "game": "yugioh",
+    "name": "Numinous Healer",
+    "number": "PSV-EN023",
+    "collectionNumber": "PSV-EN023",
+    "setId": "ygo-pharaoh-s-servant-25th-anniversary-edition-afxy4r",
+    "setCode": "PSV-EN023",
+    "setName": "Pharaoh's Servant (25th Anniversary Edition)",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "",
+    "passcode": "2130625",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/2130625.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/2130625.jpg",
+    "artworkIds": [
+      2130625
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

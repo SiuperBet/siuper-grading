@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:80344569:HL07EN002:ygo-hobby-league-7-participation-card-b-j85zpg:ygo-ultra-parallel-rare",
+    "cardId": "80344569",
+    "printingId": "yugioh:80344569:HL07EN002:ygo-hobby-league-7-participation-card-b-j85zpg:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Neo-Spacian Grand Mole",
+    "number": "HL07-EN002",
+    "collectionNumber": "HL07-EN002",
+    "setId": "ygo-hobby-league-7-participation-card-b-j85zpg",
+    "setCode": "HL07-EN002",
+    "setName": "Hobby League 7 participation card B",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "Neo-Spacian",
+    "passcode": "80344569",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 900,
+    "def": 300,
+    "image": "./assets/yugioh/thumbs/80344569.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/80344569.jpg",
+    "artworkIds": [
+      80344569
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 11.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

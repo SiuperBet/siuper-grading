@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:87621407:HL05EN004:ygo-hobby-league-5-participation-card-d-1pl4eyk:ygo-ultra-parallel-rare",
+    "cardId": "87621407",
+    "printingId": "yugioh:87621407:HL05EN004:ygo-hobby-league-5-participation-card-d-1pl4eyk:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Dekoichi the Battlechanted Locomotive",
+    "number": "HL05-EN004",
+    "collectionNumber": "HL05-EN004",
+    "setId": "ygo-hobby-league-5-participation-card-d-1pl4eyk",
+    "setCode": "HL05-EN004",
+    "setName": "Hobby League 5 participation card D",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "87621407",
+    "type": "Flip Effect Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1400,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/87621407.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/87621407.jpg",
+    "artworkIds": [
+      87621407
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 19.5,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:76913983:LARTEN078:ygo-the-lost-art-promotion-2025-c-jxho7s:ygo-ultra-rare",
+    "cardId": "76913983",
+    "printingId": "yugioh:76913983:LARTEN078:ygo-the-lost-art-promotion-2025-c-jxho7s:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Blackwing Armed Wing",
+    "number": "LART-EN078",
+    "collectionNumber": "LART-EN078",
+    "setId": "ygo-the-lost-art-promotion-2025-c-jxho7s",
+    "setCode": "LART-EN078",
+    "setName": "The Lost Art Promotion 2025 C",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Blackwing",
+    "passcode": "76913983",
+    "type": "Synchro Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2300,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/76913983.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/76913983.jpg",
+    "artworkIds": [
+      76913983
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

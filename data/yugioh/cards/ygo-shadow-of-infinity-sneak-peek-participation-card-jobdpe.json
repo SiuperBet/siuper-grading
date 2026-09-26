@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:54912977:SP2EN001:ygo-shadow-of-infinity-sneak-peek-participation-card-jobdpe:ygo-ultra-rare",
+    "cardId": "54912977",
+    "printingId": "yugioh:54912977:SP2EN001:ygo-shadow-of-infinity-sneak-peek-participation-card-jobdpe:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Ancient Lamp",
+    "number": "SP2-EN001",
+    "collectionNumber": "SP2-EN001",
+    "setId": "ygo-shadow-of-infinity-sneak-peek-participation-card-jobdpe",
+    "setCode": "SP2-EN001",
+    "setName": "Shadow of Infinity Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "54912977",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 900,
+    "def": 1400,
+    "image": "./assets/yugioh/thumbs/54912977.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/54912977.jpg",
+    "artworkIds": [
+      54912977
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.01,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

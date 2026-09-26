@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:56910167:LARTEN018:ygo-the-lost-art-promotion-2020-f-zxudmo:ygo-ultra-rare",
+    "cardId": "56910167",
+    "printingId": "yugioh:56910167:LARTEN018:ygo-the-lost-art-promotion-2020-f-zxudmo:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Superdreadnought Rail Cannon Gustav Max",
+    "number": "LART-EN018",
+    "collectionNumber": "LART-EN018",
+    "setId": "ygo-the-lost-art-promotion-2020-f-zxudmo",
+    "setCode": "LART-EN018",
+    "setName": "The Lost Art Promotion 2020 F",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Train",
+    "passcode": "56910167",
+    "type": "XYZ Monster",
+    "attribute": "EARTH",
+    "level": 10,
+    "rank": 10,
+    "link": null,
+    "atk": 3000,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/56910167.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/56910167.jpg",
+    "artworkIds": [
+      56910167
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

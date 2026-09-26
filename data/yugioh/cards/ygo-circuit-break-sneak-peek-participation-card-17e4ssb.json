@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:77994337:CIBRENSP1:ygo-circuit-break-sneak-peek-participation-card-17e4ssb:ygo-ultra-rare",
+    "cardId": "77994337",
+    "printingId": "yugioh:77994337:CIBRENSP1:ygo-circuit-break-sneak-peek-participation-card-17e4ssb:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Hallohallo",
+    "number": "CIBR-ENSP1",
+    "collectionNumber": "CIBR-ENSP1",
+    "setId": "ygo-circuit-break-sneak-peek-participation-card-17e4ssb",
+    "setCode": "CIBR-ENSP1",
+    "setName": "Circuit Break Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "77994337",
+    "type": "Pendulum Tuner Effect Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 800,
+    "def": 600,
+    "image": "./assets/yugioh/thumbs/77994337.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/77994337.jpg",
+    "artworkIds": [
+      77994337
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.34,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

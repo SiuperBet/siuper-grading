@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:300202002:JMPSENS01:ygo-sj-jump-pack-spring-2020-promotional-card-63uc4s:ygo-ultra-rare",
+    "cardId": "300202002",
+    "printingId": "yugioh:300202002:JMPSENS01:ygo-sj-jump-pack-spring-2020-promotional-card-63uc4s:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Beatdown!",
+    "number": "JMPS-ENS01",
+    "collectionNumber": "JMPS-ENS01",
+    "setId": "ygo-sj-jump-pack-spring-2020-promotional-card-63uc4s",
+    "setCode": "JMPS-ENS01",
+    "setName": "SJ Jump Pack Spring 2020 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "300202002",
+    "type": "Skill Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/300202002.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/300202002.jpg",
+    "artworkIds": [
+      300202002
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 20.99,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

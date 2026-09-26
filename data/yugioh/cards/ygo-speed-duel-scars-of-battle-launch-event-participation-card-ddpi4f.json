@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:300103003:EVSDENS02:ygo-speed-duel-scars-of-battle-launch-event-participation-card-ddpi4f:ygo-ultra-rare",
+    "cardId": "300103003",
+    "printingId": "yugioh:300103003:EVSDENS02:ygo-speed-duel-scars-of-battle-launch-event-participation-card-ddpi4f:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Bandit",
+    "number": "EVSD-ENS02",
+    "collectionNumber": "EVSD-ENS02",
+    "setId": "ygo-speed-duel-scars-of-battle-launch-event-participation-card-ddpi4f",
+    "setCode": "EVSD-ENS02",
+    "setName": "Speed Duel: Scars of Battle Launch Event participation card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "300103003",
+    "type": "Skill Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/300103003.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/300103003.jpg",
+    "artworkIds": [
+      300103003
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.85,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

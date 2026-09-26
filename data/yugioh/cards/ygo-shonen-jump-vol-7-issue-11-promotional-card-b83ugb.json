@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:60417395:JUMPEN036:ygo-shonen-jump-vol-7-issue-11-promotional-card-b83ugb:ygo-ultra-rare",
+    "cardId": "60417395",
+    "printingId": "yugioh:60417395:JUMPEN036:ygo-shonen-jump-vol-7-issue-11-promotional-card-b83ugb:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Darkness Neosphere",
+    "number": "JUMP-EN036",
+    "collectionNumber": "JUMP-EN036",
+    "setId": "ygo-shonen-jump-vol-7-issue-11-promotional-card-b83ugb",
+    "setCode": "JUMP-EN036",
+    "setName": "Shonen Jump Vol. 7, Issue 11 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "60417395",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/60417395.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/60417395.jpg",
+    "artworkIds": [
+      60417395
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 8.89,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

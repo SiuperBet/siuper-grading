@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:4545683:JUMPEN052:ygo-shonen-jump-vol-9-issue-6-promotional-card-hdo9lr:ygo-ultra-rare",
+    "cardId": "4545683",
+    "printingId": "yugioh:4545683:JUMPEN052:ygo-shonen-jump-vol-9-issue-6-promotional-card-hdo9lr:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Meklord Emperor Granel",
+    "number": "JUMP-EN052",
+    "collectionNumber": "JUMP-EN052",
+    "setId": "ygo-shonen-jump-vol-9-issue-6-promotional-card-hdo9lr",
+    "setCode": "JUMP-EN052",
+    "setName": "Shonen Jump Vol. 9, Issue 6 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Meklord",
+    "passcode": "4545683",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 1,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/4545683.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/4545683.jpg",
+    "artworkIds": [
+      4545683
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.08,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

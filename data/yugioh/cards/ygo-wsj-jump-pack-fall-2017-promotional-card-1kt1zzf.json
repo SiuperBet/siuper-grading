@@ -1,0 +1,43 @@
+[
+  {
+    "id": "yugioh:10000020:JMPSEN005:ygo-wsj-jump-pack-fall-2017-promotional-card-1kt1zzf:ygo-ultra-rare",
+    "cardId": "10000020",
+    "printingId": "yugioh:10000020:JMPSEN005:ygo-wsj-jump-pack-fall-2017-promotional-card-1kt1zzf:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Slifer the Sky Dragon",
+    "number": "JMPS-EN005",
+    "collectionNumber": "JMPS-EN005",
+    "setId": "ygo-wsj-jump-pack-fall-2017-promotional-card-1kt1zzf",
+    "setCode": "JMPS-EN005",
+    "setName": "WSJ Jump Pack Fall 2017 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Egyptian God",
+    "passcode": "10000020",
+    "type": "Effect Monster",
+    "attribute": "DIVINE",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": -1,
+    "image": "./assets/yugioh/thumbs/10000020.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/10000020.jpg",
+    "artworkIds": [
+      10000020,
+      10000021,
+      10000022
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 61.39,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

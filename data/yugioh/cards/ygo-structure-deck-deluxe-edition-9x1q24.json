@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:73879377:SD1ENDE1:ygo-structure-deck-deluxe-edition-9x1q24:ygo-secret-rare",
+    "cardId": "73879377",
+    "printingId": "yugioh:73879377:SD1ENDE1:ygo-structure-deck-deluxe-edition-9x1q24:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Armed Dragon LV7",
+    "number": "SD1-ENDE1",
+    "collectionNumber": "SD1-ENDE1",
+    "setId": "ygo-structure-deck-deluxe-edition-9x1q24",
+    "setCode": "SD1-ENDE1",
+    "setName": "Structure Deck: Deluxe Edition",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "Armed Dragon",
+    "passcode": "73879377",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2800,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/73879377.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/73879377.jpg",
+    "artworkIds": [
+      73879377
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 67.75,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:93382620:SD2ENDE1:ygo-structure-deck-deluxe-edition-9x1q24:ygo-secret-rare",
+    "cardId": "93382620",
+    "printingId": "yugioh:93382620:SD2ENDE1:ygo-structure-deck-deluxe-edition-9x1q24:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Rope of Life",
+    "number": "SD2-ENDE1",
+    "collectionNumber": "SD2-ENDE1",
+    "setId": "ygo-structure-deck-deluxe-edition-9x1q24",
+    "setCode": "SD2-ENDE1",
+    "setName": "Structure Deck: Deluxe Edition",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "93382620",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/93382620.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/93382620.jpg",
+    "artworkIds": [
+      93382620
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 27.53,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

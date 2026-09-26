@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:71703785:SBPREN004:ygo-palladium-oracle-mahad-sweepstakes-1xiwe0a:ygo-secret-rare",
+    "cardId": "71703785",
+    "printingId": "yugioh:71703785:SBPREN004:ygo-palladium-oracle-mahad-sweepstakes-1xiwe0a:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Palladium Oracle Mahad",
+    "number": "SBPR-EN004",
+    "collectionNumber": "SBPR-EN004",
+    "setId": "ygo-palladium-oracle-mahad-sweepstakes-1xiwe0a",
+    "setCode": "SBPR-EN004",
+    "setName": "Palladium Oracle Mahad Sweepstakes",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "Dark Magician",
+    "passcode": "71703785",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 2100,
+    "image": "./assets/yugioh/thumbs/71703785.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/71703785.jpg",
+    "artworkIds": [
+      71703785
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

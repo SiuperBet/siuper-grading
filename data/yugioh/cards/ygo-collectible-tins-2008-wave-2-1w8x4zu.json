@@ -1,0 +1,81 @@
+[
+  {
+    "id": "yugioh:73580471:CT05EN003:ygo-collectible-tins-2008-wave-2-1w8x4zu:ygo-secret-rare",
+    "cardId": "73580471",
+    "printingId": "yugioh:73580471:CT05EN003:ygo-collectible-tins-2008-wave-2-1w8x4zu:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Black Rose Dragon",
+    "number": "CT05-EN003",
+    "collectionNumber": "CT05-EN003",
+    "setId": "ygo-collectible-tins-2008-wave-2-1w8x4zu",
+    "setCode": "CT05-EN003",
+    "setName": "Collectible Tins 2008 Wave 2",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "Rose Dragon",
+    "passcode": "73580471",
+    "type": "Synchro Monster",
+    "attribute": "FIRE",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/73580471.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/73580471.jpg",
+    "artworkIds": [
+      73580471,
+      73580472
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 18.35,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:46195773:CT05EN004:ygo-collectible-tins-2008-wave-2-1w8x4zu:ygo-secret-rare",
+    "cardId": "46195773",
+    "printingId": "yugioh:46195773:CT05EN004:ygo-collectible-tins-2008-wave-2-1w8x4zu:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Turbo Warrior",
+    "number": "CT05-EN004",
+    "collectionNumber": "CT05-EN004",
+    "setId": "ygo-collectible-tins-2008-wave-2-1w8x4zu",
+    "setCode": "CT05-EN004",
+    "setName": "Collectible Tins 2008 Wave 2",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "46195773",
+    "type": "Synchro Monster",
+    "attribute": "WIND",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/46195773.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/46195773.jpg",
+    "artworkIds": [
+      46195773
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

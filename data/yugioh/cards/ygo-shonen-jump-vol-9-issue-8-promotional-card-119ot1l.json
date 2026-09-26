@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:68140974:JUMPEN053:ygo-shonen-jump-vol-9-issue-8-promotional-card-119ot1l:ygo-ultra-rare",
+    "cardId": "68140974",
+    "printingId": "yugioh:68140974:JUMPEN053:ygo-shonen-jump-vol-9-issue-8-promotional-card-119ot1l:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Meklord Emperor Wisel",
+    "number": "JUMP-EN053",
+    "collectionNumber": "JUMP-EN053",
+    "setId": "ygo-shonen-jump-vol-9-issue-8-promotional-card-119ot1l",
+    "setCode": "JUMP-EN053",
+    "setName": "Shonen Jump Vol. 9, Issue 8 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Meklord",
+    "passcode": "68140974",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 1,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/68140974.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/68140974.jpg",
+    "artworkIds": [
+      68140974
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.49,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

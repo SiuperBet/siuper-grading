@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:97077563:LARTEN009:ygo-the-lost-art-promotion-i-c6ocpt:ygo-ultra-rare",
+    "cardId": "97077563",
+    "printingId": "yugioh:97077563:LARTEN009:ygo-the-lost-art-promotion-i-c6ocpt:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Call of the Haunted",
+    "number": "LART-EN009",
+    "collectionNumber": "LART-EN009",
+    "setId": "ygo-the-lost-art-promotion-i-c6ocpt",
+    "setCode": "LART-EN009",
+    "setName": "The Lost Art Promotion I",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Call of the Haunted",
+    "passcode": "97077563",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/97077563.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/97077563.jpg",
+    "artworkIds": [
+      97077563
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:40227329:YA07EN001:ygo-yu-gi-oh-arc-v-volume-7-promotional-card-1ssw6ml:ygo-ultra-rare",
+    "cardId": "40227329",
+    "printingId": "yugioh:40227329:YA07EN001:ygo-yu-gi-oh-arc-v-volume-7-promotional-card-1ssw6ml:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Go! - D/D/D Divine Zero King Rage",
+    "number": "YA07-EN001",
+    "collectionNumber": "YA07-EN001",
+    "setId": "ygo-yu-gi-oh-arc-v-volume-7-promotional-card-1ssw6ml",
+    "setCode": "YA07-EN001",
+    "setName": "Yu-Gi-Oh! ARC-V Volume 7 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "D/D",
+    "passcode": "40227329",
+    "type": "Pendulum Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/40227329.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/40227329.jpg",
+    "artworkIds": [
+      40227329
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 17.37,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:69695704:RGBTENSP1:ygo-raging-battle-sneak-peek-participation-card-1lkg7g7:ygo-ultra-rare",
+    "cardId": "69695704",
+    "printingId": "yugioh:69695704:RGBTENSP1:ygo-raging-battle-sneak-peek-participation-card-1lkg7g7:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Battlestorm",
+    "number": "RGBT-ENSP1",
+    "collectionNumber": "RGBT-ENSP1",
+    "setId": "ygo-raging-battle-sneak-peek-participation-card-1lkg7g7",
+    "setCode": "RGBT-ENSP1",
+    "setName": "Raging Battle Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "69695704",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1700,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/69695704.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/69695704.jpg",
+    "artworkIds": [
+      69695704
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.57,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

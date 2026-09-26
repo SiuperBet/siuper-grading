@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:30118811:LARTEN080:ygo-the-lost-art-promotion-2025-e-llfadm:ygo-ultra-rare",
+    "cardId": "30118811",
+    "printingId": "yugioh:30118811:LARTEN080:ygo-the-lost-art-promotion-2025-e-llfadm:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Backup @Ignister",
+    "number": "LART-EN080",
+    "collectionNumber": "LART-EN080",
+    "setId": "ygo-the-lost-art-promotion-2025-e-llfadm",
+    "setCode": "LART-EN080",
+    "setName": "The Lost Art Promotion 2025 E",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "@Ignister",
+    "passcode": "30118811",
+    "type": "Tuner Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1200,
+    "def": 800,
+    "image": "./assets/yugioh/thumbs/30118811.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/30118811.jpg",
+    "artworkIds": [
+      30118811
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

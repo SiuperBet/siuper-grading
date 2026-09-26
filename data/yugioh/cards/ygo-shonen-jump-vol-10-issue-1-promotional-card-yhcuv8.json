@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:51402908:JUMPEN057:ygo-shonen-jump-vol-10-issue-1-promotional-card-yhcuv8:ygo-ultra-rare",
+    "cardId": "51402908",
+    "printingId": "yugioh:51402908:JUMPEN057:ygo-shonen-jump-vol-10-issue-1-promotional-card-yhcuv8:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "The Supremacy Sun",
+    "number": "JUMP-EN057",
+    "collectionNumber": "JUMP-EN057",
+    "setId": "ygo-shonen-jump-vol-10-issue-1-promotional-card-yhcuv8",
+    "setCode": "JUMP-EN057",
+    "setName": "Shonen Jump Vol. 10, Issue 1 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "51402908",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/51402908.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/51402908.jpg",
+    "artworkIds": [
+      51402908
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.73,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

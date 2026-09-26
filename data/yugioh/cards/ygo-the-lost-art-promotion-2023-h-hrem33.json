@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:67282505:LARTEN061:ygo-the-lost-art-promotion-2023-h-hrem33:ygo-ultra-rare",
+    "cardId": "67282505",
+    "printingId": "yugioh:67282505:LARTEN061:ygo-the-lost-art-promotion-2023-h-hrem33:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Mitsu the Insect Ninja",
+    "number": "LART-EN061",
+    "collectionNumber": "LART-EN061",
+    "setId": "ygo-the-lost-art-promotion-2023-h-hrem33",
+    "setCode": "LART-EN061",
+    "setName": "The Lost Art Promotion 2023 H",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Ninja",
+    "passcode": "67282505",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 2,
+    "rank": null,
+    "link": null,
+    "atk": 200,
+    "def": 2100,
+    "image": "./assets/yugioh/thumbs/67282505.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/67282505.jpg",
+    "artworkIds": [
+      67282505
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

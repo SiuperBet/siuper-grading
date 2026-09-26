@@ -1,0 +1,81 @@
+[
+  {
+    "id": "yugioh:40044918:PT03EN002:ygo-pharaoh-tour-2007-promotional-cards-1wzcyp8:ygo-common",
+    "cardId": "40044918",
+    "printingId": "yugioh:40044918:PT03EN002:ygo-pharaoh-tour-2007-promotional-cards-1wzcyp8:ygo-common",
+    "game": "yugioh",
+    "name": "Elemental HERO Stratos",
+    "number": "PT03-EN002",
+    "collectionNumber": "PT03-EN002",
+    "setId": "ygo-pharaoh-tour-2007-promotional-cards-1wzcyp8",
+    "setCode": "PT03-EN002",
+    "setName": "Pharaoh Tour 2007 promotional cards",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "Elemental HERO",
+    "passcode": "40044918",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 300,
+    "image": "./assets/yugioh/thumbs/40044918.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/40044918.jpg",
+    "artworkIds": [
+      40044918,
+      40044919
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 23.74,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:75500286:PT03EN001:ygo-pharaoh-tour-2007-promotional-cards-1wzcyp8:ygo-ultra-rare",
+    "cardId": "75500286",
+    "printingId": "yugioh:75500286:PT03EN001:ygo-pharaoh-tour-2007-promotional-cards-1wzcyp8:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Gold Sarcophagus",
+    "number": "PT03-EN001",
+    "collectionNumber": "PT03-EN001",
+    "setId": "ygo-pharaoh-tour-2007-promotional-cards-1wzcyp8",
+    "setCode": "PT03-EN001",
+    "setName": "Pharaoh Tour 2007 promotional cards",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "75500286",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/75500286.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/75500286.jpg",
+    "artworkIds": [
+      75500286
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 21127.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

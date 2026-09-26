@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:56832966:YZ08EN001:ygo-yu-gi-oh-zexal-volume-8-promotional-card-jwl1c3:ygo-ultra-rare",
+    "cardId": "56832966",
+    "printingId": "yugioh:56832966:YZ08EN001:ygo-yu-gi-oh-zexal-volume-8-promotional-card-jwl1c3:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Number S39: Utopia the Lightning",
+    "number": "YZ08-EN001",
+    "collectionNumber": "YZ08-EN001",
+    "setId": "ygo-yu-gi-oh-zexal-volume-8-promotional-card-jwl1c3",
+    "setCode": "YZ08-EN001",
+    "setName": "Yu-Gi-Oh! ZEXAL Volume 8 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Utopia",
+    "passcode": "56832966",
+    "type": "XYZ Monster",
+    "attribute": "LIGHT",
+    "level": 5,
+    "rank": 5,
+    "link": null,
+    "atk": 2500,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/56832966.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/56832966.jpg",
+    "artworkIds": [
+      56832966
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 8.63,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

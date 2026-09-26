@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:89870349:JUMPEN078:ygo-weekly-shonen-jump-october-2016-membership-promotional-card-w89kpw:ygo-ultra-rare",
+    "cardId": "89870349",
+    "printingId": "yugioh:89870349:JUMPEN078:ygo-weekly-shonen-jump-october-2016-membership-promotional-card-w89kpw:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Masked HERO Blast",
+    "number": "JUMP-EN078",
+    "collectionNumber": "JUMP-EN078",
+    "setId": "ygo-weekly-shonen-jump-october-2016-membership-promotional-card-w89kpw",
+    "setCode": "JUMP-EN078",
+    "setName": "Weekly Shonen Jump October 2016 membership promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Masked HERO",
+    "passcode": "89870349",
+    "type": "Fusion Monster",
+    "attribute": "WIND",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/89870349.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/89870349.jpg",
+    "artworkIds": [
+      89870349
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 74.73,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

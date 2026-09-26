@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:2047519:SP02EN003:ygo-power-of-the-duelist-sneak-peek-participation-card-1n8a6ra:ygo-ultra-rare",
+    "cardId": "2047519",
+    "printingId": "yugioh:2047519:SP02EN003:ygo-power-of-the-duelist-sneak-peek-participation-card-1n8a6ra:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Hidden Soldiers",
+    "number": "SP02-EN003",
+    "collectionNumber": "SP02-EN003",
+    "setId": "ygo-power-of-the-duelist-sneak-peek-participation-card-1n8a6ra",
+    "setCode": "SP02-EN003",
+    "setName": "Power of the Duelist Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "2047519",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/2047519.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/2047519.jpg",
+    "artworkIds": [
+      2047519
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 12.24,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

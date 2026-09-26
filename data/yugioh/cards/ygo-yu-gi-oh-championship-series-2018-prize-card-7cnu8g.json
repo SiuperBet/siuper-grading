@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:4538826:YCSWEN011:ygo-yu-gi-oh-championship-series-2018-prize-card-7cnu8g:ygo-super-rare",
+    "cardId": "4538826",
+    "printingId": "yugioh:4538826:YCSWEN011:ygo-yu-gi-oh-championship-series-2018-prize-card-7cnu8g:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Chaos Emperor, the Dragon of Armageddon",
+    "number": "YCSW-EN011",
+    "collectionNumber": "YCSW-EN011",
+    "setId": "ygo-yu-gi-oh-championship-series-2018-prize-card-7cnu8g",
+    "setCode": "YCSW-EN011",
+    "setName": "Yu-Gi-Oh! Championship Series 2018 prize card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Chaos",
+    "passcode": "4538826",
+    "type": "Pendulum Effect Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/4538826.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/4538826.jpg",
+    "artworkIds": [
+      4538826
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3042.55,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:4538826:YCSWEN011:ygo-yu-gi-oh-championship-series-2018-prize-card-7cnu8g:ygo-ultra-rare",
+    "cardId": "4538826",
+    "printingId": "yugioh:4538826:YCSWEN011:ygo-yu-gi-oh-championship-series-2018-prize-card-7cnu8g:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Chaos Emperor, the Dragon of Armageddon",
+    "number": "YCSW-EN011",
+    "collectionNumber": "YCSW-EN011",
+    "setId": "ygo-yu-gi-oh-championship-series-2018-prize-card-7cnu8g",
+    "setCode": "YCSW-EN011",
+    "setName": "Yu-Gi-Oh! Championship Series 2018 prize card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Chaos",
+    "passcode": "4538826",
+    "type": "Pendulum Effect Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/4538826.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/4538826.jpg",
+    "artworkIds": [
+      4538826
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3042.55,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

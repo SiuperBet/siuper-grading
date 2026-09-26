@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:48940337:NECHENSP1:ygo-the-new-challengers-sneak-peek-participation-card-1vpelek:ygo-ultra-rare",
+    "cardId": "48940337",
+    "printingId": "yugioh:48940337:NECHENSP1:ygo-the-new-challengers-sneak-peek-participation-card-1vpelek:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Lancephorhynchus",
+    "number": "NECH-ENSP1",
+    "collectionNumber": "NECH-ENSP1",
+    "setId": "ygo-the-new-challengers-sneak-peek-participation-card-1vpelek",
+    "setCode": "NECH-ENSP1",
+    "setName": "The New Challengers Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "48940337",
+    "type": "Pendulum Normal Monster",
+    "attribute": "WIND",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 800,
+    "image": "./assets/yugioh/thumbs/48940337.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/48940337.jpg",
+    "artworkIds": [
+      48940337
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.44,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

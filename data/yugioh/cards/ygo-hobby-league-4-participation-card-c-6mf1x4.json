@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:2134346:HL04EN003:ygo-hobby-league-4-participation-card-c-6mf1x4:ygo-ultra-parallel-rare",
+    "cardId": "2134346",
+    "printingId": "yugioh:2134346:HL04EN003:ygo-hobby-league-4-participation-card-c-6mf1x4:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Asura Priest",
+    "number": "HL04-EN003",
+    "collectionNumber": "HL04-EN003",
+    "setId": "ygo-hobby-league-4-participation-card-c-6mf1x4",
+    "setCode": "HL04-EN003",
+    "setName": "Hobby League 4 participation card C",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "2134346",
+    "type": "Spirit Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1700,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/2134346.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/2134346.jpg",
+    "artworkIds": [
+      2134346
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 15.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:73891874:GXNGEN001:ygo-gx-next-generation-ud9qxv:ygo-ultra-rare",
+    "cardId": "73891874",
+    "printingId": "yugioh:73891874:GXNGEN001:ygo-gx-next-generation-ud9qxv:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "White-Horned Dragon",
+    "number": "GXNG-EN001",
+    "collectionNumber": "GXNG-EN001",
+    "setId": "ygo-gx-next-generation-ud9qxv",
+    "setCode": "GXNG-EN001",
+    "setName": "GX Next Generation",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "73891874",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 1400,
+    "image": "./assets/yugioh/thumbs/73891874.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/73891874.jpg",
+    "artworkIds": [
+      73891874
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.9,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

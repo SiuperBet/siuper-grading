@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:63612442:JUMPEN058:ygo-shonen-jump-vol-10-issue-3-promotional-card-c7vixq:ygo-ultra-rare",
+    "cardId": "63612442",
+    "printingId": "yugioh:63612442:JUMPEN058:ygo-shonen-jump-vol-10-issue-3-promotional-card-c7vixq:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "X-Saber Souza",
+    "number": "JUMP-EN058",
+    "collectionNumber": "JUMP-EN058",
+    "setId": "ygo-shonen-jump-vol-10-issue-3-promotional-card-c7vixq",
+    "setCode": "JUMP-EN058",
+    "setName": "Shonen Jump Vol. 10, Issue 3 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "X-Saber",
+    "passcode": "63612442",
+    "type": "Synchro Monster",
+    "attribute": "EARTH",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 1600,
+    "image": "./assets/yugioh/thumbs/63612442.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/63612442.jpg",
+    "artworkIds": [
+      63612442
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.51,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

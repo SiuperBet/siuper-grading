@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:14536035:PTDNENSP1:ygo-phantom-darkness-sneak-peek-participation-card-12si87t:ygo-super-rare",
+    "cardId": "14536035",
+    "printingId": "yugioh:14536035:PTDNENSP1:ygo-phantom-darkness-sneak-peek-participation-card-12si87t:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Dark Grepher",
+    "number": "PTDN-ENSP1",
+    "collectionNumber": "PTDN-ENSP1",
+    "setId": "ygo-phantom-darkness-sneak-peek-participation-card-12si87t",
+    "setCode": "PTDN-ENSP1",
+    "setName": "Phantom Darkness Sneak Peek Participation Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Grepher",
+    "passcode": "14536035",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1700,
+    "def": 1600,
+    "image": "./assets/yugioh/thumbs/14536035.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/14536035.jpg",
+    "artworkIds": [
+      14536035
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 9.57,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

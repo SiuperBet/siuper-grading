@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:28649820:SP1EN003:ygo-cybernetic-revolution-sneak-peek-participation-card-u018rw:ygo-ultra-rare",
+    "cardId": "28649820",
+    "printingId": "yugioh:28649820:SP1EN003:ygo-cybernetic-revolution-sneak-peek-participation-card-u018rw:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Embodiment of Apophis",
+    "number": "SP1-EN003",
+    "collectionNumber": "SP1-EN003",
+    "setId": "ygo-cybernetic-revolution-sneak-peek-participation-card-u018rw",
+    "setCode": "SP1-EN003",
+    "setName": "Cybernetic Revolution Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "28649820",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/28649820.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/28649820.jpg",
+    "artworkIds": [
+      28649820
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 8.85,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

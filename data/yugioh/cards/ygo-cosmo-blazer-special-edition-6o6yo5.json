@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:82944432:CBLZENSE2:ygo-cosmo-blazer-special-edition-6o6yo5:ygo-super-rare",
+    "cardId": "82944432",
+    "printingId": "yugioh:82944432:CBLZENSE2:ygo-cosmo-blazer-special-edition-6o6yo5:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Blade Armor Ninja",
+    "number": "CBLZ-ENSE2",
+    "collectionNumber": "CBLZ-ENSE2",
+    "setId": "ygo-cosmo-blazer-special-edition-6o6yo5",
+    "setCode": "CBLZ-ENSE2",
+    "setName": "Cosmo Blazer: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Ninja",
+    "passcode": "82944432",
+    "type": "XYZ Monster",
+    "attribute": "WIND",
+    "level": 4,
+    "rank": 4,
+    "link": null,
+    "atk": 2200,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/82944432.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/82944432.jpg",
+    "artworkIds": [
+      82944432
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.2,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:25484449:CBLZENSE1:ygo-cosmo-blazer-special-edition-6o6yo5:ygo-super-rare",
+    "cardId": "25484449",
+    "printingId": "yugioh:25484449:CBLZENSE1:ygo-cosmo-blazer-special-edition-6o6yo5:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Wind-Up Shark",
+    "number": "CBLZ-ENSE1",
+    "collectionNumber": "CBLZ-ENSE1",
+    "setId": "ygo-cosmo-blazer-special-edition-6o6yo5",
+    "setCode": "CBLZ-ENSE1",
+    "setName": "Cosmo Blazer: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Wind-Up",
+    "passcode": "25484449",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1500,
+    "def": 1300,
+    "image": "./assets/yugioh/thumbs/25484449.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/25484449.jpg",
+    "artworkIds": [
+      25484449
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.67,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

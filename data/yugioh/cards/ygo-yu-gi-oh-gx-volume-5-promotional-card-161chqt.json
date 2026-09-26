@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:55690251:YG05EN001:ygo-yu-gi-oh-gx-volume-5-promotional-card-161chqt:ygo-ultra-rare",
+    "cardId": "55690251",
+    "printingId": "yugioh:55690251:YG05EN001:ygo-yu-gi-oh-gx-volume-5-promotional-card-161chqt:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Darklord Desire",
+    "number": "YG05-EN001",
+    "collectionNumber": "YG05-EN001",
+    "setId": "ygo-yu-gi-oh-gx-volume-5-promotional-card-161chqt",
+    "setCode": "YG05-EN001",
+    "setName": "Yu-Gi-Oh! GX Volume 5 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Darklord",
+    "passcode": "55690251",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 2800,
+    "image": "./assets/yugioh/thumbs/55690251.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/55690251.jpg",
+    "artworkIds": [
+      55690251
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.17,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

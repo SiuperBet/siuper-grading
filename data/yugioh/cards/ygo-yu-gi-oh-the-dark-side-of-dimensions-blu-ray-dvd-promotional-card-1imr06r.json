@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yugioh:10000000:MVPCEN001:ygo-yu-gi-oh-the-dark-side-of-dimensions-blu-ray-dvd-promotional-card-1imr06r:ygo-gold-rare",
+    "cardId": "10000000",
+    "printingId": "yugioh:10000000:MVPCEN001:ygo-yu-gi-oh-the-dark-side-of-dimensions-blu-ray-dvd-promotional-card-1imr06r:ygo-gold-rare",
+    "game": "yugioh",
+    "name": "Obelisk the Tormentor",
+    "number": "MVPC-EN001",
+    "collectionNumber": "MVPC-EN001",
+    "setId": "ygo-yu-gi-oh-the-dark-side-of-dimensions-blu-ray-dvd-promotional-card-1imr06r",
+    "setCode": "MVPC-EN001",
+    "setName": "Yu-Gi-Oh! The Dark Side of Dimensions Blu-ray & DVD promotional card",
+    "rarity": "Gold Rare",
+    "edition": "",
+    "archetype": "Egyptian God",
+    "passcode": "10000000",
+    "type": "Effect Monster",
+    "attribute": "DIVINE",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/10000000.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/10000000.jpg",
+    "artworkIds": [
+      10000000,
+      10000001,
+      10000002
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

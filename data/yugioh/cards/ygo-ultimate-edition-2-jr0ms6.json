@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:62873545:UE02EN001:ygo-ultimate-edition-2-jr0ms6:ygo-ultra-rare",
+    "cardId": "62873545",
+    "printingId": "yugioh:62873545:UE02EN001:ygo-ultimate-edition-2-jr0ms6:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Dragon Master Knight",
+    "number": "UE02-EN001",
+    "collectionNumber": "UE02-EN001",
+    "setId": "ygo-ultimate-edition-2-jr0ms6",
+    "setCode": "UE02-EN001",
+    "setName": "Ultimate Edition 2",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Blue-Eyes",
+    "passcode": "62873545",
+    "type": "Fusion Monster",
+    "attribute": "LIGHT",
+    "level": 12,
+    "rank": null,
+    "link": null,
+    "atk": 5000,
+    "def": 5000,
+    "image": "./assets/yugioh/thumbs/62873545.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/62873545.jpg",
+    "artworkIds": [
+      62873545
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 16.1,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

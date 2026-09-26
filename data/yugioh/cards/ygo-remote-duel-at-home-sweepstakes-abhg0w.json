@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:56747793:SBPREN001:ygo-remote-duel-at-home-sweepstakes-abhg0w:ygo-secret-rare",
+    "cardId": "56747793",
+    "printingId": "yugioh:56747793:SBPREN001:ygo-remote-duel-at-home-sweepstakes-abhg0w:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "United We Stand",
+    "number": "SBPR-EN001",
+    "collectionNumber": "SBPR-EN001",
+    "setId": "ygo-remote-duel-at-home-sweepstakes-abhg0w",
+    "setCode": "SBPR-EN001",
+    "setName": "Remote Duel at Home Sweepstakes",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "56747793",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/56747793.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/56747793.jpg",
+    "artworkIds": [
+      56747793
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

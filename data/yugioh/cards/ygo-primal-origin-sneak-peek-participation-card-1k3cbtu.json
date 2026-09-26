@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:20292186:PRIOENSP1:ygo-primal-origin-sneak-peek-participation-card-1k3cbtu:ygo-ultra-rare",
+    "cardId": "20292186",
+    "printingId": "yugioh:20292186:PRIOENSP1:ygo-primal-origin-sneak-peek-participation-card-1k3cbtu:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Artifact Scythe",
+    "number": "PRIO-ENSP1",
+    "collectionNumber": "PRIO-ENSP1",
+    "setId": "ygo-primal-origin-sneak-peek-participation-card-1k3cbtu",
+    "setCode": "PRIO-ENSP1",
+    "setName": "Primal Origin Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Artifact",
+    "passcode": "20292186",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 900,
+    "image": "./assets/yugioh/thumbs/20292186.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/20292186.jpg",
+    "artworkIds": [
+      20292186
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.55,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

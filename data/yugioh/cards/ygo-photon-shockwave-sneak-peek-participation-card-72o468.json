@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:43096270:PHSWENSP1:ygo-photon-shockwave-sneak-peek-participation-card-72o468:ygo-ultra-rare",
+    "cardId": "43096270",
+    "printingId": "yugioh:43096270:PHSWENSP1:ygo-photon-shockwave-sneak-peek-participation-card-72o468:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Alexandrite Dragon",
+    "number": "PHSW-ENSP1",
+    "collectionNumber": "PHSW-ENSP1",
+    "setId": "ygo-photon-shockwave-sneak-peek-participation-card-72o468",
+    "setCode": "PHSW-ENSP1",
+    "setName": "Photon Shockwave Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "43096270",
+    "type": "Normal Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 2000,
+    "def": 100,
+    "image": "./assets/yugioh/thumbs/43096270.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/43096270.jpg",
+    "artworkIds": [
+      43096270
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 14.48,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

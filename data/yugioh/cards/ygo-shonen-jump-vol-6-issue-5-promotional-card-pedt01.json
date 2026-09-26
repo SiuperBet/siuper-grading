@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:39439590:JUMPEN024:ygo-shonen-jump-vol-6-issue-5-promotional-card-pedt01:ygo-ultra-rare",
+    "cardId": "39439590",
+    "printingId": "yugioh:39439590:JUMPEN024:ygo-shonen-jump-vol-6-issue-5-promotional-card-pedt01:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Cyber Dinosaur",
+    "number": "JUMP-EN024",
+    "collectionNumber": "JUMP-EN024",
+    "setId": "ygo-shonen-jump-vol-6-issue-5-promotional-card-pedt01",
+    "setCode": "JUMP-EN024",
+    "setName": "Shonen Jump Vol. 6, Issue 5 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "39439590",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 1900,
+    "image": "./assets/yugioh/thumbs/39439590.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/39439590.jpg",
+    "artworkIds": [
+      39439590
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.81,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

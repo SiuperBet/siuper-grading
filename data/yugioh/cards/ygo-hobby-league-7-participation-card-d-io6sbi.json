@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:86445415:HL07EN004:ygo-hobby-league-7-participation-card-d-io6sbi:ygo-ultra-parallel-rare",
+    "cardId": "86445415",
+    "printingId": "yugioh:86445415:HL07EN004:ygo-hobby-league-7-participation-card-d-io6sbi:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Red Gadget",
+    "number": "HL07-EN004",
+    "collectionNumber": "HL07-EN004",
+    "setId": "ygo-hobby-league-7-participation-card-d-io6sbi",
+    "setCode": "HL07-EN004",
+    "setName": "Hobby League 7 participation card D",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "Gadget",
+    "passcode": "86445415",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1300,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/86445415.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/86445415.jpg",
+    "artworkIds": [
+      86445415
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.1,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

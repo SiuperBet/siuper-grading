@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:85696777:LARTEN026:ygo-the-lost-art-promotion-2020-n-125r76g:ygo-ultra-rare",
+    "cardId": "85696777",
+    "printingId": "yugioh:85696777:LARTEN026:ygo-the-lost-art-promotion-2020-n-125r76g:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Harpie Conductor",
+    "number": "LART-EN026",
+    "collectionNumber": "LART-EN026",
+    "setId": "ygo-the-lost-art-promotion-2020-n-125r76g",
+    "setCode": "LART-EN026",
+    "setName": "The Lost Art Promotion 2020 N",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Harpie",
+    "passcode": "85696777",
+    "type": "Link Monster",
+    "attribute": "WIND",
+    "level": null,
+    "rank": null,
+    "link": 2,
+    "atk": 1900,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/85696777.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/85696777.jpg",
+    "artworkIds": [
+      85696777
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

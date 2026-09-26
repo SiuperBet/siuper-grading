@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:22829942:RATEENSP1:ygo-raging-tempest-sneak-peek-participation-card-tcodtd:ygo-ultra-rare",
+    "cardId": "22829942",
+    "printingId": "yugioh:22829942:RATEENSP1:ygo-raging-tempest-sneak-peek-participation-card-tcodtd:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Fusion Recycling Plant",
+    "number": "RATE-ENSP1",
+    "collectionNumber": "RATE-ENSP1",
+    "setId": "ygo-raging-tempest-sneak-peek-participation-card-tcodtd",
+    "setCode": "RATE-ENSP1",
+    "setName": "Raging Tempest Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "22829942",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/22829942.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/22829942.jpg",
+    "artworkIds": [
+      22829942
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.5,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

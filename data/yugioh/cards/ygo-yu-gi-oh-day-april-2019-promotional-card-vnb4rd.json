@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:300201002:YDPRENS01:ygo-yu-gi-oh-day-april-2019-promotional-card-vnb4rd:ygo-ultra-rare",
+    "cardId": "300201002",
+    "printingId": "yugioh:300201002:YDPRENS01:ygo-yu-gi-oh-day-april-2019-promotional-card-vnb4rd:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Destiny Draw (Skill Card)",
+    "number": "YDPR-ENS01",
+    "collectionNumber": "YDPR-ENS01",
+    "setId": "ygo-yu-gi-oh-day-april-2019-promotional-card-vnb4rd",
+    "setCode": "YDPR-ENS01",
+    "setName": "Yu-Gi-Oh! Day April 2019 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "300201002",
+    "type": "Skill Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/300201002.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/300201002.jpg",
+    "artworkIds": [
+      300201002
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.95,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

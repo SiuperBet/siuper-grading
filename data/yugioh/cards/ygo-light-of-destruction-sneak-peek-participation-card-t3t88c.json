@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:71799173:LODTENSP1:ygo-light-of-destruction-sneak-peek-participation-card-t3t88c:ygo-super-rare",
+    "cardId": "71799173",
+    "printingId": "yugioh:71799173:LODTENSP1:ygo-light-of-destruction-sneak-peek-participation-card-t3t88c:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Guardian of Order",
+    "number": "LODT-ENSP1",
+    "collectionNumber": "LODT-ENSP1",
+    "setId": "ygo-light-of-destruction-sneak-peek-participation-card-t3t88c",
+    "setCode": "LODT-ENSP1",
+    "setName": "Light of Destruction Sneak Peek Participation Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Guardian",
+    "passcode": "71799173",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/71799173.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/71799173.jpg",
+    "artworkIds": [
+      71799173
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.4,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

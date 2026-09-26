@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:40854197:GENFENSE1:ygo-generation-force-special-edition-24s3bz:ygo-super-rare",
+    "cardId": "40854197",
+    "printingId": "yugioh:40854197:GENFENSE1:ygo-generation-force-special-edition-24s3bz:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Elemental HERO Absolute Zero",
+    "number": "GENF-ENSE1",
+    "collectionNumber": "GENF-ENSE1",
+    "setId": "ygo-generation-force-special-edition-24s3bz",
+    "setCode": "GENF-ENSE1",
+    "setName": "Generation Force: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Elemental HERO",
+    "passcode": "40854197",
+    "type": "Fusion Monster",
+    "attribute": "WATER",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/40854197.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/40854197.jpg",
+    "artworkIds": [
+      40854197
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.34,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:11747708:GENFENSE2:ygo-generation-force-special-edition-24s3bz:ygo-super-rare",
+    "cardId": "11747708",
+    "printingId": "yugioh:11747708:GENFENSE2:ygo-generation-force-special-edition-24s3bz:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Spore",
+    "number": "GENF-ENSE2",
+    "collectionNumber": "GENF-ENSE2",
+    "setId": "ygo-generation-force-special-edition-24s3bz",
+    "setCode": "GENF-ENSE2",
+    "setName": "Generation Force: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "11747708",
+    "type": "Tuner Monster",
+    "attribute": "WIND",
+    "level": 1,
+    "rank": null,
+    "link": null,
+    "atk": 400,
+    "def": 800,
+    "image": "./assets/yugioh/thumbs/11747708.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/11747708.jpg",
+    "artworkIds": [
+      11747708
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.72,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

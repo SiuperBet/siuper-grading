@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:3643300:LARTEN020:ygo-the-lost-art-promotion-2020-h-13totca:ygo-ultra-rare",
+    "cardId": "3643300",
+    "printingId": "yugioh:3643300:LARTEN020:ygo-the-lost-art-promotion-2020-h-13totca:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "The Legendary Fisherman",
+    "number": "LART-EN020",
+    "collectionNumber": "LART-EN020",
+    "setId": "ygo-the-lost-art-promotion-2020-h-13totca",
+    "setCode": "LART-EN020",
+    "setName": "The Lost Art Promotion 2020 H",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Umi",
+    "passcode": "3643300",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 1850,
+    "def": 1600,
+    "image": "./assets/yugioh/thumbs/3643300.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/3643300.jpg",
+    "artworkIds": [
+      3643300
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:25862681:CT06EN002:ygo-collectible-tins-2009-wave-1-150vtve:ygo-secret-rare",
+    "cardId": "25862681",
+    "printingId": "yugioh:25862681:CT06EN002:ygo-collectible-tins-2009-wave-1-150vtve:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Ancient Fairy Dragon",
+    "number": "CT06-EN002",
+    "collectionNumber": "CT06-EN002",
+    "setId": "ygo-collectible-tins-2009-wave-1-150vtve",
+    "setCode": "CT06-EN002",
+    "setName": "Collectible Tins 2009 Wave 1",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "25862681",
+    "type": "Synchro Monster",
+    "attribute": "LIGHT",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2100,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/25862681.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/25862681.jpg",
+    "artworkIds": [
+      25862681
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 8.55,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:2403771:CT06EN001:ygo-collectible-tins-2009-wave-1-150vtve:ygo-secret-rare",
+    "cardId": "2403771",
+    "printingId": "yugioh:2403771:CT06EN001:ygo-collectible-tins-2009-wave-1-150vtve:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Power Tool Dragon",
+    "number": "CT06-EN001",
+    "collectionNumber": "CT06-EN001",
+    "setId": "ygo-collectible-tins-2009-wave-1-150vtve",
+    "setCode": "CT06-EN001",
+    "setName": "Collectible Tins 2009 Wave 1",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "Power Tool",
+    "passcode": "2403771",
+    "type": "Synchro Monster",
+    "attribute": "EARTH",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2300,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/2403771.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/2403771.jpg",
+    "artworkIds": [
+      2403771
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.09,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

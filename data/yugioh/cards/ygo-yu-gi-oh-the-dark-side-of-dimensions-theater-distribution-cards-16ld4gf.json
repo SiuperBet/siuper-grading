@@ -1,0 +1,43 @@
+[
+  {
+    "id": "yugioh:10000000:MVPCEN001:ygo-yu-gi-oh-the-dark-side-of-dimensions-theater-distribution-cards-16ld4gf:ygo-gold-secret-rare",
+    "cardId": "10000000",
+    "printingId": "yugioh:10000000:MVPCEN001:ygo-yu-gi-oh-the-dark-side-of-dimensions-theater-distribution-cards-16ld4gf:ygo-gold-secret-rare",
+    "game": "yugioh",
+    "name": "Obelisk the Tormentor",
+    "number": "MVPC-EN001",
+    "collectionNumber": "MVPC-EN001",
+    "setId": "ygo-yu-gi-oh-the-dark-side-of-dimensions-theater-distribution-cards-16ld4gf",
+    "setCode": "MVPC-EN001",
+    "setName": "Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution cards",
+    "rarity": "Gold Secret Rare",
+    "edition": "",
+    "archetype": "Egyptian God",
+    "passcode": "10000000",
+    "type": "Effect Monster",
+    "attribute": "DIVINE",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/10000000.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/10000000.jpg",
+    "artworkIds": [
+      10000000,
+      10000001,
+      10000002
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.27,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

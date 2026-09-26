@@ -1,0 +1,43 @@
+[
+  {
+    "id": "yugioh:23995346:JMPEN005:ygo-ultimate-edition-5a2ngg:ygo-ultra-rare",
+    "cardId": "23995346",
+    "printingId": "yugioh:23995346:JMPEN005:ygo-ultimate-edition-5a2ngg:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Blue-Eyes Ultimate Dragon",
+    "number": "JMP-EN005",
+    "collectionNumber": "JMP-EN005",
+    "setId": "ygo-ultimate-edition-5a2ngg",
+    "setCode": "JMP-EN005",
+    "setName": "Ultimate Edition",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Blue-Eyes",
+    "passcode": "23995346",
+    "type": "Fusion Monster",
+    "attribute": "LIGHT",
+    "level": 12,
+    "rank": null,
+    "link": null,
+    "atk": 4500,
+    "def": 3800,
+    "image": "./assets/yugioh/thumbs/23995346.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/23995346.jpg",
+    "artworkIds": [
+      23995346,
+      23995347,
+      23995348
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.58,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

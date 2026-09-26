@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:45037489:TF05EN002:ygo-yu-gi-oh-5d-s-tag-force-5-promotional-cards-1g2ubzv:ygo-super-rare",
+    "cardId": "45037489",
+    "printingId": "yugioh:45037489:TF05EN002:ygo-yu-gi-oh-5d-s-tag-force-5-promotional-cards-1g2ubzv:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Chevalier de Fleur",
+    "number": "TF05-EN002",
+    "collectionNumber": "TF05-EN002",
+    "setId": "ygo-yu-gi-oh-5d-s-tag-force-5-promotional-cards-1g2ubzv",
+    "setCode": "TF05-EN002",
+    "setName": "Yu-Gi-Oh! 5D's Tag Force 5 promotional cards",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "45037489",
+    "type": "Synchro Monster",
+    "attribute": "WIND",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2700,
+    "def": 2300,
+    "image": "./assets/yugioh/thumbs/45037489.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/45037489.jpg",
+    "artworkIds": [
+      45037489
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 25.29,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:19642774:TF05EN001:ygo-yu-gi-oh-5d-s-tag-force-5-promotional-cards-1g2ubzv:ygo-super-rare",
+    "cardId": "19642774",
+    "printingId": "yugioh:19642774:TF05EN001:ygo-yu-gi-oh-5d-s-tag-force-5-promotional-cards-1g2ubzv:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Fleur Synchron",
+    "number": "TF05-EN001",
+    "collectionNumber": "TF05-EN001",
+    "setId": "ygo-yu-gi-oh-5d-s-tag-force-5-promotional-cards-1g2ubzv",
+    "setCode": "TF05-EN001",
+    "setName": "Yu-Gi-Oh! 5D's Tag Force 5 promotional cards",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Synchron",
+    "passcode": "19642774",
+    "type": "Tuner Monster",
+    "attribute": "LIGHT",
+    "level": 2,
+    "rank": null,
+    "link": null,
+    "atk": 400,
+    "def": 200,
+    "image": "./assets/yugioh/thumbs/19642774.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/19642774.jpg",
+    "artworkIds": [
+      19642774
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 23.05,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:85463083:SHSPENSP1:ygo-shadow-specters-sneak-peek-participation-card-6692z0:ygo-ultra-rare",
+    "cardId": "85463083",
+    "printingId": "yugioh:85463083:SHSPENSP1:ygo-shadow-specters-sneak-peek-participation-card-6692z0:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Ghostrick Ghoul",
+    "number": "SHSP-ENSP1",
+    "collectionNumber": "SHSP-ENSP1",
+    "setId": "ygo-shadow-specters-sneak-peek-participation-card-6692z0",
+    "setCode": "SHSP-ENSP1",
+    "setName": "Shadow Specters Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Ghostrick",
+    "passcode": "85463083",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1100,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/85463083.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/85463083.jpg",
+    "artworkIds": [
+      85463083
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.79,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

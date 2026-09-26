@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:57953380:HL07EN005:ygo-hobby-league-7-participation-card-e-iy6e0h:ygo-ultra-parallel-rare",
+    "cardId": "57953380",
+    "printingId": "yugioh:57953380:HL07EN005:ygo-hobby-league-7-participation-card-e-iy6e0h:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Card of Safe Return",
+    "number": "HL07-EN005",
+    "collectionNumber": "HL07-EN005",
+    "setId": "ygo-hobby-league-7-participation-card-e-iy6e0h",
+    "setCode": "HL07-EN005",
+    "setName": "Hobby League 7 participation card E",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "57953380",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/57953380.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/57953380.jpg",
+    "artworkIds": [
+      57953380
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.55,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

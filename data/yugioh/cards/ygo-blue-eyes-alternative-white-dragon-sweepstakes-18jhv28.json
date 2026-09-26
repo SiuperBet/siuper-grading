@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:38517737:SBPREN003:ygo-blue-eyes-alternative-white-dragon-sweepstakes-18jhv28:ygo-secret-rare",
+    "cardId": "38517737",
+    "printingId": "yugioh:38517737:SBPREN003:ygo-blue-eyes-alternative-white-dragon-sweepstakes-18jhv28:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Blue-Eyes Alternative White Dragon",
+    "number": "SBPR-EN003",
+    "collectionNumber": "SBPR-EN003",
+    "setId": "ygo-blue-eyes-alternative-white-dragon-sweepstakes-18jhv28",
+    "setCode": "SBPR-EN003",
+    "setName": "Blue-Eyes Alternative White Dragon Sweepstakes",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "Blue-Eyes",
+    "passcode": "38517737",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/38517737.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/38517737.jpg",
+    "artworkIds": [
+      38517737
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

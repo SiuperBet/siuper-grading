@@ -1,0 +1,72 @@
+[
+  {
+    "id": "yugioh:662855:2018EN002:ygo-yu-gi-oh-world-championship-2018-prize-cards-avsr8u:ygo-extra-secret-rare",
+    "cardId": "662855",
+    "printingId": "yugioh:662855:2018EN002:ygo-yu-gi-oh-world-championship-2018-prize-cards-avsr8u:ygo-extra-secret-rare",
+    "game": "yugioh",
+    "name": "Amatsu-Okami of the Divine Peaks",
+    "number": "2018-EN002",
+    "collectionNumber": "2018-EN002",
+    "setId": "ygo-yu-gi-oh-world-championship-2018-prize-cards-avsr8u",
+    "setCode": "2018-EN002",
+    "setName": "Yu-Gi-Oh! World Championship 2018 prize cards",
+    "rarity": "Extra Secret Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "662855",
+    "type": "Link Monster",
+    "attribute": "LIGHT",
+    "level": null,
+    "rank": null,
+    "link": 4,
+    "atk": 3000,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/662855.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/662855.jpg",
+    "artworkIds": [
+      662855
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 262.63,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:662854:2018EN001:ygo-yu-gi-oh-world-championship-2018-prize-cards-avsr8u:ygo-extra-secret-rare",
+    "cardId": "662854",
+    "printingId": "yugioh:662854:2018EN001:ygo-yu-gi-oh-world-championship-2018-prize-cards-avsr8u:ygo-extra-secret-rare",
+    "game": "yugioh",
+    "name": "Noritoshi in Darkest Rainment",
+    "number": "2018-EN001",
+    "collectionNumber": "2018-EN001",
+    "setId": "ygo-yu-gi-oh-world-championship-2018-prize-cards-avsr8u",
+    "setCode": "2018-EN001",
+    "setName": "Yu-Gi-Oh! World Championship 2018 prize cards",
+    "rarity": "Extra Secret Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "662854",
+    "type": "Link Monster",
+    "attribute": "DARK",
+    "level": null,
+    "rank": null,
+    "link": 5,
+    "atk": 2500,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/662854.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/662854.jpg",
+    "artworkIds": [
+      662854
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

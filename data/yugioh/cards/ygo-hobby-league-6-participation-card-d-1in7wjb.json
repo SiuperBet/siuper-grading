@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:32807846:HL06EN004:ygo-hobby-league-6-participation-card-d-1in7wjb:ygo-ultra-parallel-rare",
+    "cardId": "32807846",
+    "printingId": "yugioh:32807846:HL06EN004:ygo-hobby-league-6-participation-card-d-1in7wjb:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Reinforcement of the Army",
+    "number": "HL06-EN004",
+    "collectionNumber": "HL06-EN004",
+    "setId": "ygo-hobby-league-6-participation-card-d-1in7wjb",
+    "setCode": "HL06-EN004",
+    "setName": "Hobby League 6 participation card D",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "32807846",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/32807846.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/32807846.jpg",
+    "artworkIds": [
+      32807846
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 30.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

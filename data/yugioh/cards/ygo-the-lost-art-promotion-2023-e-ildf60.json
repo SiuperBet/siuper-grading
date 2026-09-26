@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:81489939:LARTEN058:ygo-the-lost-art-promotion-2023-e-ildf60:ygo-ultra-rare",
+    "cardId": "81489939",
+    "printingId": "yugioh:81489939:LARTEN058:ygo-the-lost-art-promotion-2023-e-ildf60:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Stygian Dirge",
+    "number": "LART-EN058",
+    "collectionNumber": "LART-EN058",
+    "setId": "ygo-the-lost-art-promotion-2023-e-ildf60",
+    "setCode": "LART-EN058",
+    "setName": "The Lost Art Promotion 2023 E",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "81489939",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/81489939.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/81489939.jpg",
+    "artworkIds": [
+      81489939
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

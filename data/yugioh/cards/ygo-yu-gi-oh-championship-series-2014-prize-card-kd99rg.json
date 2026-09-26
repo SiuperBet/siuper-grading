@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:37910722:YCSWEN007:ygo-yu-gi-oh-championship-series-2014-prize-card-kd99rg:ygo-super-rare",
+    "cardId": "37910722",
+    "printingId": "yugioh:37910722:YCSWEN007:ygo-yu-gi-oh-championship-series-2014-prize-card-kd99rg:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Ascension Sky Dragon",
+    "number": "YCSW-EN007",
+    "collectionNumber": "YCSW-EN007",
+    "setId": "ygo-yu-gi-oh-championship-series-2014-prize-card-kd99rg",
+    "setCode": "YCSW-EN007",
+    "setName": "Yu-Gi-Oh! Championship Series 2014 Prize Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "37910722",
+    "type": "Synchro Monster",
+    "attribute": "LIGHT",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/37910722.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/37910722.jpg",
+    "artworkIds": [
+      37910722
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2534.65,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:37910722:YCSWEN007:ygo-yu-gi-oh-championship-series-2014-prize-card-kd99rg:ygo-ultra-rare",
+    "cardId": "37910722",
+    "printingId": "yugioh:37910722:YCSWEN007:ygo-yu-gi-oh-championship-series-2014-prize-card-kd99rg:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Ascension Sky Dragon",
+    "number": "YCSW-EN007",
+    "collectionNumber": "YCSW-EN007",
+    "setId": "ygo-yu-gi-oh-championship-series-2014-prize-card-kd99rg",
+    "setCode": "YCSW-EN007",
+    "setName": "Yu-Gi-Oh! Championship Series 2014 Prize Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "37910722",
+    "type": "Synchro Monster",
+    "attribute": "LIGHT",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/37910722.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/37910722.jpg",
+    "artworkIds": [
+      37910722
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2920.16,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:29013526:LARTEN038:ygo-the-lost-art-promotion-2021-h-hbn4th:ygo-ultra-rare",
+    "cardId": "29013526",
+    "printingId": "yugioh:29013526:LARTEN038:ygo-the-lost-art-promotion-2021-h-hbn4th:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Storming Wynn",
+    "number": "LART-EN038",
+    "collectionNumber": "LART-EN038",
+    "setId": "ygo-the-lost-art-promotion-2021-h-hbn4th",
+    "setCode": "LART-EN038",
+    "setName": "The Lost Art Promotion 2021 H",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "29013526",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 800,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/29013526.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/29013526.jpg",
+    "artworkIds": [
+      29013526
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

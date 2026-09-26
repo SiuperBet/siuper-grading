@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:61831093:HL1EN002:ygo-hobby-league-1-participation-cards-a-kcpql6:ygo-super-rare",
+    "cardId": "61831093",
+    "printingId": "yugioh:61831093:HL1EN002:ygo-hobby-league-1-participation-cards-a-kcpql6:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Greenkappa",
+    "number": "HL1-EN002",
+    "collectionNumber": "HL1-EN002",
+    "setId": "ygo-hobby-league-1-participation-cards-a-kcpql6",
+    "setCode": "HL1-EN002",
+    "setName": "Hobby League 1 participation cards A",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "61831093",
+    "type": "Flip Effect Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 650,
+    "def": 900,
+    "image": "./assets/yugioh/thumbs/61831093.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/61831093.jpg",
+    "artworkIds": [
+      61831093
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 34.9,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:99510761:HL1EN001:ygo-hobby-league-1-participation-cards-a-kcpql6:ygo-common",
+    "cardId": "99510761",
+    "printingId": "yugioh:99510761:HL1EN001:ygo-hobby-league-1-participation-cards-a-kcpql6:ygo-common",
+    "game": "yugioh",
+    "name": "Lord of the Lamp",
+    "number": "HL1-EN001",
+    "collectionNumber": "HL1-EN001",
+    "setId": "ygo-hobby-league-1-participation-cards-a-kcpql6",
+    "setCode": "HL1-EN001",
+    "setName": "Hobby League 1 participation cards A",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "",
+    "passcode": "99510761",
+    "type": "Normal Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1400,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/99510761.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/99510761.jpg",
+    "artworkIds": [
+      99510761
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.63,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

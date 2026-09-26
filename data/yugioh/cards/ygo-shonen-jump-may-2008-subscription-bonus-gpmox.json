@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:13893596:JUMPEN025:ygo-shonen-jump-may-2008-subscription-bonus-gpmox:ygo-ultra-rare",
+    "cardId": "13893596",
+    "printingId": "yugioh:13893596:JUMPEN025:ygo-shonen-jump-may-2008-subscription-bonus-gpmox:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Exodius the Ultimate Forbidden Lord",
+    "number": "JUMP-EN025",
+    "collectionNumber": "JUMP-EN025",
+    "setId": "ygo-shonen-jump-may-2008-subscription-bonus-gpmox",
+    "setCode": "JUMP-EN025",
+    "setName": "Shonen Jump May 2008 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Exodia",
+    "passcode": "13893596",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/13893596.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/13893596.jpg",
+    "artworkIds": [
+      13893596
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 49,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

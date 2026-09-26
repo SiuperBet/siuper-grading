@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:41999284:JUMPEN082:ygo-weekly-shonen-jump-november-2017-membership-promotional-card-1o0fnij:ygo-ultra-rare",
+    "cardId": "41999284",
+    "printingId": "yugioh:41999284:JUMPEN082:ygo-weekly-shonen-jump-november-2017-membership-promotional-card-1o0fnij:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Linkuriboh",
+    "number": "JUMP-EN082",
+    "collectionNumber": "JUMP-EN082",
+    "setId": "ygo-weekly-shonen-jump-november-2017-membership-promotional-card-1o0fnij",
+    "setCode": "JUMP-EN082",
+    "setName": "Weekly Shonen Jump November 2017 membership promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Kuriboh",
+    "passcode": "41999284",
+    "type": "Link Monster",
+    "attribute": "DARK",
+    "level": 0,
+    "rank": null,
+    "link": 1,
+    "atk": 300,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/41999284.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/41999284.jpg",
+    "artworkIds": [
+      41999284
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 16.46,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

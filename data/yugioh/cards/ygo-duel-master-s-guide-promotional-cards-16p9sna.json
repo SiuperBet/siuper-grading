@@ -1,0 +1,43 @@
+[
+  {
+    "id": "yugioh:98502113:DMG001:ygo-duel-master-s-guide-promotional-cards-16p9sna:ygo-secret-rare",
+    "cardId": "98502113",
+    "printingId": "yugioh:98502113:DMG001:ygo-duel-master-s-guide-promotional-cards-16p9sna:ygo-secret-rare",
+    "game": "yugioh",
+    "name": "Dark Paladin",
+    "number": "DMG-001",
+    "collectionNumber": "DMG-001",
+    "setId": "ygo-duel-master-s-guide-promotional-cards-16p9sna",
+    "setCode": "DMG-001",
+    "setName": "Duel Master's Guide promotional cards",
+    "rarity": "Secret Rare",
+    "edition": "",
+    "archetype": "Dark Magician",
+    "passcode": "98502113",
+    "type": "Fusion Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2900,
+    "def": 2400,
+    "image": "./assets/yugioh/thumbs/98502113.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/98502113.jpg",
+    "artworkIds": [
+      98502113,
+      98502114,
+      98502115
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 92.62,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

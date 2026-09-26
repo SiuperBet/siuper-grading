@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:54343893:DDY1EN001:ygo-duel-disk-yusei-version-u9nzm:ygo-ultra-rare",
+    "cardId": "54343893",
+    "printingId": "yugioh:54343893:DDY1EN001:ygo-duel-disk-yusei-version-u9nzm:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Vice Dragon",
+    "number": "DDY1-EN001",
+    "collectionNumber": "DDY1-EN001",
+    "setId": "ygo-duel-disk-yusei-version-u9nzm",
+    "setCode": "DDY1-EN001",
+    "setName": "Duel Disk - Yusei Version",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "54343893",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2000,
+    "def": 2400,
+    "image": "./assets/yugioh/thumbs/54343893.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/54343893.jpg",
+    "artworkIds": [
+      54343893
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 10001.09,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:68811206:TYLEN001:ygo-make-a-wish-foundation-promotional-card-70b9fi:ygo-ultra-rare",
+    "cardId": "68811206",
+    "printingId": "yugioh:68811206:TYLEN001:ygo-make-a-wish-foundation-promotional-card-70b9fi:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Tyler the Great Warrior",
+    "number": "TYL-EN001",
+    "collectionNumber": "TYL-EN001",
+    "setId": "ygo-make-a-wish-foundation-promotional-card-70b9fi",
+    "setCode": "TYL-EN001",
+    "setName": "Make-A-Wish Foundation promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Fan-Made Cards",
+    "passcode": "68811206",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/68811206.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/68811206.jpg",
+    "artworkIds": [
+      68811206
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

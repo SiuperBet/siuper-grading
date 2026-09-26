@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:10383554:LARTEN025:ygo-the-lost-art-promotion-2020-m-12zq09d:ygo-ultra-rare",
+    "cardId": "10383554",
+    "printingId": "yugioh:10383554:LARTEN025:ygo-the-lost-art-promotion-2020-m-12zq09d:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Frightfur Leo",
+    "number": "LART-EN025",
+    "collectionNumber": "LART-EN025",
+    "setId": "ygo-the-lost-art-promotion-2020-m-12zq09d",
+    "setCode": "LART-EN025",
+    "setName": "The Lost Art Promotion 2020 M",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Edge Imp",
+    "passcode": "10383554",
+    "type": "Fusion Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/10383554.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/10383554.jpg",
+    "artworkIds": [
+      10383554
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

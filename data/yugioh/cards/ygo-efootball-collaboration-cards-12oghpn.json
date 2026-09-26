@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:85138716:EFC1EN001:ygo-efootball-collaboration-cards-12oghpn:ygo-normal-parallel-rare",
+    "cardId": "85138716",
+    "printingId": "yugioh:85138716:EFC1EN001:ygo-efootball-collaboration-cards-12oghpn:ygo-normal-parallel-rare",
+    "game": "yugioh",
+    "name": "Rescue Rabbit",
+    "number": "EFC1-EN001",
+    "collectionNumber": "EFC1-EN001",
+    "setId": "ygo-efootball-collaboration-cards-12oghpn",
+    "setCode": "EFC1-EN001",
+    "setName": "EFootball collaboration cards",
+    "rarity": "Normal Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "85138716",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 300,
+    "def": 100,
+    "image": "./assets/yugioh/thumbs/85138716.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/85138716.jpg",
+    "artworkIds": [
+      85138716
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

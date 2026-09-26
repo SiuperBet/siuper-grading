@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:42664989:EP1EN000:ygo-kids-wb-duel-of-destiny-promotional-card-v0utx2:ygo-common",
+    "cardId": "42664989",
+    "printingId": "yugioh:42664989:EP1EN000:ygo-kids-wb-duel-of-destiny-promotional-card-v0utx2:ygo-common",
+    "game": "yugioh",
+    "name": "Card of Sanctity",
+    "number": "EP1-EN000",
+    "collectionNumber": "EP1-EN000",
+    "setId": "ygo-kids-wb-duel-of-destiny-promotional-card-v0utx2",
+    "setCode": "EP1-EN000",
+    "setName": "Kids WB Duel of Destiny promotional card",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "",
+    "passcode": "42664989",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/42664989.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/42664989.jpg",
+    "artworkIds": [
+      42664989
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

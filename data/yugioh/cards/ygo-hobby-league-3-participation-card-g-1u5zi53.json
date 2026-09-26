@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:80071763:HL03EN007:ygo-hobby-league-3-participation-card-g-1u5zi53:ygo-ultra-parallel-rare",
+    "cardId": "80071763",
+    "printingId": "yugioh:80071763:HL03EN007:ygo-hobby-league-3-participation-card-g-1u5zi53:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Dark Balter the Terrible",
+    "number": "HL03-EN007",
+    "collectionNumber": "HL03-EN007",
+    "setId": "ygo-hobby-league-3-participation-card-g-1u5zi53",
+    "setCode": "HL03-EN007",
+    "setName": "Hobby League 3 participation card G",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "80071763",
+    "type": "Fusion Monster",
+    "attribute": "DARK",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2000,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/80071763.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/80071763.jpg",
+    "artworkIds": [
+      80071763
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 15.18,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

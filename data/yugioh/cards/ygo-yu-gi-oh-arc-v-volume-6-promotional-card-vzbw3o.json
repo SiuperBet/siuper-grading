@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:67508932:YA06EN001:ygo-yu-gi-oh-arc-v-volume-6-promotional-card-vzbw3o:ygo-ultra-rare",
+    "cardId": "67508932",
+    "printingId": "yugioh:67508932:YA06EN001:ygo-yu-gi-oh-arc-v-volume-6-promotional-card-vzbw3o:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Timelord Progenitor Vorpgate",
+    "number": "YA06-EN001",
+    "collectionNumber": "YA06-EN001",
+    "setId": "ygo-yu-gi-oh-arc-v-volume-6-promotional-card-vzbw3o",
+    "setCode": "YA06-EN001",
+    "setName": "Yu-Gi-Oh! ARC-V Volume 6 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Timelord",
+    "passcode": "67508932",
+    "type": "Synchro Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/67508932.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/67508932.jpg",
+    "artworkIds": [
+      67508932
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 17.07,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

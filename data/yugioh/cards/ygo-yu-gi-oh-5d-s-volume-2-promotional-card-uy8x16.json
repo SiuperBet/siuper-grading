@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:37474917:YF02EN001:ygo-yu-gi-oh-5d-s-volume-2-promotional-card-uy8x16:ygo-ultra-rare",
+    "cardId": "37474917",
+    "printingId": "yugioh:37474917:YF02EN001:ygo-yu-gi-oh-5d-s-volume-2-promotional-card-uy8x16:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Catapult Warrior",
+    "number": "YF02-EN001",
+    "collectionNumber": "YF02-EN001",
+    "setId": "ygo-yu-gi-oh-5d-s-volume-2-promotional-card-uy8x16",
+    "setCode": "YF02-EN001",
+    "setName": "Yu-Gi-Oh! 5D's Volume 2 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Junk",
+    "passcode": "37474917",
+    "type": "Synchro Monster",
+    "attribute": "EARTH",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 1000,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/37474917.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/37474917.jpg",
+    "artworkIds": [
+      37474917
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.89,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

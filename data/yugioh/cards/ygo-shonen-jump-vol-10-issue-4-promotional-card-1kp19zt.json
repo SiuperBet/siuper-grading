@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:81330115:JUMPEN059:ygo-shonen-jump-vol-10-issue-4-promotional-card-1kp19zt:ygo-ultra-rare",
+    "cardId": "81330115",
+    "printingId": "yugioh:81330115:JUMPEN059:ygo-shonen-jump-vol-10-issue-4-promotional-card-1kp19zt:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Number 30: Acid Golem of Destruction",
+    "number": "JUMP-EN059",
+    "collectionNumber": "JUMP-EN059",
+    "setId": "ygo-shonen-jump-vol-10-issue-4-promotional-card-1kp19zt",
+    "setCode": "JUMP-EN059",
+    "setName": "Shonen Jump Vol. 10, Issue 4 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "81330115",
+    "type": "XYZ Monster",
+    "attribute": "WATER",
+    "level": 3,
+    "rank": 3,
+    "link": null,
+    "atk": 3000,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/81330115.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/81330115.jpg",
+    "artworkIds": [
+      81330115
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.45,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

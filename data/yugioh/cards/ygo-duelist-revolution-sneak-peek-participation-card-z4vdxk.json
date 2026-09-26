@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:45815891:DREVENSP1:ygo-duelist-revolution-sneak-peek-participation-card-z4vdxk:ygo-ultra-rare",
+    "cardId": "45815891",
+    "printingId": "yugioh:45815891:DREVENSP1:ygo-duelist-revolution-sneak-peek-participation-card-z4vdxk:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Scrap Archfiend",
+    "number": "DREV-ENSP1",
+    "collectionNumber": "DREV-ENSP1",
+    "setId": "ygo-duelist-revolution-sneak-peek-participation-card-z4vdxk",
+    "setCode": "DREV-ENSP1",
+    "setName": "Duelist Revolution Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Archfiend",
+    "passcode": "45815891",
+    "type": "Synchro Monster",
+    "attribute": "EARTH",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2700,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/45815891.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/45815891.jpg",
+    "artworkIds": [
+      45815891
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.58,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

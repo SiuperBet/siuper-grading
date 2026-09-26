@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:57666212:LODTENSE1:ygo-light-of-destruction-special-edition-l1v45j:ygo-super-rare",
+    "cardId": "57666212",
+    "printingId": "yugioh:57666212:LODTENSE1:ygo-light-of-destruction-special-edition-l1v45j:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Kuraz the Light Monarch",
+    "number": "LODT-ENSE1",
+    "collectionNumber": "LODT-ENSE1",
+    "setId": "ygo-light-of-destruction-special-edition-l1v45j",
+    "setCode": "LODT-ENSE1",
+    "setName": "Light of Destruction: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Monarch",
+    "passcode": "57666212",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/57666212.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/57666212.jpg",
+    "artworkIds": [
+      57666212
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.75,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:37383714:LODTENSE2:ygo-light-of-destruction-special-edition-l1v45j:ygo-super-rare",
+    "cardId": "37383714",
+    "printingId": "yugioh:37383714:LODTENSE2:ygo-light-of-destruction-special-edition-l1v45j:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Soul Rope",
+    "number": "LODT-ENSE2",
+    "collectionNumber": "LODT-ENSE2",
+    "setId": "ygo-light-of-destruction-special-edition-l1v45j",
+    "setCode": "LODT-ENSE2",
+    "setName": "Light of Destruction: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "37383714",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/37383714.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/37383714.jpg",
+    "artworkIds": [
+      37383714
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 1.98,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

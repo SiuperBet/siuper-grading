@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:17377751:YF04EN001:ygo-yu-gi-oh-5d-s-volume-4-promotional-card-1r1thck:ygo-ultra-rare",
+    "cardId": "17377751",
+    "printingId": "yugioh:17377751:YF04EN001:ygo-yu-gi-oh-5d-s-volume-4-promotional-card-1r1thck:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Blackwing - Gram the Shining Star",
+    "number": "YF04-EN001",
+    "collectionNumber": "YF04-EN001",
+    "setId": "ygo-yu-gi-oh-5d-s-volume-4-promotional-card-1r1thck",
+    "setCode": "YF04-EN001",
+    "setName": "Yu-Gi-Oh! 5D's Volume 4 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Blackwing",
+    "passcode": "17377751",
+    "type": "Synchro Monster",
+    "attribute": "DARK",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/17377751.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/17377751.jpg",
+    "artworkIds": [
+      17377751
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.6,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

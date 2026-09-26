@@ -1,0 +1,38 @@
+[
+  {
+    "id": "yugioh:38033121:LARTEN019:ygo-the-lost-art-promotion-2020-g-107tzbn:ygo-ultra-rare",
+    "cardId": "38033121",
+    "printingId": "yugioh:38033121:LARTEN019:ygo-the-lost-art-promotion-2020-g-107tzbn:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Dark Magician Girl",
+    "number": "LART-EN019",
+    "collectionNumber": "LART-EN019",
+    "setId": "ygo-the-lost-art-promotion-2020-g-107tzbn",
+    "setCode": "LART-EN019",
+    "setName": "The Lost Art Promotion 2020 G",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Dark Magician",
+    "passcode": "38033121",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2000,
+    "def": 1700,
+    "image": "./assets/yugioh/thumbs/38033121.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/38033121.jpg",
+    "artworkIds": [
+      38033121,
+      38033122,
+      38033123,
+      38033124,
+      38033125,
+      38033126
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:70389815:LIOVENSP1:ygo-lightning-overdrive-premiere-promotional-card-gs5gdx:ygo-ultra-rare",
+    "cardId": "70389815",
+    "printingId": "yugioh:70389815:LIOVENSP1:ygo-lightning-overdrive-premiere-promotional-card-gs5gdx:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Amazing Time Ticket",
+    "number": "LIOV-ENSP1",
+    "collectionNumber": "LIOV-ENSP1",
+    "setId": "ygo-lightning-overdrive-premiere-promotional-card-gs5gdx",
+    "setCode": "LIOV-ENSP1",
+    "setName": "Lightning Overdrive Premiere! promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Amazement",
+    "passcode": "70389815",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/70389815.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/70389815.jpg",
+    "artworkIds": [
+      70389815
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 14.75,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

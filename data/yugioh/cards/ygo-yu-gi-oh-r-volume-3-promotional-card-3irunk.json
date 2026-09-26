@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:44330098:YR01EN003:ygo-yu-gi-oh-r-volume-3-promotional-card-3irunk:ygo-ultra-rare",
+    "cardId": "44330098",
+    "printingId": "yugioh:44330098:YR01EN003:ygo-yu-gi-oh-r-volume-3-promotional-card-3irunk:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Gorz the Emissary of Darkness",
+    "number": "YR01-EN003",
+    "collectionNumber": "YR01-EN003",
+    "setId": "ygo-yu-gi-oh-r-volume-3-promotional-card-3irunk",
+    "setCode": "YR01-EN003",
+    "setName": "Yu-Gi-Oh! R Volume 3 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "44330098",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2700,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/44330098.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/44330098.jpg",
+    "artworkIds": [
+      44330098
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.38,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

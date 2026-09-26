@@ -1,0 +1,43 @@
+[
+  {
+    "id": "yugioh:10000010:JUMPEN045:ygo-shonen-jump-vol-9-issue-1-promotional-card-13kjtjc:ygo-ultra-rare",
+    "cardId": "10000010",
+    "printingId": "yugioh:10000010:JUMPEN045:ygo-shonen-jump-vol-9-issue-1-promotional-card-13kjtjc:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "The Winged Dragon of Ra",
+    "number": "JUMP-EN045",
+    "collectionNumber": "JUMP-EN045",
+    "setId": "ygo-shonen-jump-vol-9-issue-1-promotional-card-13kjtjc",
+    "setCode": "JUMP-EN045",
+    "setName": "Shonen Jump Vol. 9, Issue 1 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Egyptian God",
+    "passcode": "10000010",
+    "type": "Effect Monster",
+    "attribute": "DIVINE",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": -1,
+    "image": "./assets/yugioh/thumbs/10000010.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/10000010.jpg",
+    "artworkIds": [
+      10000010,
+      10000011,
+      10000012
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 10.45,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

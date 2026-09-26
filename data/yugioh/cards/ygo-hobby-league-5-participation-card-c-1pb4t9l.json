@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:95326659:HL05EN003:ygo-hobby-league-5-participation-card-c-1pb4t9l:ygo-ultra-parallel-rare",
+    "cardId": "95326659",
+    "printingId": "yugioh:95326659:HL05EN003:ygo-hobby-league-5-participation-card-c-1pb4t9l:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Crystal Beacon",
+    "number": "HL05-EN003",
+    "collectionNumber": "HL05-EN003",
+    "setId": "ygo-hobby-league-5-participation-card-c-1pb4t9l",
+    "setCode": "HL05-EN003",
+    "setName": "Hobby League 5 participation card C",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "Crystal Beast",
+    "passcode": "95326659",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/95326659.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/95326659.jpg",
+    "artworkIds": [
+      95326659
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 12.8,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

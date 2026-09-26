@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yugioh:74677422:JMP002:ygo-shonen-jump-vol-2-issue-1-promotional-card-1q1mhgh:ygo-ultra-rare",
+    "cardId": "74677422",
+    "printingId": "yugioh:74677422:JMP002:ygo-shonen-jump-vol-2-issue-1-promotional-card-1q1mhgh:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Red-Eyes Black Dragon",
+    "number": "JMP-002",
+    "collectionNumber": "JMP-002",
+    "setId": "ygo-shonen-jump-vol-2-issue-1-promotional-card-1q1mhgh",
+    "setCode": "JMP-002",
+    "setName": "Shonen Jump Vol. 2, Issue 1 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Red-Eyes",
+    "passcode": "74677422",
+    "type": "Normal Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/74677422.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/74677422.jpg",
+    "artworkIds": [
+      74677422,
+      74677423,
+      74677424,
+      74677425,
+      74677426,
+      74677427
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 9.78,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

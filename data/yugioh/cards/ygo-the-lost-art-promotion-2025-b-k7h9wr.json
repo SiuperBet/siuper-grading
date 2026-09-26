@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:68024506:LARTEN077:ygo-the-lost-art-promotion-2025-b-k7h9wr:ygo-ultra-rare",
+    "cardId": "68024506",
+    "printingId": "yugioh:68024506:LARTEN077:ygo-the-lost-art-promotion-2025-b-k7h9wr:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Magical Musketeer Calamity",
+    "number": "LART-EN077",
+    "collectionNumber": "LART-EN077",
+    "setId": "ygo-the-lost-art-promotion-2025-b-k7h9wr",
+    "setCode": "LART-EN077",
+    "setName": "The Lost Art Promotion 2025 B",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Magical Musket",
+    "passcode": "68024506",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1500,
+    "def": 1300,
+    "image": "./assets/yugioh/thumbs/68024506.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/68024506.jpg",
+    "artworkIds": [
+      68024506
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

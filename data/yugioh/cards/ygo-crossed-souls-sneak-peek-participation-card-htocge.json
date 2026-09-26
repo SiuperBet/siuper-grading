@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:82114013:CROSENSP1:ygo-crossed-souls-sneak-peek-participation-card-htocge:ygo-ultra-rare",
+    "cardId": "82114013",
+    "printingId": "yugioh:82114013:CROSENSP1:ygo-crossed-souls-sneak-peek-participation-card-htocge:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Sea Dragoons of Draconia",
+    "number": "CROS-ENSP1",
+    "collectionNumber": "CROS-ENSP1",
+    "setId": "ygo-crossed-souls-sneak-peek-participation-card-htocge",
+    "setCode": "CROS-ENSP1",
+    "setName": "Crossed Souls Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Draconia",
+    "passcode": "82114013",
+    "type": "Pendulum Normal Monster",
+    "attribute": "WATER",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 200,
+    "def": 2100,
+    "image": "./assets/yugioh/thumbs/82114013.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/82114013.jpg",
+    "artworkIds": [
+      82114013
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.06,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

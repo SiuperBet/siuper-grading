@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:30757396:YCSWEN004:ygo-yu-gi-oh-championship-series-2011-prize-card-lhm2q5:ygo-super-rare",
+    "cardId": "30757396",
+    "printingId": "yugioh:30757396:YCSWEN004:ygo-yu-gi-oh-championship-series-2011-prize-card-lhm2q5:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Blood Mefist",
+    "number": "YCSW-EN004",
+    "collectionNumber": "YCSW-EN004",
+    "setId": "ygo-yu-gi-oh-championship-series-2011-prize-card-lhm2q5",
+    "setCode": "YCSW-EN004",
+    "setName": "Yu-Gi-Oh! Championship Series 2011 Prize Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "30757396",
+    "type": "Synchro Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2800,
+    "def": 1300,
+    "image": "./assets/yugioh/thumbs/30757396.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/30757396.jpg",
+    "artworkIds": [
+      30757396
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6518.97,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:30757396:YCSWEN004:ygo-yu-gi-oh-championship-series-2011-prize-card-lhm2q5:ygo-ultra-rare",
+    "cardId": "30757396",
+    "printingId": "yugioh:30757396:YCSWEN004:ygo-yu-gi-oh-championship-series-2011-prize-card-lhm2q5:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Blood Mefist",
+    "number": "YCSW-EN004",
+    "collectionNumber": "YCSW-EN004",
+    "setId": "ygo-yu-gi-oh-championship-series-2011-prize-card-lhm2q5",
+    "setCode": "YCSW-EN004",
+    "setName": "Yu-Gi-Oh! Championship Series 2011 Prize Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "30757396",
+    "type": "Synchro Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2800,
+    "def": 1300,
+    "image": "./assets/yugioh/thumbs/30757396.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/30757396.jpg",
+    "artworkIds": [
+      30757396
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6528.45,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

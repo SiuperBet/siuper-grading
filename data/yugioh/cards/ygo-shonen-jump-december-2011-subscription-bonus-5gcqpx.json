@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:8967776:JUMPEN054:ygo-shonen-jump-december-2011-subscription-bonus-5gcqpx:ygo-ultra-rare",
+    "cardId": "8967776",
+    "printingId": "yugioh:8967776:JUMPEN054:ygo-shonen-jump-december-2011-subscription-bonus-5gcqpx:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Sephylon, the Ultimate Timelord",
+    "number": "JUMP-EN054",
+    "collectionNumber": "JUMP-EN054",
+    "setId": "ygo-shonen-jump-december-2011-subscription-bonus-5gcqpx",
+    "setCode": "JUMP-EN054",
+    "setName": "Shonen Jump December 2011 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Timelord",
+    "passcode": "8967776",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/8967776.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/8967776.jpg",
+    "artworkIds": [
+      8967776
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 35.68,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:35952884:JUMPEN055:ygo-shonen-jump-december-2011-subscription-bonus-5gcqpx:ygo-ultra-rare",
+    "cardId": "35952884",
+    "printingId": "yugioh:35952884:JUMPEN055:ygo-shonen-jump-december-2011-subscription-bonus-5gcqpx:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Shooting Quasar Dragon",
+    "number": "JUMP-EN055",
+    "collectionNumber": "JUMP-EN055",
+    "setId": "ygo-shonen-jump-december-2011-subscription-bonus-5gcqpx",
+    "setCode": "JUMP-EN055",
+    "setName": "Shonen Jump December 2011 subscription bonus",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "35952884",
+    "type": "Synchro Monster",
+    "attribute": "LIGHT",
+    "level": 12,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/35952884.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/35952884.jpg",
+    "artworkIds": [
+      35952884
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 28.52,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

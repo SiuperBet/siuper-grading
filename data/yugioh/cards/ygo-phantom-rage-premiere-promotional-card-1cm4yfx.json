@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:51097887:PHRAENSP1:ygo-phantom-rage-premiere-promotional-card-1cm4yfx:ygo-ultra-rare",
+    "cardId": "51097887",
+    "printingId": "yugioh:51097887:PHRAENSP1:ygo-phantom-rage-premiere-promotional-card-1cm4yfx:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Tri-Brigade Airborne Assault",
+    "number": "PHRA-ENSP1",
+    "collectionNumber": "PHRA-ENSP1",
+    "setId": "ygo-phantom-rage-premiere-promotional-card-1cm4yfx",
+    "setCode": "PHRA-ENSP1",
+    "setName": "Phantom Rage Premiere! promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Tri-Brigade",
+    "passcode": "51097887",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/51097887.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/51097887.jpg",
+    "artworkIds": [
+      51097887
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 18.24,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

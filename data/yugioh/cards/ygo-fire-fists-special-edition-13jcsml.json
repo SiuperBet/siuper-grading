@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:57103969:FFSEEN001:ygo-fire-fists-special-edition-13jcsml:ygo-super-rare",
+    "cardId": "57103969",
+    "printingId": "yugioh:57103969:FFSEEN001:ygo-fire-fists-special-edition-13jcsml:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Fire Formation - Tenki",
+    "number": "FFSE-EN001",
+    "collectionNumber": "FFSE-EN001",
+    "setId": "ygo-fire-fists-special-edition-13jcsml",
+    "setCode": "FFSE-EN001",
+    "setName": "Fire Fists: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Fire Formation",
+    "passcode": "57103969",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/57103969.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/57103969.jpg",
+    "artworkIds": [
+      57103969
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.41,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

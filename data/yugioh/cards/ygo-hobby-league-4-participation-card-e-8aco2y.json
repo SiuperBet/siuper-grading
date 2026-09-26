@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:88240808:HL04EN005:ygo-hobby-league-4-participation-card-e-8aco2y:ygo-ultra-parallel-rare",
+    "cardId": "88240808",
+    "printingId": "yugioh:88240808:HL04EN005:ygo-hobby-league-4-participation-card-e-8aco2y:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Kycoo the Ghost Destroyer",
+    "number": "HL04-EN005",
+    "collectionNumber": "HL04-EN005",
+    "setId": "ygo-hobby-league-4-participation-card-e-8aco2y",
+    "setCode": "HL04-EN005",
+    "setName": "Hobby League 4 participation card E",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "88240808",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 700,
+    "image": "./assets/yugioh/thumbs/88240808.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/88240808.jpg",
+    "artworkIds": [
+      88240808
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 14.21,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

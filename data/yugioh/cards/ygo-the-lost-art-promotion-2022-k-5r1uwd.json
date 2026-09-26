@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:80230510:LARTEN053:ygo-the-lost-art-promotion-2022-k-5r1uwd:ygo-ultra-rare",
+    "cardId": "80230510",
+    "printingId": "yugioh:80230510:LARTEN053:ygo-the-lost-art-promotion-2022-k-5r1uwd:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Tribute Burial",
+    "number": "LART-EN053",
+    "collectionNumber": "LART-EN053",
+    "setId": "ygo-the-lost-art-promotion-2022-k-5r1uwd",
+    "setCode": "LART-EN053",
+    "setName": "The Lost Art Promotion 2022 K",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "80230510",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/80230510.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/80230510.jpg",
+    "artworkIds": [
+      80230510
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

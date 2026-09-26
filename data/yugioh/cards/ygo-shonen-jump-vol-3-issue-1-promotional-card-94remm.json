@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:50287060:JMPEN003:ygo-shonen-jump-vol-3-issue-1-promotional-card-94remm:ygo-ultra-rare",
+    "cardId": "50287060",
+    "printingId": "yugioh:50287060:JMPEN003:ygo-shonen-jump-vol-3-issue-1-promotional-card-94remm:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Archfiend of Gilfer",
+    "number": "JMP-EN003",
+    "collectionNumber": "JMP-EN003",
+    "setId": "ygo-shonen-jump-vol-3-issue-1-promotional-card-94remm",
+    "setCode": "JMP-EN003",
+    "setName": "Shonen Jump Vol. 3, Issue 1 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Archfiend",
+    "passcode": "50287060",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 2500,
+    "image": "./assets/yugioh/thumbs/50287060.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/50287060.jpg",
+    "artworkIds": [
+      50287060
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 11.45,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

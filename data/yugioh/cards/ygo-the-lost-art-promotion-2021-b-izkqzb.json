@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:84243274:LARTEN032:ygo-the-lost-art-promotion-2021-b-izkqzb:ygo-ultra-rare",
+    "cardId": "84243274",
+    "printingId": "yugioh:84243274:LARTEN032:ygo-the-lost-art-promotion-2021-b-izkqzb:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "VWXYZ-Dragon Catapult Cannon",
+    "number": "LART-EN032",
+    "collectionNumber": "LART-EN032",
+    "setId": "ygo-the-lost-art-promotion-2021-b-izkqzb",
+    "setCode": "LART-EN032",
+    "setName": "The Lost Art Promotion 2021 B",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "ABC",
+    "passcode": "84243274",
+    "type": "Fusion Monster",
+    "attribute": "LIGHT",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 2800,
+    "image": "./assets/yugioh/thumbs/84243274.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/84243274.jpg",
+    "artworkIds": [
+      84243274
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

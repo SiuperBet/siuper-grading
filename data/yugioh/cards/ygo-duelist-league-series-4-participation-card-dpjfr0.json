@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:46700124:DL4001:ygo-duelist-league-series-4-participation-card-dpjfr0:ygo-super-rare",
+    "cardId": "46700124",
+    "printingId": "yugioh:46700124:DL4001:ygo-duelist-league-series-4-participation-card-dpjfr0:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Machine King",
+    "number": "DL4-001",
+    "collectionNumber": "DL4-001",
+    "setId": "ygo-duelist-league-series-4-participation-card-dpjfr0",
+    "setCode": "DL4-001",
+    "setName": "Duelist League Series 4 participation card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "46700124",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/46700124.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/46700124.jpg",
+    "artworkIds": [
+      46700124
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.74,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

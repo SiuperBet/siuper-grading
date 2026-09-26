@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:21970285:DUEAENSP1:ygo-duelist-alliance-sneak-peek-participation-card-1xpdlem:ygo-ultra-rare",
+    "cardId": "21970285",
+    "printingId": "yugioh:21970285:DUEAENSP1:ygo-duelist-alliance-sneak-peek-participation-card-1xpdlem:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Dragon Horn Hunter",
+    "number": "DUEA-ENSP1",
+    "collectionNumber": "DUEA-ENSP1",
+    "setId": "ygo-duelist-alliance-sneak-peek-participation-card-1xpdlem",
+    "setCode": "DUEA-ENSP1",
+    "setName": "Duelist Alliance Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "21970285",
+    "type": "Pendulum Normal Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2300,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/21970285.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/21970285.jpg",
+    "artworkIds": [
+      21970285
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.71,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

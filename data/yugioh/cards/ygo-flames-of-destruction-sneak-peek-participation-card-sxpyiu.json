@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:50213848:FLODENSP1:ygo-flames-of-destruction-sneak-peek-participation-card-sxpyiu:ygo-ultra-rare",
+    "cardId": "50213848",
+    "printingId": "yugioh:50213848:FLODENSP1:ygo-flames-of-destruction-sneak-peek-participation-card-sxpyiu:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Monster Reborn Reborn",
+    "number": "FLOD-ENSP1",
+    "collectionNumber": "FLOD-ENSP1",
+    "setId": "ygo-flames-of-destruction-sneak-peek-participation-card-sxpyiu",
+    "setCode": "FLOD-ENSP1",
+    "setName": "Flames of Destruction Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "50213848",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/50213848.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/50213848.jpg",
+    "artworkIds": [
+      50213848
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.96,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

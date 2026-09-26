@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:57793869:JUMPEN016:ygo-shonen-jump-vol-5-issue-9-promotional-card-zmcy58:ygo-ultra-rare",
+    "cardId": "57793869",
+    "printingId": "yugioh:57793869:JUMPEN016:ygo-shonen-jump-vol-5-issue-9-promotional-card-zmcy58:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "The Wicked Eraser",
+    "number": "JUMP-EN016",
+    "collectionNumber": "JUMP-EN016",
+    "setId": "ygo-shonen-jump-vol-5-issue-9-promotional-card-zmcy58",
+    "setCode": "JUMP-EN016",
+    "setName": "Shonen Jump Vol. 5, Issue 9 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Wicked God",
+    "passcode": "57793869",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": -1,
+    "image": "./assets/yugioh/thumbs/57793869.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/57793869.jpg",
+    "artworkIds": [
+      57793869
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 8.77,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

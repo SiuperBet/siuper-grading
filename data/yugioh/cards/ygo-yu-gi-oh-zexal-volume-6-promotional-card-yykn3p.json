@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:7194917:YZ06EN001:ygo-yu-gi-oh-zexal-volume-6-promotional-card-yykn3p:ygo-ultra-rare",
+    "cardId": "7194917",
+    "printingId": "yugioh:7194917:YZ06EN001:ygo-yu-gi-oh-zexal-volume-6-promotional-card-yykn3p:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Number 52: Diamond Crab King",
+    "number": "YZ06-EN001",
+    "collectionNumber": "YZ06-EN001",
+    "setId": "ygo-yu-gi-oh-zexal-volume-6-promotional-card-yykn3p",
+    "setCode": "YZ06-EN001",
+    "setName": "Yu-Gi-Oh! ZEXAL Volume 6 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "7194917",
+    "type": "XYZ Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": 4,
+    "link": null,
+    "atk": 0,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/7194917.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/7194917.jpg",
+    "artworkIds": [
+      7194917
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 22.95,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

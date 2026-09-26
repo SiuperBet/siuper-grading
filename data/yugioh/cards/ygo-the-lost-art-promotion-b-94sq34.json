@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:8124921:LARTEN002:ygo-the-lost-art-promotion-b-94sq34:ygo-ultra-rare",
+    "cardId": "8124921",
+    "printingId": "yugioh:8124921:LARTEN002:ygo-the-lost-art-promotion-b-94sq34:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Right Leg of the Forbidden One",
+    "number": "LART-EN002",
+    "collectionNumber": "LART-EN002",
+    "setId": "ygo-the-lost-art-promotion-b-94sq34",
+    "setCode": "LART-EN002",
+    "setName": "The Lost Art Promotion B",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Exodia",
+    "passcode": "8124921",
+    "type": "Normal Monster",
+    "attribute": "DARK",
+    "level": 1,
+    "rank": null,
+    "link": null,
+    "atk": 200,
+    "def": 300,
+    "image": "./assets/yugioh/thumbs/8124921.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/8124921.jpg",
+    "artworkIds": [
+      8124921
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 27.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

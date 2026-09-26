@@ -1,0 +1,82 @@
+[
+  {
+    "id": "yugioh:97268402:ORCSENSE1:ygo-order-of-chaos-special-edition-1so9uy3:ygo-super-rare",
+    "cardId": "97268402",
+    "printingId": "yugioh:97268402:ORCSENSE1:ygo-order-of-chaos-special-edition-1so9uy3:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Effect Veiler",
+    "number": "ORCS-ENSE1",
+    "collectionNumber": "ORCS-ENSE1",
+    "setId": "ygo-order-of-chaos-special-edition-1so9uy3",
+    "setCode": "ORCS-ENSE1",
+    "setName": "Order of Chaos: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "97268402",
+    "type": "Tuner Monster",
+    "attribute": "LIGHT",
+    "level": 1,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/97268402.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/97268402.jpg",
+    "artworkIds": [
+      97268402
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.5,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:10000010:ORCSENSE2:ygo-order-of-chaos-special-edition-1so9uy3:ygo-super-rare",
+    "cardId": "10000010",
+    "printingId": "yugioh:10000010:ORCSENSE2:ygo-order-of-chaos-special-edition-1so9uy3:ygo-super-rare",
+    "game": "yugioh",
+    "name": "The Winged Dragon of Ra",
+    "number": "ORCS-ENSE2",
+    "collectionNumber": "ORCS-ENSE2",
+    "setId": "ygo-order-of-chaos-special-edition-1so9uy3",
+    "setCode": "ORCS-ENSE2",
+    "setName": "Order of Chaos: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Egyptian God",
+    "passcode": "10000010",
+    "type": "Effect Monster",
+    "attribute": "DIVINE",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": -1,
+    "image": "./assets/yugioh/thumbs/10000010.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/10000010.jpg",
+    "artworkIds": [
+      10000010,
+      10000011,
+      10000012
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.1,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:78792195:STORENSE2:ygo-storm-of-ragnarok-special-edition-193ts2j:ygo-super-rare",
+    "cardId": "78792195",
+    "printingId": "yugioh:78792195:STORENSE2:ygo-storm-of-ragnarok-special-edition-193ts2j:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Hand of the Six Samurai",
+    "number": "STOR-ENSE2",
+    "collectionNumber": "STOR-ENSE2",
+    "setId": "ygo-storm-of-ragnarok-special-edition-193ts2j",
+    "setCode": "STOR-ENSE2",
+    "setName": "Storm of Ragnarok: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Six Samurai",
+    "passcode": "78792195",
+    "type": "Effect Monster",
+    "attribute": "FIRE",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1600,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/78792195.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/78792195.jpg",
+    "artworkIds": [
+      78792195
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.82,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:47297616:STORENSE1:ygo-storm-of-ragnarok-special-edition-193ts2j:ygo-super-rare",
+    "cardId": "47297616",
+    "printingId": "yugioh:47297616:STORENSE1:ygo-storm-of-ragnarok-special-edition-193ts2j:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Light and Darkness Dragon",
+    "number": "STOR-ENSE1",
+    "collectionNumber": "STOR-ENSE1",
+    "setId": "ygo-storm-of-ragnarok-special-edition-193ts2j",
+    "setCode": "STOR-ENSE1",
+    "setName": "Storm of Ragnarok: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "47297616",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2800,
+    "def": 2400,
+    "image": "./assets/yugioh/thumbs/47297616.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/47297616.jpg",
+    "artworkIds": [
+      47297616
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.06,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

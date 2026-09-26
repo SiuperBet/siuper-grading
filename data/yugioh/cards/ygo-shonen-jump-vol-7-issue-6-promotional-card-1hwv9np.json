@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:78651105:JUMPEN032:ygo-shonen-jump-vol-7-issue-6-promotional-card-1hwv9np:ygo-ultra-rare",
+    "cardId": "78651105",
+    "printingId": "yugioh:78651105:JUMPEN032:ygo-shonen-jump-vol-7-issue-6-promotional-card-1hwv9np:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Beast King Barbaros",
+    "number": "JUMP-EN032",
+    "collectionNumber": "JUMP-EN032",
+    "setId": "ygo-shonen-jump-vol-7-issue-6-promotional-card-1hwv9np",
+    "setCode": "JUMP-EN032",
+    "setName": "Shonen Jump Vol. 7, Issue 6 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Barbaros",
+    "passcode": "78651105",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 3000,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/78651105.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/78651105.jpg",
+    "artworkIds": [
+      78651105
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.95,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

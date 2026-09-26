@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:54702678:YG08EN001:ygo-yu-gi-oh-gx-volume-8-promotional-card-1bmv6q8:ygo-ultra-rare",
+    "cardId": "54702678",
+    "printingId": "yugioh:54702678:YG08EN001:ygo-yu-gi-oh-gx-volume-8-promotional-card-1bmv6q8:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Barbaroid, the Ultimate Battle Machine",
+    "number": "YG08-EN001",
+    "collectionNumber": "YG08-EN001",
+    "setId": "ygo-yu-gi-oh-gx-volume-8-promotional-card-1bmv6q8",
+    "setCode": "YG08-EN001",
+    "setName": "Yu-Gi-Oh! GX Volume 8 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Roid",
+    "passcode": "54702678",
+    "type": "Fusion Monster",
+    "attribute": "EARTH",
+    "level": 12,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/54702678.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/54702678.jpg",
+    "artworkIds": [
+      54702678
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 12,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

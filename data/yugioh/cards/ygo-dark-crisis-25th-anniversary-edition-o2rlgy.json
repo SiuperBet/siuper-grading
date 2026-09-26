@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:8794435:DCREN024:ygo-dark-crisis-25th-anniversary-edition-o2rlgy:ygo-common",
+    "cardId": "8794435",
+    "printingId": "yugioh:8794435:DCREN024:ygo-dark-crisis-25th-anniversary-edition-o2rlgy:ygo-common",
+    "game": "yugioh",
+    "name": "Maju Garzett",
+    "number": "DCR-EN024",
+    "collectionNumber": "DCR-EN024",
+    "setId": "ygo-dark-crisis-25th-anniversary-edition-o2rlgy",
+    "setCode": "DCR-EN024",
+    "setName": "Dark Crisis (25th Anniversary Edition)",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "Maju",
+    "passcode": "8794435",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/8794435.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/8794435.jpg",
+    "artworkIds": [
+      8794435
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

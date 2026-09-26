@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:73445448:YZ03EN001:ygo-yu-gi-oh-zexal-volume-3-promotional-card-13hz8o8:ygo-ultra-rare",
+    "cardId": "73445448",
+    "printingId": "yugioh:73445448:YZ03EN001:ygo-yu-gi-oh-zexal-volume-3-promotional-card-13hz8o8:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Number 22: Zombiestein",
+    "number": "YZ03-EN001",
+    "collectionNumber": "YZ03-EN001",
+    "setId": "ygo-yu-gi-oh-zexal-volume-3-promotional-card-13hz8o8",
+    "setCode": "YZ03-EN001",
+    "setName": "Yu-Gi-Oh! ZEXAL Volume 3 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "73445448",
+    "type": "XYZ Monster",
+    "attribute": "DARK",
+    "level": 8,
+    "rank": 8,
+    "link": null,
+    "atk": 4500,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/73445448.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/73445448.jpg",
+    "artworkIds": [
+      73445448
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 14.52,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

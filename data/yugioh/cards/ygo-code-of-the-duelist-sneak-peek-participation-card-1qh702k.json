@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:67267333:COTDENSP1:ygo-code-of-the-duelist-sneak-peek-participation-card-1qh702k:ygo-ultra-rare",
+    "cardId": "67267333",
+    "printingId": "yugioh:67267333:COTDENSP1:ygo-code-of-the-duelist-sneak-peek-participation-card-1qh702k:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Vendread Houndhorde",
+    "number": "COTD-ENSP1",
+    "collectionNumber": "COTD-ENSP1",
+    "setId": "ygo-code-of-the-duelist-sneak-peek-participation-card-1qh702k",
+    "setCode": "COTD-ENSP1",
+    "setName": "Code of the Duelist Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Vendread",
+    "passcode": "67267333",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 0,
+    "def": 2100,
+    "image": "./assets/yugioh/thumbs/67267333.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/67267333.jpg",
+    "artworkIds": [
+      67267333
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

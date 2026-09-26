@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:21686473:YA03EN001:ygo-yu-gi-oh-arc-v-volume-3-promotional-card-1i70b89:ygo-ultra-rare",
+    "cardId": "21686473",
+    "printingId": "yugioh:21686473:YA03EN001:ygo-yu-gi-oh-arc-v-volume-3-promotional-card-1i70b89:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "D/D/D Destiny King Zero Laplace",
+    "number": "YA03-EN001",
+    "collectionNumber": "YA03-EN001",
+    "setId": "ygo-yu-gi-oh-arc-v-volume-3-promotional-card-1i70b89",
+    "setCode": "YA03-EN001",
+    "setName": "Yu-Gi-Oh! ARC-V Volume 3 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "D/D",
+    "passcode": "21686473",
+    "type": "Pendulum Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/21686473.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/21686473.jpg",
+    "artworkIds": [
+      21686473
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 11.06,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

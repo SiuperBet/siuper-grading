@@ -1,0 +1,81 @@
+[
+  {
+    "id": "yugioh:15341821:ABPFENSE1:ygo-absolute-powerforce-special-edition-15imzpj:ygo-super-rare",
+    "cardId": "15341821",
+    "printingId": "yugioh:15341821:ABPFENSE1:ygo-absolute-powerforce-special-edition-15imzpj:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Dandylion",
+    "number": "ABPF-ENSE1",
+    "collectionNumber": "ABPF-ENSE1",
+    "setId": "ygo-absolute-powerforce-special-edition-15imzpj",
+    "setCode": "ABPF-ENSE1",
+    "setName": "Absolute Powerforce: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "15341821",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 300,
+    "def": 300,
+    "image": "./assets/yugioh/thumbs/15341821.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/15341821.jpg",
+    "artworkIds": [
+      15341821
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.4,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:88264978:ABPFENSE2:ygo-absolute-powerforce-special-edition-15imzpj:ygo-super-rare",
+    "cardId": "88264978",
+    "printingId": "yugioh:88264978:ABPFENSE2:ygo-absolute-powerforce-special-edition-15imzpj:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Red-Eyes Darkness Metal Dragon",
+    "number": "ABPF-ENSE2",
+    "collectionNumber": "ABPF-ENSE2",
+    "setId": "ygo-absolute-powerforce-special-edition-15imzpj",
+    "setCode": "ABPF-ENSE2",
+    "setName": "Absolute Powerforce: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Red-Eyes",
+    "passcode": "88264978",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 2800,
+    "def": 2400,
+    "image": "./assets/yugioh/thumbs/88264978.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/88264978.jpg",
+    "artworkIds": [
+      88264978,
+      88264979
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 12.76,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

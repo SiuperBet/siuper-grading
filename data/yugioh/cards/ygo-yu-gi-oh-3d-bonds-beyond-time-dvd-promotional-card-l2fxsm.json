@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:55343236:MOV2EN001:ygo-yu-gi-oh-3d-bonds-beyond-time-dvd-promotional-card-l2fxsm:ygo-super-rare",
+    "cardId": "55343236",
+    "printingId": "yugioh:55343236:MOV2EN001:ygo-yu-gi-oh-3d-bonds-beyond-time-dvd-promotional-card-l2fxsm:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Malefic Red-Eyes Black Dragon",
+    "number": "MOV2-EN001",
+    "collectionNumber": "MOV2-EN001",
+    "setId": "ygo-yu-gi-oh-3d-bonds-beyond-time-dvd-promotional-card-l2fxsm",
+    "setCode": "MOV2-EN001",
+    "setName": "Yu-Gi-Oh! 3D Bonds Beyond Time DVD promotional card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Malefic",
+    "passcode": "55343236",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/55343236.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/55343236.jpg",
+    "artworkIds": [
+      55343236
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:42378577:MACRENSP1:ygo-maximum-crisis-sneak-peek-participation-card-1v4tp86:ygo-ultra-rare",
+    "cardId": "42378577",
+    "printingId": "yugioh:42378577:MACRENSP1:ygo-maximum-crisis-sneak-peek-participation-card-1v4tp86:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Pendulum Switch",
+    "number": "MACR-ENSP1",
+    "collectionNumber": "MACR-ENSP1",
+    "setId": "ygo-maximum-crisis-sneak-peek-participation-card-1v4tp86",
+    "setCode": "MACR-ENSP1",
+    "setName": "Maximum Crisis Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "42378577",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/42378577.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/42378577.jpg",
+    "artworkIds": [
+      42378577
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.31,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

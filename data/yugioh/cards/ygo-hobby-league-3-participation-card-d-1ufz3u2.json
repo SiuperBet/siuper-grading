@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:31553716:HL03EN004:ygo-hobby-league-3-participation-card-d-1ufz3u2:ygo-ultra-parallel-rare",
+    "cardId": "31553716",
+    "printingId": "yugioh:31553716:HL03EN004:ygo-hobby-league-3-participation-card-d-1ufz3u2:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Spear Dragon",
+    "number": "HL03-EN004",
+    "collectionNumber": "HL03-EN004",
+    "setId": "ygo-hobby-league-3-participation-card-d-1ufz3u2",
+    "setCode": "HL03-EN004",
+    "setName": "Hobby League 3 participation card D",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "31553716",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1900,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/31553716.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/31553716.jpg",
+    "artworkIds": [
+      31553716
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 9.84,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:50354944:ROTDENSP1:ygo-rise-of-the-duelist-premiere-promotional-card-1c8ni3c:ygo-ultra-rare",
+    "cardId": "50354944",
+    "printingId": "yugioh:50354944:ROTDENSP1:ygo-rise-of-the-duelist-premiere-promotional-card-1c8ni3c:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Gaia the Fierce Knight Origin",
+    "number": "ROTD-ENSP1",
+    "collectionNumber": "ROTD-ENSP1",
+    "setId": "ygo-rise-of-the-duelist-premiere-promotional-card-1c8ni3c",
+    "setCode": "ROTD-ENSP1",
+    "setName": "Rise of the Duelist Premiere! promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Gaia The Fierce Knight",
+    "passcode": "50354944",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1600,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/50354944.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/50354944.jpg",
+    "artworkIds": [
+      50354944
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 8.43,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:39275698:LARTEN029:ygo-the-lost-art-promotion-2020-q-16bl8l1:ygo-ultra-rare",
+    "cardId": "39275698",
+    "printingId": "yugioh:39275698:LARTEN029:ygo-the-lost-art-promotion-2020-q-16bl8l1:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Harpie's Feather Rest",
+    "number": "LART-EN029",
+    "collectionNumber": "LART-EN029",
+    "setId": "ygo-the-lost-art-promotion-2020-q-16bl8l1",
+    "setCode": "LART-EN029",
+    "setName": "The Lost Art Promotion 2020 Q",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Harpie",
+    "passcode": "39275698",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/39275698.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/39275698.jpg",
+    "artworkIds": [
+      39275698
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.04,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:38430673:LARTEN062:ygo-the-lost-art-promotion-2023-i-hhf0e4:ygo-ultra-rare",
+    "cardId": "38430673",
+    "printingId": "yugioh:38430673:LARTEN062:ygo-the-lost-art-promotion-2023-i-hhf0e4:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Grand Convergence",
+    "number": "LART-EN062",
+    "collectionNumber": "LART-EN062",
+    "setId": "ygo-the-lost-art-promotion-2023-i-hhf0e4",
+    "setCode": "LART-EN062",
+    "setName": "The Lost Art Promotion 2023 I",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "38430673",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/38430673.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/38430673.jpg",
+    "artworkIds": [
+      38430673
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

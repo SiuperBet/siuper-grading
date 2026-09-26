@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:27770341:LARTEN013:ygo-the-lost-art-promotion-m-damrhp:ygo-ultra-rare",
+    "cardId": "27770341",
+    "printingId": "yugioh:27770341:LARTEN013:ygo-the-lost-art-promotion-m-damrhp:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Super Rejuvenation",
+    "number": "LART-EN013",
+    "collectionNumber": "LART-EN013",
+    "setId": "ygo-the-lost-art-promotion-m-damrhp",
+    "setCode": "LART-EN013",
+    "setName": "The Lost Art Promotion M",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "27770341",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/27770341.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/27770341.jpg",
+    "artworkIds": [
+      27770341
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.29,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

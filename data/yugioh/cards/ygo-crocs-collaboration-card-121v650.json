@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:77699839:CRC1EN001:ygo-crocs-collaboration-card-121v650:ygo-normal-parallel-rare",
+    "cardId": "77699839",
+    "printingId": "yugioh:77699839:CRC1EN001:ygo-crocs-collaboration-card-121v650:ygo-normal-parallel-rare",
+    "game": "yugioh",
+    "name": "Crocodile",
+    "number": "CRC1-EN001",
+    "collectionNumber": "CRC1-EN001",
+    "setId": "ygo-crocs-collaboration-card-121v650",
+    "setCode": "CRC1-EN001",
+    "setName": "Crocs collaboration card",
+    "rarity": "Normal Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "77699839",
+    "type": "Normal Monster",
+    "attribute": "LIGHT",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1300,
+    "def": 1300,
+    "image": "./assets/yugioh/thumbs/77699839.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/77699839.jpg",
+    "artworkIds": [
+      77699839
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

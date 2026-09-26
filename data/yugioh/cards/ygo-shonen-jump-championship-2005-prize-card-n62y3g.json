@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:81059524:SJCEN002:ygo-shonen-jump-championship-2005-prize-card-n62y3g:ygo-ultra-rare",
+    "cardId": "81059524",
+    "printingId": "yugioh:81059524:SJCEN002:ygo-shonen-jump-championship-2005-prize-card-n62y3g:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Des Volstgalph",
+    "number": "SJC-EN002",
+    "collectionNumber": "SJC-EN002",
+    "setId": "ygo-shonen-jump-championship-2005-prize-card-n62y3g",
+    "setCode": "SJC-EN002",
+    "setName": "Shonen Jump Championship 2005 Prize Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "81059524",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 1700,
+    "image": "./assets/yugioh/thumbs/81059524.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/81059524.jpg",
+    "artworkIds": [
+      81059524
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 95074.95,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

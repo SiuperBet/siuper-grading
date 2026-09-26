@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:69599136:OPTPEN001:ygo-trials-of-the-pharaoh-trials-of-the-kingdom-promotional-card-1capvnu:ygo-super-rare",
+    "cardId": "69599136",
+    "printingId": "yugioh:69599136:OPTPEN001:ygo-trials-of-the-pharaoh-trials-of-the-kingdom-promotional-card-1capvnu:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Floodgate Trap Hole",
+    "number": "OPTP-EN001",
+    "collectionNumber": "OPTP-EN001",
+    "setId": "ygo-trials-of-the-pharaoh-trials-of-the-kingdom-promotional-card-1capvnu",
+    "setCode": "OPTP-EN001",
+    "setName": "Trials of the Pharaoh - Trials of the Kingdom promotional card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Hole",
+    "passcode": "69599136",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/69599136.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/69599136.jpg",
+    "artworkIds": [
+      69599136
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

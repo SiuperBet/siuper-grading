@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:38898779:CRMSENSP1:ygo-crimson-crisis-sneak-peek-participation-card-1nljc3n:ygo-super-rare",
+    "cardId": "38898779",
+    "printingId": "yugioh:38898779:CRMSENSP1:ygo-crimson-crisis-sneak-peek-participation-card-1nljc3n:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Colossal Fighter/Assault Mode",
+    "number": "CRMS-ENSP1",
+    "collectionNumber": "CRMS-ENSP1",
+    "setId": "ygo-crimson-crisis-sneak-peek-participation-card-1nljc3n",
+    "setCode": "CRMS-ENSP1",
+    "setName": "Crimson Crisis Sneak Peek Participation Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Assault Mode",
+    "passcode": "38898779",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 3300,
+    "def": 1500,
+    "image": "./assets/yugioh/thumbs/38898779.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/38898779.jpg",
+    "artworkIds": [
+      38898779
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 5.71,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:82319644:RIRAENSP1:ygo-rising-rampage-sneak-peek-participation-card-1tt3e5g:ygo-ultra-rare",
+    "cardId": "82319644",
+    "printingId": "yugioh:82319644:RIRAENSP1:ygo-rising-rampage-sneak-peek-participation-card-1tt3e5g:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Tlakalel, His Malevolent Majesty",
+    "number": "RIRA-ENSP1",
+    "collectionNumber": "RIRA-ENSP1",
+    "setId": "ygo-rising-rampage-sneak-peek-participation-card-1tt3e5g",
+    "setCode": "RIRA-ENSP1",
+    "setName": "Rising Rampage Sneak Peek Participation Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Monarch",
+    "passcode": "82319644",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/82319644.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/82319644.jpg",
+    "artworkIds": [
+      82319644
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 6.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:26701483:DPCTEN001:ygo-duelist-pack-collection-tin-2008-1n241mx:ygo-ultra-rare",
+    "cardId": "26701483",
+    "printingId": "yugioh:26701483:DPCTEN001:ygo-duelist-pack-collection-tin-2008-1n241mx:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Card Ejector",
+    "number": "DPCT-EN001",
+    "collectionNumber": "DPCT-EN001",
+    "setId": "ygo-duelist-pack-collection-tin-2008-1n241mx",
+    "setCode": "DPCT-EN001",
+    "setName": "Duelist Pack Collection Tin 2008",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "26701483",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 400,
+    "def": 400,
+    "image": "./assets/yugioh/thumbs/26701483.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/26701483.jpg",
+    "artworkIds": [
+      26701483
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.63,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

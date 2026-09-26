@@ -1,0 +1,34 @@
+[
+  {
+    "id": "yugioh:83555666:LARTEN007:ygo-the-lost-art-promotion-g-aiqqjz:ygo-ultra-rare",
+    "cardId": "83555666",
+    "printingId": "yugioh:83555666:LARTEN007:ygo-the-lost-art-promotion-g-aiqqjz:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Ring of Destruction",
+    "number": "LART-EN007",
+    "collectionNumber": "LART-EN007",
+    "setId": "ygo-the-lost-art-promotion-g-aiqqjz",
+    "setCode": "LART-EN007",
+    "setName": "The Lost Art Promotion G",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "83555666",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/83555666.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/83555666.jpg",
+    "artworkIds": [
+      83555666,
+      83555667
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

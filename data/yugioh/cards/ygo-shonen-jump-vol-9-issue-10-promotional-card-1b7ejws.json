@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:7845138:JUMPEN056:ygo-shonen-jump-vol-9-issue-10-promotional-card-1b7ejws:ygo-ultra-rare",
+    "cardId": "7845138",
+    "printingId": "yugioh:7845138:JUMPEN056:ygo-shonen-jump-vol-9-issue-10-promotional-card-1b7ejws:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Endless Decay",
+    "number": "JUMP-EN056",
+    "collectionNumber": "JUMP-EN056",
+    "setId": "ygo-shonen-jump-vol-9-issue-10-promotional-card-1b7ejws",
+    "setCode": "JUMP-EN056",
+    "setName": "Shonen Jump Vol. 9, Issue 10 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "7845138",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": -1,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/7845138.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/7845138.jpg",
+    "artworkIds": [
+      7845138
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.93,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

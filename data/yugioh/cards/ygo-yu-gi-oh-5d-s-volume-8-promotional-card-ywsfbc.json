@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:8763963:YF08EN001:ygo-yu-gi-oh-5d-s-volume-8-promotional-card-ywsfbc:ygo-ultra-rare",
+    "cardId": "8763963",
+    "printingId": "yugioh:8763963:YF08EN001:ygo-yu-gi-oh-5d-s-volume-8-promotional-card-ywsfbc:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Beelzeus of the Diabolic Dragons",
+    "number": "YF08-EN001",
+    "collectionNumber": "YF08-EN001",
+    "setId": "ygo-yu-gi-oh-5d-s-volume-8-promotional-card-ywsfbc",
+    "setCode": "YF08-EN001",
+    "setName": "Yu-Gi-Oh! 5D's volume 8 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "8763963",
+    "type": "Synchro Monster",
+    "attribute": "DARK",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/8763963.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/8763963.jpg",
+    "artworkIds": [
+      8763963
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 16.16,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

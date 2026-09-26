@@ -1,0 +1,72 @@
+[
+  {
+    "id": "yugioh:81059524:PT1EN002:ygo-pharaoh-tour-2005-promotional-cards-15fw9iy:ygo-ultra-rare",
+    "cardId": "81059524",
+    "printingId": "yugioh:81059524:PT1EN002:ygo-pharaoh-tour-2005-promotional-cards-15fw9iy:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Des Volstgalph",
+    "number": "PT1-EN002",
+    "collectionNumber": "PT1-EN002",
+    "setId": "ygo-pharaoh-tour-2005-promotional-cards-15fw9iy",
+    "setCode": "PT1-EN002",
+    "setName": "Pharaoh Tour 2005 promotional cards",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "81059524",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2200,
+    "def": 1700,
+    "image": "./assets/yugioh/thumbs/81059524.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/81059524.jpg",
+    "artworkIds": [
+      81059524
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:24311372:PT1EN001:ygo-pharaoh-tour-2005-promotional-cards-15fw9iy:ygo-common",
+    "cardId": "24311372",
+    "printingId": "yugioh:24311372:PT1EN001:ygo-pharaoh-tour-2005-promotional-cards-15fw9iy:ygo-common",
+    "game": "yugioh",
+    "name": "Zoa",
+    "number": "PT1-EN001",
+    "collectionNumber": "PT1-EN001",
+    "setId": "ygo-pharaoh-tour-2005-promotional-cards-15fw9iy",
+    "setCode": "PT1-EN001",
+    "setName": "Pharaoh Tour 2005 promotional cards",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "",
+    "passcode": "24311372",
+    "type": "Normal Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2600,
+    "def": 1900,
+    "image": "./assets/yugioh/thumbs/24311372.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/24311372.jpg",
+    "artworkIds": [
+      24311372
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 19.3,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

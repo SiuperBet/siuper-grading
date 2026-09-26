@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:82962242:LARTEN033:ygo-the-lost-art-promotion-2021-c-ipl5ac:ygo-ultra-rare",
+    "cardId": "82962242",
+    "printingId": "yugioh:82962242:LARTEN033:ygo-the-lost-art-promotion-2021-c-ipl5ac:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Vampire Vamp",
+    "number": "LART-EN033",
+    "collectionNumber": "LART-EN033",
+    "setId": "ygo-the-lost-art-promotion-2021-c-ipl5ac",
+    "setCode": "LART-EN033",
+    "setName": "The Lost Art Promotion 2021 C",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Vampire",
+    "passcode": "82962242",
+    "type": "Effect Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2000,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/82962242.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/82962242.jpg",
+    "artworkIds": [
+      82962242
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

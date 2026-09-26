@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:81330115:REDUENSE2:ygo-return-of-the-duelist-special-edition-1flyj2w:ygo-super-rare",
+    "cardId": "81330115",
+    "printingId": "yugioh:81330115:REDUENSE2:ygo-return-of-the-duelist-special-edition-1flyj2w:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Number 30: Acid Golem of Destruction",
+    "number": "REDU-ENSE2",
+    "collectionNumber": "REDU-ENSE2",
+    "setId": "ygo-return-of-the-duelist-special-edition-1flyj2w",
+    "setCode": "REDU-ENSE2",
+    "setName": "Return of the Duelist: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "81330115",
+    "type": "XYZ Monster",
+    "attribute": "WATER",
+    "level": 3,
+    "rank": 3,
+    "link": null,
+    "atk": 3000,
+    "def": 3000,
+    "image": "./assets/yugioh/thumbs/81330115.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/81330115.jpg",
+    "artworkIds": [
+      81330115
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.46,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:90953320:REDUENSE1:ygo-return-of-the-duelist-special-edition-1flyj2w:ygo-super-rare",
+    "cardId": "90953320",
+    "printingId": "yugioh:90953320:REDUENSE1:ygo-return-of-the-duelist-special-edition-1flyj2w:ygo-super-rare",
+    "game": "yugioh",
+    "name": "T.G. Hyper Librarian",
+    "number": "REDU-ENSE1",
+    "collectionNumber": "REDU-ENSE1",
+    "setId": "ygo-return-of-the-duelist-special-edition-1flyj2w",
+    "setCode": "REDU-ENSE1",
+    "setName": "Return of the Duelist: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "T.G.",
+    "passcode": "90953320",
+    "type": "Synchro Monster",
+    "attribute": "DARK",
+    "level": 5,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 1800,
+    "image": "./assets/yugioh/thumbs/90953320.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/90953320.jpg",
+    "artworkIds": [
+      90953320
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.22,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

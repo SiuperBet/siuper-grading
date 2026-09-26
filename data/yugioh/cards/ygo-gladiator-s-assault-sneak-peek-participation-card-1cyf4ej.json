@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:29590752:GLASENSP1:ygo-gladiator-s-assault-sneak-peek-participation-card-1cyf4ej:ygo-super-rare",
+    "cardId": "29590752",
+    "printingId": "yugioh:29590752:GLASENSP1:ygo-gladiator-s-assault-sneak-peek-participation-card-1cyf4ej:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Gladiator Beast Octavius",
+    "number": "GLAS-ENSP1",
+    "collectionNumber": "GLAS-ENSP1",
+    "setId": "ygo-gladiator-s-assault-sneak-peek-participation-card-1cyf4ej",
+    "setCode": "GLAS-ENSP1",
+    "setName": "Gladiator's Assault Sneak Peek Participation Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Gladiator Beast",
+    "passcode": "29590752",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 1200,
+    "image": "./assets/yugioh/thumbs/29590752.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/29590752.jpg",
+    "artworkIds": [
+      29590752
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 7.57,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

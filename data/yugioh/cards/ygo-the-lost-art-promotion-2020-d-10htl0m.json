@@ -1,0 +1,34 @@
+[
+  {
+    "id": "yugioh:81439173:LARTEN016:ygo-the-lost-art-promotion-2020-d-10htl0m:ygo-ultra-rare",
+    "cardId": "81439173",
+    "printingId": "yugioh:81439173:LARTEN016:ygo-the-lost-art-promotion-2020-d-10htl0m:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Foolish Burial",
+    "number": "LART-EN016",
+    "collectionNumber": "LART-EN016",
+    "setId": "ygo-the-lost-art-promotion-2020-d-10htl0m",
+    "setCode": "LART-EN016",
+    "setName": "The Lost Art Promotion 2020 D",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "81439173",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/81439173.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/81439173.jpg",
+    "artworkIds": [
+      81439173,
+      81439174
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

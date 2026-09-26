@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:76459806:FOTBENSP1:ygo-force-of-the-breaker-sneak-peek-participation-card-1eqaepi:ygo-super-rare",
+    "cardId": "76459806",
+    "printingId": "yugioh:76459806:FOTBENSP1:ygo-force-of-the-breaker-sneak-peek-participation-card-1eqaepi:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Volcanic Rocket",
+    "number": "FOTB-ENSP1",
+    "collectionNumber": "FOTB-ENSP1",
+    "setId": "ygo-force-of-the-breaker-sneak-peek-participation-card-1eqaepi",
+    "setCode": "FOTB-ENSP1",
+    "setName": "Force of the Breaker Sneak Peek Participation Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Volcanic",
+    "passcode": "76459806",
+    "type": "Effect Monster",
+    "attribute": "FIRE",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1900,
+    "def": 1400,
+    "image": "./assets/yugioh/thumbs/76459806.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/76459806.jpg",
+    "artworkIds": [
+      76459806
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 11.45,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

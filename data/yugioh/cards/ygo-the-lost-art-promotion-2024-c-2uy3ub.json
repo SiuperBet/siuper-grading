@@ -1,0 +1,34 @@
+[
+  {
+    "id": "yugioh:56993276:LARTEN068:ygo-the-lost-art-promotion-2024-c-2uy3ub:ygo-ultra-rare",
+    "cardId": "56993276",
+    "printingId": "yugioh:56993276:LARTEN068:ygo-the-lost-art-promotion-2024-c-2uy3ub:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Wattcancel",
+    "number": "LART-EN068",
+    "collectionNumber": "LART-EN068",
+    "setId": "ygo-the-lost-art-promotion-2024-c-2uy3ub",
+    "setCode": "LART-EN068",
+    "setName": "The Lost Art Promotion 2024 C",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Watt",
+    "passcode": "56993276",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/56993276.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/56993276.jpg",
+    "artworkIds": [
+      56993276,
+      56993277
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

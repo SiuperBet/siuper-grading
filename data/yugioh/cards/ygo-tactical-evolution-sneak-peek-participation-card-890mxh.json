@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:19041767:TAEVENSP1:ygo-tactical-evolution-sneak-peek-participation-card-890mxh:ygo-super-rare",
+    "cardId": "19041767",
+    "printingId": "yugioh:19041767:TAEVENSP1:ygo-tactical-evolution-sneak-peek-participation-card-890mxh:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Gemini Summoner",
+    "number": "TAEV-ENSP1",
+    "collectionNumber": "TAEV-ENSP1",
+    "setId": "ygo-tactical-evolution-sneak-peek-participation-card-890mxh",
+    "setCode": "TAEV-ENSP1",
+    "setName": "Tactical Evolution Sneak Peek Participation Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "19041767",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1500,
+    "def": 0,
+    "image": "./assets/yugioh/thumbs/19041767.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/19041767.jpg",
+    "artworkIds": [
+      19041767
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4.95,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

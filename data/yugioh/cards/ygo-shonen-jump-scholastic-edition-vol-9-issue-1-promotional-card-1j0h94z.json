@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:72144675:JMPSEN001:ygo-shonen-jump-scholastic-edition-vol-9-issue-1-promotional-card-1j0h94z:ygo-ultra-rare",
+    "cardId": "72144675",
+    "printingId": "yugioh:72144675:JMPSEN001:ygo-shonen-jump-scholastic-edition-vol-9-issue-1-promotional-card-1j0h94z:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Troposphere",
+    "number": "JMPS-EN001",
+    "collectionNumber": "JMPS-EN001",
+    "setId": "ygo-shonen-jump-scholastic-edition-vol-9-issue-1-promotional-card-1j0h94z",
+    "setCode": "JMPS-EN001",
+    "setName": "Shonen Jump Scholastic Edition Vol. 9, Issue 1 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "72144675",
+    "type": "Effect Monster",
+    "attribute": "WIND",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2400,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/72144675.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/72144675.jpg",
+    "artworkIds": [
+      72144675
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 34.18,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

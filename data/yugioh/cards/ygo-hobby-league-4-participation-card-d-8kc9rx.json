@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:79571449:HL04EN004:ygo-hobby-league-4-participation-card-d-8kc9rx:ygo-ultra-parallel-rare",
+    "cardId": "79571449",
+    "printingId": "yugioh:79571449:HL04EN004:ygo-hobby-league-4-participation-card-d-8kc9rx:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Graceful Charity",
+    "number": "HL04-EN004",
+    "collectionNumber": "HL04-EN004",
+    "setId": "ygo-hobby-league-4-participation-card-d-8kc9rx",
+    "setCode": "HL04-EN004",
+    "setName": "Hobby League 4 participation card D",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "79571449",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/79571449.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/79571449.jpg",
+    "artworkIds": [
+      79571449
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 31.13,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

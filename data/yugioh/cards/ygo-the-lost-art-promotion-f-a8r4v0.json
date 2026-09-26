@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:70903634:LARTEN006:ygo-the-lost-art-promotion-f-a8r4v0:ygo-ultra-rare",
+    "cardId": "70903634",
+    "printingId": "yugioh:70903634:LARTEN006:ygo-the-lost-art-promotion-f-a8r4v0:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Right Arm of the Forbidden One",
+    "number": "LART-EN006",
+    "collectionNumber": "LART-EN006",
+    "setId": "ygo-the-lost-art-promotion-f-a8r4v0",
+    "setCode": "LART-EN006",
+    "setName": "The Lost Art Promotion F",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Exodia",
+    "passcode": "70903634",
+    "type": "Normal Monster",
+    "attribute": "DARK",
+    "level": 1,
+    "rank": null,
+    "link": null,
+    "atk": 200,
+    "def": 300,
+    "image": "./assets/yugioh/thumbs/70903634.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/70903634.jpg",
+    "artworkIds": [
+      70903634
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 27.14,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

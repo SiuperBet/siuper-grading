@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:85399281:CSOCENSE1:ygo-crossroads-of-chaos-special-edition-5eun4m:ygo-super-rare",
+    "cardId": "85399281",
+    "printingId": "yugioh:85399281:CSOCENSE1:ygo-crossroads-of-chaos-special-edition-5eun4m:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Harvest Angel of Wisdom",
+    "number": "CSOC-ENSE1",
+    "collectionNumber": "CSOC-ENSE1",
+    "setId": "ygo-crossroads-of-chaos-special-edition-5eun4m",
+    "setCode": "CSOC-ENSE1",
+    "setName": "Crossroads of Chaos: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Fairy",
+    "passcode": "85399281",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1800,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/85399281.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/85399281.jpg",
+    "artworkIds": [
+      85399281
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 3.09,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:70595331:CSOCENSE2:ygo-crossroads-of-chaos-special-edition-5eun4m:ygo-super-rare",
+    "cardId": "70595331",
+    "printingId": "yugioh:70595331:CSOCENSE2:ygo-crossroads-of-chaos-special-edition-5eun4m:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Il Blud",
+    "number": "CSOC-ENSE2",
+    "collectionNumber": "CSOC-ENSE2",
+    "setId": "ygo-crossroads-of-chaos-special-edition-5eun4m",
+    "setCode": "CSOC-ENSE2",
+    "setName": "Crossroads of Chaos: Special Edition",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "70595331",
+    "type": "Gemini Monster",
+    "attribute": "DARK",
+    "level": 6,
+    "rank": null,
+    "link": null,
+    "atk": 2100,
+    "def": 800,
+    "image": "./assets/yugioh/thumbs/70595331.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/70595331.jpg",
+    "artworkIds": [
+      70595331
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2.83,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

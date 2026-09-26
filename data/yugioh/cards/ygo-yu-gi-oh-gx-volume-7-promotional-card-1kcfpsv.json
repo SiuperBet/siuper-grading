@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:28348537:YG07EN001:ygo-yu-gi-oh-gx-volume-7-promotional-card-1kcfpsv:ygo-ultra-rare",
+    "cardId": "28348537",
+    "printingId": "yugioh:28348537:YG07EN001:ygo-yu-gi-oh-gx-volume-7-promotional-card-1kcfpsv:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Blizzard Princess",
+    "number": "YG07-EN001",
+    "collectionNumber": "YG07-EN001",
+    "setId": "ygo-yu-gi-oh-gx-volume-7-promotional-card-1kcfpsv",
+    "setCode": "YG07-EN001",
+    "setName": "Yu-Gi-Oh! GX Volume 7 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "28348537",
+    "type": "Effect Monster",
+    "attribute": "WATER",
+    "level": 8,
+    "rank": null,
+    "link": null,
+    "atk": 2800,
+    "def": 2100,
+    "image": "./assets/yugioh/thumbs/28348537.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/28348537.jpg",
+    "artworkIds": [
+      28348537
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 10.12,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

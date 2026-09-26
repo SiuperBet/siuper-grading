@@ -1,0 +1,49 @@
+[
+  {
+    "id": "yugioh:46986414:JUMPEN049:ygo-shonen-jump-vol-9-issue-4-promotional-card-13quej9:ygo-ultra-rare",
+    "cardId": "46986414",
+    "printingId": "yugioh:46986414:JUMPEN049:ygo-shonen-jump-vol-9-issue-4-promotional-card-13quej9:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Dark Magician",
+    "number": "JUMP-EN049",
+    "collectionNumber": "JUMP-EN049",
+    "setId": "ygo-shonen-jump-vol-9-issue-4-promotional-card-13quej9",
+    "setCode": "JUMP-EN049",
+    "setName": "Shonen Jump Vol. 9, Issue 4 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Dark Magician",
+    "passcode": "46986414",
+    "type": "Normal Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 2100,
+    "image": "./assets/yugioh/thumbs/46986414.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/46986414.jpg",
+    "artworkIds": [
+      46986414,
+      46986415,
+      46986416,
+      46986417,
+      46986418,
+      46986419,
+      36996508,
+      46986420,
+      46986421
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 129.27,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

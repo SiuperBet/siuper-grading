@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:95477924:LARTEN060:ygo-the-lost-art-promotion-2023-g-j5cmjy:ygo-ultra-rare",
+    "cardId": "95477924",
+    "printingId": "yugioh:95477924:LARTEN060:ygo-the-lost-art-promotion-2023-g-j5cmjy:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Magician's Salvation",
+    "number": "LART-EN060",
+    "collectionNumber": "LART-EN060",
+    "setId": "ygo-the-lost-art-promotion-2023-g-j5cmjy",
+    "setCode": "LART-EN060",
+    "setName": "The Lost Art Promotion 2023 G",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Dark Magician",
+    "passcode": "95477924",
+    "type": "Spell Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/95477924.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/95477924.jpg",
+    "artworkIds": [
+      95477924
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

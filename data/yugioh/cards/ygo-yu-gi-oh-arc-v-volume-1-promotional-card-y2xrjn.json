@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:93149655:YA01EN001:ygo-yu-gi-oh-arc-v-volume-1-promotional-card-y2xrjn:ygo-ultra-rare",
+    "cardId": "93149655",
+    "printingId": "yugioh:93149655:YA01EN001:ygo-yu-gi-oh-arc-v-volume-1-promotional-card-y2xrjn:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Odd-Eyes Phantom Dragon",
+    "number": "YA01-EN001",
+    "collectionNumber": "YA01-EN001",
+    "setId": "ygo-yu-gi-oh-arc-v-volume-1-promotional-card-y2xrjn",
+    "setCode": "YA01-EN001",
+    "setName": "Yu-Gi-Oh! ARC-V Volume 1 promotional card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "-Eyes Dragon",
+    "passcode": "93149655",
+    "type": "Pendulum Effect Monster",
+    "attribute": "DARK",
+    "level": 7,
+    "rank": null,
+    "link": null,
+    "atk": 2500,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/93149655.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/93149655.jpg",
+    "artworkIds": [
+      93149655
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 12.88,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

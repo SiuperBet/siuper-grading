@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yugioh:95956346:HL06EN006:ygo-hobby-league-6-participation-card-f-1j773x9:ygo-ultra-parallel-rare",
+    "cardId": "95956346",
+    "printingId": "yugioh:95956346:HL06EN006:ygo-hobby-league-6-participation-card-f-1j773x9:ygo-ultra-parallel-rare",
+    "game": "yugioh",
+    "name": "Shining Angel",
+    "number": "HL06-EN006",
+    "collectionNumber": "HL06-EN006",
+    "setId": "ygo-hobby-league-6-participation-card-f-1j773x9",
+    "setCode": "HL06-EN006",
+    "setName": "Hobby League 6 participation card F",
+    "rarity": "Ultra Parallel Rare",
+    "edition": "",
+    "archetype": "",
+    "passcode": "95956346",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 1400,
+    "def": 800,
+    "image": "./assets/yugioh/thumbs/95956346.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/95956346.jpg",
+    "artworkIds": [
+      95956346
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 13.92,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]

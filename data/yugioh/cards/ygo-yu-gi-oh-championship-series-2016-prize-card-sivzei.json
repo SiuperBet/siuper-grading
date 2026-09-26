@@ -1,0 +1,80 @@
+[
+  {
+    "id": "yugioh:23187256:YCSWEN009:ygo-yu-gi-oh-championship-series-2016-prize-card-sivzei:ygo-super-rare",
+    "cardId": "23187256",
+    "printingId": "yugioh:23187256:YCSWEN009:ygo-yu-gi-oh-championship-series-2016-prize-card-sivzei:ygo-super-rare",
+    "game": "yugioh",
+    "name": "Number 93: Utopia Kaiser",
+    "number": "YCSW-EN009",
+    "collectionNumber": "YCSW-EN009",
+    "setId": "ygo-yu-gi-oh-championship-series-2016-prize-card-sivzei",
+    "setCode": "YCSW-EN009",
+    "setName": "Yu-Gi-Oh! Championship Series 2016 Prize Card",
+    "rarity": "Super Rare",
+    "edition": "",
+    "archetype": "Utopia",
+    "passcode": "23187256",
+    "type": "XYZ Monster",
+    "attribute": "LIGHT",
+    "level": 12,
+    "rank": 12,
+    "link": null,
+    "atk": 2500,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/23187256.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/23187256.jpg",
+    "artworkIds": [
+      23187256
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 4504.65,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  },
+  {
+    "id": "yugioh:23187256:YCSWEN009:ygo-yu-gi-oh-championship-series-2016-prize-card-sivzei:ygo-ultra-rare",
+    "cardId": "23187256",
+    "printingId": "yugioh:23187256:YCSWEN009:ygo-yu-gi-oh-championship-series-2016-prize-card-sivzei:ygo-ultra-rare",
+    "game": "yugioh",
+    "name": "Number 93: Utopia Kaiser",
+    "number": "YCSW-EN009",
+    "collectionNumber": "YCSW-EN009",
+    "setId": "ygo-yu-gi-oh-championship-series-2016-prize-card-sivzei",
+    "setCode": "YCSW-EN009",
+    "setName": "Yu-Gi-Oh! Championship Series 2016 Prize Card",
+    "rarity": "Ultra Rare",
+    "edition": "",
+    "archetype": "Utopia",
+    "passcode": "23187256",
+    "type": "XYZ Monster",
+    "attribute": "LIGHT",
+    "level": 12,
+    "rank": 12,
+    "link": null,
+    "atk": 2500,
+    "def": 2000,
+    "image": "./assets/yugioh/thumbs/23187256.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/23187256.jpg",
+    "artworkIds": [
+      23187256
+    ],
+    "price": {
+      "source": "YGOPRODeck",
+      "currency": "USD",
+      "priceType": "set_price",
+      "condition": null,
+      "value": 2928.99,
+      "timestamp": "2026-09-26T10:15:50.964Z",
+      "confidence": "MEDIA"
+    },
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-26T10:15:50.964Z"
+  }
+]
