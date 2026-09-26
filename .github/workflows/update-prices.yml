@@ -5,10 +5,11 @@ on:
   push:
     paths:
       - ".github/workflows/update-prices.yml"
+      - "scripts/update-prices.mjs"
       - "data/pokemon/search-index.json"
       - "data/yugioh/search-index.json"
   schedule:
-    - cron: "13 4 * * 1,4"
+    - cron: "13 4 * * *"
 
 permissions:
   contents: write
