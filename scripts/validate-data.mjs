@@ -24,7 +24,19 @@ for(const[name,dir]of configs){
   catalogStats[name].emptySets=empty;catalogStats[name].missingShards=missing;
   if(missing)warnings.push(name+": "+missing+" shard dichiarati ma mancanti");
 }
-duplicateValues(allIndexes,"printingId","printingId globale");
+{
+  const owners=new Map(),crossCatalog=[];
+  for(const[name,dir]of configs){
+    const rows=await readJson(dir+"/search-index.json",[],true);
+    for(const row of rows){
+      if(!owners.has(row.printingId))owners.set(row.printingId,[]);
+      owners.get(row.printingId).push(name);
+    }
+  }
+  for(const[id,names]of owners)if(new Set(names).size>1)crossCatalog.push(id);
+  stats.crossCatalogFallbackRefs=crossCatalog.length;
+  if(crossCatalog.length)warnings.push("Stampe fisiche referenziate in più cataloghi lingua (fallback condivisi): "+crossCatalog.length);
+}
 for(const c of allIndexes){
   if(!c.id||!c.game||!c.name||!c.printingId)errors.push("Carta senza campi obbligatori: "+JSON.stringify(c).slice(0,180));
   if(!["pokemon","yugioh"].includes(c.game))errors.push("Gioco non valido: "+c.game);
