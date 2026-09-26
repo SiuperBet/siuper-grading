@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - ".github/workflows/update-pokemon-data.yml"
+      - "scripts/update-pokemon.mjs"
   schedule:
     - cron: "17 3 * * 2"
 
