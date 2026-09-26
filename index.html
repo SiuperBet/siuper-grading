@@ -31,6 +31,7 @@
       <label class="searchbox"><span>⌕</span><input id="searchInput" autocomplete="off" inputmode="search" placeholder="Cerca nome, numero o codice carta…"></label>
       <div class="filters search-filters">
         <select id="searchGame"><option value="all">Tutti i giochi</option><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh!</option></select>
+        <select id="searchLanguage"><option value="all">Tutte le lingue Pokémon</option><option value="it">Italiano</option><option value="en">English</option><option value="ja">日本語 / JP</option><option value="zh-tw">中文繁體</option><option value="zh-cn">中文简体</option></select>
         <select id="searchOwned"><option value="all">Tutte</option><option value="owned">Ce l'ho</option><option value="missing">Mi manca</option></select>
         <input id="searchSet" placeholder="Espansione / set">
         <input id="searchRarity" placeholder="Rarità">
@@ -49,6 +50,7 @@
     <section id="view-album" class="view">
       <div class="section-head"><div><small>MASTER SET</small><h2>Album / Espansioni</h2></div><button id="refreshSets" class="ghost">Aggiorna</button></div>
       <div class="game-switch"><button class="album-game active" data-game="pokemon">POKÉMON</button><button class="album-game" data-game="yugioh">YU-GI-OH!</button></div>
+      <div class="filters"><select id="albumPokemonLanguage"><option value="it">Pokémon • Italiano</option><option value="en">Pokémon • English</option><option value="ja">Pokémon • 日本語 / JP</option><option value="zh-tw">Pokémon • 中文繁體</option><option value="zh-cn">Pokémon • 中文简体</option></select></div>
       <div id="setsList" class="set-list"><div class="notice">Caricamento espansioni…</div></div>
       <div id="setDetail" class="set-detail" hidden></div>
     </section>
@@ -74,7 +76,7 @@
     <section id="view-settings" class="view">
       <div class="section-head"><div><small>APP</small><h2>Impostazioni</h2></div></div>
       <div class="settings-card">
-        <label>Lingua catalogo Pokémon<select id="pokemonLanguage"><option value="it">Italiano</option><option value="en">English</option></select></label>
+        <label>Lingua Pokémon predefinita<select id="pokemonLanguage"><option value="it">Italiano</option><option value="en">English</option><option value="ja">日本語 / JP</option><option value="zh-tw">中文（繁體）</option><option value="zh-cn">中文（简体）</option></select></label>
         <label>Acquisizione automatica<input id="autoCapture" type="checkbox" checked></label>
         <button id="historyBtn">Storico grading</button><button id="exportAllBtn">Esporta backup JSON</button>
         <label class="file-btn">Importa backup JSON<input id="importFile" type="file" accept="application/json"></label>
