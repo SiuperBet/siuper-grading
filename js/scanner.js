@@ -200,15 +200,18 @@ function selectSide(side){
 }
 async function doRecognition(){
   const cap=state.captures.front||state.captures[state.currentSide];if(!cap){$("#recognitionResult").innerHTML='<div class="notice">Acquisisci prima il fronte.</div>';return}
-  const root=$("#recognitionResult");root.innerHTML='<div class="notice">OCR e matching in corso sul dispositivo…</div>';
+  const root=$("#recognitionResult");root.innerHTML='<div class="notice">OCR multilingua e confronto visivo in corso…</div>';
   try{
     const preferred=document.querySelector(".game-btn.active")?.dataset.game||"all",r=await recognizeCard(cap.canvas,preferred),rows=r.candidates;
-    if(!rows.length){root.innerHTML='<div class="notice">Riconoscimento non conclusivo. OCR: '+r.ocrConfidence+'%. Usa la ricerca manuale per selezionare la carta.</div>';return}
-    const best=rows[0];state.recognized=best.card;
-    root.innerHTML='<div class="analysis-box"><h3>Carta identificata</h3><b>'+best.card.name+'</b><div>'+ (best.card.collectionNumber||"—")+' • '+(best.card.setName||best.card.setCode||"")+'</div><p class="confidence">Confidenza: '+best.confidence+'% • OCR '+r.ocrConfidence+'%</p><small>Alternative:</small>'+rows.slice(1).map((x,i)=>'<button class="candidate-btn" data-i="'+(i+1)+'">'+x.card.name+' • '+(x.card.collectionNumber||"—")+' ('+x.confidence+'%)</button>').join(" ")+'<p><button id="manualSearchBtn">Correggi con ricerca manuale</button></p></div>';
-    root.querySelectorAll(".candidate-btn").forEach(b=>b.onclick=()=>{const x=rows[Number(b.dataset.i)];state.recognized=x.card;root.querySelector("b").textContent=x.card.name;root.querySelector(".confidence").textContent="Selezione manuale tra i candidati.";});
+    if(!rows.length){state.recognized=null;root.innerHTML='<div class="notice">Riconoscimento non conclusivo. OCR: '+r.ocrConfidence+'%. Usa la ricerca manuale per selezionare la stampa esatta.</div>';return}
+    const best=rows[0],strongEvidence=best.exactNumber||best.exactSetCode||Number(best.imageSimilarity||0)>=.68||best.nameEvidence>=.72,autoAccepted=best.confidence>=68&&strongEvidence;
+    state.recognized=autoAccepted?best.card:null;
+    const visual=best.imageSimilarity==null?"n/d":Math.round(best.imageSimilarity*100)+"%";
+    root.innerHTML='<div class="analysis-box"><h3>'+(autoAccepted?'Carta identificata':'Candidato principale da confermare')+'</h3><b>'+best.card.name+'</b><div>'+(best.card.collectionNumber||"—")+' • '+(best.card.setName||best.card.setCode||"")+'</div><p class="confidence">Confidenza: '+best.confidence+'% • OCR '+r.ocrConfidence+'% • Visuale '+visual+'</p>'+(autoAccepted?'':'<button id="confirmBestCandidate" class="primary">Conferma questa carta</button>')+'<small>Alternative:</small>'+rows.slice(1).map((x,i)=>'<button class="candidate-btn" data-i="'+(i+1)+'">'+x.card.name+' • '+(x.card.collectionNumber||"—")+' ('+x.confidence+'%)</button>').join(" ")+'<p><button id="manualSearchBtn">Correggi con ricerca manuale</button></p></div>';
+    const confirm=$("#confirmBestCandidate");if(confirm)confirm.onclick=()=>{state.recognized=best.card;confirm.disabled=true;confirm.textContent="✓ Confermata";root.querySelector("h3").textContent="Carta identificata e confermata"};
+    root.querySelectorAll(".candidate-btn").forEach(b=>b.onclick=()=>{const x=rows[Number(b.dataset.i)];state.recognized=x.card;root.querySelector("b").textContent=x.card.name;root.querySelector(".confidence").textContent="Selezione manuale tra i candidati • "+x.confidence+"%";root.querySelector("h3").textContent="Carta identificata e confermata"});
     $("#manualSearchBtn").onclick=()=>document.querySelector('[data-view="search"]').click();
-  }catch(e){root.innerHTML='<div class="notice">OCR non riuscito: '+e.message+' Puoi sempre usare la ricerca manuale.</div>'}
+  }catch(e){state.recognized=null;root.innerHTML='<div class="notice">OCR non riuscito: '+e.message+' Puoi sempre usare la ricerca manuale.</div>'}
 }
 function conditionFromGrade(grade){
   if(grade>=8.5)return"NM";
