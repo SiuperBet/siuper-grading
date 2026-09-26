@@ -9,8 +9,9 @@
     "update:pokemon": "node scripts/update-pokemon.mjs",
     "update:yugioh": "node scripts/update-yugioh.mjs",
     "update:prices": "node scripts/update-prices.mjs",
-    "check:syntax": "node --check js/app.js && node --check js/catalog.js && node --check js/collection.js && node --check js/config.js && node --check js/db.js && node --check js/grading-config.js && node --check js/grading.js && node --check js/mastersets.js && node --check js/normalize.js && node --check js/price-history.js && node --check js/prices.js && node --check js/recognition.js && node --check js/scanner.js && node --check js/data/pokemon-adapter.js && node --check js/data/yugioh-adapter.js && node --check scripts/update-pokemon.mjs && node --check scripts/update-yugioh.mjs && node --check scripts/update-prices.mjs && node --check scripts/validate-data.mjs && node --check scripts/update-tcgcsv-map.mjs",
-    "update:tcgcsv-map": "node scripts/update-tcgcsv-map.mjs"
+    "check:syntax": "node --check js/app.js && node --check js/catalog.js && node --check js/collection.js && node --check js/config.js && node --check js/db.js && node --check js/grading-config.js && node --check js/grading.js && node --check js/mastersets.js && node --check js/normalize.js && node --check js/price-history.js && node --check js/prices.js && node --check js/recognition.js && node --check js/scanner.js && node --check js/data/pokemon-adapter.js && node --check js/data/yugioh-adapter.js && node --check scripts/update-pokemon.mjs && node --check scripts/update-yugioh.mjs && node --check scripts/update-prices.mjs && node --check scripts/validate-data.mjs && node --check scripts/update-tcgcsv-map.mjs && node --check scripts/backfill-tcgcsv-history.mjs",
+    "update:tcgcsv-map": "node scripts/update-tcgcsv-map.mjs",
+    "backfill:tcgcsv": "node scripts/backfill-tcgcsv-history.mjs"
   },
   "engines": {
     "node": ">=22"
