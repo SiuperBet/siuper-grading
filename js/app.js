@@ -5,7 +5,7 @@ import{ownedPrintingIds,addCopy,copiesFor,collectionStats,removeCopy,updateCopy}
 import{initScanner,stopCamera,getScannerState,setRecognizedCard}from"./scanner.js";
 import{renderHistory}from"./grading.js";
 import{getPricesForCard,reliability,referencePricesForCards}from"./prices.js";
-import{progressForCards,getCustomMasterSets,progressForCustom,variantKeys}from"./mastersets.js";
+import{progressForCards,getCustomMasterSets,progressForCustom,variantKeys,canonicalVariant}from"./mastersets.js";
 import{loadPriceHistory,drawPriceHistory,buildOnlineMarketTrend,drawOnlineMarketTrend}from"./price-history.js";
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
@@ -131,14 +131,21 @@ function marketSearchLinks(card){
   const google="https://www.google.com/search?q="+encodeURIComponent(q+" card market price");
   return '<div class="scanner-actions"><a class="file-btn" target="_blank" rel="noopener noreferrer" href="'+ebay+'">Verifica vendite concluse</a><a class="file-btn" target="_blank" rel="noopener noreferrer" href="'+google+'">Ricerca mercato</a></div>';
 }
-function copiesEditor(copies){
+function variantLabel(v=""){return({normal:"Normal",holo:"Holo",reverse:"Reverse Holo",firstEdition:"1ª edizione",unlimited:"Unlimited",promo:"Promo",wFoil:"W Foil",base:"Base"})[v]||v}
+function variantField(card,current="",id=null){
+  const known=variantKeys(card).filter(v=>v!=="base"),cur=canonicalVariant(current||"");
+  if(!known.length)return '<input '+(id?'id="'+id+'" ':'')+'data-copy-field="variant" value="'+esc(current||"")+'" placeholder="normal, holo, reverse…">';
+  const opts=[...known];if(current&&!opts.some(v=>canonicalVariant(v)===cur))opts.push(current);
+  return '<select '+(id?'id="'+id+'" ':'')+'data-copy-field="variant">'+opts.map(v=>'<option value="'+esc(v)+'"'+(canonicalVariant(v)===cur?" selected":"")+'>'+esc(variantLabel(v))+'</option>').join("")+'</select>';
+}
+function copiesEditor(copies,card){
   if(!copies.length)return"";
   return '<h3>Le mie copie</h3>'+copies.map((cp,i)=>
     '<div class="copy-editor" data-copy-id="'+esc(cp.id)+'">'+
     '<b>Copia '+(i+1)+'</b>'+
     '<label>Condizione <select data-copy-field="condition">'+["NM","LP","MP","HP","DAMAGED"].map(v=>'<option value="'+v+'"'+(cp.condition===v?" selected":"")+'>'+v+'</option>').join("")+'</select></label>'+
     '<label>Lingua stampa <b>'+esc(languageLabel(cp.language||"it"))+'</b></label>'+
-    '<label>Variante <input data-copy-field="variant" value="'+esc(cp.variant||"")+'" placeholder="normal, holo, reverse…"></label>'+
+    '<label>Variante '+variantField(card,cp.variant||"")+'</label>'+
     '<label>Prezzo pagato <input data-copy-field="pricePaid" type="number" min="0" step="0.01" value="'+(cp.pricePaid==null?"":esc(cp.pricePaid))+'"></label>'+
     '<label>Note <textarea data-copy-field="notes">'+esc(cp.notes||"")+'</textarea></label>'+
     '<div class="scanner-actions"><button data-save-copy>Salva copia</button><button class="danger" data-delete-copy>Elimina copia</button></div>'+
