@@ -17,7 +17,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/001/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/001/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-002",
@@ -37,7 +38,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/002/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/002/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-003",
@@ -57,7 +59,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/003/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/003/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-004",
@@ -77,7 +80,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/004/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/004/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-005",
@@ -97,7 +101,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/005/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/005/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-006",
@@ -117,7 +122,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/006/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/006/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-007",
@@ -137,7 +143,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/007/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/007/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-008",
@@ -157,7 +164,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/008/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/008/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-009",
@@ -177,7 +185,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/009/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/009/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-010",
@@ -197,7 +206,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/010/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/010/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-011",
@@ -217,7 +227,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/011/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/011/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-012",
@@ -237,7 +248,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/012/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/012/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-013",
@@ -257,7 +269,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/013/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/013/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-014",
@@ -277,7 +290,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/014/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/014/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-015",
@@ -297,7 +311,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/015/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/015/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-016",
@@ -317,7 +332,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/016/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/016/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-017",
@@ -337,7 +353,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/017/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/017/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-018",
@@ -357,7 +374,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/018/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/018/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-019",
@@ -377,7 +395,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/019/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/019/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-020",
@@ -397,7 +416,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/020/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/020/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-021",
@@ -417,7 +437,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/021/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/021/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-022",
@@ -437,7 +458,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/022/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/022/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-023",
@@ -457,7 +479,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/023/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/023/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-024",
@@ -477,7 +500,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/024/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/024/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-025",
@@ -497,7 +521,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/025/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/025/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-026",
@@ -517,7 +542,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/026/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/026/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-027",
@@ -537,7 +563,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/027/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/027/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-028",
@@ -557,7 +584,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/028/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/028/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-029",
@@ -577,7 +605,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/029/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/029/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-030",
@@ -597,7 +626,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/030/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/030/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-031",
@@ -617,7 +647,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/031/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/031/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-032",
@@ -637,7 +668,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/032/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/032/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-033",
@@ -657,7 +689,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/033/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/033/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-034",
@@ -677,7 +710,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/034/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/034/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-035",
@@ -697,7 +731,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/035/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/035/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-036",
@@ -717,7 +752,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/036/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/036/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-037",
@@ -737,7 +773,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/037/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/037/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-038",
@@ -757,7 +794,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/038/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/038/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-039",
@@ -777,7 +815,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/039/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/039/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-040",
@@ -797,7 +836,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/040/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/040/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-041",
@@ -817,7 +857,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/041/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/041/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-042",
@@ -837,7 +878,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/042/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/042/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-043",
@@ -857,7 +899,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/043/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/043/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-044",
@@ -877,7 +920,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/044/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/044/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-045",
@@ -897,7 +941,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/045/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/045/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-046",
@@ -917,7 +962,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/046/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/046/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-047",
@@ -937,7 +983,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/047/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/047/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-048",
@@ -957,7 +1004,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/048/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/048/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-049",
@@ -977,7 +1025,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/049/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/049/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-050",
@@ -997,7 +1046,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/050/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/050/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-051",
@@ -1017,7 +1067,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/051/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/051/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-052",
@@ -1037,7 +1088,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/052/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/052/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-053",
@@ -1057,7 +1109,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/053/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/053/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-054",
@@ -1077,7 +1130,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/054/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/054/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-055",
@@ -1097,7 +1151,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/055/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/055/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-056",
@@ -1117,7 +1172,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/056/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/056/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-057",
@@ -1137,7 +1193,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/057/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/057/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-058",
@@ -1157,7 +1214,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/058/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/058/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-059",
@@ -1177,7 +1235,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/059/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/059/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-060",
@@ -1197,7 +1256,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/060/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/060/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-061",
@@ -1217,7 +1277,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/061/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/061/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-062",
@@ -1237,7 +1298,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/062/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/062/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-063",
@@ -1257,7 +1319,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/063/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/063/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-064",
@@ -1277,7 +1340,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/064/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/064/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-065",
@@ -1297,7 +1361,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/065/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/065/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-066",
@@ -1317,7 +1382,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/066/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/066/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-067",
@@ -1337,7 +1403,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/067/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/067/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-068",
@@ -1357,7 +1424,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/068/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/068/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-069",
@@ -1377,7 +1445,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/069/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/069/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-070",
@@ -1397,7 +1466,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/070/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/070/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-071",
@@ -1417,7 +1487,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/071/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/071/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-072",
@@ -1437,7 +1508,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/072/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/072/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-073",
@@ -1457,7 +1529,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/073/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/073/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-074",
@@ -1477,7 +1550,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/074/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/074/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-075",
@@ -1497,7 +1571,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/075/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/075/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-076",
@@ -1517,7 +1592,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/076/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/076/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-077",
@@ -1537,7 +1613,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/077/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/077/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-078",
@@ -1557,7 +1634,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/078/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/078/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-079",
@@ -1577,7 +1655,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/079/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/079/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-080",
@@ -1597,7 +1676,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/080/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/080/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-081",
@@ -1617,7 +1697,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/081/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/081/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-082",
@@ -1637,7 +1718,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/082/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/082/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-083",
@@ -1657,7 +1739,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/083/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/083/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-084",
@@ -1677,7 +1760,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/084/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/084/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-085",
@@ -1697,7 +1781,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/085/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/085/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-086",
@@ -1717,7 +1802,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/086/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/086/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-087",
@@ -1737,7 +1823,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/087/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/087/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-088",
@@ -1757,7 +1844,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/088/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/088/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-089",
@@ -1777,7 +1865,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/089/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/089/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-090",
@@ -1797,7 +1886,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/090/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/090/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-091",
@@ -1817,7 +1907,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/091/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/091/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-092",
@@ -1837,7 +1928,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/092/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/092/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-093",
@@ -1857,7 +1949,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/093/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/093/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-094",
@@ -1877,7 +1970,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/094/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/094/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-095",
@@ -1897,7 +1991,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/095/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/095/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-096",
@@ -1917,7 +2012,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/096/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/096/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-097",
@@ -1937,7 +2033,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/097/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/097/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-098",
@@ -1957,7 +2054,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/098/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/098/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-099",
@@ -1977,7 +2075,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/099/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/099/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-100",
@@ -1997,7 +2096,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/100/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/100/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-101",
@@ -2017,7 +2117,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/101/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/101/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-102",
@@ -2037,7 +2138,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/102/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/102/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-103",
@@ -2057,7 +2159,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/103/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/103/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-104",
@@ -2077,7 +2180,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/104/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/104/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-105",
@@ -2097,7 +2201,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/105/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/105/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-106",
@@ -2117,7 +2222,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/106/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/106/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-107",
@@ -2137,7 +2243,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/107/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/107/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-108",
@@ -2157,7 +2264,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/108/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/108/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-109",
@@ -2177,7 +2285,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/109/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/109/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-110",
@@ -2197,7 +2306,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/110/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/110/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-111",
@@ -2217,7 +2327,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/111/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/111/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-112",
@@ -2237,7 +2348,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/112/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/112/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-113",
@@ -2257,7 +2369,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/113/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/113/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-114",
@@ -2277,7 +2390,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/114/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/114/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-115",
@@ -2297,7 +2411,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/115/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/115/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-116",
@@ -2317,7 +2432,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/116/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/116/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-117",
@@ -2337,7 +2453,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/117/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/117/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-118",
@@ -2357,7 +2474,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/118/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/118/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-119",
@@ -2377,7 +2495,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/119/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/119/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-120",
@@ -2397,7 +2516,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/120/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/120/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-121",
@@ -2417,7 +2537,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/121/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/121/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-122",
@@ -2437,7 +2558,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/122/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/122/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-123",
@@ -2457,7 +2579,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/123/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/123/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-124",
@@ -2477,7 +2600,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/124/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/124/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-125",
@@ -2497,7 +2621,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/125/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/125/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-126",
@@ -2517,7 +2642,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/126/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/126/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-127",
@@ -2537,7 +2663,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/127/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/127/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-128",
@@ -2557,7 +2684,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/128/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/128/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-129",
@@ -2577,7 +2705,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/129/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/129/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-130",
@@ -2597,7 +2726,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/130/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/130/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-131",
@@ -2617,7 +2747,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/131/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/131/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-132",
@@ -2637,7 +2768,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/132/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/132/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-133",
@@ -2657,7 +2789,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/133/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/133/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-134",
@@ -2677,7 +2810,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/134/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/134/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-135",
@@ -2697,7 +2831,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/135/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/135/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-136",
@@ -2717,7 +2852,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/136/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/136/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-137",
@@ -2737,7 +2873,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/137/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/137/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-138",
@@ -2757,7 +2894,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/138/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/138/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-139",
@@ -2777,7 +2915,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/139/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/139/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-140",
@@ -2797,7 +2936,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/140/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/140/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-141",
@@ -2817,7 +2957,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/141/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/141/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-142",
@@ -2837,7 +2978,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/142/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/142/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-143",
@@ -2857,7 +2999,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/143/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/143/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-144",
@@ -2877,7 +3020,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/144/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/144/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-145",
@@ -2897,7 +3041,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/145/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/145/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-146",
@@ -2917,7 +3062,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/146/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/146/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-147",
@@ -2937,7 +3083,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/147/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/147/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-148",
@@ -2957,7 +3104,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/148/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/148/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-149",
@@ -2977,7 +3125,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/149/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/149/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-150",
@@ -2997,7 +3146,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/150/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/150/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-151",
@@ -3017,7 +3167,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/151/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/151/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-152",
@@ -3037,7 +3188,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/152/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/152/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-153",
@@ -3057,7 +3209,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/153/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/153/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-154",
@@ -3077,7 +3230,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/154/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/154/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-155",
@@ -3097,7 +3251,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/155/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/155/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-156",
@@ -3117,7 +3272,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/156/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/156/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-157",
@@ -3137,7 +3293,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/157/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/157/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-158",
@@ -3157,7 +3314,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/158/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/158/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-159",
@@ -3177,7 +3335,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/159/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/159/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-160",
@@ -3197,7 +3356,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/160/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/160/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-161",
@@ -3217,7 +3377,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/161/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/161/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-162",
@@ -3237,7 +3398,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/162/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/162/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-163",
@@ -3257,7 +3419,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/163/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/163/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-164",
@@ -3277,7 +3440,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/164/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/164/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-165",
@@ -3297,7 +3461,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/165/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/165/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-166",
@@ -3317,7 +3482,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/166/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/166/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-167",
@@ -3337,7 +3503,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/167/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/167/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-168",
@@ -3357,7 +3524,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/168/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/168/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-169",
@@ -3377,7 +3545,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/169/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/169/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-170",
@@ -3397,7 +3566,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/170/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/170/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-171",
@@ -3417,7 +3587,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/171/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/171/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-172",
@@ -3437,7 +3608,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/172/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/172/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-173",
@@ -3457,7 +3629,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/173/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/173/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-174",
@@ -3477,7 +3650,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/174/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/174/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-175",
@@ -3497,7 +3671,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/175/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/175/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-176",
@@ -3517,7 +3692,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/176/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/176/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-177",
@@ -3537,7 +3713,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/177/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/177/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-178",
@@ -3557,7 +3734,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/178/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/178/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-179",
@@ -3577,7 +3755,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/179/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/179/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-180",
@@ -3597,7 +3776,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/180/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/180/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-181",
@@ -3617,7 +3797,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/181/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/181/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-182",
@@ -3637,7 +3818,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/182/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/182/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-183",
@@ -3657,7 +3839,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/183/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/183/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-184",
@@ -3677,7 +3860,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/184/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/184/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-185",
@@ -3697,7 +3881,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/185/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/185/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-186",
@@ -3717,7 +3902,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/186/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/186/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-187",
@@ -3737,7 +3923,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/187/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/187/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-188",
@@ -3757,7 +3944,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/188/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/188/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-189",
@@ -3777,7 +3965,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/189/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/189/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-190",
@@ -3797,7 +3986,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/190/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/190/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-191",
@@ -3817,7 +4007,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/191/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/191/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-192",
@@ -3837,7 +4028,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/192/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/192/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-193",
@@ -3857,7 +4049,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/193/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/193/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-194",
@@ -3877,7 +4070,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/194/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/194/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-195",
@@ -3897,7 +4091,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/195/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/195/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-196",
@@ -3917,7 +4112,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/196/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/196/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-197",
@@ -3937,7 +4133,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/197/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/197/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-198",
@@ -3957,7 +4154,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/198/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/198/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-199",
@@ -3977,7 +4175,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/199/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/199/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-200",
@@ -3997,7 +4196,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/200/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/200/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-201",
@@ -4017,7 +4217,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/201/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/201/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-202",
@@ -4037,7 +4238,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/202/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/202/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-203",
@@ -4057,7 +4259,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/203/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/203/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-204",
@@ -4077,7 +4280,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/204/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/204/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-205",
@@ -4097,7 +4301,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/205/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/205/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-206",
@@ -4117,7 +4322,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/206/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/206/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-207",
@@ -4137,7 +4343,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/207/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/207/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-208",
@@ -4157,7 +4364,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/208/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/208/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-209",
@@ -4177,7 +4385,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/209/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/209/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-210",
@@ -4197,7 +4406,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/210/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/210/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-211",
@@ -4217,7 +4427,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/211/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/211/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-212",
@@ -4237,7 +4448,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/212/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/212/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-213",
@@ -4257,7 +4469,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/213/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/213/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-214",
@@ -4277,7 +4490,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/214/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/214/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-215",
@@ -4297,7 +4511,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/215/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/215/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-216",
@@ -4317,7 +4532,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/216/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/216/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-217",
@@ -4337,7 +4553,8 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/217/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/217/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   },
   {
     "id": "pokemon:sv05-218",
@@ -4357,6 +4574,7 @@
     "image": "https://assets.tcgdex.net/it/sv/sv05/218/low.webp",
     "imageHigh": "https://assets.tcgdex.net/it/sv/sv05/218/high.webp",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T10:15:14.205Z"
+    "updatedAt": "2026-09-26T11:15:23.599Z",
+    "catalogLanguage": "it"
   }
 ]

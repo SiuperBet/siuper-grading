@@ -2,8 +2,10 @@
   "databaseVersion": 1,
   "game": "pokemon",
   "source": "TCGdex",
-  "updatedAt": "2026-09-26T10:15:14.205Z",
+  "updatedAt": "2026-09-26T11:15:23.599Z",
   "sets": 193,
-  "cards": 15741,
-  "failedSets": 0
+  "cards": 21647,
+  "failedSets": 0,
+  "englishFallbackSets": 78,
+  "emptySets": 1
 }
