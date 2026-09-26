@@ -51,7 +51,8 @@ async function syncCatalog(cfg){
   const previous=await readJson(cfg.out+"/search-index.json",[]);
   const previousBySet=new Map();
   for(const c of previous){if(!previousBySet.has(c.setId))previousBySet.set(c.setId,[]);previousBySet.get(c.setId).push(c)}
-  const setBriefs=await fetchJson(api+"/sets");
+  const setBriefsRaw=await fetchJson(api+"/sets");
+  const setBriefs=[...new Map(setBriefsRaw.map(x=>[String(x.id),x])).values()];
   const series=await fetchJson(api+"/series").catch(()=>[]);
   const setsOut=[],indexOut=[];let failed=0,updated=0,fallbackSets=0,emptySets=0;
 
