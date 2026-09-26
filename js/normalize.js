@@ -1,5 +1,5 @@
 export function stripDiacritics(value=""){return value.normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
-export function normalizeName(value=""){return stripDiacritics(String(value)).toLowerCase().replace(/[’']/g,"").replace(/[^a-z0-9]+/g," ").trim().replace(/\s+/g," ")}
+export function normalizeName(value=""){return stripDiacritics(String(value)).toLowerCase().replace(/[’\']/g,"").replace(/[^\\p{L}\\p{N}]+/gu," ").trim().replace(/\\s+/g," ")}
 export function normalizeSetCode(value=""){return stripDiacritics(String(value)).toUpperCase().replace(/[^A-Z0-9]/g,"")}
 export function normalizeSetCodeLoose(value=""){
   const raw=stripDiacritics(String(value)).toUpperCase().replace(/[^A-Z0-9-]/g,"");
