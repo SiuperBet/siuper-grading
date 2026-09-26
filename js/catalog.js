@@ -79,7 +79,7 @@ export async function getSets(game,force=false,language=null){
   if(game==="pokemon"){
     const lang=language||await setting("pokemonLanguage","it"),safe=supportedPokemonLanguage(lang)?lang:"it",dir=pokemonDir(safe);
     const local=await staticJson("./data/"+dir+"/sets.json");
-    if(Array.isArray(local)&&local.length)return local.map(c=>decoratePokemonImages(c,set,safe));
+    if(Array.isArray(local)&&local.length)return local;
     const sets=await json((await pokemonBase(safe))+"/sets",{force:force,ttl:7*86400000});
     return sets.map(s=>normalizePokemonSet(s,safe));
   }
@@ -92,7 +92,7 @@ export async function getSetCards(game,set,force=false,language=null){
   if(game==="pokemon"){
     const lang=language||set.catalogLanguage||await setting("pokemonLanguage","it"),safe=supportedPokemonLanguage(lang)?lang:"it",dir=pokemonDir(safe);
     const local=await staticJson("./data/"+dir+"/cards/"+encodeURIComponent(set.id)+".json");
-    if(Array.isArray(local)&&local.length)return local;
+    if(Array.isArray(local)&&local.length)return local.map(c=>decoratePokemonImages(c,set,safe));
     let data=await json((await pokemonBase(safe))+"/sets/"+encodeURIComponent(set.id),{force:force,ttl:7*86400000}).catch(()=>null);
     let actualLanguage=safe;
     if(safe==="it"&&(!data||!Array.isArray(data.cards)||!data.cards.length)){
@@ -101,7 +101,7 @@ export async function getSetCards(game,set,force=false,language=null){
       if(data&&Array.isArray(data.cards)&&data.cards.length)actualLanguage="en";
     }
     if(!data||!Array.isArray(data.cards))return[];
-    const displaySet=Object.assign({},data,{id:set.id||data.id,name:set.name||data.name,serie:data.serie||{name:set.series||""},cardCount:data.cardCount||{official:set.printedTotal||set.cardCount||null,total:set.cardCount||null},catalogLanguage:actualLanguage});
+    const displaySet=Object.assign({},data,{id:set.id||data.id,name:set.name||data.name,serie:data.serie||{name:set.series||"",id:set.seriesId||""},seriesId:set.seriesId||data.serie&&data.serie.id||"",cardCount:data.cardCount||{official:set.printedTotal||set.cardCount||null,total:set.cardCount||null},catalogLanguage:actualLanguage});
     return data.cards.map(c=>normalizePokemonBrief(c,displaySet,actualLanguage));
   }
   const local=await staticJson("./data/"+game+"/cards/"+encodeURIComponent(set.id)+".json");
@@ -117,7 +117,7 @@ export async function getCardDetail(card){
       const lang=card.catalogLanguage||card.language||await setting("pokemonLanguage","it");
       const c=await json((await pokemonBase(lang))+"/cards/"+encodeURIComponent(card.cardId),{ttl:7*86400000});
       return normalizePokemonBrief(c,c.set,lang);
-    }catch(e){return card}
+    }catch(e){return decoratePokemonImages(card,null,card.catalogLanguage||card.language||"it")}
   }
   return card;
 }
