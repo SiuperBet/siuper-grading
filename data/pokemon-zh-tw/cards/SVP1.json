@@ -11,6 +11,7 @@
     "setCode": "SVP1",
     "setName": "ex特別組合",
     "series": "朱&紫系列",
+    "seriesId": "SV",
     "rarity": "",
     "printedTotal": 7,
     "releaseDate": "2023-06-02",
@@ -19,7 +20,7 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-002",
@@ -33,6 +34,7 @@
     "setCode": "SVP1",
     "setName": "ex特別組合",
     "series": "朱&紫系列",
+    "seriesId": "SV",
     "rarity": "",
     "printedTotal": 7,
     "releaseDate": "2023-06-02",
@@ -41,7 +43,7 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-003",
@@ -55,6 +57,7 @@
     "setCode": "SVP1",
     "setName": "ex特別組合",
     "series": "朱&紫系列",
+    "seriesId": "SV",
     "rarity": "",
     "printedTotal": 7,
     "releaseDate": "2023-06-02",
@@ -63,7 +66,7 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-004",
@@ -77,6 +80,7 @@
     "setCode": "SVP1",
     "setName": "ex特別組合",
     "series": "朱&紫系列",
+    "seriesId": "SV",
     "rarity": "",
     "printedTotal": 7,
     "releaseDate": "2023-06-02",
@@ -85,7 +89,7 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-005",
@@ -99,6 +103,7 @@
     "setCode": "SVP1",
     "setName": "ex特別組合",
     "series": "朱&紫系列",
+    "seriesId": "SV",
     "rarity": "",
     "printedTotal": 7,
     "releaseDate": "2023-06-02",
@@ -107,7 +112,7 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-006",
@@ -121,6 +126,7 @@
     "setCode": "SVP1",
     "setName": "ex特別組合",
     "series": "朱&紫系列",
+    "seriesId": "SV",
     "rarity": "",
     "printedTotal": 7,
     "releaseDate": "2023-06-02",
@@ -129,7 +135,7 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:zh-tw:SVP1-007",
@@ -143,6 +149,7 @@
     "setCode": "SVP1",
     "setName": "ex特別組合",
     "series": "朱&紫系列",
+    "seriesId": "SV",
     "rarity": "",
     "printedTotal": 7,
     "releaseDate": "2023-06-02",
@@ -151,6 +158,6 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   }
 ]

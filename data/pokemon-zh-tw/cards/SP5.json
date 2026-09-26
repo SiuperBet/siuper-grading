@@ -11,6 +11,7 @@
     "setCode": "SP5",
     "setName": "強大",
     "series": "劍＆盾",
+    "seriesId": "S",
     "rarity": "",
     "printedTotal": null,
     "releaseDate": "2021-08-27",
@@ -19,7 +20,7 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:zh-tw:SP5-005",
@@ -33,6 +34,7 @@
     "setCode": "SP5",
     "setName": "強大",
     "series": "劍＆盾",
+    "seriesId": "S",
     "rarity": "",
     "printedTotal": null,
     "releaseDate": "2021-08-27",
@@ -41,7 +43,7 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:zh-tw:SP5-009",
@@ -55,6 +57,7 @@
     "setCode": "SP5",
     "setName": "強大",
     "series": "劍＆盾",
+    "seriesId": "S",
     "rarity": "",
     "printedTotal": null,
     "releaseDate": "2021-08-27",
@@ -63,7 +66,7 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:zh-tw:SP5-013",
@@ -77,6 +80,7 @@
     "setCode": "SP5",
     "setName": "強大",
     "series": "劍＆盾",
+    "seriesId": "S",
     "rarity": "",
     "printedTotal": null,
     "releaseDate": "2021-08-27",
@@ -85,6 +89,6 @@
     "language": "zh-tw",
     "catalogLanguage": "zh-tw",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   }
 ]

@@ -11,6 +11,7 @@
     "setCode": "miscp",
     "setName": "Miscellaneous Promos",
     "series": "Miscellaneous",
+    "seriesId": "misc",
     "rarity": "",
     "printedTotal": 1,
     "releaseDate": "1996-01-01",
@@ -19,6 +20,6 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   }
 ]

@@ -11,6 +11,7 @@
     "setCode": "mee",
     "setName": "Mega Evolution Energy",
     "series": "Mega Evolution",
+    "seriesId": "me",
     "rarity": "",
     "printedTotal": 8,
     "releaseDate": "2025-09-25",
@@ -19,7 +20,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:mee-002",
@@ -33,6 +34,7 @@
     "setCode": "mee",
     "setName": "Mega Evolution Energy",
     "series": "Mega Evolution",
+    "seriesId": "me",
     "rarity": "",
     "printedTotal": 8,
     "releaseDate": "2025-09-25",
@@ -41,7 +43,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:mee-003",
@@ -55,6 +57,7 @@
     "setCode": "mee",
     "setName": "Mega Evolution Energy",
     "series": "Mega Evolution",
+    "seriesId": "me",
     "rarity": "",
     "printedTotal": 8,
     "releaseDate": "2025-09-25",
@@ -63,7 +66,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:mee-004",
@@ -77,6 +80,7 @@
     "setCode": "mee",
     "setName": "Mega Evolution Energy",
     "series": "Mega Evolution",
+    "seriesId": "me",
     "rarity": "",
     "printedTotal": 8,
     "releaseDate": "2025-09-25",
@@ -85,7 +89,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:mee-005",
@@ -99,6 +103,7 @@
     "setCode": "mee",
     "setName": "Mega Evolution Energy",
     "series": "Mega Evolution",
+    "seriesId": "me",
     "rarity": "",
     "printedTotal": 8,
     "releaseDate": "2025-09-25",
@@ -107,7 +112,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:mee-006",
@@ -121,6 +126,7 @@
     "setCode": "mee",
     "setName": "Mega Evolution Energy",
     "series": "Mega Evolution",
+    "seriesId": "me",
     "rarity": "",
     "printedTotal": 8,
     "releaseDate": "2025-09-25",
@@ -129,7 +135,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:mee-007",
@@ -143,6 +149,7 @@
     "setCode": "mee",
     "setName": "Mega Evolution Energy",
     "series": "Mega Evolution",
+    "seriesId": "me",
     "rarity": "",
     "printedTotal": 8,
     "releaseDate": "2025-09-25",
@@ -151,7 +158,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:mee-008",
@@ -165,6 +172,7 @@
     "setCode": "mee",
     "setName": "Mega Evolution Energy",
     "series": "Mega Evolution",
+    "seriesId": "me",
     "rarity": "",
     "printedTotal": 8,
     "releaseDate": "2025-09-25",
@@ -173,6 +181,6 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   }
 ]

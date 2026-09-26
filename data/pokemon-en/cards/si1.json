@@ -11,6 +11,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -19,7 +20,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-2",
@@ -33,6 +34,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -41,7 +43,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-3",
@@ -55,6 +57,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -63,7 +66,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-4",
@@ -77,6 +80,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -85,7 +89,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-5",
@@ -99,6 +103,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -107,7 +112,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-6",
@@ -121,6 +126,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -129,7 +135,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-7",
@@ -143,6 +149,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -151,7 +158,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-8",
@@ -165,6 +172,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -173,7 +181,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-9",
@@ -187,6 +195,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -195,7 +204,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-10",
@@ -209,6 +218,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -217,7 +227,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-11",
@@ -231,6 +241,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -239,7 +250,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-12",
@@ -253,6 +264,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -261,7 +273,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-13",
@@ -275,6 +287,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -283,7 +296,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-14",
@@ -297,6 +310,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -305,7 +319,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-15",
@@ -319,6 +333,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -327,7 +342,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-16",
@@ -341,6 +356,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -349,7 +365,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-17",
@@ -363,6 +379,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -371,7 +388,7 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   },
   {
     "id": "pokemon:en:si1-18",
@@ -385,6 +402,7 @@
     "setCode": "si1",
     "setName": "Southern Islands",
     "series": "Neo",
+    "seriesId": "neo",
     "rarity": "",
     "printedTotal": 18,
     "releaseDate": "2001-07-31",
@@ -393,6 +411,6 @@
     "language": "en",
     "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:27:00.203Z"
+    "updatedAt": "2026-09-26T11:38:00.873Z"
   }
 ]
