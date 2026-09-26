@@ -41,6 +41,11 @@ export function buildPokemonImageCandidates(card={},set=null,language=null){
     addCandidate(list,seen,"https://assets.tcgdex.net/"+lang+"/"+seriesId+"/"+setId+"/"+encodeURIComponent(local),lang,false,lang.toUpperCase());
     if(lang==="it")addCandidate(list,seen,"https://assets.tcgdex.net/en/"+seriesId+"/"+setId+"/"+encodeURIComponent(local),"en",true,"REF EN");
   }
+  const cardId=String(card.cardId||card.id||"").replace(/^pokemon:(?:[a-z-]+:)?/,"");
+  if(cardId&&(lang==="it"||lang==="en")){
+    const external="https://img.illudex.com/"+encodeURIComponent(cardId)+"/high.webp";
+    if(!seen.has(external)){seen.add(external);list.push({low:external,high:external,language:"en",reference:true,label:lang==="it"?"REF EN • ILLUDEX":"ILLUDEX"})}
+  }
   return list;
 }
 export function decoratePokemonImages(card,set=null,language=null){
