@@ -1,0 +1,9 @@
+{
+  "databaseVersion": 1,
+  "game": "pokemon",
+  "source": "TCGdex",
+  "updatedAt": "2026-09-26T10:15:14.205Z",
+  "sets": 193,
+  "cards": 15741,
+  "failedSets": 0
+}
