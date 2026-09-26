@@ -80,8 +80,15 @@ export async function getSetCards(game,set,force=false){
   const local=await staticJson("./data/"+game+"/cards/"+encodeURIComponent(set.id)+".json");
   if(Array.isArray(local)&&local.length)return local;
   if(game==="pokemon"){
-    const data=await json((await pokemonBase())+"/sets/"+encodeURIComponent(set.id),{force:force,ttl:7*86400000});
-    return (data.cards||[]).map(c=>normalizePokemonBrief(c,data));
+    const preferred=await pokemonBase();
+    let data=await json(preferred+"/sets/"+encodeURIComponent(set.id),{force:force,ttl:7*86400000}).catch(()=>null);
+    if(!data||!Array.isArray(data.cards)||!data.cards.length){
+      const english=SOURCES.pokemon.base+"/en";
+      if(preferred!==english)data=await json(english+"/sets/"+encodeURIComponent(set.id),{force:force,ttl:7*86400000}).catch(()=>data);
+    }
+    if(!data||!Array.isArray(data.cards))return[];
+    const displaySet=Object.assign({},data,{id:set.id||data.id,name:set.name||data.name,serie:data.serie||{name:set.series||""},cardCount:data.cardCount||{official:set.printedTotal||set.cardCount||null,total:set.cardCount||null}});
+    return data.cards.map(c=>normalizePokemonBrief(c,displaySet));
   }
   const data=await json(SOURCES.yugioh.base+"/cardinfo.php?cardset="+encodeURIComponent(set.name),{force:force,ttl:7*86400000});
   const out=[];
