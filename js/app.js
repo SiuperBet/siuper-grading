@@ -151,11 +151,49 @@ async function renderSets(force=false){
   }catch(e){root.innerHTML='<div class="notice">Impossibile caricare i set: '+esc(e.message)+'. Verranno usati i dati cache quando disponibili.</div>'}
 }
 async function openCustomMasterSet(master){
-  const panel=$("#setDetail"),root=$("#setsList"),copies=await getAll("ownedCopies"),progress=progressForCustom(master,copies);
-  root.hidden=true;panel.hidden=false;
-  const components=(master.components||[]).map(x=>'<div class="metric"><span>'+esc(x.name)+'</span><b>'+x.expectedSlots+' slot</b></div>').join("");
-  panel.innerHTML='<div class="section-head"><div><small>'+progress.owned+'/'+progress.total+' • '+progress.percent.toFixed(1)+'%</small><h2>'+esc(master.name)+'</h2></div><button id="closeSet" class="ghost">Chiudi</button></div><div class="progressbar"><span style="width:'+progress.percent.toFixed(2)+'%"></span></div>'+components+'<div class="notice">'+esc(master.note||"")+(progress.mapped?"":" La mappatura degli slot non è ancora popolata: il conteggio resta trasparente e non vengono create carte fittizie.")+'</div>';
-  $("#closeSet").onclick=()=>{panel.hidden=true;root.hidden=false;root.scrollIntoView({behavior:"smooth",block:"start"})};panel.scrollIntoView({behavior:"smooth",block:"start"});
+  const panel=$("#setDetail"),root=$("#setsList");root.hidden=true;panel.hidden=false;panel.innerHTML='<div class="notice">Caricamento carte del Master Set…</div>';panel.scrollIntoView({behavior:"smooth",block:"start"});
+  try{
+    const [allSets,copies]=await Promise.all([getSets(master.game||albumGame),getAll("ownedCopies")]);
+    const setById=new Map(allSets.map(x=>[String(x.id),x])),components=master.components||[],loaded=[];
+    for(const component of components){
+      const set=component.sourceSetId?setById.get(String(component.sourceSetId)):null;
+      if(!set){loaded.push({component,set:null,cards:[],error:"Set sorgente non disponibile"});continue}
+      try{loaded.push({component,set,cards:await getSetCards(master.game||albumGame,set),error:null})}
+      catch(e){loaded.push({component,set,cards:[],error:e.message})}
+    }
+    const cards=loaded.flatMap(x=>x.cards.map(card=>Object.assign({},card,{_masterComponentId:x.component.id,_masterComponentName:x.component.name})));
+    const ownedSet=new Set(copies.map(x=>x.printingId)),available=cards.length,owned=cards.filter(x=>ownedSet.has(x.printingId)).length,total=Number(master.expectedSlots)||available,percent=total?owned/total*100:0;
+    const componentOptions=loaded.map(x=>'<option value="'+esc(x.component.id)+'">'+esc(x.component.name)+' ('+x.cards.length+'/'+x.component.expectedSlots+')</option>').join("");
+    const statusRows=loaded.map(x=>{
+      const count=x.cards.length,expected=Number(x.component.expectedSlots)||count,missing=Math.max(0,expected-count),setName=x.set?x.set.name:"sorgente non disponibile";
+      return '<div class="metric"><span>'+esc(x.component.name)+'<small> • '+esc(setName)+'</small></span><b>'+count+'/'+expected+(missing?' • '+missing+' non disponibili':'')+'</b></div>';
+    }).join("");
+    panel.innerHTML='<div class="section-head"><div><small id="customProgressText">'+owned+'/'+total+' • '+percent.toFixed(1)+'%</small><h2>'+esc(master.name)+'</h2></div><button id="closeSet" class="ghost">Chiudi</button></div>'+
+      '<div class="progressbar"><span id="customProgressBar" style="width:'+percent.toFixed(2)+'%"></span></div>'+
+      statusRows+
+      '<div class="notice"><b>'+available+' carte reali disponibili ora.</b> '+esc(master.note||"")+'</div>'+
+      '<div class="set-tools"><select id="customComponentFilter"><option value="">Tutte le sezioni ('+available+')</option>'+componentOptions+'</select><select id="customOwnedFilter"><option value="all">Tutte</option><option value="owned">Ce l’ho</option><option value="missing">Mi manca</option></select><input id="customTextFilter" placeholder="Nome o numero"><select id="customSort"><option value="number-asc">Numero ↑</option><option value="number-desc">Numero ↓</option><option value="name-asc">Nome A-Z</option><option value="name-desc">Nome Z-A</option></select></div>'+
+      '<div id="customCardsGrid" class="cards-grid"></div>';
+    $("#closeSet").onclick=()=>{panel.hidden=true;root.hidden=false;root.scrollIntoView({behavior:"smooth",block:"start"})};
+    const render=()=>{
+      const component=$("#customComponentFilter").value,ownedFilter=$("#customOwnedFilter").value,text=$("#customTextFilter").value.trim().toLowerCase(),sort=$("#customSort").value;
+      let rows=[...cards];
+      if(component)rows=rows.filter(x=>x._masterComponentId===component);
+      if(ownedFilter==="owned")rows=rows.filter(x=>ownedSet.has(x.printingId));
+      if(ownedFilter==="missing")rows=rows.filter(x=>!ownedSet.has(x.printingId));
+      if(text)rows=rows.filter(x=>String(x.name||"").toLowerCase().includes(text)||String(x.collectionNumber||"").toLowerCase().includes(text));
+      rows=sortCards(rows,sort);
+      $("#customCardsGrid").innerHTML=rows.map(card=>{
+        const have=ownedSet.has(card.printingId);
+        return '<article class="grid-card '+(have?"":"missing-card")+'" data-card="'+encodeURIComponent(JSON.stringify(card))+'">'+cardImage(card)+'<span class="status-chip '+(have?"have":"miss")+'">'+(have?"✓ CE L’HO":"MI MANCA")+'</span><b>'+esc(card.name)+'</b><small>'+esc(card._masterComponentName)+' • '+esc(card.collectionNumber||"—")+'</small></article>';
+      }).join("")||'<div class="notice">Nessuna carta con questi filtri.</div>';
+      bindCards($("#customCardsGrid"));
+    };
+    $("#customComponentFilter").onchange=render;$("#customOwnedFilter").onchange=render;$("#customSort").onchange=render;$("#customTextFilter").oninput=render;render();
+  }catch(e){
+    panel.innerHTML='<div class="notice">Errore nel caricamento del Master Set: '+esc(e.message)+'</div><button id="closeCustomSetError">Torna alle espansioni</button>';
+    const back=$("#closeCustomSetError");if(back)back.onclick=()=>{panel.hidden=true;root.hidden=false};
+  }
 }
 async function openSet(set){
   const panel=$("#setDetail"),root=$("#setsList");root.hidden=true;panel.hidden=false;panel.innerHTML='<div class="notice">Caricamento master set…</div>';
