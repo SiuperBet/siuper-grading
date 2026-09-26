@@ -1,15 +1,16 @@
 import{setting,put}from"./db.js";
 import{recognizeCard}from"./recognition.js";
-import{analyzeCanvas,saveGrade,professionalInterval,drawGradingOverlay}from"./grading.js";
+import{analyzeCanvas,combineAnalyses,saveGrade,professionalInterval,drawGradingOverlay}from"./grading.js";
 import{GRADING_CONFIG}from"./grading-config.js";
 import{CONDITION_ESTIMATES}from"./config.js";
 import{getPricesForCard,reliability}from"./prices.js";
 import{addCopy}from"./collection.js";
 
-const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,stableFrames:0,lastQuality:null,borderConfidence:0,detectedValid:false,captureBorderConfidence:0,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
+const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,prevQuadNorm:null,stableFrames:0,lastQuality:null,borderConfidence:0,detectedValid:false,captureBorderConfidence:0,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
 const $=s=>document.querySelector(s);
 function clamp(v,a,b){return Math.max(a,Math.min(b,v))}
 function dist(a,b){return Math.hypot(a.x-b.x,a.y-b.y)}
+function avgQuadMovement(a,b){if(!a||!b||a.length!==4||b.length!==4)return 1;return a.reduce((sum,p,i)=>sum+dist(p,b[i]),0)/4}
 function cloneCanvas(source){const c=document.createElement("canvas");c.width=source.width;c.height=source.height;c.getContext("2d").drawImage(source,0,0);return c}
 function canvasBlob(canvas,type="image/jpeg",quality=.91){return new Promise(resolve=>canvas.toBlob(resolve,type,quality))}
 function imageFromBlob(blob){return new Promise((resolve,reject)=>{const img=new Image();img.onload=()=>{URL.revokeObjectURL(img.src);resolve(img)};img.onerror=reject;img.src=URL.createObjectURL(blob)})}
@@ -38,31 +39,43 @@ function quadEdgeScore(edges,pts){
   return n?total/n:0;
 }
 function isUsableQuad(q,minConfidence=62){return!!(q&&q.aspect>.56&&q.aspect<.82&&q.areaRatio>.11&&q.areaRatio<.91&&!q.clipped&&q.confidence>=minConfidence)}
-function detectQuadCV(canvas){
-  if(!window.cv||!window.cv.imread)return null;
-  let src,gray,blur,edges,contours,hierarchy;
+function quadCandidateScore(q,area,total,canvas,edgeScore){
+  const top=dist(q[0],q[1]),bottom=dist(q[3],q[2]),left=dist(q[0],q[3]),right=dist(q[1],q[2]),ww=(top+bottom)/2,hh=(left+right)/2,aspect=Math.min(ww,hh)/Math.max(ww,hh),areaRatio=area/total;
+  if(aspect<.50||aspect>.88||areaRatio<.10||areaRatio>.94)return null;
+  const clipped=q.some(p=>p.x<canvas.width*.012||p.x>canvas.width*.988||p.y<canvas.height*.012||p.y>canvas.height*.988),cx=q.reduce((a,p)=>a+p.x,0)/4,cy=q.reduce((a,p)=>a+p.y,0)/4,centerDist=Math.hypot((cx-canvas.width/2)/(canvas.width/2),(cy-canvas.height/2)/(canvas.height/2));
+  const aspectScore=clamp(1-Math.abs(aspect-(2.5/3.5))/.18,0,1),angleScore=quadAngleScore(q),oppositeScore=(clamp(Math.min(top,bottom)/Math.max(top,bottom),0,1)+clamp(Math.min(left,right)/Math.max(left,right),0,1))/2,centerScore=clamp(1-centerDist/.95,0,1),sizeScore=clamp(1-Math.abs(areaRatio-.50)/.50,0,1);
+  let score=aspectScore*.25+angleScore*.18+oppositeScore*.12+centerScore*.10+sizeScore*.14+edgeScore*.21;
+  if(areaRatio<.18)score*=.78;if(clipped)score*=.50;
+  return{points:q,aspect,areaRatio,clipped,confidence:Math.round(score*100),edgeScore:Math.round(edgeScore*100),score};
+}
+function scanContours(binary,canvas,best){
+  const contours=new cv.MatVector(),hierarchy=new cv.Mat(),total=canvas.width*canvas.height;
   try{
-    src=cv.imread(canvas);gray=new cv.Mat();blur=new cv.Mat();edges=new cv.Mat();contours=new cv.MatVector();hierarchy=new cv.Mat();
-    cv.cvtColor(src,gray,cv.COLOR_RGBA2GRAY);cv.GaussianBlur(gray,blur,new cv.Size(5,5),0);cv.Canny(blur,edges,45,145);cv.findContours(edges,contours,hierarchy,cv.RETR_LIST,cv.CHAIN_APPROX_SIMPLE);
-    let best=null,bestScore=-1,total=canvas.width*canvas.height;
+    cv.findContours(binary,contours,hierarchy,cv.RETR_LIST,cv.CHAIN_APPROX_SIMPLE);
     for(let i=0;i<contours.size();i++){
-      const cnt=contours.get(i),area0=Math.abs(cv.contourArea(cnt));if(area0<total*.10||area0>total*.94){cnt.delete();continue}
+      const cnt=contours.get(i),area0=Math.abs(cv.contourArea(cnt));if(area0<total*.095||area0>total*.95){cnt.delete();continue}
       const peri=cv.arcLength(cnt,true);let chosen=null;
-      for(const eps of[.012,.018,.025,.035]){const approx=new cv.Mat();cv.approxPolyDP(cnt,approx,eps*peri,true);if(approx.rows===4&&cv.isContourConvex(approx)){chosen=approx;break}approx.delete()}
+      for(const eps of[.010,.014,.019,.026,.036]){const approx=new cv.Mat();cv.approxPolyDP(cnt,approx,eps*peri,true);if(approx.rows===4&&cv.isContourConvex(approx)){chosen=approx;break}approx.delete()}
       if(!chosen){cnt.delete();continue}
       const pts=[];for(let j=0;j<4;j++)pts.push({x:chosen.intPtr(j,0)[0],y:chosen.intPtr(j,0)[1]});
       const q=orderQuad(pts),area=Math.abs(cv.contourArea(chosen));chosen.delete();cnt.delete();if(!q)continue;
-      const top=dist(q[0],q[1]),bottom=dist(q[3],q[2]),left=dist(q[0],q[3]),right=dist(q[1],q[2]),ww=(top+bottom)/2,hh=(left+right)/2,aspect=Math.min(ww,hh)/Math.max(ww,hh),areaRatio=area/total;
-      if(aspect<.50||aspect>.88||areaRatio<.10||areaRatio>.94)continue;
-      const clipped=q.some(p=>p.x<canvas.width*.015||p.x>canvas.width*.985||p.y<canvas.height*.015||p.y>canvas.height*.985);
-      const cx=q.reduce((a,p)=>a+p.x,0)/4,cy=q.reduce((a,p)=>a+p.y,0)/4,centerDist=Math.hypot((cx-canvas.width/2)/(canvas.width/2),(cy-canvas.height/2)/(canvas.height/2));
-      const aspectScore=clamp(1-Math.abs(aspect-(2.5/3.5))/.19,0,1),angleScore=quadAngleScore(q),oppositeScore=(clamp(Math.min(top,bottom)/Math.max(top,bottom),0,1)+clamp(Math.min(left,right)/Math.max(left,right),0,1))/2,centerScore=clamp(1-centerDist/.95,0,1),sizeScore=clamp(1-Math.abs(areaRatio-.48)/.48,0,1),edgeScore=quadEdgeScore(edges,q);
-      let score=aspectScore*.24+angleScore*.18+oppositeScore*.10+centerScore*.12+sizeScore*.10+edgeScore*.26;if(clipped)score*=.56;
-      const confidence=Math.round(score*100);
-      if(score>bestScore){bestScore=score;best={points:q,aspect,areaRatio,clipped,confidence,edgeScore:Math.round(edgeScore*100)}}
+      const candidate=quadCandidateScore(q,area,total,canvas,quadEdgeScore(binary,q));if(candidate&&(!best||candidate.score>best.score))best=candidate;
     }
-    return best;
-  }catch(e){return null}finally{for(const m of[src,gray,blur,edges,contours,hierarchy])if(m&&m.delete)try{m.delete()}catch(e){}}
+  }finally{contours.delete();hierarchy.delete()}
+  return best;
+}
+function detectQuadCV(canvas){
+  if(!window.cv||!window.cv.imread)return null;
+  let src,gray,blur,e1,e2,adaptive,kernel;
+  try{
+    src=cv.imread(canvas);gray=new cv.Mat();blur=new cv.Mat();e1=new cv.Mat();e2=new cv.Mat();adaptive=new cv.Mat();kernel=cv.getStructuringElement(cv.MORPH_RECT,new cv.Size(3,3));
+    cv.cvtColor(src,gray,cv.COLOR_RGBA2GRAY);cv.GaussianBlur(gray,blur,new cv.Size(5,5),0);
+    cv.Canny(blur,e1,38,125);cv.morphologyEx(e1,e1,cv.MORPH_CLOSE,kernel);
+    cv.Canny(blur,e2,70,190);cv.morphologyEx(e2,e2,cv.MORPH_CLOSE,kernel);
+    cv.adaptiveThreshold(blur,adaptive,255,cv.ADAPTIVE_THRESH_GAUSSIAN_C,cv.THRESH_BINARY,31,7);cv.bitwise_not(adaptive,adaptive);cv.morphologyEx(adaptive,adaptive,cv.MORPH_CLOSE,kernel);
+    let best=null;best=scanContours(e1,canvas,best);best=scanContours(e2,canvas,best);best=scanContours(adaptive,canvas,best);
+    if(best)delete best.score;return best;
+  }catch(e){return null}finally{for(const m of[src,gray,blur,e1,e2,adaptive,kernel])if(m&&m.delete)try{m.delete()}catch(e){}}
 }
 function detectImageQuad(img,minConfidence=64){
   const maxSide=1200,scale=Math.min(1,maxSide/Math.max(img.width,img.height)),c=document.createElement("canvas");c.width=Math.max(1,Math.round(img.width*scale));c.height=Math.max(1,Math.round(img.height*scale));c.getContext("2d").drawImage(img,0,0,c.width,c.height);
@@ -83,7 +96,13 @@ async function analysisTick(){
   const quad=detectQuadCV(c),shapeOk=isUsableQuad(quad,62);
   state.borderConfidence=quad?quad.confidence:0;state.detectedValid=shapeOk;
   if(shapeOk)state.detectedCorners=quad.points.map(p=>({x:p.x/w,y:p.y/h}));else state.detectedCorners=null
-  if(q.good&&shapeOk)state.stableFrames++;else state.stableFrames=0;
+  let quadStable=false;
+  if(shapeOk){
+    const norm=quad.points.map(p=>({x:p.x/w,y:p.y/h}));
+    if(state.prevQuadNorm){const movement=avgQuadMovement(norm,state.prevQuadNorm);quadStable=movement<.032}
+    state.prevQuadNorm=norm;
+  }else state.prevQuadNorm=null;
+  if(q.good&&shapeOk&&quadStable)state.stableFrames++;else state.stableFrames=0;
   const hints=[];
   if(!quad)hints.push("carta/bordi non rilevati");
   else{
@@ -163,7 +182,7 @@ async function confirmCorners(){
   try{
     const corrected=perspectiveWarp(state.original,state.corners),copy=cloneCanvas(corrected),correctedBlob=await canvasBlob(copy);
     const scanId="scan:"+crypto.randomUUID(),row={id:scanId,side:state.currentSide,createdAt:new Date().toISOString(),originalBlob:state.originalBlob,correctedBlob:correctedBlob,corners:state.corners.map(p=>({x:Math.round(p.x),y:Math.round(p.y)})),borderDetectionConfidence:state.captureBorderConfidence||0};
-    await put("scans",row);state.captures[state.currentSide]={scanId:scanId,canvas:copy,corners:row.corners,quality:state.lastQuality};
+    await put("scans",row);state.captures[state.currentSide]={scanId:scanId,canvas:copy,corners:row.corners,quality:state.lastQuality,borderConfidence:row.borderDetectionConfidence};
     $("#borderEditor").hidden=true;$("#correctedPanel").hidden=false;renderCurrentSide();updateCaptureStatus();
     if(state.currentSide==="front"&&!state.captures.back)$("#scanQuality").textContent="Fronte pronto. Puoi acquisire il retro o continuare solo con il fronte.";
   }finally{$("#confirmCornersBtn").disabled=false;$("#confirmCornersBtn").textContent="CONFERMA BORDI"}
@@ -215,28 +234,16 @@ async function gradingValueHtml(card,grade){
 }
 async function doGrading(){
   const front=state.captures.front;if(!front){$("#gradingResult").innerHTML='<div class="notice">Per il grading serve almeno il fronte.</div>';return}
-  const root=$("#gradingResult");root.innerHTML='<div class="notice">Analisi fotografica in corso…</div>';
-  await new Promise(r=>setTimeout(r,30));
-  const fa=analyzeCanvas(front.canvas),ba=state.captures.back?analyzeCanvas(state.captures.back.canvas):null;
-  const avg=(key)=>ba?Math.round(((fa[key].score+ba[key].score)/2)*10)/10:fa[key].score;
-  const center=avg("centering"),corners=avg("corners"),edges=avg("edges"),surface=avg("surface"),w=GRADING_CONFIG.weights;
-  const final=Math.round((center*w.centering+corners*w.corners+edges*w.edges+surface*w.surface)*10)/10;
-  let confidence=ba?Math.round((fa.confidence+ba.confidence)/2):Math.round(fa.confidence*.72);confidence=Math.min(confidence,ba?82:64);
-  const capValues=[fa.appliedCap,ba&&ba.appliedCap].filter(v=>v!=null),appliedCap=capValues.length?Math.min(...capValues):null;
-  const cappedFinal=appliedCap==null?final:Math.min(final,appliedCap),interval=professionalInterval(cappedFinal,confidence);
-  const defects=[...(fa.defects||[]),...(ba&&ba.defects||[])];
-  const saved=await saveGrade({cardId:state.recognized?state.recognized.cardId:null,printingId:state.recognized?state.recognized.printingId:null,cardName:state.recognized?state.recognized.name:null,frontScanId:front.scanId,backScanId:state.captures.back?state.captures.back.scanId:null,frontAnalysis:fa,backAnalysis:ba,finalGrade:cappedFinal,confidence:confidence,appliedCap:appliedCap,defects:defects});
-  drawGradingOverlay(front.canvas,fa,$("#gradingOverlayFront"),"FRONT");
-  if(state.captures.back&&ba)drawGradingOverlay(state.captures.back.canvas,ba,$("#gradingOverlayBack"),"BACK");else $("#gradingOverlayBack").hidden=true;
-  $("#gradingOverlays").hidden=false;
-  const frontCenter='FRONT L/R '+fa.centering.lr[0]+'/'+fa.centering.lr[1]+' • T/B '+fa.centering.tb[0]+'/'+fa.centering.tb[1];
-  const backCenter=ba?'BACK L/R '+ba.centering.lr[0]+'/'+ba.centering.lr[1]+' • T/B '+ba.centering.tb[0]+'/'+ba.centering.tb[1]:"";
-  const defectHtml=defects.length?'<div class="notice">'+defects.map(d=>d.message).join(" ")+'</div>':"";
-  const capHtml=appliedCap!=null?'<div class="notice">Grade cap applicato: massimo '+appliedCap.toFixed(1)+' per un possibile difetto importante visibile nella fotografia.</div>':"";
+  const root=$("#gradingResult");root.innerHTML='<div class="notice">Analisi fotografica avanzata in corso…</div>';await new Promise(r=>setTimeout(r,30));
+  const fa=analyzeCanvas(front.canvas,{side:"front",borderConfidence:front.borderConfidence||0}),back=state.captures.back,ba=back?analyzeCanvas(back.canvas,{side:"back",borderConfidence:back.borderConfidence||0}):null,combined=combineAnalyses(fa,ba);
+  const center=combined.center,corners=combined.corners,edges=combined.edges,surface=combined.surface,cappedFinal=combined.finalGrade,confidence=combined.confidence,appliedCap=combined.appliedCap,defects=combined.defects,interval=professionalInterval(cappedFinal,confidence);
+  const saved=await saveGrade({cardId:state.recognized?state.recognized.cardId:null,printingId:state.recognized?state.recognized.printingId:null,cardName:state.recognized?state.recognized.name:null,frontScanId:front.scanId,backScanId:back?back.scanId:null,frontAnalysis:fa,backAnalysis:ba,finalGrade:cappedFinal,confidence,appliedCap,defects});
+  drawGradingOverlay(front.canvas,fa,$("#gradingOverlayFront"),"FRONT");if(back&&ba)drawGradingOverlay(back.canvas,ba,$("#gradingOverlayBack"),"BACK");else $("#gradingOverlayBack").hidden=true;$("#gradingOverlays").hidden=false;
+  const frontCenter='FRONT L/R '+fa.centering.lr[0]+'/'+fa.centering.lr[1]+' • T/B '+fa.centering.tb[0]+'/'+fa.centering.tb[1],backCenter=ba?'BACK L/R '+ba.centering.lr[0]+'/'+ba.centering.lr[1]+' • T/B '+ba.centering.tb[0]+'/'+ba.centering.tb[1]:"";
+  const defectHtml=defects.length?'<div class="notice"><b>Possibili difetti rilevati</b><br>'+defects.map(d=>d.message).join("<br>")+'</div>':"",qualityWarnings=[...(fa.quality.warnings||[]),...(ba&&ba.quality.warnings||[])],qualityHtml=qualityWarnings.length?'<div class="notice">Qualità foto: '+[...new Set(qualityWarnings)].join(" • ")+'. Il risultato ha confidenza ridotta.</div>':"",capHtml=appliedCap!=null?'<div class="notice">Grade cap fotografico applicato: massimo '+appliedCap.toFixed(1)+'.</div>':"";
   const valueHtml=await gradingValueHtml(state.recognized,cappedFinal);
-  root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico professionale indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo professionale. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>'+valueHtml+(state.recognized?'<button id="addGradedCard" class="primary">Aggiungi alla collezione</button>':"");
-  const addGraded=$("#addGradedCard");
-  if(addGraded)addGraded.onclick=async()=>{await addCopy(state.recognized,{condition:conditionFromGrade(cappedFinal),notes:"Aggiunta da grading "+saved.gradingAlgorithmVersion});addGraded.disabled=true;addGraded.textContent="✓ Aggiunta alla collezione"};
+  root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+qualityHtml+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>'+valueHtml+(state.recognized?'<button id="addGradedCard" class="primary">Aggiungi alla collezione</button>':"");
+  const addGraded=$("#addGradedCard");if(addGraded)addGraded.onclick=async()=>{await addCopy(state.recognized,{condition:conditionFromGrade(cappedFinal),notes:"Aggiunta da grading "+saved.gradingAlgorithmVersion});addGraded.disabled=true;addGraded.textContent="✓ Aggiunta alla collezione"};
 }
 export function getScannerState(){return state}
 export function setRecognizedCard(card){state.recognized=card;const root=document.querySelector("#recognitionResult");if(root&&card)root.innerHTML='<div class="analysis-box"><h3>Identificazione corretta manualmente</h3><b>'+card.name+'</b><div>'+(card.collectionNumber||"—")+' • '+(card.setName||card.setCode||"")+'</div><p class="confidence">Selezione manuale confermata.</p></div>'}
