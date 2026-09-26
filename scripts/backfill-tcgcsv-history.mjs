@@ -31,11 +31,17 @@ let processed=0,priceRows=0;
 await mkdir(ROOT+"/groups",{recursive:true});await rm(TMP,{recursive:true,force:true});await mkdir(TMP,{recursive:true});
 
 for(const date of todo){
-  const archive=TMP+"/prices-"+date+".ppmd.7z",outDir=TMP+"/extract-"+date;
+  const archive=TMP+"/prices-"+date+".ppmd.7z",mirror=TMP+"/prices-"+date+".tar.gz",outDir=TMP+"/extract-"+date;
   try{
-    await download("https://tcgcsv.com/archive/tcgplayer/prices-"+date+".ppmd.7z",archive);
     await mkdir(outDir,{recursive:true});
-    await execFileAsync("7z",["x",archive,"-o"+outDir,date+"/3/*","-r","-y"],{maxBuffer:1024*1024*4});
+    try{
+      await download("https://tcgcsv.com/archive/tcgplayer/prices-"+date+".ppmd.7z",archive);
+      await execFileAsync("7z",["x",archive,"-o"+outDir,date+"/3/*","-r","-y"],{maxBuffer:1024*1024*4});
+    }catch(primaryError){
+      const year=date.slice(0,4),mirrorUrl="https://raw.githubusercontent.com/landonrroy/pokefolio-data/main/data/"+year+"/prices-"+date+".tar.gz";
+      await download(mirrorUrl,mirror);
+      await execFileAsync("tar",["-xzf",mirror,"-C",outDir],{maxBuffer:1024*1024*4});
+    }
     const dateIndex=datesDoc.dates.length;
     for(const[g,products]of byGroup){
       const priceFile=outDir+"/"+date+"/3/"+g+"/prices",payload=await readJson(priceFile,null);if(!payload||!Array.isArray(payload.results))continue;
@@ -52,7 +58,7 @@ for(const date of todo){
   }catch(e){
     state.failed[date]={message:e.message,at:new Date().toISOString(),attempts:Number(state.failed[date]&&state.failed[date].attempts||0)+1};
     await atomicJson(ROOT+"/state.json",state);console.error("Backfill failed",date,e.message);
-  }finally{await rm(archive,{force:true}).catch(()=>{});await rm(outDir,{recursive:true,force:true}).catch(()=>{})}
+  }finally{await rm(archive,{force:true}).catch(()=>{});await rm(mirror,{force:true}).catch(()=>{});await rm(outDir,{recursive:true,force:true}).catch(()=>{})}
 }
 await rm(TMP,{recursive:true,force:true});
 const remaining=targets.filter(x=>!new Set(state.completed).has(x)),summary={version:1,source:"TCGCSV / TCGplayer",archiveStart:START,updatedAt:new Date().toISOString(),targetDates:targets.length,completedDates:state.completed.length,remainingDates:remaining.length,failedDates:Object.keys(state.failed||{}).length,mappedCards:map.mappedCards||map.cards.length,groups:byGroup.size,lastProcessed:state.completed[state.completed.length-1]||null,nextDate:remaining[0]||null};
