@@ -1,0 +1,53 @@
+name: Audit coverage
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/pokemon/**"
+      - "data/pokemon-en/**"
+      - "data/pokemon-ja/**"
+      - "data/pokemon-zh-tw/**"
+      - "data/pokemon-zh-cn/**"
+      - "data/yugioh/**"
+      - "data/prices/**"
+      - "data/master-sets/**"
+      - "scripts/audit-coverage.mjs"
+      - ".github/workflows/audit-coverage.yml"
+  schedule:
+    - cron: "47 7 * * 0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: audit-coverage
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+      - run: npm run audit:coverage
+      - name: Commit audit report
+        shell: bash
+        run: |
+          if [ -z "$(git status --porcelain -- data/audit/coverage.json)" ]; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/audit/coverage.json
+          git commit -m "data: update coverage audit"
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            if git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep 6
+          done
+          exit 1
