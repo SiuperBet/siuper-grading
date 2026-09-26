@@ -34,13 +34,13 @@ jobs:
       - name: Commit mapping
         shell: bash
         run: |
-          if [ -z "$(git status --porcelain -- data/prices/tcgcsv-map.json)" ]; then
+          if [ -z "$(git status --porcelain -- data/prices/tcgcsv-map.json data/prices/tcgcsv-map-lite.json)" ]; then
             echo "No mapping changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/prices/tcgcsv-map.json
+          git add data/prices/tcgcsv-map.json data/prices/tcgcsv-map-lite.json
           git commit -m "data: update TCGCSV exact-printing map"
           for attempt in 1 2 3 4 5; do
             git pull --rebase origin main
