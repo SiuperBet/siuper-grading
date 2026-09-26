@@ -1,4 +1,4 @@
-const CACHE="siuper-grading-shell-v7";
+const CACHE="siuper-grading-shell-v8";
 const SHELL=["./","./index.html","./css/app.css","./manifest.webmanifest","./assets/icon.svg","./js/config.js","./js/normalize.js","./js/db.js","./js/catalog.js","./js/collection.js","./js/scanner.js","./js/recognition.js","./js/grading.js","./js/prices.js","./js/mastersets.js","./js/price-history.js","./js/data/pokemon-adapter.js","./js/data/yugioh-adapter.js","./js/app.js"];
 
 self.addEventListener("install",e=>{
