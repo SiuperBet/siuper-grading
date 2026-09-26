@@ -13,6 +13,43 @@ let albumGame="pokemon",albumLanguage="it",deferredInstall=null;
 
 function esc(s=""){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
 function languageLabel(lang=""){return({it:"IT",en:"EN",ja:"JP","zh-tw":"ZH-TW","zh-cn":"ZH-CN"})[lang]||String(lang||"").toUpperCase()}
+function showUpdateBanner(worker){
+  let banner=document.querySelector("#appUpdateBanner");
+  if(!banner){
+    banner=document.createElement("div");banner.id="appUpdateBanner";banner.className="app-update-banner";
+    banner.innerHTML='<div><b>Nuova versione disponibile</b><small>Siuper Grading può aggiornarsi senza reinstallazione.</small></div><button id="applyAppUpdate" class="primary">Aggiorna ora</button>';
+    document.body.appendChild(banner);
+  }
+  banner.hidden=false;
+  const btn=banner.querySelector("#applyAppUpdate");
+  if(btn)btn.onclick=()=>{
+    btn.disabled=true;btn.textContent="Aggiornamento…";
+    if(worker&&worker.postMessage)worker.postMessage({type:"SKIP_WAITING"});
+  };
+}
+async function initPwaUpdater(){
+  if(!("serviceWorker"in navigator))return;
+  let refreshing=false;
+  navigator.serviceWorker.addEventListener("controllerchange",()=>{
+    if(refreshing)return;refreshing=true;location.reload();
+  });
+  const reg=await navigator.serviceWorker.register("./service-worker.js",{updateViaCache:"none"});
+  const inspect=()=>{
+    if(reg.waiting&&navigator.serviceWorker.controller)showUpdateBanner(reg.waiting);
+  };
+  inspect();
+  reg.addEventListener("updatefound",()=>{
+    const worker=reg.installing;if(!worker)return;
+    worker.addEventListener("statechange",()=>{
+      if(worker.state==="installed"&&navigator.serviceWorker.controller)showUpdateBanner(worker);
+    });
+  });
+  const check=()=>reg.update().catch(()=>{});
+  check();
+  document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible")check()});
+  window.addEventListener("online",check);
+  setInterval(check,30*60*1000);
+}
 function imageCandidates(card,quality="low"){
   const raw=Array.isArray(card&&card.imageCandidates)?card.imageCandidates:[];
   const rows=raw.map(x=>({url:quality==="high"?(x.high||x.low):(x.low||x.high),reference:Boolean(x.reference),label:x.label||""})).filter(x=>x.url);
@@ -294,6 +331,6 @@ async function boot(){
   window.addEventListener("hashchange",()=>{const v=location.hash.slice(1);if(["home","search","album","collection","scanner","history","settings"].includes(v))go(v)});
   window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferredInstall=e;$("#installBtn").hidden=false});
   $("#installBtn").onclick=async()=>{if(deferredInstall){deferredInstall.prompt();deferredInstall=null;$("#installBtn").hidden=true}};
-  if("serviceWorker"in navigator)navigator.serviceWorker.register("./service-worker.js").catch(console.warn);
 }
+initPwaUpdater().catch(console.warn);
 boot().catch(e=>{$("#dbStatus").textContent="errore locale";console.error(e)});
