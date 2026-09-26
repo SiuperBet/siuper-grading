@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:sma-SV1",
+    "id": "pokemon:en:sma-SV1",
     "cardId": "sma-SV1",
-    "printingId": "pokemon:sma-SV1",
+    "printingId": "pokemon:en:sma-SV1",
     "game": "pokemon",
     "name": "Scyther",
     "number": "SV1",
@@ -16,14 +16,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV1/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV1/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV10",
+    "id": "pokemon:en:sma-SV10",
     "cardId": "sma-SV10",
-    "printingId": "pokemon:sma-SV10",
+    "printingId": "pokemon:en:sma-SV10",
     "game": "pokemon",
     "name": "Quagsire",
     "number": "SV10",
@@ -37,14 +38,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV10/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV10/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV11",
+    "id": "pokemon:en:sma-SV11",
     "cardId": "sma-SV11",
-    "printingId": "pokemon:sma-SV11",
+    "printingId": "pokemon:en:sma-SV11",
     "game": "pokemon",
     "name": "Froakie",
     "number": "SV11",
@@ -58,14 +60,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV11/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV11/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV12",
+    "id": "pokemon:en:sma-SV12",
     "cardId": "sma-SV12",
-    "printingId": "pokemon:sma-SV12",
+    "printingId": "pokemon:en:sma-SV12",
     "game": "pokemon",
     "name": "Frogadier",
     "number": "SV12",
@@ -79,14 +82,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV12/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV12/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV13",
+    "id": "pokemon:en:sma-SV13",
     "cardId": "sma-SV13",
-    "printingId": "pokemon:sma-SV13",
+    "printingId": "pokemon:en:sma-SV13",
     "game": "pokemon",
     "name": "Voltorb",
     "number": "SV13",
@@ -100,14 +104,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV13/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV13/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV14",
+    "id": "pokemon:en:sma-SV14",
     "cardId": "sma-SV14",
-    "printingId": "pokemon:sma-SV14",
+    "printingId": "pokemon:en:sma-SV14",
     "game": "pokemon",
     "name": "Xurkitree",
     "number": "SV14",
@@ -121,14 +126,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV14/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV14/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV15",
+    "id": "pokemon:en:sma-SV15",
     "cardId": "sma-SV15",
-    "printingId": "pokemon:sma-SV15",
+    "printingId": "pokemon:en:sma-SV15",
     "game": "pokemon",
     "name": "Seviper",
     "number": "SV15",
@@ -142,14 +148,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV15/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV15/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV16",
+    "id": "pokemon:en:sma-SV16",
     "cardId": "sma-SV16",
-    "printingId": "pokemon:sma-SV16",
+    "printingId": "pokemon:en:sma-SV16",
     "game": "pokemon",
     "name": "Shuppet",
     "number": "SV16",
@@ -163,14 +170,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV16/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV16/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV17",
+    "id": "pokemon:en:sma-SV17",
     "cardId": "sma-SV17",
-    "printingId": "pokemon:sma-SV17",
+    "printingId": "pokemon:en:sma-SV17",
     "game": "pokemon",
     "name": "Inkay",
     "number": "SV17",
@@ -184,14 +192,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV17/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV17/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV18",
+    "id": "pokemon:en:sma-SV18",
     "cardId": "sma-SV18",
-    "printingId": "pokemon:sma-SV18",
+    "printingId": "pokemon:en:sma-SV18",
     "game": "pokemon",
     "name": "Malamar",
     "number": "SV18",
@@ -205,14 +214,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV18/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV18/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV19",
+    "id": "pokemon:en:sma-SV19",
     "cardId": "sma-SV19",
-    "printingId": "pokemon:sma-SV19",
+    "printingId": "pokemon:en:sma-SV19",
     "game": "pokemon",
     "name": "Poipole",
     "number": "SV19",
@@ -226,14 +236,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV19/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV19/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV2",
+    "id": "pokemon:en:sma-SV2",
     "cardId": "sma-SV2",
-    "printingId": "pokemon:sma-SV2",
+    "printingId": "pokemon:en:sma-SV2",
     "game": "pokemon",
     "name": "Rowlet",
     "number": "SV2",
@@ -247,14 +258,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV2/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV2/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV20",
+    "id": "pokemon:en:sma-SV20",
     "cardId": "sma-SV20",
-    "printingId": "pokemon:sma-SV20",
+    "printingId": "pokemon:en:sma-SV20",
     "game": "pokemon",
     "name": "Sudowoodo",
     "number": "SV20",
@@ -268,14 +280,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV20/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV20/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV21",
+    "id": "pokemon:en:sma-SV21",
     "cardId": "sma-SV21",
-    "printingId": "pokemon:sma-SV21",
+    "printingId": "pokemon:en:sma-SV21",
     "game": "pokemon",
     "name": "Riolu",
     "number": "SV21",
@@ -289,14 +302,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV21/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV21/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV22",
+    "id": "pokemon:en:sma-SV22",
     "cardId": "sma-SV22",
-    "printingId": "pokemon:sma-SV22",
+    "printingId": "pokemon:en:sma-SV22",
     "game": "pokemon",
     "name": "Lucario",
     "number": "SV22",
@@ -310,14 +324,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV22/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV22/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV23",
+    "id": "pokemon:en:sma-SV23",
     "cardId": "sma-SV23",
-    "printingId": "pokemon:sma-SV23",
+    "printingId": "pokemon:en:sma-SV23",
     "game": "pokemon",
     "name": "Rockruff",
     "number": "SV23",
@@ -331,14 +346,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV23/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV23/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV24",
+    "id": "pokemon:en:sma-SV24",
     "cardId": "sma-SV24",
-    "printingId": "pokemon:sma-SV24",
+    "printingId": "pokemon:en:sma-SV24",
     "game": "pokemon",
     "name": "Buzzwole",
     "number": "SV24",
@@ -352,14 +368,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV24/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV24/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV25",
+    "id": "pokemon:en:sma-SV25",
     "cardId": "sma-SV25",
-    "printingId": "pokemon:sma-SV25",
+    "printingId": "pokemon:en:sma-SV25",
     "game": "pokemon",
     "name": "Zorua",
     "number": "SV25",
@@ -373,14 +390,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV25/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV25/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV26",
+    "id": "pokemon:en:sma-SV26",
     "cardId": "sma-SV26",
-    "printingId": "pokemon:sma-SV26",
+    "printingId": "pokemon:en:sma-SV26",
     "game": "pokemon",
     "name": "Guzzlord",
     "number": "SV26",
@@ -394,14 +412,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV26/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV26/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV27",
+    "id": "pokemon:en:sma-SV27",
     "cardId": "sma-SV27",
-    "printingId": "pokemon:sma-SV27",
+    "printingId": "pokemon:en:sma-SV27",
     "game": "pokemon",
     "name": "Magnemite",
     "number": "SV27",
@@ -415,14 +434,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV27/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV27/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV28",
+    "id": "pokemon:en:sma-SV28",
     "cardId": "sma-SV28",
-    "printingId": "pokemon:sma-SV28",
+    "printingId": "pokemon:en:sma-SV28",
     "game": "pokemon",
     "name": "Magneton",
     "number": "SV28",
@@ -436,14 +456,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV28/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV28/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV29",
+    "id": "pokemon:en:sma-SV29",
     "cardId": "sma-SV29",
-    "printingId": "pokemon:sma-SV29",
+    "printingId": "pokemon:en:sma-SV29",
     "game": "pokemon",
     "name": "Magnezone",
     "number": "SV29",
@@ -457,14 +478,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV29/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV29/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV3",
+    "id": "pokemon:en:sma-SV3",
     "cardId": "sma-SV3",
-    "printingId": "pokemon:sma-SV3",
+    "printingId": "pokemon:en:sma-SV3",
     "game": "pokemon",
     "name": "Dartrix",
     "number": "SV3",
@@ -478,14 +500,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV3/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV3/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV30",
+    "id": "pokemon:en:sma-SV30",
     "cardId": "sma-SV30",
-    "printingId": "pokemon:sma-SV30",
+    "printingId": "pokemon:en:sma-SV30",
     "game": "pokemon",
     "name": "Beldum",
     "number": "SV30",
@@ -499,14 +522,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV30/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV30/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV31",
+    "id": "pokemon:en:sma-SV31",
     "cardId": "sma-SV31",
-    "printingId": "pokemon:sma-SV31",
+    "printingId": "pokemon:en:sma-SV31",
     "game": "pokemon",
     "name": "Metang",
     "number": "SV31",
@@ -520,14 +544,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV31/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV31/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV32",
+    "id": "pokemon:en:sma-SV32",
     "cardId": "sma-SV32",
-    "printingId": "pokemon:sma-SV32",
+    "printingId": "pokemon:en:sma-SV32",
     "game": "pokemon",
     "name": "Celesteela",
     "number": "SV32",
@@ -541,14 +566,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV32/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV32/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV33",
+    "id": "pokemon:en:sma-SV33",
     "cardId": "sma-SV33",
-    "printingId": "pokemon:sma-SV33",
+    "printingId": "pokemon:en:sma-SV33",
     "game": "pokemon",
     "name": "Kartana",
     "number": "SV33",
@@ -562,14 +588,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV33/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV33/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV34",
+    "id": "pokemon:en:sma-SV34",
     "cardId": "sma-SV34",
-    "printingId": "pokemon:sma-SV34",
+    "printingId": "pokemon:en:sma-SV34",
     "game": "pokemon",
     "name": "Ralts",
     "number": "SV34",
@@ -583,14 +610,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV34/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV34/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV35",
+    "id": "pokemon:en:sma-SV35",
     "cardId": "sma-SV35",
-    "printingId": "pokemon:sma-SV35",
+    "printingId": "pokemon:en:sma-SV35",
     "game": "pokemon",
     "name": "Kirlia",
     "number": "SV35",
@@ -604,14 +632,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV35/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV35/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV36",
+    "id": "pokemon:en:sma-SV36",
     "cardId": "sma-SV36",
-    "printingId": "pokemon:sma-SV36",
+    "printingId": "pokemon:en:sma-SV36",
     "game": "pokemon",
     "name": "Diancie",
     "number": "SV36",
@@ -625,14 +654,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV36/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV36/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV37",
+    "id": "pokemon:en:sma-SV37",
     "cardId": "sma-SV37",
-    "printingId": "pokemon:sma-SV37",
+    "printingId": "pokemon:en:sma-SV37",
     "game": "pokemon",
     "name": "Altaria",
     "number": "SV37",
@@ -646,14 +676,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV37/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV37/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV38",
+    "id": "pokemon:en:sma-SV38",
     "cardId": "sma-SV38",
-    "printingId": "pokemon:sma-SV38",
+    "printingId": "pokemon:en:sma-SV38",
     "game": "pokemon",
     "name": "Gible",
     "number": "SV38",
@@ -667,14 +698,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV38/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV38/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV39",
+    "id": "pokemon:en:sma-SV39",
     "cardId": "sma-SV39",
-    "printingId": "pokemon:sma-SV39",
+    "printingId": "pokemon:en:sma-SV39",
     "game": "pokemon",
     "name": "Gabite",
     "number": "SV39",
@@ -688,14 +720,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV39/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV39/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV4",
+    "id": "pokemon:en:sma-SV4",
     "cardId": "sma-SV4",
-    "printingId": "pokemon:sma-SV4",
+    "printingId": "pokemon:en:sma-SV4",
     "game": "pokemon",
     "name": "Wimpod",
     "number": "SV4",
@@ -709,14 +742,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV4/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV4/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV40",
+    "id": "pokemon:en:sma-SV40",
     "cardId": "sma-SV40",
-    "printingId": "pokemon:sma-SV40",
+    "printingId": "pokemon:en:sma-SV40",
     "game": "pokemon",
     "name": "Garchomp",
     "number": "SV40",
@@ -730,14 +764,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV40/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV40/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV41",
+    "id": "pokemon:en:sma-SV41",
     "cardId": "sma-SV41",
-    "printingId": "pokemon:sma-SV41",
+    "printingId": "pokemon:en:sma-SV41",
     "game": "pokemon",
     "name": "Eevee",
     "number": "SV41",
@@ -751,14 +786,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV41/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV41/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV42",
+    "id": "pokemon:en:sma-SV42",
     "cardId": "sma-SV42",
-    "printingId": "pokemon:sma-SV42",
+    "printingId": "pokemon:en:sma-SV42",
     "game": "pokemon",
     "name": "Swablu",
     "number": "SV42",
@@ -772,14 +808,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV42/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV42/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV43",
+    "id": "pokemon:en:sma-SV43",
     "cardId": "sma-SV43",
-    "printingId": "pokemon:sma-SV43",
+    "printingId": "pokemon:en:sma-SV43",
     "game": "pokemon",
     "name": "Noibat",
     "number": "SV43",
@@ -793,14 +830,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV43/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV43/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV44",
+    "id": "pokemon:en:sma-SV44",
     "cardId": "sma-SV44",
-    "printingId": "pokemon:sma-SV44",
+    "printingId": "pokemon:en:sma-SV44",
     "game": "pokemon",
     "name": "Oranguru",
     "number": "SV44",
@@ -814,14 +852,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV44/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV44/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV45",
+    "id": "pokemon:en:sma-SV45",
     "cardId": "sma-SV45",
-    "printingId": "pokemon:sma-SV45",
+    "printingId": "pokemon:en:sma-SV45",
     "game": "pokemon",
     "name": "Type: Null",
     "number": "SV45",
@@ -835,14 +874,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV45/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV45/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV46",
+    "id": "pokemon:en:sma-SV46",
     "cardId": "sma-SV46",
-    "printingId": "pokemon:sma-SV46",
+    "printingId": "pokemon:en:sma-SV46",
     "game": "pokemon",
     "name": "Leafeon-GX",
     "number": "SV46",
@@ -856,14 +896,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV46/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV46/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV47",
+    "id": "pokemon:en:sma-SV47",
     "cardId": "sma-SV47",
-    "printingId": "pokemon:sma-SV47",
+    "printingId": "pokemon:en:sma-SV47",
     "game": "pokemon",
     "name": "Decidueye-GX",
     "number": "SV47",
@@ -877,14 +918,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV47/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV47/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV48",
+    "id": "pokemon:en:sma-SV48",
     "cardId": "sma-SV48",
-    "printingId": "pokemon:sma-SV48",
+    "printingId": "pokemon:en:sma-SV48",
     "game": "pokemon",
     "name": "Golisopod-GX",
     "number": "SV48",
@@ -898,14 +940,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV48/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV48/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV49",
+    "id": "pokemon:en:sma-SV49",
     "cardId": "sma-SV49",
-    "printingId": "pokemon:sma-SV49",
+    "printingId": "pokemon:en:sma-SV49",
     "game": "pokemon",
     "name": "Charizard-GX",
     "number": "SV49",
@@ -919,14 +962,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV49/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV49/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV5",
+    "id": "pokemon:en:sma-SV5",
     "cardId": "sma-SV5",
-    "printingId": "pokemon:sma-SV5",
+    "printingId": "pokemon:en:sma-SV5",
     "game": "pokemon",
     "name": "Pheromosa",
     "number": "SV5",
@@ -940,14 +984,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV5/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV5/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV50",
+    "id": "pokemon:en:sma-SV50",
     "cardId": "sma-SV50",
-    "printingId": "pokemon:sma-SV50",
+    "printingId": "pokemon:en:sma-SV50",
     "game": "pokemon",
     "name": "Ho-Oh-GX",
     "number": "SV50",
@@ -961,14 +1006,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV50/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV50/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV51",
+    "id": "pokemon:en:sma-SV51",
     "cardId": "sma-SV51",
-    "printingId": "pokemon:sma-SV51",
+    "printingId": "pokemon:en:sma-SV51",
     "game": "pokemon",
     "name": "Reshiram-GX",
     "number": "SV51",
@@ -982,14 +1028,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV51/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV51/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV52",
+    "id": "pokemon:en:sma-SV52",
     "cardId": "sma-SV52",
-    "printingId": "pokemon:sma-SV52",
+    "printingId": "pokemon:en:sma-SV52",
     "game": "pokemon",
     "name": "Turtonator-GX",
     "number": "SV52",
@@ -1003,14 +1050,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV52/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV52/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV53",
+    "id": "pokemon:en:sma-SV53",
     "cardId": "sma-SV53",
-    "printingId": "pokemon:sma-SV53",
+    "printingId": "pokemon:en:sma-SV53",
     "game": "pokemon",
     "name": "Alolan Ninetales-GX",
     "number": "SV53",
@@ -1024,14 +1072,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV53/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV53/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV54",
+    "id": "pokemon:en:sma-SV54",
     "cardId": "sma-SV54",
-    "printingId": "pokemon:sma-SV54",
+    "printingId": "pokemon:en:sma-SV54",
     "game": "pokemon",
     "name": "Articuno-GX",
     "number": "SV54",
@@ -1045,14 +1094,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV54/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV54/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV55",
+    "id": "pokemon:en:sma-SV55",
     "cardId": "sma-SV55",
-    "printingId": "pokemon:sma-SV55",
+    "printingId": "pokemon:en:sma-SV55",
     "game": "pokemon",
     "name": "Glaceon-GX",
     "number": "SV55",
@@ -1066,14 +1116,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV55/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV55/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV56",
+    "id": "pokemon:en:sma-SV56",
     "cardId": "sma-SV56",
-    "printingId": "pokemon:sma-SV56",
+    "printingId": "pokemon:en:sma-SV56",
     "game": "pokemon",
     "name": "Greninja-GX",
     "number": "SV56",
@@ -1087,14 +1138,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV56/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV56/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV57",
+    "id": "pokemon:en:sma-SV57",
     "cardId": "sma-SV57",
-    "printingId": "pokemon:sma-SV57",
+    "printingId": "pokemon:en:sma-SV57",
     "game": "pokemon",
     "name": "Electrode-GX",
     "number": "SV57",
@@ -1108,14 +1160,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV57/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV57/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV58",
+    "id": "pokemon:en:sma-SV58",
     "cardId": "sma-SV58",
-    "printingId": "pokemon:sma-SV58",
+    "printingId": "pokemon:en:sma-SV58",
     "game": "pokemon",
     "name": "Xurkitree-GX",
     "number": "SV58",
@@ -1129,14 +1182,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV58/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV58/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV59",
+    "id": "pokemon:en:sma-SV59",
     "cardId": "sma-SV59",
-    "printingId": "pokemon:sma-SV59",
+    "printingId": "pokemon:en:sma-SV59",
     "game": "pokemon",
     "name": "Mewtwo-GX",
     "number": "SV59",
@@ -1150,14 +1204,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV59/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV59/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV6",
+    "id": "pokemon:en:sma-SV6",
     "cardId": "sma-SV6",
-    "printingId": "pokemon:sma-SV6",
+    "printingId": "pokemon:en:sma-SV6",
     "game": "pokemon",
     "name": "Charmander",
     "number": "SV6",
@@ -1171,14 +1226,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV6/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV6/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV60",
+    "id": "pokemon:en:sma-SV60",
     "cardId": "sma-SV60",
-    "printingId": "pokemon:sma-SV60",
+    "printingId": "pokemon:en:sma-SV60",
     "game": "pokemon",
     "name": "Espeon-GX",
     "number": "SV60",
@@ -1192,14 +1248,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV60/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV60/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV61",
+    "id": "pokemon:en:sma-SV61",
     "cardId": "sma-SV61",
-    "printingId": "pokemon:sma-SV61",
+    "printingId": "pokemon:en:sma-SV61",
     "game": "pokemon",
     "name": "Banette-GX",
     "number": "SV61",
@@ -1213,14 +1270,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV61/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV61/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV62",
+    "id": "pokemon:en:sma-SV62",
     "cardId": "sma-SV62",
-    "printingId": "pokemon:sma-SV62",
+    "printingId": "pokemon:en:sma-SV62",
     "game": "pokemon",
     "name": "Nihilego-GX",
     "number": "SV62",
@@ -1234,14 +1292,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV62/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV62/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV63",
+    "id": "pokemon:en:sma-SV63",
     "cardId": "sma-SV63",
-    "printingId": "pokemon:sma-SV63",
+    "printingId": "pokemon:en:sma-SV63",
     "game": "pokemon",
     "name": "Naganadel-GX",
     "number": "SV63",
@@ -1255,14 +1314,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV63/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV63/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV64",
+    "id": "pokemon:en:sma-SV64",
     "cardId": "sma-SV64",
-    "printingId": "pokemon:sma-SV64",
+    "printingId": "pokemon:en:sma-SV64",
     "game": "pokemon",
     "name": "Lucario-GX",
     "number": "SV64",
@@ -1276,14 +1336,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV64/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV64/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV65",
+    "id": "pokemon:en:sma-SV65",
     "cardId": "sma-SV65",
-    "printingId": "pokemon:sma-SV65",
+    "printingId": "pokemon:en:sma-SV65",
     "game": "pokemon",
     "name": "Zygarde-GX",
     "number": "SV65",
@@ -1297,14 +1358,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV65/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV65/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV66",
+    "id": "pokemon:en:sma-SV66",
     "cardId": "sma-SV66",
-    "printingId": "pokemon:sma-SV66",
+    "printingId": "pokemon:en:sma-SV66",
     "game": "pokemon",
     "name": "Lycanroc-GX",
     "number": "SV66",
@@ -1318,14 +1380,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV66/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV66/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV67",
+    "id": "pokemon:en:sma-SV67",
     "cardId": "sma-SV67",
-    "printingId": "pokemon:sma-SV67",
+    "printingId": "pokemon:en:sma-SV67",
     "game": "pokemon",
     "name": "Lycanroc-GX",
     "number": "SV67",
@@ -1339,14 +1402,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV67/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV67/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV68",
+    "id": "pokemon:en:sma-SV68",
     "cardId": "sma-SV68",
-    "printingId": "pokemon:sma-SV68",
+    "printingId": "pokemon:en:sma-SV68",
     "game": "pokemon",
     "name": "Buzzwole-GX",
     "number": "SV68",
@@ -1360,14 +1424,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV68/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV68/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV69",
+    "id": "pokemon:en:sma-SV69",
     "cardId": "sma-SV69",
-    "printingId": "pokemon:sma-SV69",
+    "printingId": "pokemon:en:sma-SV69",
     "game": "pokemon",
     "name": "Umbreon-GX",
     "number": "SV69",
@@ -1381,14 +1446,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV69/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV69/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV7",
+    "id": "pokemon:en:sma-SV7",
     "cardId": "sma-SV7",
-    "printingId": "pokemon:sma-SV7",
+    "printingId": "pokemon:en:sma-SV7",
     "game": "pokemon",
     "name": "Charmeleon",
     "number": "SV7",
@@ -1402,14 +1468,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV7/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV7/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV70",
+    "id": "pokemon:en:sma-SV70",
     "cardId": "sma-SV70",
-    "printingId": "pokemon:sma-SV70",
+    "printingId": "pokemon:en:sma-SV70",
     "game": "pokemon",
     "name": "Darkrai-GX",
     "number": "SV70",
@@ -1423,14 +1490,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV70/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV70/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV71",
+    "id": "pokemon:en:sma-SV71",
     "cardId": "sma-SV71",
-    "printingId": "pokemon:sma-SV71",
+    "printingId": "pokemon:en:sma-SV71",
     "game": "pokemon",
     "name": "Guzzlord-GX",
     "number": "SV71",
@@ -1444,14 +1512,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV71/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV71/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV72",
+    "id": "pokemon:en:sma-SV72",
     "cardId": "sma-SV72",
-    "printingId": "pokemon:sma-SV72",
+    "printingId": "pokemon:en:sma-SV72",
     "game": "pokemon",
     "name": "Scizor-GX",
     "number": "SV72",
@@ -1465,14 +1534,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV72/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV72/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV73",
+    "id": "pokemon:en:sma-SV73",
     "cardId": "sma-SV73",
-    "printingId": "pokemon:sma-SV73",
+    "printingId": "pokemon:en:sma-SV73",
     "game": "pokemon",
     "name": "Kartana-GX",
     "number": "SV73",
@@ -1486,14 +1556,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV73/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV73/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV74",
+    "id": "pokemon:en:sma-SV74",
     "cardId": "sma-SV74",
-    "printingId": "pokemon:sma-SV74",
+    "printingId": "pokemon:en:sma-SV74",
     "game": "pokemon",
     "name": "Stakataka-GX",
     "number": "SV74",
@@ -1507,14 +1578,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV74/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV74/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV75",
+    "id": "pokemon:en:sma-SV75",
     "cardId": "sma-SV75",
-    "printingId": "pokemon:sma-SV75",
+    "printingId": "pokemon:en:sma-SV75",
     "game": "pokemon",
     "name": "Gardevoir-GX",
     "number": "SV75",
@@ -1528,14 +1600,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV75/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV75/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV76",
+    "id": "pokemon:en:sma-SV76",
     "cardId": "sma-SV76",
-    "printingId": "pokemon:sma-SV76",
+    "printingId": "pokemon:en:sma-SV76",
     "game": "pokemon",
     "name": "Sylveon-GX",
     "number": "SV76",
@@ -1549,14 +1622,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV76/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV76/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV77",
+    "id": "pokemon:en:sma-SV77",
     "cardId": "sma-SV77",
-    "printingId": "pokemon:sma-SV77",
+    "printingId": "pokemon:en:sma-SV77",
     "game": "pokemon",
     "name": "Altaria-GX",
     "number": "SV77",
@@ -1570,14 +1644,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV77/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV77/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV78",
+    "id": "pokemon:en:sma-SV78",
     "cardId": "sma-SV78",
-    "printingId": "pokemon:sma-SV78",
+    "printingId": "pokemon:en:sma-SV78",
     "game": "pokemon",
     "name": "Noivern-GX",
     "number": "SV78",
@@ -1591,14 +1666,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV78/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV78/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV79",
+    "id": "pokemon:en:sma-SV79",
     "cardId": "sma-SV79",
-    "printingId": "pokemon:sma-SV79",
+    "printingId": "pokemon:en:sma-SV79",
     "game": "pokemon",
     "name": "Silvally-GX",
     "number": "SV79",
@@ -1612,14 +1688,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV79/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV79/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV8",
+    "id": "pokemon:en:sma-SV8",
     "cardId": "sma-SV8",
-    "printingId": "pokemon:sma-SV8",
+    "printingId": "pokemon:en:sma-SV8",
     "game": "pokemon",
     "name": "Alolan Vulpix",
     "number": "SV8",
@@ -1633,14 +1710,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV8/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV8/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV80",
+    "id": "pokemon:en:sma-SV80",
     "cardId": "sma-SV80",
-    "printingId": "pokemon:sma-SV80",
+    "printingId": "pokemon:en:sma-SV80",
     "game": "pokemon",
     "name": "Drampa-GX",
     "number": "SV80",
@@ -1654,14 +1732,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV80/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV80/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV81",
+    "id": "pokemon:en:sma-SV81",
     "cardId": "sma-SV81",
-    "printingId": "pokemon:sma-SV81",
+    "printingId": "pokemon:en:sma-SV81",
     "game": "pokemon",
     "name": "Aether Foundation Employee",
     "number": "SV81",
@@ -1675,14 +1754,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV81/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV81/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV82",
+    "id": "pokemon:en:sma-SV82",
     "cardId": "sma-SV82",
-    "printingId": "pokemon:sma-SV82",
+    "printingId": "pokemon:en:sma-SV82",
     "game": "pokemon",
     "name": "Cynthia",
     "number": "SV82",
@@ -1696,14 +1776,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV82/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV82/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV83",
+    "id": "pokemon:en:sma-SV83",
     "cardId": "sma-SV83",
-    "printingId": "pokemon:sma-SV83",
+    "printingId": "pokemon:en:sma-SV83",
     "game": "pokemon",
     "name": "Fisherman",
     "number": "SV83",
@@ -1717,14 +1798,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV83/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV83/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV84",
+    "id": "pokemon:en:sma-SV84",
     "cardId": "sma-SV84",
-    "printingId": "pokemon:sma-SV84",
+    "printingId": "pokemon:en:sma-SV84",
     "game": "pokemon",
     "name": "Guzma",
     "number": "SV84",
@@ -1738,14 +1820,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV84/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV84/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV85",
+    "id": "pokemon:en:sma-SV85",
     "cardId": "sma-SV85",
-    "printingId": "pokemon:sma-SV85",
+    "printingId": "pokemon:en:sma-SV85",
     "game": "pokemon",
     "name": "Hiker",
     "number": "SV85",
@@ -1759,14 +1842,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV85/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV85/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV86",
+    "id": "pokemon:en:sma-SV86",
     "cardId": "sma-SV86",
-    "printingId": "pokemon:sma-SV86",
+    "printingId": "pokemon:en:sma-SV86",
     "game": "pokemon",
     "name": "Lady",
     "number": "SV86",
@@ -1780,14 +1864,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV86/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV86/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV87",
+    "id": "pokemon:en:sma-SV87",
     "cardId": "sma-SV87",
-    "printingId": "pokemon:sma-SV87",
+    "printingId": "pokemon:en:sma-SV87",
     "game": "pokemon",
     "name": "Aether Paradise Conservation Area",
     "number": "SV87",
@@ -1801,14 +1886,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV87/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV87/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV88",
+    "id": "pokemon:en:sma-SV88",
     "cardId": "sma-SV88",
-    "printingId": "pokemon:sma-SV88",
+    "printingId": "pokemon:en:sma-SV88",
     "game": "pokemon",
     "name": "Brooklet Hill",
     "number": "SV88",
@@ -1822,14 +1908,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV88/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV88/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV89",
+    "id": "pokemon:en:sma-SV89",
     "cardId": "sma-SV89",
-    "printingId": "pokemon:sma-SV89",
+    "printingId": "pokemon:en:sma-SV89",
     "game": "pokemon",
     "name": "Mt. Coronet",
     "number": "SV89",
@@ -1843,14 +1930,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV89/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV89/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV9",
+    "id": "pokemon:en:sma-SV9",
     "cardId": "sma-SV9",
-    "printingId": "pokemon:sma-SV9",
+    "printingId": "pokemon:en:sma-SV9",
     "game": "pokemon",
     "name": "Wooper",
     "number": "SV9",
@@ -1864,14 +1952,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV9/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV9/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV90",
+    "id": "pokemon:en:sma-SV90",
     "cardId": "sma-SV90",
-    "printingId": "pokemon:sma-SV90",
+    "printingId": "pokemon:en:sma-SV90",
     "game": "pokemon",
     "name": "Shrine of Punishment",
     "number": "SV90",
@@ -1885,14 +1974,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV90/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV90/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV91",
+    "id": "pokemon:en:sma-SV91",
     "cardId": "sma-SV91",
-    "printingId": "pokemon:sma-SV91",
+    "printingId": "pokemon:en:sma-SV91",
     "game": "pokemon",
     "name": "Tapu Bulu-GX",
     "number": "SV91",
@@ -1906,14 +1996,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV91/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV91/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV92",
+    "id": "pokemon:en:sma-SV92",
     "cardId": "sma-SV92",
-    "printingId": "pokemon:sma-SV92",
+    "printingId": "pokemon:en:sma-SV92",
     "game": "pokemon",
     "name": "Tapu Fini-GX",
     "number": "SV92",
@@ -1927,14 +2018,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV92/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV92/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV93",
+    "id": "pokemon:en:sma-SV93",
     "cardId": "sma-SV93",
-    "printingId": "pokemon:sma-SV93",
+    "printingId": "pokemon:en:sma-SV93",
     "game": "pokemon",
     "name": "Tapu Koko-GX",
     "number": "SV93",
@@ -1948,14 +2040,15 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV93/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV93/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:sma-SV94",
+    "id": "pokemon:en:sma-SV94",
     "cardId": "sma-SV94",
-    "printingId": "pokemon:sma-SV94",
+    "printingId": "pokemon:en:sma-SV94",
     "game": "pokemon",
     "name": "Tapu Lele-GX",
     "number": "SV94",
@@ -1969,8 +2062,9 @@
     "releaseDate": "2019-08-23",
     "image": "https://assets.tcgdex.net/en/sm/sma/SV94/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/sm/sma/SV94/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

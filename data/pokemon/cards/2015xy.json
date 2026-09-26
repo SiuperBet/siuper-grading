@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:2015xy-1",
+    "id": "pokemon:en:2015xy-1",
     "cardId": "2015xy-1",
-    "printingId": "pokemon:2015xy-1",
+    "printingId": "pokemon:en:2015xy-1",
     "game": "pokemon",
     "name": "Treecko",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-2",
+    "id": "pokemon:en:2015xy-2",
     "cardId": "2015xy-2",
-    "printingId": "pokemon:2015xy-2",
+    "printingId": "pokemon:en:2015xy-2",
     "game": "pokemon",
     "name": "Lotad",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-3",
+    "id": "pokemon:en:2015xy-3",
     "cardId": "2015xy-3",
-    "printingId": "pokemon:2015xy-3",
+    "printingId": "pokemon:en:2015xy-3",
     "game": "pokemon",
     "name": "Torchic",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-4",
+    "id": "pokemon:en:2015xy-4",
     "cardId": "2015xy-4",
-    "printingId": "pokemon:2015xy-4",
+    "printingId": "pokemon:en:2015xy-4",
     "game": "pokemon",
     "name": "Staryu",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-5",
+    "id": "pokemon:en:2015xy-5",
     "cardId": "2015xy-5",
-    "printingId": "pokemon:2015xy-5",
+    "printingId": "pokemon:en:2015xy-5",
     "game": "pokemon",
     "name": "Mudkip",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-6",
+    "id": "pokemon:en:2015xy-6",
     "cardId": "2015xy-6",
-    "printingId": "pokemon:2015xy-6",
+    "printingId": "pokemon:en:2015xy-6",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-7",
+    "id": "pokemon:en:2015xy-7",
     "cardId": "2015xy-7",
-    "printingId": "pokemon:2015xy-7",
+    "printingId": "pokemon:en:2015xy-7",
     "game": "pokemon",
     "name": "Electrike",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-8",
+    "id": "pokemon:en:2015xy-8",
     "cardId": "2015xy-8",
-    "printingId": "pokemon:2015xy-8",
+    "printingId": "pokemon:en:2015xy-8",
     "game": "pokemon",
     "name": "Rhyhorn",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-9",
+    "id": "pokemon:en:2015xy-9",
     "cardId": "2015xy-9",
-    "printingId": "pokemon:2015xy-9",
+    "printingId": "pokemon:en:2015xy-9",
     "game": "pokemon",
     "name": "Meditite",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-10",
+    "id": "pokemon:en:2015xy-10",
     "cardId": "2015xy-10",
-    "printingId": "pokemon:2015xy-10",
+    "printingId": "pokemon:en:2015xy-10",
     "game": "pokemon",
     "name": "Marill",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-11",
+    "id": "pokemon:en:2015xy-11",
     "cardId": "2015xy-11",
-    "printingId": "pokemon:2015xy-11",
+    "printingId": "pokemon:en:2015xy-11",
     "game": "pokemon",
     "name": "Zigzagoon",
     "number": "11",
@@ -226,14 +236,15 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2015xy-12",
+    "id": "pokemon:en:2015xy-12",
     "cardId": "2015xy-12",
-    "printingId": "pokemon:2015xy-12",
+    "printingId": "pokemon:en:2015xy-12",
     "game": "pokemon",
     "name": "Skitty",
     "number": "12",
@@ -247,8 +258,9 @@
     "releaseDate": "2015-11-27",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

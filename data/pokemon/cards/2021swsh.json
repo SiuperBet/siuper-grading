@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:2021swsh-1",
+    "id": "pokemon:en:2021swsh-1",
     "cardId": "2021swsh-1",
-    "printingId": "pokemon:2021swsh-1",
+    "printingId": "pokemon:en:2021swsh-1",
     "game": "pokemon",
     "name": "Bulbasaur",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-2",
+    "id": "pokemon:en:2021swsh-2",
     "cardId": "2021swsh-2",
-    "printingId": "pokemon:2021swsh-2",
+    "printingId": "pokemon:en:2021swsh-2",
     "game": "pokemon",
     "name": "Chikorita",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-3",
+    "id": "pokemon:en:2021swsh-3",
     "cardId": "2021swsh-3",
-    "printingId": "pokemon:2021swsh-3",
+    "printingId": "pokemon:en:2021swsh-3",
     "game": "pokemon",
     "name": "Treecko",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-4",
+    "id": "pokemon:en:2021swsh-4",
     "cardId": "2021swsh-4",
-    "printingId": "pokemon:2021swsh-4",
+    "printingId": "pokemon:en:2021swsh-4",
     "game": "pokemon",
     "name": "Turtwig",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-5",
+    "id": "pokemon:en:2021swsh-5",
     "cardId": "2021swsh-5",
-    "printingId": "pokemon:2021swsh-5",
+    "printingId": "pokemon:en:2021swsh-5",
     "game": "pokemon",
     "name": "Snivy",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-6",
+    "id": "pokemon:en:2021swsh-6",
     "cardId": "2021swsh-6",
-    "printingId": "pokemon:2021swsh-6",
+    "printingId": "pokemon:en:2021swsh-6",
     "game": "pokemon",
     "name": "Chespin",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-7",
+    "id": "pokemon:en:2021swsh-7",
     "cardId": "2021swsh-7",
-    "printingId": "pokemon:2021swsh-7",
+    "printingId": "pokemon:en:2021swsh-7",
     "game": "pokemon",
     "name": "Rowlet",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-8",
+    "id": "pokemon:en:2021swsh-8",
     "cardId": "2021swsh-8",
-    "printingId": "pokemon:2021swsh-8",
+    "printingId": "pokemon:en:2021swsh-8",
     "game": "pokemon",
     "name": "Grookey",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-9",
+    "id": "pokemon:en:2021swsh-9",
     "cardId": "2021swsh-9",
-    "printingId": "pokemon:2021swsh-9",
+    "printingId": "pokemon:en:2021swsh-9",
     "game": "pokemon",
     "name": "Charmander",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-10",
+    "id": "pokemon:en:2021swsh-10",
     "cardId": "2021swsh-10",
-    "printingId": "pokemon:2021swsh-10",
+    "printingId": "pokemon:en:2021swsh-10",
     "game": "pokemon",
     "name": "Cyndaquil",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-11",
+    "id": "pokemon:en:2021swsh-11",
     "cardId": "2021swsh-11",
-    "printingId": "pokemon:2021swsh-11",
+    "printingId": "pokemon:en:2021swsh-11",
     "game": "pokemon",
     "name": "Torchic",
     "number": "11",
@@ -226,14 +236,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-12",
+    "id": "pokemon:en:2021swsh-12",
     "cardId": "2021swsh-12",
-    "printingId": "pokemon:2021swsh-12",
+    "printingId": "pokemon:en:2021swsh-12",
     "game": "pokemon",
     "name": "Chimchar",
     "number": "12",
@@ -247,14 +258,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-13",
+    "id": "pokemon:en:2021swsh-13",
     "cardId": "2021swsh-13",
-    "printingId": "pokemon:2021swsh-13",
+    "printingId": "pokemon:en:2021swsh-13",
     "game": "pokemon",
     "name": "Tepig",
     "number": "13",
@@ -268,14 +280,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-14",
+    "id": "pokemon:en:2021swsh-14",
     "cardId": "2021swsh-14",
-    "printingId": "pokemon:2021swsh-14",
+    "printingId": "pokemon:en:2021swsh-14",
     "game": "pokemon",
     "name": "Fennekin",
     "number": "14",
@@ -289,14 +302,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-15",
+    "id": "pokemon:en:2021swsh-15",
     "cardId": "2021swsh-15",
-    "printingId": "pokemon:2021swsh-15",
+    "printingId": "pokemon:en:2021swsh-15",
     "game": "pokemon",
     "name": "Litten",
     "number": "15",
@@ -310,14 +324,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-16",
+    "id": "pokemon:en:2021swsh-16",
     "cardId": "2021swsh-16",
-    "printingId": "pokemon:2021swsh-16",
+    "printingId": "pokemon:en:2021swsh-16",
     "game": "pokemon",
     "name": "Scorbunny",
     "number": "16",
@@ -331,14 +346,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-17",
+    "id": "pokemon:en:2021swsh-17",
     "cardId": "2021swsh-17",
-    "printingId": "pokemon:2021swsh-17",
+    "printingId": "pokemon:en:2021swsh-17",
     "game": "pokemon",
     "name": "Squirtle",
     "number": "17",
@@ -352,14 +368,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-18",
+    "id": "pokemon:en:2021swsh-18",
     "cardId": "2021swsh-18",
-    "printingId": "pokemon:2021swsh-18",
+    "printingId": "pokemon:en:2021swsh-18",
     "game": "pokemon",
     "name": "Totodile",
     "number": "18",
@@ -373,14 +390,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-19",
+    "id": "pokemon:en:2021swsh-19",
     "cardId": "2021swsh-19",
-    "printingId": "pokemon:2021swsh-19",
+    "printingId": "pokemon:en:2021swsh-19",
     "game": "pokemon",
     "name": "Mudkip",
     "number": "19",
@@ -394,14 +412,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-20",
+    "id": "pokemon:en:2021swsh-20",
     "cardId": "2021swsh-20",
-    "printingId": "pokemon:2021swsh-20",
+    "printingId": "pokemon:en:2021swsh-20",
     "game": "pokemon",
     "name": "Piplup",
     "number": "20",
@@ -415,14 +434,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-21",
+    "id": "pokemon:en:2021swsh-21",
     "cardId": "2021swsh-21",
-    "printingId": "pokemon:2021swsh-21",
+    "printingId": "pokemon:en:2021swsh-21",
     "game": "pokemon",
     "name": "Oshawott",
     "number": "21",
@@ -436,14 +456,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-22",
+    "id": "pokemon:en:2021swsh-22",
     "cardId": "2021swsh-22",
-    "printingId": "pokemon:2021swsh-22",
+    "printingId": "pokemon:en:2021swsh-22",
     "game": "pokemon",
     "name": "Froakie",
     "number": "22",
@@ -457,14 +478,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-23",
+    "id": "pokemon:en:2021swsh-23",
     "cardId": "2021swsh-23",
-    "printingId": "pokemon:2021swsh-23",
+    "printingId": "pokemon:en:2021swsh-23",
     "game": "pokemon",
     "name": "Popplio",
     "number": "23",
@@ -478,14 +500,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-24",
+    "id": "pokemon:en:2021swsh-24",
     "cardId": "2021swsh-24",
-    "printingId": "pokemon:2021swsh-24",
+    "printingId": "pokemon:en:2021swsh-24",
     "game": "pokemon",
     "name": "Sobble",
     "number": "24",
@@ -499,14 +522,15 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2021swsh-25",
+    "id": "pokemon:en:2021swsh-25",
     "cardId": "2021swsh-25",
-    "printingId": "pokemon:2021swsh-25",
+    "printingId": "pokemon:en:2021swsh-25",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "25",
@@ -520,8 +544,9 @@
     "releaseDate": "2021-02-09",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

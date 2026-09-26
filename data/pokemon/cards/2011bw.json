@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:2011bw-1",
+    "id": "pokemon:en:2011bw-1",
     "cardId": "2011bw-1",
-    "printingId": "pokemon:2011bw-1",
+    "printingId": "pokemon:en:2011bw-1",
     "game": "pokemon",
     "name": "Snivy",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-2",
+    "id": "pokemon:en:2011bw-2",
     "cardId": "2011bw-2",
-    "printingId": "pokemon:2011bw-2",
+    "printingId": "pokemon:en:2011bw-2",
     "game": "pokemon",
     "name": "Maractus",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-3",
+    "id": "pokemon:en:2011bw-3",
     "cardId": "2011bw-3",
-    "printingId": "pokemon:2011bw-3",
+    "printingId": "pokemon:en:2011bw-3",
     "game": "pokemon",
     "name": "Tepig",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-4",
+    "id": "pokemon:en:2011bw-4",
     "cardId": "2011bw-4",
-    "printingId": "pokemon:2011bw-4",
+    "printingId": "pokemon:en:2011bw-4",
     "game": "pokemon",
     "name": "Oshawott",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-5",
+    "id": "pokemon:en:2011bw-5",
     "cardId": "2011bw-5",
-    "printingId": "pokemon:2011bw-5",
+    "printingId": "pokemon:en:2011bw-5",
     "game": "pokemon",
     "name": "Alomomola",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-6",
+    "id": "pokemon:en:2011bw-6",
     "cardId": "2011bw-6",
-    "printingId": "pokemon:2011bw-6",
+    "printingId": "pokemon:en:2011bw-6",
     "game": "pokemon",
     "name": "Blitzle",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-7",
+    "id": "pokemon:en:2011bw-7",
     "cardId": "2011bw-7",
-    "printingId": "pokemon:2011bw-7",
+    "printingId": "pokemon:en:2011bw-7",
     "game": "pokemon",
     "name": "Munna",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-8",
+    "id": "pokemon:en:2011bw-8",
     "cardId": "2011bw-8",
-    "printingId": "pokemon:2011bw-8",
+    "printingId": "pokemon:en:2011bw-8",
     "game": "pokemon",
     "name": "Sandile",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-9",
+    "id": "pokemon:en:2011bw-9",
     "cardId": "2011bw-9",
-    "printingId": "pokemon:2011bw-9",
+    "printingId": "pokemon:en:2011bw-9",
     "game": "pokemon",
     "name": "Zorua",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-10",
+    "id": "pokemon:en:2011bw-10",
     "cardId": "2011bw-10",
-    "printingId": "pokemon:2011bw-10",
+    "printingId": "pokemon:en:2011bw-10",
     "game": "pokemon",
     "name": "Klink",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-11",
+    "id": "pokemon:en:2011bw-11",
     "cardId": "2011bw-11",
-    "printingId": "pokemon:2011bw-11",
+    "printingId": "pokemon:en:2011bw-11",
     "game": "pokemon",
     "name": "Pidove",
     "number": "11",
@@ -226,14 +236,15 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2011bw-12",
+    "id": "pokemon:en:2011bw-12",
     "cardId": "2011bw-12",
-    "printingId": "pokemon:2011bw-12",
+    "printingId": "pokemon:en:2011bw-12",
     "game": "pokemon",
     "name": "Audino",
     "number": "12",
@@ -247,8 +258,9 @@
     "releaseDate": "2011-06-17",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

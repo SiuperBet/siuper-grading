@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:tk-hs-r-1",
+    "id": "pokemon:en:tk-hs-r-1",
     "cardId": "tk-hs-r-1",
-    "printingId": "pokemon:tk-hs-r-1",
+    "printingId": "pokemon:en:tk-hs-r-1",
     "game": "pokemon",
     "name": "Moomoo Milk",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-2",
+    "id": "pokemon:en:tk-hs-r-2",
     "cardId": "tk-hs-r-2",
-    "printingId": "pokemon:tk-hs-r-2",
+    "printingId": "pokemon:en:tk-hs-r-2",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-3",
+    "id": "pokemon:en:tk-hs-r-3",
     "cardId": "tk-hs-r-3",
-    "printingId": "pokemon:tk-hs-r-3",
+    "printingId": "pokemon:en:tk-hs-r-3",
     "game": "pokemon",
     "name": "Flaaffy",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-4",
+    "id": "pokemon:en:tk-hs-r-4",
     "cardId": "tk-hs-r-4",
-    "printingId": "pokemon:tk-hs-r-4",
+    "printingId": "pokemon:en:tk-hs-r-4",
     "game": "pokemon",
     "name": "Meowth",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-5",
+    "id": "pokemon:en:tk-hs-r-5",
     "cardId": "tk-hs-r-5",
-    "printingId": "pokemon:tk-hs-r-5",
+    "printingId": "pokemon:en:tk-hs-r-5",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-6",
+    "id": "pokemon:en:tk-hs-r-6",
     "cardId": "tk-hs-r-6",
-    "printingId": "pokemon:tk-hs-r-6",
+    "printingId": "pokemon:en:tk-hs-r-6",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-7",
+    "id": "pokemon:en:tk-hs-r-7",
     "cardId": "tk-hs-r-7",
-    "printingId": "pokemon:tk-hs-r-7",
+    "printingId": "pokemon:en:tk-hs-r-7",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-8",
+    "id": "pokemon:en:tk-hs-r-8",
     "cardId": "tk-hs-r-8",
-    "printingId": "pokemon:tk-hs-r-8",
+    "printingId": "pokemon:en:tk-hs-r-8",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-9",
+    "id": "pokemon:en:tk-hs-r-9",
     "cardId": "tk-hs-r-9",
-    "printingId": "pokemon:tk-hs-r-9",
+    "printingId": "pokemon:en:tk-hs-r-9",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-10",
+    "id": "pokemon:en:tk-hs-r-10",
     "cardId": "tk-hs-r-10",
-    "printingId": "pokemon:tk-hs-r-10",
+    "printingId": "pokemon:en:tk-hs-r-10",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-11",
+    "id": "pokemon:en:tk-hs-r-11",
     "cardId": "tk-hs-r-11",
-    "printingId": "pokemon:tk-hs-r-11",
+    "printingId": "pokemon:en:tk-hs-r-11",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "11",
@@ -226,14 +236,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-12",
+    "id": "pokemon:en:tk-hs-r-12",
     "cardId": "tk-hs-r-12",
-    "printingId": "pokemon:tk-hs-r-12",
+    "printingId": "pokemon:en:tk-hs-r-12",
     "game": "pokemon",
     "name": "Meowth",
     "number": "12",
@@ -247,14 +258,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-13",
+    "id": "pokemon:en:tk-hs-r-13",
     "cardId": "tk-hs-r-13",
-    "printingId": "pokemon:tk-hs-r-13",
+    "printingId": "pokemon:en:tk-hs-r-13",
     "game": "pokemon",
     "name": "Mareep",
     "number": "13",
@@ -268,14 +280,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-14",
+    "id": "pokemon:en:tk-hs-r-14",
     "cardId": "tk-hs-r-14",
-    "printingId": "pokemon:tk-hs-r-14",
+    "printingId": "pokemon:en:tk-hs-r-14",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "14",
@@ -289,14 +302,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-15",
+    "id": "pokemon:en:tk-hs-r-15",
     "cardId": "tk-hs-r-15",
-    "printingId": "pokemon:tk-hs-r-15",
+    "printingId": "pokemon:en:tk-hs-r-15",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "15",
@@ -310,14 +324,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-16",
+    "id": "pokemon:en:tk-hs-r-16",
     "cardId": "tk-hs-r-16",
-    "printingId": "pokemon:tk-hs-r-16",
+    "printingId": "pokemon:en:tk-hs-r-16",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "16",
@@ -331,14 +346,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-17",
+    "id": "pokemon:en:tk-hs-r-17",
     "cardId": "tk-hs-r-17",
-    "printingId": "pokemon:tk-hs-r-17",
+    "printingId": "pokemon:en:tk-hs-r-17",
     "game": "pokemon",
     "name": "Flaaffy",
     "number": "17",
@@ -352,14 +368,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-18",
+    "id": "pokemon:en:tk-hs-r-18",
     "cardId": "tk-hs-r-18",
-    "printingId": "pokemon:tk-hs-r-18",
+    "printingId": "pokemon:en:tk-hs-r-18",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "18",
@@ -373,14 +390,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-19",
+    "id": "pokemon:en:tk-hs-r-19",
     "cardId": "tk-hs-r-19",
-    "printingId": "pokemon:tk-hs-r-19",
+    "printingId": "pokemon:en:tk-hs-r-19",
     "game": "pokemon",
     "name": "Raichu",
     "number": "19",
@@ -394,14 +412,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-20",
+    "id": "pokemon:en:tk-hs-r-20",
     "cardId": "tk-hs-r-20",
-    "printingId": "pokemon:tk-hs-r-20",
+    "printingId": "pokemon:en:tk-hs-r-20",
     "game": "pokemon",
     "name": "Mareep",
     "number": "20",
@@ -415,14 +434,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-21",
+    "id": "pokemon:en:tk-hs-r-21",
     "cardId": "tk-hs-r-21",
-    "printingId": "pokemon:tk-hs-r-21",
+    "printingId": "pokemon:en:tk-hs-r-21",
     "game": "pokemon",
     "name": "Copycat",
     "number": "21",
@@ -436,14 +456,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-22",
+    "id": "pokemon:en:tk-hs-r-22",
     "cardId": "tk-hs-r-22",
-    "printingId": "pokemon:tk-hs-r-22",
+    "printingId": "pokemon:en:tk-hs-r-22",
     "game": "pokemon",
     "name": "Pokémon Collector",
     "number": "22",
@@ -457,14 +478,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-23",
+    "id": "pokemon:en:tk-hs-r-23",
     "cardId": "tk-hs-r-23",
-    "printingId": "pokemon:tk-hs-r-23",
+    "printingId": "pokemon:en:tk-hs-r-23",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "23",
@@ -478,14 +500,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-24",
+    "id": "pokemon:en:tk-hs-r-24",
     "cardId": "tk-hs-r-24",
-    "printingId": "pokemon:tk-hs-r-24",
+    "printingId": "pokemon:en:tk-hs-r-24",
     "game": "pokemon",
     "name": "Switch",
     "number": "24",
@@ -499,14 +522,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-25",
+    "id": "pokemon:en:tk-hs-r-25",
     "cardId": "tk-hs-r-25",
-    "printingId": "pokemon:tk-hs-r-25",
+    "printingId": "pokemon:en:tk-hs-r-25",
     "game": "pokemon",
     "name": "Poké Ball",
     "number": "25",
@@ -520,14 +544,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-26",
+    "id": "pokemon:en:tk-hs-r-26",
     "cardId": "tk-hs-r-26",
-    "printingId": "pokemon:tk-hs-r-26",
+    "printingId": "pokemon:en:tk-hs-r-26",
     "game": "pokemon",
     "name": "Moomoo Milk",
     "number": "26",
@@ -541,14 +566,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-27",
+    "id": "pokemon:en:tk-hs-r-27",
     "cardId": "tk-hs-r-27",
-    "printingId": "pokemon:tk-hs-r-27",
+    "printingId": "pokemon:en:tk-hs-r-27",
     "game": "pokemon",
     "name": "Pokémon Collector",
     "number": "27",
@@ -562,14 +588,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-28",
+    "id": "pokemon:en:tk-hs-r-28",
     "cardId": "tk-hs-r-28",
-    "printingId": "pokemon:tk-hs-r-28",
+    "printingId": "pokemon:en:tk-hs-r-28",
     "game": "pokemon",
     "name": "Lightning Energy",
     "number": "28",
@@ -583,14 +610,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-29",
+    "id": "pokemon:en:tk-hs-r-29",
     "cardId": "tk-hs-r-29",
-    "printingId": "pokemon:tk-hs-r-29",
+    "printingId": "pokemon:en:tk-hs-r-29",
     "game": "pokemon",
     "name": "Energy Switch",
     "number": "29",
@@ -604,14 +632,15 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-hs-r-30",
+    "id": "pokemon:en:tk-hs-r-30",
     "cardId": "tk-hs-r-30",
-    "printingId": "pokemon:tk-hs-r-30",
+    "printingId": "pokemon:en:tk-hs-r-30",
     "game": "pokemon",
     "name": "Raichu",
     "number": "30",
@@ -625,8 +654,9 @@
     "releaseDate": "2010-05-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

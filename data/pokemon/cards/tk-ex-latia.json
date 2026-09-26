@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:tk-ex-latia-1",
+    "id": "pokemon:en:tk-ex-latia-1",
     "cardId": "tk-ex-latia-1",
-    "printingId": "pokemon:tk-ex-latia-1",
+    "printingId": "pokemon:en:tk-ex-latia-1",
     "game": "pokemon",
     "name": "Bagon",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-ex-latia-2",
+    "id": "pokemon:en:tk-ex-latia-2",
     "cardId": "tk-ex-latia-2",
-    "printingId": "pokemon:tk-ex-latia-2",
+    "printingId": "pokemon:en:tk-ex-latia-2",
     "game": "pokemon",
     "name": "Combusken",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-ex-latia-3",
+    "id": "pokemon:en:tk-ex-latia-3",
     "cardId": "tk-ex-latia-3",
-    "printingId": "pokemon:tk-ex-latia-3",
+    "printingId": "pokemon:en:tk-ex-latia-3",
     "game": "pokemon",
     "name": "Delcatty",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-ex-latia-4",
+    "id": "pokemon:en:tk-ex-latia-4",
     "cardId": "tk-ex-latia-4",
-    "printingId": "pokemon:tk-ex-latia-4",
+    "printingId": "pokemon:en:tk-ex-latia-4",
     "game": "pokemon",
     "name": "Latias",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-ex-latia-5",
+    "id": "pokemon:en:tk-ex-latia-5",
     "cardId": "tk-ex-latia-5",
-    "printingId": "pokemon:tk-ex-latia-5",
+    "printingId": "pokemon:en:tk-ex-latia-5",
     "game": "pokemon",
     "name": "Numel",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-ex-latia-6",
+    "id": "pokemon:en:tk-ex-latia-6",
     "cardId": "tk-ex-latia-6",
-    "printingId": "pokemon:tk-ex-latia-6",
+    "printingId": "pokemon:en:tk-ex-latia-6",
     "game": "pokemon",
     "name": "Skitty",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-ex-latia-7",
+    "id": "pokemon:en:tk-ex-latia-7",
     "cardId": "tk-ex-latia-7",
-    "printingId": "pokemon:tk-ex-latia-7",
+    "printingId": "pokemon:en:tk-ex-latia-7",
     "game": "pokemon",
     "name": "Torchic",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-ex-latia-8",
+    "id": "pokemon:en:tk-ex-latia-8",
     "cardId": "tk-ex-latia-8",
-    "printingId": "pokemon:tk-ex-latia-8",
+    "printingId": "pokemon:en:tk-ex-latia-8",
     "game": "pokemon",
     "name": "Potion",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-ex-latia-9",
+    "id": "pokemon:en:tk-ex-latia-9",
     "cardId": "tk-ex-latia-9",
-    "printingId": "pokemon:tk-ex-latia-9",
+    "printingId": "pokemon:en:tk-ex-latia-9",
     "game": "pokemon",
     "name": "Energy Search",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-ex-latia-10",
+    "id": "pokemon:en:tk-ex-latia-10",
     "cardId": "tk-ex-latia-10",
-    "printingId": "pokemon:tk-ex-latia-10",
+    "printingId": "pokemon:en:tk-ex-latia-10",
     "game": "pokemon",
     "name": "Fire Energy",
     "number": "10",
@@ -205,8 +214,9 @@
     "releaseDate": "2004-07-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

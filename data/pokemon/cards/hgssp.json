@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:hgssp-HGSS01",
+    "id": "pokemon:en:hgssp-HGSS01",
     "cardId": "hgssp-HGSS01",
-    "printingId": "pokemon:hgssp-HGSS01",
+    "printingId": "pokemon:en:hgssp-HGSS01",
     "game": "pokemon",
     "name": "Ho-Oh",
     "number": "HGSS01",
@@ -16,14 +16,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS01/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS01/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS02",
+    "id": "pokemon:en:hgssp-HGSS02",
     "cardId": "hgssp-HGSS02",
-    "printingId": "pokemon:hgssp-HGSS02",
+    "printingId": "pokemon:en:hgssp-HGSS02",
     "game": "pokemon",
     "name": "Lugia",
     "number": "HGSS02",
@@ -37,14 +38,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS02/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS02/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS03",
+    "id": "pokemon:en:hgssp-HGSS03",
     "cardId": "hgssp-HGSS03",
-    "printingId": "pokemon:hgssp-HGSS03",
+    "printingId": "pokemon:en:hgssp-HGSS03",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "HGSS03",
@@ -58,14 +60,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS03/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS03/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS04",
+    "id": "pokemon:en:hgssp-HGSS04",
     "cardId": "hgssp-HGSS04",
-    "printingId": "pokemon:hgssp-HGSS04",
+    "printingId": "pokemon:en:hgssp-HGSS04",
     "game": "pokemon",
     "name": "Wobbuffet",
     "number": "HGSS04",
@@ -79,14 +82,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS04/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS04/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS05",
+    "id": "pokemon:en:hgssp-HGSS05",
     "cardId": "hgssp-HGSS05",
-    "printingId": "pokemon:hgssp-HGSS05",
+    "printingId": "pokemon:en:hgssp-HGSS05",
     "game": "pokemon",
     "name": "Hoothoot",
     "number": "HGSS05",
@@ -100,14 +104,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS05/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS05/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS06",
+    "id": "pokemon:en:hgssp-HGSS06",
     "cardId": "hgssp-HGSS06",
-    "printingId": "pokemon:hgssp-HGSS06",
+    "printingId": "pokemon:en:hgssp-HGSS06",
     "game": "pokemon",
     "name": "Noctowl",
     "number": "HGSS06",
@@ -121,14 +126,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS06/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS06/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS07",
+    "id": "pokemon:en:hgssp-HGSS07",
     "cardId": "hgssp-HGSS07",
-    "printingId": "pokemon:hgssp-HGSS07",
+    "printingId": "pokemon:en:hgssp-HGSS07",
     "game": "pokemon",
     "name": "Feraligatr",
     "number": "HGSS07",
@@ -142,14 +148,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS07/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS07/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS08",
+    "id": "pokemon:en:hgssp-HGSS08",
     "cardId": "hgssp-HGSS08",
-    "printingId": "pokemon:hgssp-HGSS08",
+    "printingId": "pokemon:en:hgssp-HGSS08",
     "game": "pokemon",
     "name": "Meganium",
     "number": "HGSS08",
@@ -163,14 +170,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS08/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS08/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS09",
+    "id": "pokemon:en:hgssp-HGSS09",
     "cardId": "hgssp-HGSS09",
-    "printingId": "pokemon:hgssp-HGSS09",
+    "printingId": "pokemon:en:hgssp-HGSS09",
     "game": "pokemon",
     "name": "Typhlosion",
     "number": "HGSS09",
@@ -184,14 +192,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS09/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS09/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS10",
+    "id": "pokemon:en:hgssp-HGSS10",
     "cardId": "hgssp-HGSS10",
-    "printingId": "pokemon:hgssp-HGSS10",
+    "printingId": "pokemon:en:hgssp-HGSS10",
     "game": "pokemon",
     "name": "Latias",
     "number": "HGSS10",
@@ -205,14 +214,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS10/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS10/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS11",
+    "id": "pokemon:en:hgssp-HGSS11",
     "cardId": "hgssp-HGSS11",
-    "printingId": "pokemon:hgssp-HGSS11",
+    "printingId": "pokemon:en:hgssp-HGSS11",
     "game": "pokemon",
     "name": "Latios",
     "number": "HGSS11",
@@ -226,14 +236,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS11/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS11/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS12",
+    "id": "pokemon:en:hgssp-HGSS12",
     "cardId": "hgssp-HGSS12",
-    "printingId": "pokemon:hgssp-HGSS12",
+    "printingId": "pokemon:en:hgssp-HGSS12",
     "game": "pokemon",
     "name": "Cleffa",
     "number": "HGSS12",
@@ -247,14 +258,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS12/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS12/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS13",
+    "id": "pokemon:en:hgssp-HGSS13",
     "cardId": "hgssp-HGSS13",
-    "printingId": "pokemon:hgssp-HGSS13",
+    "printingId": "pokemon:en:hgssp-HGSS13",
     "game": "pokemon",
     "name": "Smoochum",
     "number": "HGSS13",
@@ -268,14 +280,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS13/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS13/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS14",
+    "id": "pokemon:en:hgssp-HGSS14",
     "cardId": "hgssp-HGSS14",
-    "printingId": "pokemon:hgssp-HGSS14",
+    "printingId": "pokemon:en:hgssp-HGSS14",
     "game": "pokemon",
     "name": "Lapras",
     "number": "HGSS14",
@@ -289,14 +302,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS14/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS14/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS15",
+    "id": "pokemon:en:hgssp-HGSS15",
     "cardId": "hgssp-HGSS15",
-    "printingId": "pokemon:hgssp-HGSS15",
+    "printingId": "pokemon:en:hgssp-HGSS15",
     "game": "pokemon",
     "name": "Shuckle",
     "number": "HGSS15",
@@ -310,14 +324,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS15/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS15/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS16",
+    "id": "pokemon:en:hgssp-HGSS16",
     "cardId": "hgssp-HGSS16",
-    "printingId": "pokemon:hgssp-HGSS16",
+    "printingId": "pokemon:en:hgssp-HGSS16",
     "game": "pokemon",
     "name": "Plusle",
     "number": "HGSS16",
@@ -331,14 +346,15 @@
     "releaseDate": "2010-02-11",
     "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS16/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS16/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS17",
+    "id": "pokemon:en:hgssp-HGSS17",
     "cardId": "hgssp-HGSS17",
-    "printingId": "pokemon:hgssp-HGSS17",
+    "printingId": "pokemon:en:hgssp-HGSS17",
     "game": "pokemon",
     "name": "Minun",
     "number": "HGSS17",
@@ -352,14 +368,15 @@
     "releaseDate": "2010-02-11",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS18",
+    "id": "pokemon:en:hgssp-HGSS18",
     "cardId": "hgssp-HGSS18",
-    "printingId": "pokemon:hgssp-HGSS18",
+    "printingId": "pokemon:en:hgssp-HGSS18",
     "game": "pokemon",
     "name": "Tropical Tidal Wave",
     "number": "HGSS18",
@@ -373,14 +390,15 @@
     "releaseDate": "2010-02-11",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS19",
+    "id": "pokemon:en:hgssp-HGSS19",
     "cardId": "hgssp-HGSS19",
-    "printingId": "pokemon:hgssp-HGSS19",
+    "printingId": "pokemon:en:hgssp-HGSS19",
     "game": "pokemon",
     "name": "Raikou",
     "number": "HGSS19",
@@ -394,14 +412,15 @@
     "releaseDate": "2010-02-11",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS20",
+    "id": "pokemon:en:hgssp-HGSS20",
     "cardId": "hgssp-HGSS20",
-    "printingId": "pokemon:hgssp-HGSS20",
+    "printingId": "pokemon:en:hgssp-HGSS20",
     "game": "pokemon",
     "name": "Entei",
     "number": "HGSS20",
@@ -415,14 +434,15 @@
     "releaseDate": "2010-02-11",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS21",
+    "id": "pokemon:en:hgssp-HGSS21",
     "cardId": "hgssp-HGSS21",
-    "printingId": "pokemon:hgssp-HGSS21",
+    "printingId": "pokemon:en:hgssp-HGSS21",
     "game": "pokemon",
     "name": "Suicune",
     "number": "HGSS21",
@@ -436,14 +456,15 @@
     "releaseDate": "2010-02-11",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS22",
+    "id": "pokemon:en:hgssp-HGSS22",
     "cardId": "hgssp-HGSS22",
-    "printingId": "pokemon:hgssp-HGSS22",
+    "printingId": "pokemon:en:hgssp-HGSS22",
     "game": "pokemon",
     "name": "Porygon",
     "number": "HGSS22",
@@ -457,14 +478,15 @@
     "releaseDate": "2010-02-11",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS23",
+    "id": "pokemon:en:hgssp-HGSS23",
     "cardId": "hgssp-HGSS23",
-    "printingId": "pokemon:hgssp-HGSS23",
+    "printingId": "pokemon:en:hgssp-HGSS23",
     "game": "pokemon",
     "name": "Porygon2",
     "number": "HGSS23",
@@ -478,14 +500,15 @@
     "releaseDate": "2010-02-11",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS24",
+    "id": "pokemon:en:hgssp-HGSS24",
     "cardId": "hgssp-HGSS24",
-    "printingId": "pokemon:hgssp-HGSS24",
+    "printingId": "pokemon:en:hgssp-HGSS24",
     "game": "pokemon",
     "name": "Hitmonchan",
     "number": "HGSS24",
@@ -499,14 +522,15 @@
     "releaseDate": "2010-02-11",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:hgssp-HGSS25",
+    "id": "pokemon:en:hgssp-HGSS25",
     "cardId": "hgssp-HGSS25",
-    "printingId": "pokemon:hgssp-HGSS25",
+    "printingId": "pokemon:en:hgssp-HGSS25",
     "game": "pokemon",
     "name": "Hitmonlee",
     "number": "HGSS25",
@@ -520,8 +544,9 @@
     "releaseDate": "2010-02-11",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:bwp-BW01",
+    "id": "pokemon:en:bwp-BW01",
     "cardId": "bwp-BW01",
-    "printingId": "pokemon:bwp-BW01",
+    "printingId": "pokemon:en:bwp-BW01",
     "game": "pokemon",
     "name": "Snivy",
     "number": "BW01",
@@ -16,14 +16,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW01/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW01/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW02",
+    "id": "pokemon:en:bwp-BW02",
     "cardId": "bwp-BW02",
-    "printingId": "pokemon:bwp-BW02",
+    "printingId": "pokemon:en:bwp-BW02",
     "game": "pokemon",
     "name": "Tepig",
     "number": "BW02",
@@ -37,14 +38,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW02/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW02/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW03",
+    "id": "pokemon:en:bwp-BW03",
     "cardId": "bwp-BW03",
-    "printingId": "pokemon:bwp-BW03",
+    "printingId": "pokemon:en:bwp-BW03",
     "game": "pokemon",
     "name": "Oshawott",
     "number": "BW03",
@@ -58,14 +60,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW03/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW03/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW04",
+    "id": "pokemon:en:bwp-BW04",
     "cardId": "bwp-BW04",
-    "printingId": "pokemon:bwp-BW04",
+    "printingId": "pokemon:en:bwp-BW04",
     "game": "pokemon",
     "name": "Reshiram",
     "number": "BW04",
@@ -79,14 +82,15 @@
     "releaseDate": "2011-04-26",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW05",
+    "id": "pokemon:en:bwp-BW05",
     "cardId": "bwp-BW05",
-    "printingId": "pokemon:bwp-BW05",
+    "printingId": "pokemon:en:bwp-BW05",
     "game": "pokemon",
     "name": "Zekrom",
     "number": "BW05",
@@ -100,14 +104,15 @@
     "releaseDate": "2011-04-26",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW06",
+    "id": "pokemon:en:bwp-BW06",
     "cardId": "bwp-BW06",
-    "printingId": "pokemon:bwp-BW06",
+    "printingId": "pokemon:en:bwp-BW06",
     "game": "pokemon",
     "name": "Snivy",
     "number": "BW06",
@@ -121,14 +126,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW06/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW06/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW07",
+    "id": "pokemon:en:bwp-BW07",
     "cardId": "bwp-BW07",
-    "printingId": "pokemon:bwp-BW07",
+    "printingId": "pokemon:en:bwp-BW07",
     "game": "pokemon",
     "name": "Tepig",
     "number": "BW07",
@@ -142,14 +148,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW07/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW07/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW08",
+    "id": "pokemon:en:bwp-BW08",
     "cardId": "bwp-BW08",
-    "printingId": "pokemon:bwp-BW08",
+    "printingId": "pokemon:en:bwp-BW08",
     "game": "pokemon",
     "name": "Oshawott",
     "number": "BW08",
@@ -163,14 +170,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW08/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW08/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW09",
+    "id": "pokemon:en:bwp-BW09",
     "cardId": "bwp-BW09",
-    "printingId": "pokemon:bwp-BW09",
+    "printingId": "pokemon:en:bwp-BW09",
     "game": "pokemon",
     "name": "Zoroark",
     "number": "BW09",
@@ -184,14 +192,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW09/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW09/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW10",
+    "id": "pokemon:en:bwp-BW10",
     "cardId": "bwp-BW10",
-    "printingId": "pokemon:bwp-BW10",
+    "printingId": "pokemon:en:bwp-BW10",
     "game": "pokemon",
     "name": "Axew",
     "number": "BW10",
@@ -205,14 +214,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW10/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW10/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW100",
+    "id": "pokemon:en:bwp-BW100",
     "cardId": "bwp-BW100",
-    "printingId": "pokemon:bwp-BW100",
+    "printingId": "pokemon:en:bwp-BW100",
     "game": "pokemon",
     "name": "N",
     "number": "BW100",
@@ -226,14 +236,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW100/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW100/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW101",
+    "id": "pokemon:en:bwp-BW101",
     "cardId": "bwp-BW101",
-    "printingId": "pokemon:bwp-BW101",
+    "printingId": "pokemon:en:bwp-BW101",
     "game": "pokemon",
     "name": "Genesect",
     "number": "BW101",
@@ -247,14 +258,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW101/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW101/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW11",
+    "id": "pokemon:en:bwp-BW11",
     "cardId": "bwp-BW11",
-    "printingId": "pokemon:bwp-BW11",
+    "printingId": "pokemon:en:bwp-BW11",
     "game": "pokemon",
     "name": "Pansage",
     "number": "BW11",
@@ -268,14 +280,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW11/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW11/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW12",
+    "id": "pokemon:en:bwp-BW12",
     "cardId": "bwp-BW12",
-    "printingId": "pokemon:bwp-BW12",
+    "printingId": "pokemon:en:bwp-BW12",
     "game": "pokemon",
     "name": "Zorua",
     "number": "BW12",
@@ -289,14 +302,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW12/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW12/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW13",
+    "id": "pokemon:en:bwp-BW13",
     "cardId": "bwp-BW13",
-    "printingId": "pokemon:bwp-BW13",
+    "printingId": "pokemon:en:bwp-BW13",
     "game": "pokemon",
     "name": "Minccino",
     "number": "BW13",
@@ -310,14 +324,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW13/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW13/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW14",
+    "id": "pokemon:en:bwp-BW14",
     "cardId": "bwp-BW14",
-    "printingId": "pokemon:bwp-BW14",
+    "printingId": "pokemon:en:bwp-BW14",
     "game": "pokemon",
     "name": "Pansage",
     "number": "BW14",
@@ -331,14 +346,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW14/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW14/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW15",
+    "id": "pokemon:en:bwp-BW15",
     "cardId": "bwp-BW15",
-    "printingId": "pokemon:bwp-BW15",
+    "printingId": "pokemon:en:bwp-BW15",
     "game": "pokemon",
     "name": "Pidove",
     "number": "BW15",
@@ -352,14 +368,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW15/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW15/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW16",
+    "id": "pokemon:en:bwp-BW16",
     "cardId": "bwp-BW16",
-    "printingId": "pokemon:bwp-BW16",
+    "printingId": "pokemon:en:bwp-BW16",
     "game": "pokemon",
     "name": "Axew",
     "number": "BW16",
@@ -373,14 +390,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW16/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW16/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW17",
+    "id": "pokemon:en:bwp-BW17",
     "cardId": "bwp-BW17",
-    "printingId": "pokemon:bwp-BW17",
+    "printingId": "pokemon:en:bwp-BW17",
     "game": "pokemon",
     "name": "Ducklett",
     "number": "BW17",
@@ -394,14 +412,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW17/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW17/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW18",
+    "id": "pokemon:en:bwp-BW18",
     "cardId": "bwp-BW18",
-    "printingId": "pokemon:bwp-BW18",
+    "printingId": "pokemon:en:bwp-BW18",
     "game": "pokemon",
     "name": "Darumaka",
     "number": "BW18",
@@ -415,14 +434,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW18/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW18/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW19",
+    "id": "pokemon:en:bwp-BW19",
     "cardId": "bwp-BW19",
-    "printingId": "pokemon:bwp-BW19",
+    "printingId": "pokemon:en:bwp-BW19",
     "game": "pokemon",
     "name": "Zoroark",
     "number": "BW19",
@@ -436,14 +456,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW19/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW19/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW20",
+    "id": "pokemon:en:bwp-BW20",
     "cardId": "bwp-BW20",
-    "printingId": "pokemon:bwp-BW20",
+    "printingId": "pokemon:en:bwp-BW20",
     "game": "pokemon",
     "name": "Serperior",
     "number": "BW20",
@@ -457,14 +478,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW20/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW20/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW21",
+    "id": "pokemon:en:bwp-BW21",
     "cardId": "bwp-BW21",
-    "printingId": "pokemon:bwp-BW21",
+    "printingId": "pokemon:en:bwp-BW21",
     "game": "pokemon",
     "name": "Emboar",
     "number": "BW21",
@@ -478,14 +500,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW21/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW21/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW22",
+    "id": "pokemon:en:bwp-BW22",
     "cardId": "bwp-BW22",
-    "printingId": "pokemon:bwp-BW22",
+    "printingId": "pokemon:en:bwp-BW22",
     "game": "pokemon",
     "name": "Samurott",
     "number": "BW22",
@@ -499,14 +522,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW22/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW22/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW23",
+    "id": "pokemon:en:bwp-BW23",
     "cardId": "bwp-BW23",
-    "printingId": "pokemon:bwp-BW23",
+    "printingId": "pokemon:en:bwp-BW23",
     "game": "pokemon",
     "name": "Reshiram",
     "number": "BW23",
@@ -520,14 +544,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW23/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW23/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW24",
+    "id": "pokemon:en:bwp-BW24",
     "cardId": "bwp-BW24",
-    "printingId": "pokemon:bwp-BW24",
+    "printingId": "pokemon:en:bwp-BW24",
     "game": "pokemon",
     "name": "Zekrom",
     "number": "BW24",
@@ -541,14 +566,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW24/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW24/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW25",
+    "id": "pokemon:en:bwp-BW25",
     "cardId": "bwp-BW25",
-    "printingId": "pokemon:bwp-BW25",
+    "printingId": "pokemon:en:bwp-BW25",
     "game": "pokemon",
     "name": "Scraggy",
     "number": "BW25",
@@ -562,14 +588,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW25/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW25/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW26",
+    "id": "pokemon:en:bwp-BW26",
     "cardId": "bwp-BW26",
-    "printingId": "pokemon:bwp-BW26",
+    "printingId": "pokemon:en:bwp-BW26",
     "game": "pokemon",
     "name": "Axew",
     "number": "BW26",
@@ -583,14 +610,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW26/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW26/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW27",
+    "id": "pokemon:en:bwp-BW27",
     "cardId": "bwp-BW27",
-    "printingId": "pokemon:bwp-BW27",
+    "printingId": "pokemon:en:bwp-BW27",
     "game": "pokemon",
     "name": "Litwick",
     "number": "BW27",
@@ -604,14 +632,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW27/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW27/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW28",
+    "id": "pokemon:en:bwp-BW28",
     "cardId": "bwp-BW28",
-    "printingId": "pokemon:bwp-BW28",
+    "printingId": "pokemon:en:bwp-BW28",
     "game": "pokemon",
     "name": "Tropical Beach",
     "number": "BW28",
@@ -625,14 +654,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW28/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW28/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW29",
+    "id": "pokemon:en:bwp-BW29",
     "cardId": "bwp-BW29",
-    "printingId": "pokemon:bwp-BW29",
+    "printingId": "pokemon:en:bwp-BW29",
     "game": "pokemon",
     "name": "Victory Cup",
     "number": "BW29",
@@ -646,14 +676,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW29/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW29/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW30",
+    "id": "pokemon:en:bwp-BW30",
     "cardId": "bwp-BW30",
-    "printingId": "pokemon:bwp-BW30",
+    "printingId": "pokemon:en:bwp-BW30",
     "game": "pokemon",
     "name": "Victory Cup",
     "number": "BW30",
@@ -667,14 +698,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW30/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW30/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW31",
+    "id": "pokemon:en:bwp-BW31",
     "cardId": "bwp-BW31",
-    "printingId": "pokemon:bwp-BW31",
+    "printingId": "pokemon:en:bwp-BW31",
     "game": "pokemon",
     "name": "Victory Cup",
     "number": "BW31",
@@ -688,14 +720,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW31/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW31/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW32",
+    "id": "pokemon:en:bwp-BW32",
     "cardId": "bwp-BW32",
-    "printingId": "pokemon:bwp-BW32",
+    "printingId": "pokemon:en:bwp-BW32",
     "game": "pokemon",
     "name": "Victini",
     "number": "BW32",
@@ -709,14 +742,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW32/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW32/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW33",
+    "id": "pokemon:en:bwp-BW33",
     "cardId": "bwp-BW33",
-    "printingId": "pokemon:bwp-BW33",
+    "printingId": "pokemon:en:bwp-BW33",
     "game": "pokemon",
     "name": "Riolu",
     "number": "BW33",
@@ -730,14 +764,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW33/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW33/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW34",
+    "id": "pokemon:en:bwp-BW34",
     "cardId": "bwp-BW34",
-    "printingId": "pokemon:bwp-BW34",
+    "printingId": "pokemon:en:bwp-BW34",
     "game": "pokemon",
     "name": "Luxio",
     "number": "BW34",
@@ -751,14 +786,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW34/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW34/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW35",
+    "id": "pokemon:en:bwp-BW35",
     "cardId": "bwp-BW35",
-    "printingId": "pokemon:bwp-BW35",
+    "printingId": "pokemon:en:bwp-BW35",
     "game": "pokemon",
     "name": "Meowth",
     "number": "BW35",
@@ -772,14 +808,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW35/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW35/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW36",
+    "id": "pokemon:en:bwp-BW36",
     "cardId": "bwp-BW36",
-    "printingId": "pokemon:bwp-BW36",
+    "printingId": "pokemon:en:bwp-BW36",
     "game": "pokemon",
     "name": "Reshiram-EX",
     "number": "BW36",
@@ -793,14 +830,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW36/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW36/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW37",
+    "id": "pokemon:en:bwp-BW37",
     "cardId": "bwp-BW37",
-    "printingId": "pokemon:bwp-BW37",
+    "printingId": "pokemon:en:bwp-BW37",
     "game": "pokemon",
     "name": "Kyurem-EX",
     "number": "BW37",
@@ -814,14 +852,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW37/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW37/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW38",
+    "id": "pokemon:en:bwp-BW38",
     "cardId": "bwp-BW38",
-    "printingId": "pokemon:bwp-BW38",
+    "printingId": "pokemon:en:bwp-BW38",
     "game": "pokemon",
     "name": "Zekrom-EX",
     "number": "BW38",
@@ -835,14 +874,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW38/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW38/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW39",
+    "id": "pokemon:en:bwp-BW39",
     "cardId": "bwp-BW39",
-    "printingId": "pokemon:bwp-BW39",
+    "printingId": "pokemon:en:bwp-BW39",
     "game": "pokemon",
     "name": "Battle City",
     "number": "BW39",
@@ -856,14 +896,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW39/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW39/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW40",
+    "id": "pokemon:en:bwp-BW40",
     "cardId": "bwp-BW40",
-    "printingId": "pokemon:bwp-BW40",
+    "printingId": "pokemon:en:bwp-BW40",
     "game": "pokemon",
     "name": "Volcarona",
     "number": "BW40",
@@ -877,14 +918,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW40/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW40/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW41",
+    "id": "pokemon:en:bwp-BW41",
     "cardId": "bwp-BW41",
-    "printingId": "pokemon:bwp-BW41",
+    "printingId": "pokemon:en:bwp-BW41",
     "game": "pokemon",
     "name": "Thundurus",
     "number": "BW41",
@@ -898,14 +940,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW41/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW41/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW42",
+    "id": "pokemon:en:bwp-BW42",
     "cardId": "bwp-BW42",
-    "printingId": "pokemon:bwp-BW42",
+    "printingId": "pokemon:en:bwp-BW42",
     "game": "pokemon",
     "name": "Tornadus",
     "number": "BW42",
@@ -919,14 +962,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW42/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW42/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW43",
+    "id": "pokemon:en:bwp-BW43",
     "cardId": "bwp-BW43",
-    "printingId": "pokemon:bwp-BW43",
+    "printingId": "pokemon:en:bwp-BW43",
     "game": "pokemon",
     "name": "Landorus",
     "number": "BW43",
@@ -940,14 +984,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW43/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW43/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW44",
+    "id": "pokemon:en:bwp-BW44",
     "cardId": "bwp-BW44",
-    "printingId": "pokemon:bwp-BW44",
+    "printingId": "pokemon:en:bwp-BW44",
     "game": "pokemon",
     "name": "Kyurem",
     "number": "BW44",
@@ -961,14 +1006,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW44/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW44/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW45",
+    "id": "pokemon:en:bwp-BW45",
     "cardId": "bwp-BW45",
-    "printingId": "pokemon:bwp-BW45",
+    "printingId": "pokemon:en:bwp-BW45",
     "game": "pokemon",
     "name": "Mewtwo-EX",
     "number": "BW45",
@@ -982,14 +1028,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW45/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW45/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW46",
+    "id": "pokemon:en:bwp-BW46",
     "cardId": "bwp-BW46",
-    "printingId": "pokemon:bwp-BW46",
+    "printingId": "pokemon:en:bwp-BW46",
     "game": "pokemon",
     "name": "Darkrai-EX",
     "number": "BW46",
@@ -1003,14 +1050,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW46/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW46/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW47",
+    "id": "pokemon:en:bwp-BW47",
     "cardId": "bwp-BW47",
-    "printingId": "pokemon:bwp-BW47",
+    "printingId": "pokemon:en:bwp-BW47",
     "game": "pokemon",
     "name": "Rayquaza-EX",
     "number": "BW47",
@@ -1024,14 +1072,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW47/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW47/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW48",
+    "id": "pokemon:en:bwp-BW48",
     "cardId": "bwp-BW48",
-    "printingId": "pokemon:bwp-BW48",
+    "printingId": "pokemon:en:bwp-BW48",
     "game": "pokemon",
     "name": "Altaria",
     "number": "BW48",
@@ -1045,14 +1094,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW48/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW48/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW49",
+    "id": "pokemon:en:bwp-BW49",
     "cardId": "bwp-BW49",
-    "printingId": "pokemon:bwp-BW49",
+    "printingId": "pokemon:en:bwp-BW49",
     "game": "pokemon",
     "name": "Lilligant",
     "number": "BW49",
@@ -1066,14 +1116,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW49/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW49/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW50",
+    "id": "pokemon:en:bwp-BW50",
     "cardId": "bwp-BW50",
-    "printingId": "pokemon:bwp-BW50",
+    "printingId": "pokemon:en:bwp-BW50",
     "game": "pokemon",
     "name": "Tropical Beach",
     "number": "BW50",
@@ -1087,14 +1138,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW50/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW50/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW51",
+    "id": "pokemon:en:bwp-BW51",
     "cardId": "bwp-BW51",
-    "printingId": "pokemon:bwp-BW51",
+    "printingId": "pokemon:en:bwp-BW51",
     "game": "pokemon",
     "name": "Crobat",
     "number": "BW51",
@@ -1108,14 +1160,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW51/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW51/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW52",
+    "id": "pokemon:en:bwp-BW52",
     "cardId": "bwp-BW52",
-    "printingId": "pokemon:bwp-BW52",
+    "printingId": "pokemon:en:bwp-BW52",
     "game": "pokemon",
     "name": "Lillipup",
     "number": "BW52",
@@ -1129,14 +1182,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW52/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW52/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW53",
+    "id": "pokemon:en:bwp-BW53",
     "cardId": "bwp-BW53",
-    "printingId": "pokemon:bwp-BW53",
+    "printingId": "pokemon:en:bwp-BW53",
     "game": "pokemon",
     "name": "Flygon",
     "number": "BW53",
@@ -1150,14 +1204,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW53/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW53/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW54",
+    "id": "pokemon:en:bwp-BW54",
     "cardId": "bwp-BW54",
-    "printingId": "pokemon:bwp-BW54",
+    "printingId": "pokemon:en:bwp-BW54",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "BW54",
@@ -1171,14 +1226,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW54/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW54/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW55",
+    "id": "pokemon:en:bwp-BW55",
     "cardId": "bwp-BW55",
-    "printingId": "pokemon:bwp-BW55",
+    "printingId": "pokemon:en:bwp-BW55",
     "game": "pokemon",
     "name": "Elgyem",
     "number": "BW55",
@@ -1192,14 +1248,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW55/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW55/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW56",
+    "id": "pokemon:en:bwp-BW56",
     "cardId": "bwp-BW56",
-    "printingId": "pokemon:bwp-BW56",
+    "printingId": "pokemon:en:bwp-BW56",
     "game": "pokemon",
     "name": "Empoleon",
     "number": "BW56",
@@ -1213,14 +1270,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW56/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW56/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW57",
+    "id": "pokemon:en:bwp-BW57",
     "cardId": "bwp-BW57",
-    "printingId": "pokemon:bwp-BW57",
+    "printingId": "pokemon:en:bwp-BW57",
     "game": "pokemon",
     "name": "Haxorus",
     "number": "BW57",
@@ -1234,14 +1292,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW57/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW57/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW58",
+    "id": "pokemon:en:bwp-BW58",
     "cardId": "bwp-BW58",
-    "printingId": "pokemon:bwp-BW58",
+    "printingId": "pokemon:en:bwp-BW58",
     "game": "pokemon",
     "name": "Black Kyurem",
     "number": "BW58",
@@ -1255,14 +1314,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW58/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW58/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW59",
+    "id": "pokemon:en:bwp-BW59",
     "cardId": "bwp-BW59",
-    "printingId": "pokemon:bwp-BW59",
+    "printingId": "pokemon:en:bwp-BW59",
     "game": "pokemon",
     "name": "White Kyurem",
     "number": "BW59",
@@ -1276,14 +1336,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW59/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW59/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW60",
+    "id": "pokemon:en:bwp-BW60",
     "cardId": "bwp-BW60",
-    "printingId": "pokemon:bwp-BW60",
+    "printingId": "pokemon:en:bwp-BW60",
     "game": "pokemon",
     "name": "Keldeo",
     "number": "BW60",
@@ -1297,14 +1358,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW60/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW60/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW61",
+    "id": "pokemon:en:bwp-BW61",
     "cardId": "bwp-BW61",
-    "printingId": "pokemon:bwp-BW61",
+    "printingId": "pokemon:en:bwp-BW61",
     "game": "pokemon",
     "name": "Keldeo-EX",
     "number": "BW61",
@@ -1318,14 +1380,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW61/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW61/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW62",
+    "id": "pokemon:en:bwp-BW62",
     "cardId": "bwp-BW62",
-    "printingId": "pokemon:bwp-BW62",
+    "printingId": "pokemon:en:bwp-BW62",
     "game": "pokemon",
     "name": "Black Kyurem-EX",
     "number": "BW62",
@@ -1339,14 +1402,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW62/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW62/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW63",
+    "id": "pokemon:en:bwp-BW63",
     "cardId": "bwp-BW63",
-    "printingId": "pokemon:bwp-BW63",
+    "printingId": "pokemon:en:bwp-BW63",
     "game": "pokemon",
     "name": "White Kyurem-EX",
     "number": "BW63",
@@ -1360,14 +1424,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW63/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW63/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW64",
+    "id": "pokemon:en:bwp-BW64",
     "cardId": "bwp-BW64",
-    "printingId": "pokemon:bwp-BW64",
+    "printingId": "pokemon:en:bwp-BW64",
     "game": "pokemon",
     "name": "Drifblim",
     "number": "BW64",
@@ -1381,14 +1446,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW64/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW64/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW65",
+    "id": "pokemon:en:bwp-BW65",
     "cardId": "bwp-BW65",
-    "printingId": "pokemon:bwp-BW65",
+    "printingId": "pokemon:en:bwp-BW65",
     "game": "pokemon",
     "name": "Jigglypuff",
     "number": "BW65",
@@ -1402,14 +1468,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW65/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW65/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW66",
+    "id": "pokemon:en:bwp-BW66",
     "cardId": "bwp-BW66",
-    "printingId": "pokemon:bwp-BW66",
+    "printingId": "pokemon:en:bwp-BW66",
     "game": "pokemon",
     "name": "Ninetales",
     "number": "BW66",
@@ -1423,14 +1490,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW66/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW66/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW67",
+    "id": "pokemon:en:bwp-BW67",
     "cardId": "bwp-BW67",
-    "printingId": "pokemon:bwp-BW67",
+    "printingId": "pokemon:en:bwp-BW67",
     "game": "pokemon",
     "name": "Ampharos",
     "number": "BW67",
@@ -1444,14 +1512,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW67/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW67/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW68",
+    "id": "pokemon:en:bwp-BW68",
     "cardId": "bwp-BW68",
-    "printingId": "pokemon:bwp-BW68",
+    "printingId": "pokemon:en:bwp-BW68",
     "game": "pokemon",
     "name": "Meloetta",
     "number": "BW68",
@@ -1465,14 +1534,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW68/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW68/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW69",
+    "id": "pokemon:en:bwp-BW69",
     "cardId": "bwp-BW69",
-    "printingId": "pokemon:bwp-BW69",
+    "printingId": "pokemon:en:bwp-BW69",
     "game": "pokemon",
     "name": "Meloetta",
     "number": "BW69",
@@ -1486,14 +1556,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW69/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW69/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW70",
+    "id": "pokemon:en:bwp-BW70",
     "cardId": "bwp-BW70",
-    "printingId": "pokemon:bwp-BW70",
+    "printingId": "pokemon:en:bwp-BW70",
     "game": "pokemon",
     "name": "Virizion",
     "number": "BW70",
@@ -1507,14 +1578,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW70/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW70/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW71",
+    "id": "pokemon:en:bwp-BW71",
     "cardId": "bwp-BW71",
-    "printingId": "pokemon:bwp-BW71",
+    "printingId": "pokemon:en:bwp-BW71",
     "game": "pokemon",
     "name": "Terrakion",
     "number": "BW71",
@@ -1528,14 +1600,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW71/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW71/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW72",
+    "id": "pokemon:en:bwp-BW72",
     "cardId": "bwp-BW72",
-    "printingId": "pokemon:bwp-BW72",
+    "printingId": "pokemon:en:bwp-BW72",
     "game": "pokemon",
     "name": "Cobalion",
     "number": "BW72",
@@ -1549,14 +1622,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW72/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW72/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW73",
+    "id": "pokemon:en:bwp-BW73",
     "cardId": "bwp-BW73",
-    "printingId": "pokemon:bwp-BW73",
+    "printingId": "pokemon:en:bwp-BW73",
     "game": "pokemon",
     "name": "Darkrai",
     "number": "BW73",
@@ -1570,14 +1644,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW73/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW73/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW74",
+    "id": "pokemon:en:bwp-BW74",
     "cardId": "bwp-BW74",
-    "printingId": "pokemon:bwp-BW74",
+    "printingId": "pokemon:en:bwp-BW74",
     "game": "pokemon",
     "name": "Giratina",
     "number": "BW74",
@@ -1591,14 +1666,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW74/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW74/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW75",
+    "id": "pokemon:en:bwp-BW75",
     "cardId": "bwp-BW75",
-    "printingId": "pokemon:bwp-BW75",
+    "printingId": "pokemon:en:bwp-BW75",
     "game": "pokemon",
     "name": "Metagross",
     "number": "BW75",
@@ -1612,14 +1688,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW75/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW75/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW76",
+    "id": "pokemon:en:bwp-BW76",
     "cardId": "bwp-BW76",
-    "printingId": "pokemon:bwp-BW76",
+    "printingId": "pokemon:en:bwp-BW76",
     "game": "pokemon",
     "name": "Electrode",
     "number": "BW76",
@@ -1633,14 +1710,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW76/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW76/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW77",
+    "id": "pokemon:en:bwp-BW77",
     "cardId": "bwp-BW77",
-    "printingId": "pokemon:bwp-BW77",
+    "printingId": "pokemon:en:bwp-BW77",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "BW77",
@@ -1654,14 +1732,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW77/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW77/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW78",
+    "id": "pokemon:en:bwp-BW78",
     "cardId": "bwp-BW78",
-    "printingId": "pokemon:bwp-BW78",
+    "printingId": "pokemon:en:bwp-BW78",
     "game": "pokemon",
     "name": "Raichu",
     "number": "BW78",
@@ -1675,14 +1754,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW78/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW78/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW79",
+    "id": "pokemon:en:bwp-BW79",
     "cardId": "bwp-BW79",
-    "printingId": "pokemon:bwp-BW79",
+    "printingId": "pokemon:en:bwp-BW79",
     "game": "pokemon",
     "name": "Landorus",
     "number": "BW79",
@@ -1696,14 +1776,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW79/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW79/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW80",
+    "id": "pokemon:en:bwp-BW80",
     "cardId": "bwp-BW80",
-    "printingId": "pokemon:bwp-BW80",
+    "printingId": "pokemon:en:bwp-BW80",
     "game": "pokemon",
     "name": "Druddigon",
     "number": "BW80",
@@ -1717,14 +1798,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW80/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW80/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW81",
+    "id": "pokemon:en:bwp-BW81",
     "cardId": "bwp-BW81",
-    "printingId": "pokemon:bwp-BW81",
+    "printingId": "pokemon:en:bwp-BW81",
     "game": "pokemon",
     "name": "Thundurus-EX",
     "number": "BW81",
@@ -1738,14 +1820,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW81/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW81/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW82",
+    "id": "pokemon:en:bwp-BW82",
     "cardId": "bwp-BW82",
-    "printingId": "pokemon:bwp-BW82",
+    "printingId": "pokemon:en:bwp-BW82",
     "game": "pokemon",
     "name": "Deoxys-EX",
     "number": "BW82",
@@ -1759,14 +1842,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW82/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW82/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW83",
+    "id": "pokemon:en:bwp-BW83",
     "cardId": "bwp-BW83",
-    "printingId": "pokemon:bwp-BW83",
+    "printingId": "pokemon:en:bwp-BW83",
     "game": "pokemon",
     "name": "Lugia-EX",
     "number": "BW83",
@@ -1780,14 +1864,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW83/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW83/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW84",
+    "id": "pokemon:en:bwp-BW84",
     "cardId": "bwp-BW84",
-    "printingId": "pokemon:bwp-BW84",
+    "printingId": "pokemon:en:bwp-BW84",
     "game": "pokemon",
     "name": "Porygon-Z",
     "number": "BW84",
@@ -1801,14 +1886,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW84/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW84/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW85",
+    "id": "pokemon:en:bwp-BW85",
     "cardId": "bwp-BW85",
-    "printingId": "pokemon:bwp-BW85",
+    "printingId": "pokemon:en:bwp-BW85",
     "game": "pokemon",
     "name": "Lucario",
     "number": "BW85",
@@ -1822,14 +1908,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW85/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW85/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW86",
+    "id": "pokemon:en:bwp-BW86",
     "cardId": "bwp-BW86",
-    "printingId": "pokemon:bwp-BW86",
+    "printingId": "pokemon:en:bwp-BW86",
     "game": "pokemon",
     "name": "Genesect",
     "number": "BW86",
@@ -1843,14 +1930,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW86/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW86/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW87",
+    "id": "pokemon:en:bwp-BW87",
     "cardId": "bwp-BW87",
-    "printingId": "pokemon:bwp-BW87",
+    "printingId": "pokemon:en:bwp-BW87",
     "game": "pokemon",
     "name": "Leafeon",
     "number": "BW87",
@@ -1864,14 +1952,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW87/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW87/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW88",
+    "id": "pokemon:en:bwp-BW88",
     "cardId": "bwp-BW88",
-    "printingId": "pokemon:bwp-BW88",
+    "printingId": "pokemon:en:bwp-BW88",
     "game": "pokemon",
     "name": "Flareon",
     "number": "BW88",
@@ -1885,14 +1974,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW88/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW88/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW89",
+    "id": "pokemon:en:bwp-BW89",
     "cardId": "bwp-BW89",
-    "printingId": "pokemon:bwp-BW89",
+    "printingId": "pokemon:en:bwp-BW89",
     "game": "pokemon",
     "name": "Vaporeon",
     "number": "BW89",
@@ -1906,14 +1996,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW89/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW89/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW90",
+    "id": "pokemon:en:bwp-BW90",
     "cardId": "bwp-BW90",
-    "printingId": "pokemon:bwp-BW90",
+    "printingId": "pokemon:en:bwp-BW90",
     "game": "pokemon",
     "name": "Glaceon",
     "number": "BW90",
@@ -1927,14 +2018,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW90/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW90/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW91",
+    "id": "pokemon:en:bwp-BW91",
     "cardId": "bwp-BW91",
-    "printingId": "pokemon:bwp-BW91",
+    "printingId": "pokemon:en:bwp-BW91",
     "game": "pokemon",
     "name": "Jolteon",
     "number": "BW91",
@@ -1948,14 +2040,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW91/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW91/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW92",
+    "id": "pokemon:en:bwp-BW92",
     "cardId": "bwp-BW92",
-    "printingId": "pokemon:bwp-BW92",
+    "printingId": "pokemon:en:bwp-BW92",
     "game": "pokemon",
     "name": "Espeon",
     "number": "BW92",
@@ -1969,14 +2062,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW92/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW92/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW93",
+    "id": "pokemon:en:bwp-BW93",
     "cardId": "bwp-BW93",
-    "printingId": "pokemon:bwp-BW93",
+    "printingId": "pokemon:en:bwp-BW93",
     "game": "pokemon",
     "name": "Umbreon",
     "number": "BW93",
@@ -1990,14 +2084,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW93/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW93/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW94",
+    "id": "pokemon:en:bwp-BW94",
     "cardId": "bwp-BW94",
-    "printingId": "pokemon:bwp-BW94",
+    "printingId": "pokemon:en:bwp-BW94",
     "game": "pokemon",
     "name": "Eevee",
     "number": "BW94",
@@ -2011,14 +2106,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW94/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW94/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW95",
+    "id": "pokemon:en:bwp-BW95",
     "cardId": "bwp-BW95",
-    "printingId": "pokemon:bwp-BW95",
+    "printingId": "pokemon:en:bwp-BW95",
     "game": "pokemon",
     "name": "Champions Festival",
     "number": "BW95",
@@ -2032,14 +2128,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW95/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW95/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW96",
+    "id": "pokemon:en:bwp-BW96",
     "cardId": "bwp-BW96",
-    "printingId": "pokemon:bwp-BW96",
+    "printingId": "pokemon:en:bwp-BW96",
     "game": "pokemon",
     "name": "Tornadus-EX",
     "number": "BW96",
@@ -2053,14 +2150,15 @@
     "releaseDate": "2011-04-26",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW97",
+    "id": "pokemon:en:bwp-BW97",
     "cardId": "bwp-BW97",
-    "printingId": "pokemon:bwp-BW97",
+    "printingId": "pokemon:en:bwp-BW97",
     "game": "pokemon",
     "name": "Eevee",
     "number": "BW97",
@@ -2074,14 +2172,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW97/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW97/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW98",
+    "id": "pokemon:en:bwp-BW98",
     "cardId": "bwp-BW98",
-    "printingId": "pokemon:bwp-BW98",
+    "printingId": "pokemon:en:bwp-BW98",
     "game": "pokemon",
     "name": "Mew",
     "number": "BW98",
@@ -2095,14 +2194,15 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW98/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW98/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:bwp-BW99",
+    "id": "pokemon:en:bwp-BW99",
     "cardId": "bwp-BW99",
-    "printingId": "pokemon:bwp-BW99",
+    "printingId": "pokemon:en:bwp-BW99",
     "game": "pokemon",
     "name": "Genesect",
     "number": "BW99",
@@ -2116,8 +2216,9 @@
     "releaseDate": "2011-04-26",
     "image": "https://assets.tcgdex.net/en/bw/bwp/BW99/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/bw/bwp/BW99/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

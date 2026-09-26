@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:2019sm-1",
+    "id": "pokemon:en:2019sm-1",
     "cardId": "2019sm-1",
-    "printingId": "pokemon:2019sm-1",
+    "printingId": "pokemon:en:2019sm-1",
     "game": "pokemon",
     "name": "Caterpie",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-2",
+    "id": "pokemon:en:2019sm-2",
     "cardId": "2019sm-2",
-    "printingId": "pokemon:2019sm-2",
+    "printingId": "pokemon:en:2019sm-2",
     "game": "pokemon",
     "name": "Alolan Exeggutor",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-3",
+    "id": "pokemon:en:2019sm-3",
     "cardId": "2019sm-3",
-    "printingId": "pokemon:2019sm-3",
+    "printingId": "pokemon:en:2019sm-3",
     "game": "pokemon",
     "name": "Magmar",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-4",
+    "id": "pokemon:en:2019sm-4",
     "cardId": "2019sm-4",
-    "printingId": "pokemon:2019sm-4",
+    "printingId": "pokemon:en:2019sm-4",
     "game": "pokemon",
     "name": "Alolan Sandshrew",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-5",
+    "id": "pokemon:en:2019sm-5",
     "cardId": "2019sm-5",
-    "printingId": "pokemon:2019sm-5",
+    "printingId": "pokemon:en:2019sm-5",
     "game": "pokemon",
     "name": "Lapras",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-6",
+    "id": "pokemon:en:2019sm-6",
     "cardId": "2019sm-6",
-    "printingId": "pokemon:2019sm-6",
+    "printingId": "pokemon:en:2019sm-6",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-7",
+    "id": "pokemon:en:2019sm-7",
     "cardId": "2019sm-7",
-    "printingId": "pokemon:2019sm-7",
+    "printingId": "pokemon:en:2019sm-7",
     "game": "pokemon",
     "name": "Gastly",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-8",
+    "id": "pokemon:en:2019sm-8",
     "cardId": "2019sm-8",
-    "printingId": "pokemon:2019sm-8",
+    "printingId": "pokemon:en:2019sm-8",
     "game": "pokemon",
     "name": "Mankey",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-9",
+    "id": "pokemon:en:2019sm-9",
     "cardId": "2019sm-9",
-    "printingId": "pokemon:2019sm-9",
+    "printingId": "pokemon:en:2019sm-9",
     "game": "pokemon",
     "name": "Onix",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-10",
+    "id": "pokemon:en:2019sm-10",
     "cardId": "2019sm-10",
-    "printingId": "pokemon:2019sm-10",
+    "printingId": "pokemon:en:2019sm-10",
     "game": "pokemon",
     "name": "Alolan Meowth",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-11",
+    "id": "pokemon:en:2019sm-11",
     "cardId": "2019sm-11",
-    "printingId": "pokemon:2019sm-11",
+    "printingId": "pokemon:en:2019sm-11",
     "game": "pokemon",
     "name": "Alolan Dugtrio",
     "number": "11",
@@ -226,14 +236,15 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2019sm-12",
+    "id": "pokemon:en:2019sm-12",
     "cardId": "2019sm-12",
-    "printingId": "pokemon:2019sm-12",
+    "printingId": "pokemon:en:2019sm-12",
     "game": "pokemon",
     "name": "Eevee",
     "number": "12",
@@ -247,8 +258,9 @@
     "releaseDate": "2019-10-15",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

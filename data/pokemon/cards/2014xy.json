@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:2014xy-1",
+    "id": "pokemon:en:2014xy-1",
     "cardId": "2014xy-1",
-    "printingId": "pokemon:2014xy-1",
+    "printingId": "pokemon:en:2014xy-1",
     "game": "pokemon",
     "name": "Weedle",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-2",
+    "id": "pokemon:en:2014xy-2",
     "cardId": "2014xy-2",
-    "printingId": "pokemon:2014xy-2",
+    "printingId": "pokemon:en:2014xy-2",
     "game": "pokemon",
     "name": "Chespin",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-3",
+    "id": "pokemon:en:2014xy-3",
     "cardId": "2014xy-3",
-    "printingId": "pokemon:2014xy-3",
+    "printingId": "pokemon:en:2014xy-3",
     "game": "pokemon",
     "name": "Fennekin",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-4",
+    "id": "pokemon:en:2014xy-4",
     "cardId": "2014xy-4",
-    "printingId": "pokemon:2014xy-4",
+    "printingId": "pokemon:en:2014xy-4",
     "game": "pokemon",
     "name": "Froakie",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-5",
+    "id": "pokemon:en:2014xy-5",
     "cardId": "2014xy-5",
-    "printingId": "pokemon:2014xy-5",
+    "printingId": "pokemon:en:2014xy-5",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-6",
+    "id": "pokemon:en:2014xy-6",
     "cardId": "2014xy-6",
-    "printingId": "pokemon:2014xy-6",
+    "printingId": "pokemon:en:2014xy-6",
     "game": "pokemon",
     "name": "Inkay",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-7",
+    "id": "pokemon:en:2014xy-7",
     "cardId": "2014xy-7",
-    "printingId": "pokemon:2014xy-7",
+    "printingId": "pokemon:en:2014xy-7",
     "game": "pokemon",
     "name": "Honedge",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-8",
+    "id": "pokemon:en:2014xy-8",
     "cardId": "2014xy-8",
-    "printingId": "pokemon:2014xy-8",
+    "printingId": "pokemon:en:2014xy-8",
     "game": "pokemon",
     "name": "Snubbull",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-9",
+    "id": "pokemon:en:2014xy-9",
     "cardId": "2014xy-9",
-    "printingId": "pokemon:2014xy-9",
+    "printingId": "pokemon:en:2014xy-9",
     "game": "pokemon",
     "name": "Swirlix",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-10",
+    "id": "pokemon:en:2014xy-10",
     "cardId": "2014xy-10",
-    "printingId": "pokemon:2014xy-10",
+    "printingId": "pokemon:en:2014xy-10",
     "game": "pokemon",
     "name": "Bunnelby",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-11",
+    "id": "pokemon:en:2014xy-11",
     "cardId": "2014xy-11",
-    "printingId": "pokemon:2014xy-11",
+    "printingId": "pokemon:en:2014xy-11",
     "game": "pokemon",
     "name": "Fletchling",
     "number": "11",
@@ -226,14 +236,15 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:2014xy-12",
+    "id": "pokemon:en:2014xy-12",
     "cardId": "2014xy-12",
-    "printingId": "pokemon:2014xy-12",
+    "printingId": "pokemon:en:2014xy-12",
     "game": "pokemon",
     "name": "Furfrou",
     "number": "12",
@@ -247,8 +258,9 @@
     "releaseDate": "2014-05-23",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:pop9-1",
+    "id": "pokemon:en:pop9-1",
     "cardId": "pop9-1",
-    "printingId": "pokemon:pop9-1",
+    "printingId": "pokemon:en:pop9-1",
     "game": "pokemon",
     "name": "Garchomp",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/1/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/1/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-2",
+    "id": "pokemon:en:pop9-2",
     "cardId": "pop9-2",
-    "printingId": "pokemon:pop9-2",
+    "printingId": "pokemon:en:pop9-2",
     "game": "pokemon",
     "name": "Manaphy",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/2/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/2/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-3",
+    "id": "pokemon:en:pop9-3",
     "cardId": "pop9-3",
-    "printingId": "pokemon:pop9-3",
+    "printingId": "pokemon:en:pop9-3",
     "game": "pokemon",
     "name": "Raichu",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/3/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/3/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-4",
+    "id": "pokemon:en:pop9-4",
     "cardId": "pop9-4",
-    "printingId": "pokemon:pop9-4",
+    "printingId": "pokemon:en:pop9-4",
     "game": "pokemon",
     "name": "Regigigas",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/4/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/4/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-5",
+    "id": "pokemon:en:pop9-5",
     "cardId": "pop9-5",
-    "printingId": "pokemon:pop9-5",
+    "printingId": "pokemon:en:pop9-5",
     "game": "pokemon",
     "name": "Rotom",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/5/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/5/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-6",
+    "id": "pokemon:en:pop9-6",
     "cardId": "pop9-6",
-    "printingId": "pokemon:pop9-6",
+    "printingId": "pokemon:en:pop9-6",
     "game": "pokemon",
     "name": "Buizel",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/6/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/6/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-7",
+    "id": "pokemon:en:pop9-7",
     "cardId": "pop9-7",
-    "printingId": "pokemon:pop9-7",
+    "printingId": "pokemon:en:pop9-7",
     "game": "pokemon",
     "name": "Croagunk",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/7/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/7/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-8",
+    "id": "pokemon:en:pop9-8",
     "cardId": "pop9-8",
-    "printingId": "pokemon:pop9-8",
+    "printingId": "pokemon:en:pop9-8",
     "game": "pokemon",
     "name": "Gabite",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/8/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/8/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-9",
+    "id": "pokemon:en:pop9-9",
     "cardId": "pop9-9",
-    "printingId": "pokemon:pop9-9",
+    "printingId": "pokemon:en:pop9-9",
     "game": "pokemon",
     "name": "Lopunny",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/9/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/9/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-10",
+    "id": "pokemon:en:pop9-10",
     "cardId": "pop9-10",
-    "printingId": "pokemon:pop9-10",
+    "printingId": "pokemon:en:pop9-10",
     "game": "pokemon",
     "name": "Pachirisu",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/10/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/10/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-11",
+    "id": "pokemon:en:pop9-11",
     "cardId": "pop9-11",
-    "printingId": "pokemon:pop9-11",
+    "printingId": "pokemon:en:pop9-11",
     "game": "pokemon",
     "name": "Pichu",
     "number": "11",
@@ -226,14 +236,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/11/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/11/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-12",
+    "id": "pokemon:en:pop9-12",
     "cardId": "pop9-12",
-    "printingId": "pokemon:pop9-12",
+    "printingId": "pokemon:en:pop9-12",
     "game": "pokemon",
     "name": "Buneary",
     "number": "12",
@@ -247,14 +258,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/12/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/12/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-13",
+    "id": "pokemon:en:pop9-13",
     "cardId": "pop9-13",
-    "printingId": "pokemon:pop9-13",
+    "printingId": "pokemon:en:pop9-13",
     "game": "pokemon",
     "name": "Chimchar",
     "number": "13",
@@ -268,14 +280,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/13/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/13/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-14",
+    "id": "pokemon:en:pop9-14",
     "cardId": "pop9-14",
-    "printingId": "pokemon:pop9-14",
+    "printingId": "pokemon:en:pop9-14",
     "game": "pokemon",
     "name": "Gible",
     "number": "14",
@@ -289,14 +302,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/14/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/14/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-15",
+    "id": "pokemon:en:pop9-15",
     "cardId": "pop9-15",
-    "printingId": "pokemon:pop9-15",
+    "printingId": "pokemon:en:pop9-15",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "15",
@@ -310,14 +324,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/15/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/15/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-16",
+    "id": "pokemon:en:pop9-16",
     "cardId": "pop9-16",
-    "printingId": "pokemon:pop9-16",
+    "printingId": "pokemon:en:pop9-16",
     "game": "pokemon",
     "name": "Piplup",
     "number": "16",
@@ -331,14 +346,15 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/16/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/16/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:pop9-17",
+    "id": "pokemon:en:pop9-17",
     "cardId": "pop9-17",
-    "printingId": "pokemon:pop9-17",
+    "printingId": "pokemon:en:pop9-17",
     "game": "pokemon",
     "name": "Turtwig",
     "number": "17",
@@ -352,8 +368,9 @@
     "releaseDate": "2009-03-01",
     "image": "https://assets.tcgdex.net/en/pop/pop9/17/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/pop/pop9/17/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

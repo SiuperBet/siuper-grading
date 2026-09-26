@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:neo2-1",
+    "id": "pokemon:en:neo2-1",
     "cardId": "neo2-1",
-    "printingId": "pokemon:neo2-1",
+    "printingId": "pokemon:en:neo2-1",
     "game": "pokemon",
     "name": "Espeon",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/1/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/1/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-2",
+    "id": "pokemon:en:neo2-2",
     "cardId": "neo2-2",
-    "printingId": "pokemon:neo2-2",
+    "printingId": "pokemon:en:neo2-2",
     "game": "pokemon",
     "name": "Forretress",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/2/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/2/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-3",
+    "id": "pokemon:en:neo2-3",
     "cardId": "neo2-3",
-    "printingId": "pokemon:neo2-3",
+    "printingId": "pokemon:en:neo2-3",
     "game": "pokemon",
     "name": "Hitmontop",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/3/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/3/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-4",
+    "id": "pokemon:en:neo2-4",
     "cardId": "neo2-4",
-    "printingId": "pokemon:neo2-4",
+    "printingId": "pokemon:en:neo2-4",
     "game": "pokemon",
     "name": "Houndoom",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/4/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/4/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-5",
+    "id": "pokemon:en:neo2-5",
     "cardId": "neo2-5",
-    "printingId": "pokemon:neo2-5",
+    "printingId": "pokemon:en:neo2-5",
     "game": "pokemon",
     "name": "Houndour",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/5/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/5/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-6",
+    "id": "pokemon:en:neo2-6",
     "cardId": "neo2-6",
-    "printingId": "pokemon:neo2-6",
+    "printingId": "pokemon:en:neo2-6",
     "game": "pokemon",
     "name": "Kabutops",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/6/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/6/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-7",
+    "id": "pokemon:en:neo2-7",
     "cardId": "neo2-7",
-    "printingId": "pokemon:neo2-7",
+    "printingId": "pokemon:en:neo2-7",
     "game": "pokemon",
     "name": "Magnemite",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/7/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/7/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-8",
+    "id": "pokemon:en:neo2-8",
     "cardId": "neo2-8",
-    "printingId": "pokemon:neo2-8",
+    "printingId": "pokemon:en:neo2-8",
     "game": "pokemon",
     "name": "Politoed",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/8/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/8/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-9",
+    "id": "pokemon:en:neo2-9",
     "cardId": "neo2-9",
-    "printingId": "pokemon:neo2-9",
+    "printingId": "pokemon:en:neo2-9",
     "game": "pokemon",
     "name": "Poliwrath",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/9/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/9/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-10",
+    "id": "pokemon:en:neo2-10",
     "cardId": "neo2-10",
-    "printingId": "pokemon:neo2-10",
+    "printingId": "pokemon:en:neo2-10",
     "game": "pokemon",
     "name": "Scizor",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/10/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/10/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-11",
+    "id": "pokemon:en:neo2-11",
     "cardId": "neo2-11",
-    "printingId": "pokemon:neo2-11",
+    "printingId": "pokemon:en:neo2-11",
     "game": "pokemon",
     "name": "Smeargle",
     "number": "11",
@@ -226,14 +236,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/11/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/11/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-12",
+    "id": "pokemon:en:neo2-12",
     "cardId": "neo2-12",
-    "printingId": "pokemon:neo2-12",
+    "printingId": "pokemon:en:neo2-12",
     "game": "pokemon",
     "name": "Tyranitar",
     "number": "12",
@@ -247,14 +258,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/12/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/12/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-13",
+    "id": "pokemon:en:neo2-13",
     "cardId": "neo2-13",
-    "printingId": "pokemon:neo2-13",
+    "printingId": "pokemon:en:neo2-13",
     "game": "pokemon",
     "name": "Umbreon",
     "number": "13",
@@ -268,14 +280,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/13/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/13/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-14",
+    "id": "pokemon:en:neo2-14",
     "cardId": "neo2-14",
-    "printingId": "pokemon:neo2-14",
+    "printingId": "pokemon:en:neo2-14",
     "game": "pokemon",
     "name": "Unown [A]",
     "number": "14",
@@ -289,14 +302,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/14/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/14/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-15",
+    "id": "pokemon:en:neo2-15",
     "cardId": "neo2-15",
-    "printingId": "pokemon:neo2-15",
+    "printingId": "pokemon:en:neo2-15",
     "game": "pokemon",
     "name": "Ursaring",
     "number": "15",
@@ -310,14 +324,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/15/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/15/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-16",
+    "id": "pokemon:en:neo2-16",
     "cardId": "neo2-16",
-    "printingId": "pokemon:neo2-16",
+    "printingId": "pokemon:en:neo2-16",
     "game": "pokemon",
     "name": "Wobbuffet",
     "number": "16",
@@ -331,14 +346,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/16/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/16/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-17",
+    "id": "pokemon:en:neo2-17",
     "cardId": "neo2-17",
-    "printingId": "pokemon:neo2-17",
+    "printingId": "pokemon:en:neo2-17",
     "game": "pokemon",
     "name": "Yanma",
     "number": "17",
@@ -352,14 +368,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/17/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/17/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-18",
+    "id": "pokemon:en:neo2-18",
     "cardId": "neo2-18",
-    "printingId": "pokemon:neo2-18",
+    "printingId": "pokemon:en:neo2-18",
     "game": "pokemon",
     "name": "Beedrill",
     "number": "18",
@@ -373,14 +390,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/18/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/18/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-19",
+    "id": "pokemon:en:neo2-19",
     "cardId": "neo2-19",
-    "printingId": "pokemon:neo2-19",
+    "printingId": "pokemon:en:neo2-19",
     "game": "pokemon",
     "name": "Butterfree",
     "number": "19",
@@ -394,14 +412,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/19/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/19/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-20",
+    "id": "pokemon:en:neo2-20",
     "cardId": "neo2-20",
-    "printingId": "pokemon:neo2-20",
+    "printingId": "pokemon:en:neo2-20",
     "game": "pokemon",
     "name": "Espeon",
     "number": "20",
@@ -415,14 +434,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/20/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/20/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-21",
+    "id": "pokemon:en:neo2-21",
     "cardId": "neo2-21",
-    "printingId": "pokemon:neo2-21",
+    "printingId": "pokemon:en:neo2-21",
     "game": "pokemon",
     "name": "Forretress",
     "number": "21",
@@ -436,14 +456,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/21/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/21/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-22",
+    "id": "pokemon:en:neo2-22",
     "cardId": "neo2-22",
-    "printingId": "pokemon:neo2-22",
+    "printingId": "pokemon:en:neo2-22",
     "game": "pokemon",
     "name": "Hitmontop",
     "number": "22",
@@ -457,14 +478,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/22/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/22/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-23",
+    "id": "pokemon:en:neo2-23",
     "cardId": "neo2-23",
-    "printingId": "pokemon:neo2-23",
+    "printingId": "pokemon:en:neo2-23",
     "game": "pokemon",
     "name": "Houndoom",
     "number": "23",
@@ -478,14 +500,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/23/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/23/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-24",
+    "id": "pokemon:en:neo2-24",
     "cardId": "neo2-24",
-    "printingId": "pokemon:neo2-24",
+    "printingId": "pokemon:en:neo2-24",
     "game": "pokemon",
     "name": "Houndour",
     "number": "24",
@@ -499,14 +522,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/24/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/24/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-25",
+    "id": "pokemon:en:neo2-25",
     "cardId": "neo2-25",
-    "printingId": "pokemon:neo2-25",
+    "printingId": "pokemon:en:neo2-25",
     "game": "pokemon",
     "name": "Kabutops",
     "number": "25",
@@ -520,14 +544,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/25/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/25/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-26",
+    "id": "pokemon:en:neo2-26",
     "cardId": "neo2-26",
-    "printingId": "pokemon:neo2-26",
+    "printingId": "pokemon:en:neo2-26",
     "game": "pokemon",
     "name": "Magnemite",
     "number": "26",
@@ -541,14 +566,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/26/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/26/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-27",
+    "id": "pokemon:en:neo2-27",
     "cardId": "neo2-27",
-    "printingId": "pokemon:neo2-27",
+    "printingId": "pokemon:en:neo2-27",
     "game": "pokemon",
     "name": "Politoed",
     "number": "27",
@@ -562,14 +588,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/27/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/27/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-28",
+    "id": "pokemon:en:neo2-28",
     "cardId": "neo2-28",
-    "printingId": "pokemon:neo2-28",
+    "printingId": "pokemon:en:neo2-28",
     "game": "pokemon",
     "name": "Poliwrath",
     "number": "28",
@@ -583,14 +610,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/28/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/28/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-29",
+    "id": "pokemon:en:neo2-29",
     "cardId": "neo2-29",
-    "printingId": "pokemon:neo2-29",
+    "printingId": "pokemon:en:neo2-29",
     "game": "pokemon",
     "name": "Scizor",
     "number": "29",
@@ -604,14 +632,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/29/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/29/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-30",
+    "id": "pokemon:en:neo2-30",
     "cardId": "neo2-30",
-    "printingId": "pokemon:neo2-30",
+    "printingId": "pokemon:en:neo2-30",
     "game": "pokemon",
     "name": "Smeargle",
     "number": "30",
@@ -625,14 +654,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/30/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/30/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-31",
+    "id": "pokemon:en:neo2-31",
     "cardId": "neo2-31",
-    "printingId": "pokemon:neo2-31",
+    "printingId": "pokemon:en:neo2-31",
     "game": "pokemon",
     "name": "Tyranitar",
     "number": "31",
@@ -646,14 +676,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/31/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/31/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-32",
+    "id": "pokemon:en:neo2-32",
     "cardId": "neo2-32",
-    "printingId": "pokemon:neo2-32",
+    "printingId": "pokemon:en:neo2-32",
     "game": "pokemon",
     "name": "Umbreon",
     "number": "32",
@@ -667,14 +698,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/32/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/32/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-33",
+    "id": "pokemon:en:neo2-33",
     "cardId": "neo2-33",
-    "printingId": "pokemon:neo2-33",
+    "printingId": "pokemon:en:neo2-33",
     "game": "pokemon",
     "name": "Unown [A]",
     "number": "33",
@@ -688,14 +720,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/33/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/33/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-34",
+    "id": "pokemon:en:neo2-34",
     "cardId": "neo2-34",
-    "printingId": "pokemon:neo2-34",
+    "printingId": "pokemon:en:neo2-34",
     "game": "pokemon",
     "name": "Ursaring",
     "number": "34",
@@ -709,14 +742,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/34/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/34/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-35",
+    "id": "pokemon:en:neo2-35",
     "cardId": "neo2-35",
-    "printingId": "pokemon:neo2-35",
+    "printingId": "pokemon:en:neo2-35",
     "game": "pokemon",
     "name": "Wobbuffet",
     "number": "35",
@@ -730,14 +764,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/35/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/35/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-36",
+    "id": "pokemon:en:neo2-36",
     "cardId": "neo2-36",
-    "printingId": "pokemon:neo2-36",
+    "printingId": "pokemon:en:neo2-36",
     "game": "pokemon",
     "name": "Yanma",
     "number": "36",
@@ -751,14 +786,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/36/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/36/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-37",
+    "id": "pokemon:en:neo2-37",
     "cardId": "neo2-37",
-    "printingId": "pokemon:neo2-37",
+    "printingId": "pokemon:en:neo2-37",
     "game": "pokemon",
     "name": "Corsola",
     "number": "37",
@@ -772,14 +808,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/37/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/37/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-38",
+    "id": "pokemon:en:neo2-38",
     "cardId": "neo2-38",
-    "printingId": "pokemon:neo2-38",
+    "printingId": "pokemon:en:neo2-38",
     "game": "pokemon",
     "name": "Eevee",
     "number": "38",
@@ -793,14 +830,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/38/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/38/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-39",
+    "id": "pokemon:en:neo2-39",
     "cardId": "neo2-39",
-    "printingId": "pokemon:neo2-39",
+    "printingId": "pokemon:en:neo2-39",
     "game": "pokemon",
     "name": "Houndour",
     "number": "39",
@@ -814,14 +852,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/39/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/39/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-40",
+    "id": "pokemon:en:neo2-40",
     "cardId": "neo2-40",
-    "printingId": "pokemon:neo2-40",
+    "printingId": "pokemon:en:neo2-40",
     "game": "pokemon",
     "name": "Igglybuff",
     "number": "40",
@@ -835,14 +874,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/40/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/40/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-41",
+    "id": "pokemon:en:neo2-41",
     "cardId": "neo2-41",
-    "printingId": "pokemon:neo2-41",
+    "printingId": "pokemon:en:neo2-41",
     "game": "pokemon",
     "name": "Kakuna",
     "number": "41",
@@ -856,14 +896,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/41/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/41/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-42",
+    "id": "pokemon:en:neo2-42",
     "cardId": "neo2-42",
-    "printingId": "pokemon:neo2-42",
+    "printingId": "pokemon:en:neo2-42",
     "game": "pokemon",
     "name": "Metapod",
     "number": "42",
@@ -877,14 +918,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/42/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/42/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-43",
+    "id": "pokemon:en:neo2-43",
     "cardId": "neo2-43",
-    "printingId": "pokemon:neo2-43",
+    "printingId": "pokemon:en:neo2-43",
     "game": "pokemon",
     "name": "Omastar",
     "number": "43",
@@ -898,14 +940,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/43/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/43/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-44",
+    "id": "pokemon:en:neo2-44",
     "cardId": "neo2-44",
-    "printingId": "pokemon:neo2-44",
+    "printingId": "pokemon:en:neo2-44",
     "game": "pokemon",
     "name": "Poliwhirl",
     "number": "44",
@@ -919,14 +962,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/44/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/44/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-45",
+    "id": "pokemon:en:neo2-45",
     "cardId": "neo2-45",
-    "printingId": "pokemon:neo2-45",
+    "printingId": "pokemon:en:neo2-45",
     "game": "pokemon",
     "name": "Pupitar",
     "number": "45",
@@ -940,14 +984,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/45/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/45/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-46",
+    "id": "pokemon:en:neo2-46",
     "cardId": "neo2-46",
-    "printingId": "pokemon:neo2-46",
+    "printingId": "pokemon:en:neo2-46",
     "game": "pokemon",
     "name": "Scyther",
     "number": "46",
@@ -961,14 +1006,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/46/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/46/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-47",
+    "id": "pokemon:en:neo2-47",
     "cardId": "neo2-47",
-    "printingId": "pokemon:neo2-47",
+    "printingId": "pokemon:en:neo2-47",
     "game": "pokemon",
     "name": "Unown [D]",
     "number": "47",
@@ -982,14 +1028,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/47/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/47/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-48",
+    "id": "pokemon:en:neo2-48",
     "cardId": "neo2-48",
-    "printingId": "pokemon:neo2-48",
+    "printingId": "pokemon:en:neo2-48",
     "game": "pokemon",
     "name": "Unown [F]",
     "number": "48",
@@ -1003,14 +1050,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/48/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/48/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-49",
+    "id": "pokemon:en:neo2-49",
     "cardId": "neo2-49",
-    "printingId": "pokemon:neo2-49",
+    "printingId": "pokemon:en:neo2-49",
     "game": "pokemon",
     "name": "Unown [M]",
     "number": "49",
@@ -1024,14 +1072,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/49/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/49/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-50",
+    "id": "pokemon:en:neo2-50",
     "cardId": "neo2-50",
-    "printingId": "pokemon:neo2-50",
+    "printingId": "pokemon:en:neo2-50",
     "game": "pokemon",
     "name": "Unown [N]",
     "number": "50",
@@ -1045,14 +1094,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/50/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/50/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-51",
+    "id": "pokemon:en:neo2-51",
     "cardId": "neo2-51",
-    "printingId": "pokemon:neo2-51",
+    "printingId": "pokemon:en:neo2-51",
     "game": "pokemon",
     "name": "Unown [U]",
     "number": "51",
@@ -1066,14 +1116,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/51/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/51/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-52",
+    "id": "pokemon:en:neo2-52",
     "cardId": "neo2-52",
-    "printingId": "pokemon:neo2-52",
+    "printingId": "pokemon:en:neo2-52",
     "game": "pokemon",
     "name": "Xatu",
     "number": "52",
@@ -1087,14 +1138,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/52/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/52/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-53",
+    "id": "pokemon:en:neo2-53",
     "cardId": "neo2-53",
-    "printingId": "pokemon:neo2-53",
+    "printingId": "pokemon:en:neo2-53",
     "game": "pokemon",
     "name": "Caterpie",
     "number": "53",
@@ -1108,14 +1160,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/53/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/53/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-54",
+    "id": "pokemon:en:neo2-54",
     "cardId": "neo2-54",
-    "printingId": "pokemon:neo2-54",
+    "printingId": "pokemon:en:neo2-54",
     "game": "pokemon",
     "name": "Dunsparce",
     "number": "54",
@@ -1129,14 +1182,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/54/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/54/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-55",
+    "id": "pokemon:en:neo2-55",
     "cardId": "neo2-55",
-    "printingId": "pokemon:neo2-55",
+    "printingId": "pokemon:en:neo2-55",
     "game": "pokemon",
     "name": "Hoppip",
     "number": "55",
@@ -1150,14 +1204,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/55/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/55/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-56",
+    "id": "pokemon:en:neo2-56",
     "cardId": "neo2-56",
-    "printingId": "pokemon:neo2-56",
+    "printingId": "pokemon:en:neo2-56",
     "game": "pokemon",
     "name": "Kabuto",
     "number": "56",
@@ -1171,14 +1226,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/56/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/56/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-57",
+    "id": "pokemon:en:neo2-57",
     "cardId": "neo2-57",
-    "printingId": "pokemon:neo2-57",
+    "printingId": "pokemon:en:neo2-57",
     "game": "pokemon",
     "name": "Larvitar",
     "number": "57",
@@ -1192,14 +1248,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/57/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/57/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-58",
+    "id": "pokemon:en:neo2-58",
     "cardId": "neo2-58",
-    "printingId": "pokemon:neo2-58",
+    "printingId": "pokemon:en:neo2-58",
     "game": "pokemon",
     "name": "Mareep",
     "number": "58",
@@ -1213,14 +1270,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/58/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/58/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-59",
+    "id": "pokemon:en:neo2-59",
     "cardId": "neo2-59",
-    "printingId": "pokemon:neo2-59",
+    "printingId": "pokemon:en:neo2-59",
     "game": "pokemon",
     "name": "Natu",
     "number": "59",
@@ -1234,14 +1292,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/59/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/59/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-60",
+    "id": "pokemon:en:neo2-60",
     "cardId": "neo2-60",
-    "printingId": "pokemon:neo2-60",
+    "printingId": "pokemon:en:neo2-60",
     "game": "pokemon",
     "name": "Omanyte",
     "number": "60",
@@ -1255,14 +1314,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/60/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/60/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-61",
+    "id": "pokemon:en:neo2-61",
     "cardId": "neo2-61",
-    "printingId": "pokemon:neo2-61",
+    "printingId": "pokemon:en:neo2-61",
     "game": "pokemon",
     "name": "Pineco",
     "number": "61",
@@ -1276,14 +1336,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/61/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/61/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-62",
+    "id": "pokemon:en:neo2-62",
     "cardId": "neo2-62",
-    "printingId": "pokemon:neo2-62",
+    "printingId": "pokemon:en:neo2-62",
     "game": "pokemon",
     "name": "Poliwag",
     "number": "62",
@@ -1297,14 +1358,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/62/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/62/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-63",
+    "id": "pokemon:en:neo2-63",
     "cardId": "neo2-63",
-    "printingId": "pokemon:neo2-63",
+    "printingId": "pokemon:en:neo2-63",
     "game": "pokemon",
     "name": "Sentret",
     "number": "63",
@@ -1318,14 +1380,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/63/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/63/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-64",
+    "id": "pokemon:en:neo2-64",
     "cardId": "neo2-64",
-    "printingId": "pokemon:neo2-64",
+    "printingId": "pokemon:en:neo2-64",
     "game": "pokemon",
     "name": "Spinarak",
     "number": "64",
@@ -1339,14 +1402,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/64/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/64/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-65",
+    "id": "pokemon:en:neo2-65",
     "cardId": "neo2-65",
-    "printingId": "pokemon:neo2-65",
+    "printingId": "pokemon:en:neo2-65",
     "game": "pokemon",
     "name": "Teddiursa",
     "number": "65",
@@ -1360,14 +1424,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/65/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/65/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-66",
+    "id": "pokemon:en:neo2-66",
     "cardId": "neo2-66",
-    "printingId": "pokemon:neo2-66",
+    "printingId": "pokemon:en:neo2-66",
     "game": "pokemon",
     "name": "Tyrogue",
     "number": "66",
@@ -1381,14 +1446,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/66/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/66/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-67",
+    "id": "pokemon:en:neo2-67",
     "cardId": "neo2-67",
-    "printingId": "pokemon:neo2-67",
+    "printingId": "pokemon:en:neo2-67",
     "game": "pokemon",
     "name": "Unown [E]",
     "number": "67",
@@ -1402,14 +1468,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/67/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/67/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-68",
+    "id": "pokemon:en:neo2-68",
     "cardId": "neo2-68",
-    "printingId": "pokemon:neo2-68",
+    "printingId": "pokemon:en:neo2-68",
     "game": "pokemon",
     "name": "Unown [I]",
     "number": "68",
@@ -1423,14 +1490,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/68/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/68/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-69",
+    "id": "pokemon:en:neo2-69",
     "cardId": "neo2-69",
-    "printingId": "pokemon:neo2-69",
+    "printingId": "pokemon:en:neo2-69",
     "game": "pokemon",
     "name": "Unown [O]",
     "number": "69",
@@ -1444,14 +1512,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/69/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/69/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-70",
+    "id": "pokemon:en:neo2-70",
     "cardId": "neo2-70",
-    "printingId": "pokemon:neo2-70",
+    "printingId": "pokemon:en:neo2-70",
     "game": "pokemon",
     "name": "Weedle",
     "number": "70",
@@ -1465,14 +1534,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/70/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/70/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-71",
+    "id": "pokemon:en:neo2-71",
     "cardId": "neo2-71",
-    "printingId": "pokemon:neo2-71",
+    "printingId": "pokemon:en:neo2-71",
     "game": "pokemon",
     "name": "Wooper",
     "number": "71",
@@ -1486,14 +1556,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/71/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/71/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-72",
+    "id": "pokemon:en:neo2-72",
     "cardId": "neo2-72",
-    "printingId": "pokemon:neo2-72",
+    "printingId": "pokemon:en:neo2-72",
     "game": "pokemon",
     "name": "Fossil Egg",
     "number": "72",
@@ -1507,14 +1578,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/72/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/72/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-73",
+    "id": "pokemon:en:neo2-73",
     "cardId": "neo2-73",
-    "printingId": "pokemon:neo2-73",
+    "printingId": "pokemon:en:neo2-73",
     "game": "pokemon",
     "name": "Hyper Devolution Spray",
     "number": "73",
@@ -1528,14 +1600,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/73/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/73/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-74",
+    "id": "pokemon:en:neo2-74",
     "cardId": "neo2-74",
-    "printingId": "pokemon:neo2-74",
+    "printingId": "pokemon:en:neo2-74",
     "game": "pokemon",
     "name": "Ruin Wall",
     "number": "74",
@@ -1549,14 +1622,15 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/74/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/74/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:neo2-75",
+    "id": "pokemon:en:neo2-75",
     "cardId": "neo2-75",
-    "printingId": "pokemon:neo2-75",
+    "printingId": "pokemon:en:neo2-75",
     "game": "pokemon",
     "name": "Energy Ark",
     "number": "75",
@@ -1570,8 +1644,9 @@
     "releaseDate": "2001-06-01",
     "image": "https://assets.tcgdex.net/en/neo/neo2/75/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/neo/neo2/75/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

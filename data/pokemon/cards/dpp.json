@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:dpp-DP01",
+    "id": "pokemon:en:dpp-DP01",
     "cardId": "dpp-DP01",
-    "printingId": "pokemon:dpp-DP01",
+    "printingId": "pokemon:en:dpp-DP01",
     "game": "pokemon",
     "name": "Turtwig",
     "number": "DP01",
@@ -16,14 +16,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP01/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP01/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP02",
+    "id": "pokemon:en:dpp-DP02",
     "cardId": "dpp-DP02",
-    "printingId": "pokemon:dpp-DP02",
+    "printingId": "pokemon:en:dpp-DP02",
     "game": "pokemon",
     "name": "Chimchar",
     "number": "DP02",
@@ -37,14 +38,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP02/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP02/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP03",
+    "id": "pokemon:en:dpp-DP03",
     "cardId": "dpp-DP03",
-    "printingId": "pokemon:dpp-DP03",
+    "printingId": "pokemon:en:dpp-DP03",
     "game": "pokemon",
     "name": "Piplup",
     "number": "DP03",
@@ -58,14 +60,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP03/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP03/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP04",
+    "id": "pokemon:en:dpp-DP04",
     "cardId": "dpp-DP04",
-    "printingId": "pokemon:dpp-DP04",
+    "printingId": "pokemon:en:dpp-DP04",
     "game": "pokemon",
     "name": "Pachirisu",
     "number": "DP04",
@@ -79,14 +82,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP04/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP04/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP05",
+    "id": "pokemon:en:dpp-DP05",
     "cardId": "dpp-DP05",
-    "printingId": "pokemon:dpp-DP05",
+    "printingId": "pokemon:en:dpp-DP05",
     "game": "pokemon",
     "name": "Tropical Wind",
     "number": "DP05",
@@ -100,14 +104,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP05/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP05/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP06",
+    "id": "pokemon:en:dpp-DP06",
     "cardId": "dpp-DP06",
-    "printingId": "pokemon:dpp-DP06",
+    "printingId": "pokemon:en:dpp-DP06",
     "game": "pokemon",
     "name": "Buneary",
     "number": "DP06",
@@ -121,14 +126,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP06/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP06/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP07",
+    "id": "pokemon:en:dpp-DP07",
     "cardId": "dpp-DP07",
-    "printingId": "pokemon:dpp-DP07",
+    "printingId": "pokemon:en:dpp-DP07",
     "game": "pokemon",
     "name": "Cranidos",
     "number": "DP07",
@@ -142,14 +148,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP07/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP07/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP08",
+    "id": "pokemon:en:dpp-DP08",
     "cardId": "dpp-DP08",
-    "printingId": "pokemon:dpp-DP08",
+    "printingId": "pokemon:en:dpp-DP08",
     "game": "pokemon",
     "name": "Shieldon",
     "number": "DP08",
@@ -163,14 +170,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP08/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP08/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP09",
+    "id": "pokemon:en:dpp-DP09",
     "cardId": "dpp-DP09",
-    "printingId": "pokemon:dpp-DP09",
+    "printingId": "pokemon:en:dpp-DP09",
     "game": "pokemon",
     "name": "Torterra",
     "number": "DP09",
@@ -184,14 +192,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP09/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP09/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP10",
+    "id": "pokemon:en:dpp-DP10",
     "cardId": "dpp-DP10",
-    "printingId": "pokemon:dpp-DP10",
+    "printingId": "pokemon:en:dpp-DP10",
     "game": "pokemon",
     "name": "Infernape",
     "number": "DP10",
@@ -205,14 +214,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP10/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP10/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP11",
+    "id": "pokemon:en:dpp-DP11",
     "cardId": "dpp-DP11",
-    "printingId": "pokemon:dpp-DP11",
+    "printingId": "pokemon:en:dpp-DP11",
     "game": "pokemon",
     "name": "Empoleon",
     "number": "DP11",
@@ -226,14 +236,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP11/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP11/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP12",
+    "id": "pokemon:en:dpp-DP12",
     "cardId": "dpp-DP12",
-    "printingId": "pokemon:dpp-DP12",
+    "printingId": "pokemon:en:dpp-DP12",
     "game": "pokemon",
     "name": "Lucario",
     "number": "DP12",
@@ -247,14 +258,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP12/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP12/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP13",
+    "id": "pokemon:en:dpp-DP13",
     "cardId": "dpp-DP13",
-    "printingId": "pokemon:dpp-DP13",
+    "printingId": "pokemon:en:dpp-DP13",
     "game": "pokemon",
     "name": "Buizel",
     "number": "DP13",
@@ -268,14 +280,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP13/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP13/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP14",
+    "id": "pokemon:en:dpp-DP14",
     "cardId": "dpp-DP14",
-    "printingId": "pokemon:dpp-DP14",
+    "printingId": "pokemon:en:dpp-DP14",
     "game": "pokemon",
     "name": "Chatot",
     "number": "DP14",
@@ -289,14 +302,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP14/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP14/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP15",
+    "id": "pokemon:en:dpp-DP15",
     "cardId": "dpp-DP15",
-    "printingId": "pokemon:dpp-DP15",
+    "printingId": "pokemon:en:dpp-DP15",
     "game": "pokemon",
     "name": "Shinx",
     "number": "DP15",
@@ -310,14 +324,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP15/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP15/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP16",
+    "id": "pokemon:en:dpp-DP16",
     "cardId": "dpp-DP16",
-    "printingId": "pokemon:dpp-DP16",
+    "printingId": "pokemon:en:dpp-DP16",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "DP16",
@@ -331,14 +346,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP16/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP16/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP17",
+    "id": "pokemon:en:dpp-DP17",
     "cardId": "dpp-DP17",
-    "printingId": "pokemon:dpp-DP17",
+    "printingId": "pokemon:en:dpp-DP17",
     "game": "pokemon",
     "name": "Dialga",
     "number": "DP17",
@@ -352,14 +368,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP17/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP17/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP18",
+    "id": "pokemon:en:dpp-DP18",
     "cardId": "dpp-DP18",
-    "printingId": "pokemon:dpp-DP18",
+    "printingId": "pokemon:en:dpp-DP18",
     "game": "pokemon",
     "name": "Palkia",
     "number": "DP18",
@@ -373,14 +390,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP18/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP18/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP19",
+    "id": "pokemon:en:dpp-DP19",
     "cardId": "dpp-DP19",
-    "printingId": "pokemon:dpp-DP19",
+    "printingId": "pokemon:en:dpp-DP19",
     "game": "pokemon",
     "name": "Darkrai",
     "number": "DP19",
@@ -394,14 +412,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP19/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP19/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP20",
+    "id": "pokemon:en:dpp-DP20",
     "cardId": "dpp-DP20",
-    "printingId": "pokemon:dpp-DP20",
+    "printingId": "pokemon:en:dpp-DP20",
     "game": "pokemon",
     "name": "Magmortar",
     "number": "DP20",
@@ -415,14 +434,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP20/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP20/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP21",
+    "id": "pokemon:en:dpp-DP21",
     "cardId": "dpp-DP21",
-    "printingId": "pokemon:dpp-DP21",
+    "printingId": "pokemon:en:dpp-DP21",
     "game": "pokemon",
     "name": "Raichu",
     "number": "DP21",
@@ -436,14 +456,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP21/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP21/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP22",
+    "id": "pokemon:en:dpp-DP22",
     "cardId": "dpp-DP22",
-    "printingId": "pokemon:dpp-DP22",
+    "printingId": "pokemon:en:dpp-DP22",
     "game": "pokemon",
     "name": "Mime Jr.",
     "number": "DP22",
@@ -457,14 +478,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP22/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP22/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP23",
+    "id": "pokemon:en:dpp-DP23",
     "cardId": "dpp-DP23",
-    "printingId": "pokemon:dpp-DP23",
+    "printingId": "pokemon:en:dpp-DP23",
     "game": "pokemon",
     "name": "Glameow",
     "number": "DP23",
@@ -478,14 +500,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP23/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP23/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP24",
+    "id": "pokemon:en:dpp-DP24",
     "cardId": "dpp-DP24",
-    "printingId": "pokemon:dpp-DP24",
+    "printingId": "pokemon:en:dpp-DP24",
     "game": "pokemon",
     "name": "Darkrai",
     "number": "DP24",
@@ -499,14 +522,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP24/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP24/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP25",
+    "id": "pokemon:en:dpp-DP25",
     "cardId": "dpp-DP25",
-    "printingId": "pokemon:dpp-DP25",
+    "printingId": "pokemon:en:dpp-DP25",
     "game": "pokemon",
     "name": "Tropical Wind",
     "number": "DP25",
@@ -520,14 +544,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP25/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP25/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP26",
+    "id": "pokemon:en:dpp-DP26",
     "cardId": "dpp-DP26",
-    "printingId": "pokemon:dpp-DP26",
+    "printingId": "pokemon:en:dpp-DP26",
     "game": "pokemon",
     "name": "Dialga",
     "number": "DP26",
@@ -541,14 +566,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP26/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP26/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP27",
+    "id": "pokemon:en:dpp-DP27",
     "cardId": "dpp-DP27",
-    "printingId": "pokemon:dpp-DP27",
+    "printingId": "pokemon:en:dpp-DP27",
     "game": "pokemon",
     "name": "Palkia",
     "number": "DP27",
@@ -562,14 +588,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP27/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP27/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP28",
+    "id": "pokemon:en:dpp-DP28",
     "cardId": "dpp-DP28",
-    "printingId": "pokemon:dpp-DP28",
+    "printingId": "pokemon:en:dpp-DP28",
     "game": "pokemon",
     "name": "Mewtwo",
     "number": "DP28",
@@ -583,14 +610,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP28/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP28/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP29",
+    "id": "pokemon:en:dpp-DP29",
     "cardId": "dpp-DP29",
-    "printingId": "pokemon:dpp-DP29",
+    "printingId": "pokemon:en:dpp-DP29",
     "game": "pokemon",
     "name": "Rhyperior",
     "number": "DP29",
@@ -604,14 +632,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP29/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP29/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP30",
+    "id": "pokemon:en:dpp-DP30",
     "cardId": "dpp-DP30",
-    "printingId": "pokemon:dpp-DP30",
+    "printingId": "pokemon:en:dpp-DP30",
     "game": "pokemon",
     "name": "Regigigas",
     "number": "DP30",
@@ -625,14 +654,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP30/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP30/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP31",
+    "id": "pokemon:en:dpp-DP31",
     "cardId": "dpp-DP31",
-    "printingId": "pokemon:dpp-DP31",
+    "printingId": "pokemon:en:dpp-DP31",
     "game": "pokemon",
     "name": "Heatran",
     "number": "DP31",
@@ -646,14 +676,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP31/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP31/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP32",
+    "id": "pokemon:en:dpp-DP32",
     "cardId": "dpp-DP32",
-    "printingId": "pokemon:dpp-DP32",
+    "printingId": "pokemon:en:dpp-DP32",
     "game": "pokemon",
     "name": "Magnezone",
     "number": "DP32",
@@ -667,14 +698,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP32/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP32/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP33",
+    "id": "pokemon:en:dpp-DP33",
     "cardId": "dpp-DP33",
-    "printingId": "pokemon:dpp-DP33",
+    "printingId": "pokemon:en:dpp-DP33",
     "game": "pokemon",
     "name": "Dusknoir",
     "number": "DP33",
@@ -688,14 +720,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP33/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP33/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP34",
+    "id": "pokemon:en:dpp-DP34",
     "cardId": "dpp-DP34",
-    "printingId": "pokemon:dpp-DP34",
+    "printingId": "pokemon:en:dpp-DP34",
     "game": "pokemon",
     "name": "Drifblim",
     "number": "DP34",
@@ -709,14 +742,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP34/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP34/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP35",
+    "id": "pokemon:en:dpp-DP35",
     "cardId": "dpp-DP35",
-    "printingId": "pokemon:dpp-DP35",
+    "printingId": "pokemon:en:dpp-DP35",
     "game": "pokemon",
     "name": "Porygon-Z",
     "number": "DP35",
@@ -730,14 +764,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP35/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP35/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP36",
+    "id": "pokemon:en:dpp-DP36",
     "cardId": "dpp-DP36",
-    "printingId": "pokemon:dpp-DP36",
+    "printingId": "pokemon:en:dpp-DP36",
     "game": "pokemon",
     "name": "Gliscor",
     "number": "DP36",
@@ -751,14 +786,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP36/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP36/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP37",
+    "id": "pokemon:en:dpp-DP37",
     "cardId": "dpp-DP37",
-    "printingId": "pokemon:dpp-DP37",
+    "printingId": "pokemon:en:dpp-DP37",
     "game": "pokemon",
     "name": "Dialga",
     "number": "DP37",
@@ -772,14 +808,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP37/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP37/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP38",
+    "id": "pokemon:en:dpp-DP38",
     "cardId": "dpp-DP38",
-    "printingId": "pokemon:dpp-DP38",
+    "printingId": "pokemon:en:dpp-DP38",
     "game": "pokemon",
     "name": "Giratina",
     "number": "DP38",
@@ -793,14 +830,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP38/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP38/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP39",
+    "id": "pokemon:en:dpp-DP39",
     "cardId": "dpp-DP39",
-    "printingId": "pokemon:dpp-DP39",
+    "printingId": "pokemon:en:dpp-DP39",
     "game": "pokemon",
     "name": "Shaymin",
     "number": "DP39",
@@ -814,14 +852,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP39/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP39/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP40",
+    "id": "pokemon:en:dpp-DP40",
     "cardId": "dpp-DP40",
-    "printingId": "pokemon:dpp-DP40",
+    "printingId": "pokemon:en:dpp-DP40",
     "game": "pokemon",
     "name": "Regigigas",
     "number": "DP40",
@@ -835,14 +874,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP40/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP40/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP41",
+    "id": "pokemon:en:dpp-DP41",
     "cardId": "dpp-DP41",
-    "printingId": "pokemon:dpp-DP41",
+    "printingId": "pokemon:en:dpp-DP41",
     "game": "pokemon",
     "name": "Toxicroak G",
     "number": "DP41",
@@ -856,14 +896,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP41/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP41/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP42",
+    "id": "pokemon:en:dpp-DP42",
     "cardId": "dpp-DP42",
-    "printingId": "pokemon:dpp-DP42",
+    "printingId": "pokemon:en:dpp-DP42",
     "game": "pokemon",
     "name": "Carnivine G",
     "number": "DP42",
@@ -877,14 +918,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP42/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP42/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP43",
+    "id": "pokemon:en:dpp-DP43",
     "cardId": "dpp-DP43",
-    "printingId": "pokemon:dpp-DP43",
+    "printingId": "pokemon:en:dpp-DP43",
     "game": "pokemon",
     "name": "Probopass G",
     "number": "DP43",
@@ -898,14 +940,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP43/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP43/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP44",
+    "id": "pokemon:en:dpp-DP44",
     "cardId": "dpp-DP44",
-    "printingId": "pokemon:dpp-DP44",
+    "printingId": "pokemon:en:dpp-DP44",
     "game": "pokemon",
     "name": "Magnezone",
     "number": "DP44",
@@ -919,14 +962,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP44/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP44/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP45",
+    "id": "pokemon:en:dpp-DP45",
     "cardId": "dpp-DP45",
-    "printingId": "pokemon:dpp-DP45",
+    "printingId": "pokemon:en:dpp-DP45",
     "game": "pokemon",
     "name": "Charizard G",
     "number": "DP45",
@@ -940,14 +984,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP45/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP45/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP46",
+    "id": "pokemon:en:dpp-DP46",
     "cardId": "dpp-DP46",
-    "printingId": "pokemon:dpp-DP46",
+    "printingId": "pokemon:en:dpp-DP46",
     "game": "pokemon",
     "name": "Garchomp C",
     "number": "DP46",
@@ -961,14 +1006,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP46/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP46/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP47",
+    "id": "pokemon:en:dpp-DP47",
     "cardId": "dpp-DP47",
-    "printingId": "pokemon:dpp-DP47",
+    "printingId": "pokemon:en:dpp-DP47",
     "game": "pokemon",
     "name": "Rayquaza C",
     "number": "DP47",
@@ -982,14 +1028,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP47/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP47/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP48",
+    "id": "pokemon:en:dpp-DP48",
     "cardId": "dpp-DP48",
-    "printingId": "pokemon:dpp-DP48",
+    "printingId": "pokemon:en:dpp-DP48",
     "game": "pokemon",
     "name": "Tropical Wind",
     "number": "DP48",
@@ -1003,14 +1050,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP48/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP48/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP49",
+    "id": "pokemon:en:dpp-DP49",
     "cardId": "dpp-DP49",
-    "printingId": "pokemon:dpp-DP49",
+    "printingId": "pokemon:en:dpp-DP49",
     "game": "pokemon",
     "name": "Dialga",
     "number": "DP49",
@@ -1024,14 +1072,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP49/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP49/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP50",
+    "id": "pokemon:en:dpp-DP50",
     "cardId": "dpp-DP50",
-    "printingId": "pokemon:dpp-DP50",
+    "printingId": "pokemon:en:dpp-DP50",
     "game": "pokemon",
     "name": "Arceus",
     "number": "DP50",
@@ -1045,14 +1094,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP50/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP50/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP51",
+    "id": "pokemon:en:dpp-DP51",
     "cardId": "dpp-DP51",
-    "printingId": "pokemon:dpp-DP51",
+    "printingId": "pokemon:en:dpp-DP51",
     "game": "pokemon",
     "name": "Cresselia",
     "number": "DP51",
@@ -1066,14 +1116,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP51/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP51/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP52",
+    "id": "pokemon:en:dpp-DP52",
     "cardId": "dpp-DP52",
-    "printingId": "pokemon:dpp-DP52",
+    "printingId": "pokemon:en:dpp-DP52",
     "game": "pokemon",
     "name": "Darkrai",
     "number": "DP52",
@@ -1087,14 +1138,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP52/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP52/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP53",
+    "id": "pokemon:en:dpp-DP53",
     "cardId": "dpp-DP53",
-    "printingId": "pokemon:dpp-DP53",
+    "printingId": "pokemon:en:dpp-DP53",
     "game": "pokemon",
     "name": "Arceus",
     "number": "DP53",
@@ -1108,14 +1160,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP53/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP53/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP54",
+    "id": "pokemon:en:dpp-DP54",
     "cardId": "dpp-DP54",
-    "printingId": "pokemon:dpp-DP54",
+    "printingId": "pokemon:en:dpp-DP54",
     "game": "pokemon",
     "name": "Beginning Door",
     "number": "DP54",
@@ -1129,14 +1182,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP54/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP54/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP55",
+    "id": "pokemon:en:dpp-DP55",
     "cardId": "dpp-DP55",
-    "printingId": "pokemon:dpp-DP55",
+    "printingId": "pokemon:en:dpp-DP55",
     "game": "pokemon",
     "name": "Ultimate Zone",
     "number": "DP55",
@@ -1150,14 +1204,15 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP55/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP55/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:dpp-DP56",
+    "id": "pokemon:en:dpp-DP56",
     "cardId": "dpp-DP56",
-    "printingId": "pokemon:dpp-DP56",
+    "printingId": "pokemon:en:dpp-DP56",
     "game": "pokemon",
     "name": "Arceus",
     "number": "DP56",
@@ -1171,8 +1226,9 @@
     "releaseDate": "2007-05-01",
     "image": "https://assets.tcgdex.net/en/dp/dpp/DP56/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/dp/dpp/DP56/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

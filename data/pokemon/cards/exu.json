@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:exu-!",
+    "id": "pokemon:en:exu-!",
     "cardId": "exu-!",
-    "printingId": "pokemon:exu-!",
+    "printingId": "pokemon:en:exu-!",
     "game": "pokemon",
     "name": "Unown",
     "number": "!",
@@ -16,14 +16,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-%3F",
+    "id": "pokemon:en:exu-%3F",
     "cardId": "exu-%3F",
-    "printingId": "pokemon:exu-%3F",
+    "printingId": "pokemon:en:exu-%3F",
     "game": "pokemon",
     "name": "Unown",
     "number": "%3F",
@@ -37,14 +38,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-A",
+    "id": "pokemon:en:exu-A",
     "cardId": "exu-A",
-    "printingId": "pokemon:exu-A",
+    "printingId": "pokemon:en:exu-A",
     "game": "pokemon",
     "name": "Unown",
     "number": "A",
@@ -58,14 +60,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-B",
+    "id": "pokemon:en:exu-B",
     "cardId": "exu-B",
-    "printingId": "pokemon:exu-B",
+    "printingId": "pokemon:en:exu-B",
     "game": "pokemon",
     "name": "Unown",
     "number": "B",
@@ -79,14 +82,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-C",
+    "id": "pokemon:en:exu-C",
     "cardId": "exu-C",
-    "printingId": "pokemon:exu-C",
+    "printingId": "pokemon:en:exu-C",
     "game": "pokemon",
     "name": "Unown",
     "number": "C",
@@ -100,14 +104,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-D",
+    "id": "pokemon:en:exu-D",
     "cardId": "exu-D",
-    "printingId": "pokemon:exu-D",
+    "printingId": "pokemon:en:exu-D",
     "game": "pokemon",
     "name": "Unown",
     "number": "D",
@@ -121,14 +126,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-E",
+    "id": "pokemon:en:exu-E",
     "cardId": "exu-E",
-    "printingId": "pokemon:exu-E",
+    "printingId": "pokemon:en:exu-E",
     "game": "pokemon",
     "name": "Unown",
     "number": "E",
@@ -142,14 +148,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-F",
+    "id": "pokemon:en:exu-F",
     "cardId": "exu-F",
-    "printingId": "pokemon:exu-F",
+    "printingId": "pokemon:en:exu-F",
     "game": "pokemon",
     "name": "Unown",
     "number": "F",
@@ -163,14 +170,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-G",
+    "id": "pokemon:en:exu-G",
     "cardId": "exu-G",
-    "printingId": "pokemon:exu-G",
+    "printingId": "pokemon:en:exu-G",
     "game": "pokemon",
     "name": "Unown",
     "number": "G",
@@ -184,14 +192,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-H",
+    "id": "pokemon:en:exu-H",
     "cardId": "exu-H",
-    "printingId": "pokemon:exu-H",
+    "printingId": "pokemon:en:exu-H",
     "game": "pokemon",
     "name": "Unown",
     "number": "H",
@@ -205,14 +214,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-I",
+    "id": "pokemon:en:exu-I",
     "cardId": "exu-I",
-    "printingId": "pokemon:exu-I",
+    "printingId": "pokemon:en:exu-I",
     "game": "pokemon",
     "name": "Unown",
     "number": "I",
@@ -226,14 +236,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-J",
+    "id": "pokemon:en:exu-J",
     "cardId": "exu-J",
-    "printingId": "pokemon:exu-J",
+    "printingId": "pokemon:en:exu-J",
     "game": "pokemon",
     "name": "Unown",
     "number": "J",
@@ -247,14 +258,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-K",
+    "id": "pokemon:en:exu-K",
     "cardId": "exu-K",
-    "printingId": "pokemon:exu-K",
+    "printingId": "pokemon:en:exu-K",
     "game": "pokemon",
     "name": "Unown",
     "number": "K",
@@ -268,14 +280,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-L",
+    "id": "pokemon:en:exu-L",
     "cardId": "exu-L",
-    "printingId": "pokemon:exu-L",
+    "printingId": "pokemon:en:exu-L",
     "game": "pokemon",
     "name": "Unown",
     "number": "L",
@@ -289,14 +302,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-M",
+    "id": "pokemon:en:exu-M",
     "cardId": "exu-M",
-    "printingId": "pokemon:exu-M",
+    "printingId": "pokemon:en:exu-M",
     "game": "pokemon",
     "name": "Unown",
     "number": "M",
@@ -310,14 +324,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-N",
+    "id": "pokemon:en:exu-N",
     "cardId": "exu-N",
-    "printingId": "pokemon:exu-N",
+    "printingId": "pokemon:en:exu-N",
     "game": "pokemon",
     "name": "Unown",
     "number": "N",
@@ -331,14 +346,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-O",
+    "id": "pokemon:en:exu-O",
     "cardId": "exu-O",
-    "printingId": "pokemon:exu-O",
+    "printingId": "pokemon:en:exu-O",
     "game": "pokemon",
     "name": "Unown",
     "number": "O",
@@ -352,14 +368,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-P",
+    "id": "pokemon:en:exu-P",
     "cardId": "exu-P",
-    "printingId": "pokemon:exu-P",
+    "printingId": "pokemon:en:exu-P",
     "game": "pokemon",
     "name": "Unown",
     "number": "P",
@@ -373,14 +390,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-Q",
+    "id": "pokemon:en:exu-Q",
     "cardId": "exu-Q",
-    "printingId": "pokemon:exu-Q",
+    "printingId": "pokemon:en:exu-Q",
     "game": "pokemon",
     "name": "Unown",
     "number": "Q",
@@ -394,14 +412,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-R",
+    "id": "pokemon:en:exu-R",
     "cardId": "exu-R",
-    "printingId": "pokemon:exu-R",
+    "printingId": "pokemon:en:exu-R",
     "game": "pokemon",
     "name": "Unown",
     "number": "R",
@@ -415,14 +434,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-S",
+    "id": "pokemon:en:exu-S",
     "cardId": "exu-S",
-    "printingId": "pokemon:exu-S",
+    "printingId": "pokemon:en:exu-S",
     "game": "pokemon",
     "name": "Unown",
     "number": "S",
@@ -436,14 +456,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-T",
+    "id": "pokemon:en:exu-T",
     "cardId": "exu-T",
-    "printingId": "pokemon:exu-T",
+    "printingId": "pokemon:en:exu-T",
     "game": "pokemon",
     "name": "Unown",
     "number": "T",
@@ -457,14 +478,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-U",
+    "id": "pokemon:en:exu-U",
     "cardId": "exu-U",
-    "printingId": "pokemon:exu-U",
+    "printingId": "pokemon:en:exu-U",
     "game": "pokemon",
     "name": "Unown",
     "number": "U",
@@ -478,14 +500,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-V",
+    "id": "pokemon:en:exu-V",
     "cardId": "exu-V",
-    "printingId": "pokemon:exu-V",
+    "printingId": "pokemon:en:exu-V",
     "game": "pokemon",
     "name": "Unown",
     "number": "V",
@@ -499,14 +522,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-W",
+    "id": "pokemon:en:exu-W",
     "cardId": "exu-W",
-    "printingId": "pokemon:exu-W",
+    "printingId": "pokemon:en:exu-W",
     "game": "pokemon",
     "name": "Unown",
     "number": "W",
@@ -520,14 +544,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-X",
+    "id": "pokemon:en:exu-X",
     "cardId": "exu-X",
-    "printingId": "pokemon:exu-X",
+    "printingId": "pokemon:en:exu-X",
     "game": "pokemon",
     "name": "Unown",
     "number": "X",
@@ -541,14 +566,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-Y",
+    "id": "pokemon:en:exu-Y",
     "cardId": "exu-Y",
-    "printingId": "pokemon:exu-Y",
+    "printingId": "pokemon:en:exu-Y",
     "game": "pokemon",
     "name": "Unown",
     "number": "Y",
@@ -562,14 +588,15 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:exu-Z",
+    "id": "pokemon:en:exu-Z",
     "cardId": "exu-Z",
-    "printingId": "pokemon:exu-Z",
+    "printingId": "pokemon:en:exu-Z",
     "game": "pokemon",
     "name": "Unown",
     "number": "Z",
@@ -583,8 +610,9 @@
     "releaseDate": "2005-08-22",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

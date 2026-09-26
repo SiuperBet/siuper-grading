@@ -1,11 +1,12 @@
 {
   "databaseVersion": 1,
   "game": "pokemon",
+  "language": "it",
   "source": "TCGdex",
-  "updatedAt": "2026-09-26T11:15:23.599Z",
+  "updatedAt": "2026-09-26T11:21:13.000Z",
   "sets": 193,
   "cards": 21647,
   "failedSets": 0,
-  "englishFallbackSets": 78,
+  "fallbackSets": 78,
   "emptySets": 1
 }

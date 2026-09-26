@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:tk-dp-l-1",
+    "id": "pokemon:en:tk-dp-l-1",
     "cardId": "tk-dp-l-1",
-    "printingId": "pokemon:tk-dp-l-1",
+    "printingId": "pokemon:en:tk-dp-l-1",
     "game": "pokemon",
     "name": "Geodude",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-2",
+    "id": "pokemon:en:tk-dp-l-2",
     "cardId": "tk-dp-l-2",
-    "printingId": "pokemon:tk-dp-l-2",
+    "printingId": "pokemon:en:tk-dp-l-2",
     "game": "pokemon",
     "name": "Graveler",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-3",
+    "id": "pokemon:en:tk-dp-l-3",
     "cardId": "tk-dp-l-3",
-    "printingId": "pokemon:tk-dp-l-3",
+    "printingId": "pokemon:en:tk-dp-l-3",
     "game": "pokemon",
     "name": "Lucario",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-4",
+    "id": "pokemon:en:tk-dp-l-4",
     "cardId": "tk-dp-l-4",
-    "printingId": "pokemon:tk-dp-l-4",
+    "printingId": "pokemon:en:tk-dp-l-4",
     "game": "pokemon",
     "name": "Machoke",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-5",
+    "id": "pokemon:en:tk-dp-l-5",
     "cardId": "tk-dp-l-5",
-    "printingId": "pokemon:tk-dp-l-5",
+    "printingId": "pokemon:en:tk-dp-l-5",
     "game": "pokemon",
     "name": "Machop",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-6",
+    "id": "pokemon:en:tk-dp-l-6",
     "cardId": "tk-dp-l-6",
-    "printingId": "pokemon:tk-dp-l-6",
+    "printingId": "pokemon:en:tk-dp-l-6",
     "game": "pokemon",
     "name": "Riolu",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-7",
+    "id": "pokemon:en:tk-dp-l-7",
     "cardId": "tk-dp-l-7",
-    "printingId": "pokemon:tk-dp-l-7",
+    "printingId": "pokemon:en:tk-dp-l-7",
     "game": "pokemon",
     "name": "Starly",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-8",
+    "id": "pokemon:en:tk-dp-l-8",
     "cardId": "tk-dp-l-8",
-    "printingId": "pokemon:tk-dp-l-8",
+    "printingId": "pokemon:en:tk-dp-l-8",
     "game": "pokemon",
     "name": "Energy Search",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-9",
+    "id": "pokemon:en:tk-dp-l-9",
     "cardId": "tk-dp-l-9",
-    "printingId": "pokemon:tk-dp-l-9",
+    "printingId": "pokemon:en:tk-dp-l-9",
     "game": "pokemon",
     "name": "Potion",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-10",
+    "id": "pokemon:en:tk-dp-l-10",
     "cardId": "tk-dp-l-10",
-    "printingId": "pokemon:tk-dp-l-10",
+    "printingId": "pokemon:en:tk-dp-l-10",
     "game": "pokemon",
     "name": "Quick Ball",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:tk-dp-l-11",
+    "id": "pokemon:en:tk-dp-l-11",
     "cardId": "tk-dp-l-11",
-    "printingId": "pokemon:tk-dp-l-11",
+    "printingId": "pokemon:en:tk-dp-l-11",
     "game": "pokemon",
     "name": "Fighting Energy",
     "number": "11",
@@ -226,8 +236,9 @@
     "releaseDate": "2007-09-01",
     "image": "",
     "imageHigh": "",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

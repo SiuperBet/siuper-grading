@@ -1,8 +1,8 @@
 [
   {
-    "id": "pokemon:basep-1",
+    "id": "pokemon:en:basep-1",
     "cardId": "basep-1",
-    "printingId": "pokemon:basep-1",
+    "printingId": "pokemon:en:basep-1",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "1",
@@ -16,14 +16,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/1/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/1/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-2",
+    "id": "pokemon:en:basep-2",
     "cardId": "basep-2",
-    "printingId": "pokemon:basep-2",
+    "printingId": "pokemon:en:basep-2",
     "game": "pokemon",
     "name": "Electabuzz",
     "number": "2",
@@ -37,14 +38,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/2/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/2/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-3",
+    "id": "pokemon:en:basep-3",
     "cardId": "basep-3",
-    "printingId": "pokemon:basep-3",
+    "printingId": "pokemon:en:basep-3",
     "game": "pokemon",
     "name": "Mewtwo",
     "number": "3",
@@ -58,14 +60,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/3/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/3/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-4",
+    "id": "pokemon:en:basep-4",
     "cardId": "basep-4",
-    "printingId": "pokemon:basep-4",
+    "printingId": "pokemon:en:basep-4",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "4",
@@ -79,14 +82,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/4/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/4/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-5",
+    "id": "pokemon:en:basep-5",
     "cardId": "basep-5",
-    "printingId": "pokemon:basep-5",
+    "printingId": "pokemon:en:basep-5",
     "game": "pokemon",
     "name": "Dragonite",
     "number": "5",
@@ -100,14 +104,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/5/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/5/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-6",
+    "id": "pokemon:en:basep-6",
     "cardId": "basep-6",
-    "printingId": "pokemon:basep-6",
+    "printingId": "pokemon:en:basep-6",
     "game": "pokemon",
     "name": "Arcanine",
     "number": "6",
@@ -121,14 +126,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/6/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/6/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-7",
+    "id": "pokemon:en:basep-7",
     "cardId": "basep-7",
-    "printingId": "pokemon:basep-7",
+    "printingId": "pokemon:en:basep-7",
     "game": "pokemon",
     "name": "Jigglypuff",
     "number": "7",
@@ -142,14 +148,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/7/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/7/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-8",
+    "id": "pokemon:en:basep-8",
     "cardId": "basep-8",
-    "printingId": "pokemon:basep-8",
+    "printingId": "pokemon:en:basep-8",
     "game": "pokemon",
     "name": "Mew",
     "number": "8",
@@ -163,14 +170,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/8/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/8/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-9",
+    "id": "pokemon:en:basep-9",
     "cardId": "basep-9",
-    "printingId": "pokemon:basep-9",
+    "printingId": "pokemon:en:basep-9",
     "game": "pokemon",
     "name": "Mew",
     "number": "9",
@@ -184,14 +192,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/9/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/9/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-10",
+    "id": "pokemon:en:basep-10",
     "cardId": "basep-10",
-    "printingId": "pokemon:basep-10",
+    "printingId": "pokemon:en:basep-10",
     "game": "pokemon",
     "name": "Meowth",
     "number": "10",
@@ -205,14 +214,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/10/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/10/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-11",
+    "id": "pokemon:en:basep-11",
     "cardId": "basep-11",
-    "printingId": "pokemon:basep-11",
+    "printingId": "pokemon:en:basep-11",
     "game": "pokemon",
     "name": "Eevee",
     "number": "11",
@@ -226,14 +236,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/11/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/11/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-12",
+    "id": "pokemon:en:basep-12",
     "cardId": "basep-12",
-    "printingId": "pokemon:basep-12",
+    "printingId": "pokemon:en:basep-12",
     "game": "pokemon",
     "name": "Mewtwo",
     "number": "12",
@@ -247,14 +258,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/12/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/12/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-13",
+    "id": "pokemon:en:basep-13",
     "cardId": "basep-13",
-    "printingId": "pokemon:basep-13",
+    "printingId": "pokemon:en:basep-13",
     "game": "pokemon",
     "name": "Venusaur",
     "number": "13",
@@ -268,14 +280,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/13/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/13/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-14",
+    "id": "pokemon:en:basep-14",
     "cardId": "basep-14",
-    "printingId": "pokemon:basep-14",
+    "printingId": "pokemon:en:basep-14",
     "game": "pokemon",
     "name": "Mewtwo",
     "number": "14",
@@ -289,14 +302,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/14/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/14/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-15",
+    "id": "pokemon:en:basep-15",
     "cardId": "basep-15",
-    "printingId": "pokemon:basep-15",
+    "printingId": "pokemon:en:basep-15",
     "game": "pokemon",
     "name": "Cool Porygon",
     "number": "15",
@@ -310,14 +324,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/15/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/15/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-16",
+    "id": "pokemon:en:basep-16",
     "cardId": "basep-16",
-    "printingId": "pokemon:basep-16",
+    "printingId": "pokemon:en:basep-16",
     "game": "pokemon",
     "name": "Computer Error",
     "number": "16",
@@ -331,14 +346,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/16/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/16/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-17",
+    "id": "pokemon:en:basep-17",
     "cardId": "basep-17",
-    "printingId": "pokemon:basep-17",
+    "printingId": "pokemon:en:basep-17",
     "game": "pokemon",
     "name": "Dark Persian",
     "number": "17",
@@ -352,14 +368,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/17/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/17/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-18",
+    "id": "pokemon:en:basep-18",
     "cardId": "basep-18",
-    "printingId": "pokemon:basep-18",
+    "printingId": "pokemon:en:basep-18",
     "game": "pokemon",
     "name": "Team Rocket's Meowth",
     "number": "18",
@@ -373,14 +390,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/18/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/18/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-19",
+    "id": "pokemon:en:basep-19",
     "cardId": "basep-19",
-    "printingId": "pokemon:basep-19",
+    "printingId": "pokemon:en:basep-19",
     "game": "pokemon",
     "name": "Sabrina's Abra",
     "number": "19",
@@ -394,14 +412,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/19/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/19/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-20",
+    "id": "pokemon:en:basep-20",
     "cardId": "basep-20",
-    "printingId": "pokemon:basep-20",
+    "printingId": "pokemon:en:basep-20",
     "game": "pokemon",
     "name": "Psyduck",
     "number": "20",
@@ -415,14 +434,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/20/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/20/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-21",
+    "id": "pokemon:en:basep-21",
     "cardId": "basep-21",
-    "printingId": "pokemon:basep-21",
+    "printingId": "pokemon:en:basep-21",
     "game": "pokemon",
     "name": "Moltres",
     "number": "21",
@@ -436,14 +456,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/21/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/21/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-22",
+    "id": "pokemon:en:basep-22",
     "cardId": "basep-22",
-    "printingId": "pokemon:basep-22",
+    "printingId": "pokemon:en:basep-22",
     "game": "pokemon",
     "name": "Articuno",
     "number": "22",
@@ -457,14 +478,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/22/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/22/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-23",
+    "id": "pokemon:en:basep-23",
     "cardId": "basep-23",
-    "printingId": "pokemon:basep-23",
+    "printingId": "pokemon:en:basep-23",
     "game": "pokemon",
     "name": "Zapdos",
     "number": "23",
@@ -478,14 +500,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/23/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/23/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-24",
+    "id": "pokemon:en:basep-24",
     "cardId": "basep-24",
-    "printingId": "pokemon:basep-24",
+    "printingId": "pokemon:en:basep-24",
     "game": "pokemon",
     "name": "___________'s Pikachu",
     "number": "24",
@@ -499,14 +522,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/24/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/24/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-25",
+    "id": "pokemon:en:basep-25",
     "cardId": "basep-25",
-    "printingId": "pokemon:basep-25",
+    "printingId": "pokemon:en:basep-25",
     "game": "pokemon",
     "name": "Flying Pikachu",
     "number": "25",
@@ -520,14 +544,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/25/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/25/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-26",
+    "id": "pokemon:en:basep-26",
     "cardId": "basep-26",
-    "printingId": "pokemon:basep-26",
+    "printingId": "pokemon:en:basep-26",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "26",
@@ -541,14 +566,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/26/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/26/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-27",
+    "id": "pokemon:en:basep-27",
     "cardId": "basep-27",
-    "printingId": "pokemon:basep-27",
+    "printingId": "pokemon:en:basep-27",
     "game": "pokemon",
     "name": "Pikachu",
     "number": "27",
@@ -562,14 +588,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/27/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/27/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-28",
+    "id": "pokemon:en:basep-28",
     "cardId": "basep-28",
-    "printingId": "pokemon:basep-28",
+    "printingId": "pokemon:en:basep-28",
     "game": "pokemon",
     "name": "Surfing Pikachu",
     "number": "28",
@@ -583,14 +610,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/28/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/28/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-29",
+    "id": "pokemon:en:basep-29",
     "cardId": "basep-29",
-    "printingId": "pokemon:basep-29",
+    "printingId": "pokemon:en:basep-29",
     "game": "pokemon",
     "name": "Marill",
     "number": "29",
@@ -604,14 +632,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/29/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/29/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-30",
+    "id": "pokemon:en:basep-30",
     "cardId": "basep-30",
-    "printingId": "pokemon:basep-30",
+    "printingId": "pokemon:en:basep-30",
     "game": "pokemon",
     "name": "Togepi",
     "number": "30",
@@ -625,14 +654,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/30/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/30/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-31",
+    "id": "pokemon:en:basep-31",
     "cardId": "basep-31",
-    "printingId": "pokemon:basep-31",
+    "printingId": "pokemon:en:basep-31",
     "game": "pokemon",
     "name": "Cleffa",
     "number": "31",
@@ -646,14 +676,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/31/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/31/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-32",
+    "id": "pokemon:en:basep-32",
     "cardId": "basep-32",
-    "printingId": "pokemon:basep-32",
+    "printingId": "pokemon:en:basep-32",
     "game": "pokemon",
     "name": "Smeargle",
     "number": "32",
@@ -667,14 +698,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/32/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/32/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-33",
+    "id": "pokemon:en:basep-33",
     "cardId": "basep-33",
-    "printingId": "pokemon:basep-33",
+    "printingId": "pokemon:en:basep-33",
     "game": "pokemon",
     "name": "Scizor",
     "number": "33",
@@ -688,14 +720,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/33/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/33/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-34",
+    "id": "pokemon:en:basep-34",
     "cardId": "basep-34",
-    "printingId": "pokemon:basep-34",
+    "printingId": "pokemon:en:basep-34",
     "game": "pokemon",
     "name": "Entei",
     "number": "34",
@@ -709,14 +742,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/34/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/34/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-35",
+    "id": "pokemon:en:basep-35",
     "cardId": "basep-35",
-    "printingId": "pokemon:basep-35",
+    "printingId": "pokemon:en:basep-35",
     "game": "pokemon",
     "name": "Pichu",
     "number": "35",
@@ -730,14 +764,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/35/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/35/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-36",
+    "id": "pokemon:en:basep-36",
     "cardId": "basep-36",
-    "printingId": "pokemon:basep-36",
+    "printingId": "pokemon:en:basep-36",
     "game": "pokemon",
     "name": "Igglybuff",
     "number": "36",
@@ -751,14 +786,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/36/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/36/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-37",
+    "id": "pokemon:en:basep-37",
     "cardId": "basep-37",
-    "printingId": "pokemon:basep-37",
+    "printingId": "pokemon:en:basep-37",
     "game": "pokemon",
     "name": "Hitmontop",
     "number": "37",
@@ -772,14 +808,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/37/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/37/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-38",
+    "id": "pokemon:en:basep-38",
     "cardId": "basep-38",
-    "printingId": "pokemon:basep-38",
+    "printingId": "pokemon:en:basep-38",
     "game": "pokemon",
     "name": "Unown [J]",
     "number": "38",
@@ -793,14 +830,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/38/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/38/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-39",
+    "id": "pokemon:en:basep-39",
     "cardId": "basep-39",
-    "printingId": "pokemon:basep-39",
+    "printingId": "pokemon:en:basep-39",
     "game": "pokemon",
     "name": "Misdreavus",
     "number": "39",
@@ -814,14 +852,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/39/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/39/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-40",
+    "id": "pokemon:en:basep-40",
     "cardId": "basep-40",
-    "printingId": "pokemon:basep-40",
+    "printingId": "pokemon:en:basep-40",
     "game": "pokemon",
     "name": "Pokémon Center",
     "number": "40",
@@ -835,14 +874,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/40/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/40/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-41",
+    "id": "pokemon:en:basep-41",
     "cardId": "basep-41",
-    "printingId": "pokemon:basep-41",
+    "printingId": "pokemon:en:basep-41",
     "game": "pokemon",
     "name": "Lucky Stadium",
     "number": "41",
@@ -856,14 +896,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/41/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/41/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-42",
+    "id": "pokemon:en:basep-42",
     "cardId": "basep-42",
-    "printingId": "pokemon:basep-42",
+    "printingId": "pokemon:en:basep-42",
     "game": "pokemon",
     "name": "Pokémon Tower",
     "number": "42",
@@ -877,14 +918,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/42/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/42/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-43",
+    "id": "pokemon:en:basep-43",
     "cardId": "basep-43",
-    "printingId": "pokemon:basep-43",
+    "printingId": "pokemon:en:basep-43",
     "game": "pokemon",
     "name": "Machamp",
     "number": "43",
@@ -898,14 +940,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/43/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/43/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-44",
+    "id": "pokemon:en:basep-44",
     "cardId": "basep-44",
-    "printingId": "pokemon:basep-44",
+    "printingId": "pokemon:en:basep-44",
     "game": "pokemon",
     "name": "Magmar",
     "number": "44",
@@ -919,14 +962,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/44/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/44/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-45",
+    "id": "pokemon:en:basep-45",
     "cardId": "basep-45",
-    "printingId": "pokemon:basep-45",
+    "printingId": "pokemon:en:basep-45",
     "game": "pokemon",
     "name": "Scyther",
     "number": "45",
@@ -940,14 +984,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/45/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/45/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-46",
+    "id": "pokemon:en:basep-46",
     "cardId": "basep-46",
-    "printingId": "pokemon:basep-46",
+    "printingId": "pokemon:en:basep-46",
     "game": "pokemon",
     "name": "Electabuzz",
     "number": "46",
@@ -961,14 +1006,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/46/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/46/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-47",
+    "id": "pokemon:en:basep-47",
     "cardId": "basep-47",
-    "printingId": "pokemon:basep-47",
+    "printingId": "pokemon:en:basep-47",
     "game": "pokemon",
     "name": "Mew",
     "number": "47",
@@ -982,14 +1028,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/47/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/47/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-48",
+    "id": "pokemon:en:basep-48",
     "cardId": "basep-48",
-    "printingId": "pokemon:basep-48",
+    "printingId": "pokemon:en:basep-48",
     "game": "pokemon",
     "name": "Articuno",
     "number": "48",
@@ -1003,14 +1050,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/48/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/48/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-49",
+    "id": "pokemon:en:basep-49",
     "cardId": "basep-49",
-    "printingId": "pokemon:basep-49",
+    "printingId": "pokemon:en:basep-49",
     "game": "pokemon",
     "name": "Snorlax",
     "number": "49",
@@ -1024,14 +1072,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/49/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/49/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-50",
+    "id": "pokemon:en:basep-50",
     "cardId": "basep-50",
-    "printingId": "pokemon:basep-50",
+    "printingId": "pokemon:en:basep-50",
     "game": "pokemon",
     "name": "Celebi",
     "number": "50",
@@ -1045,14 +1094,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/50/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/50/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-51",
+    "id": "pokemon:en:basep-51",
     "cardId": "basep-51",
-    "printingId": "pokemon:basep-51",
+    "printingId": "pokemon:en:basep-51",
     "game": "pokemon",
     "name": "Rapidash",
     "number": "51",
@@ -1066,14 +1116,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/51/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/51/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-52",
+    "id": "pokemon:en:basep-52",
     "cardId": "basep-52",
-    "printingId": "pokemon:basep-52",
+    "printingId": "pokemon:en:basep-52",
     "game": "pokemon",
     "name": "Ho-oh",
     "number": "52",
@@ -1087,14 +1138,15 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/52/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/52/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
-    "id": "pokemon:basep-53",
+    "id": "pokemon:en:basep-53",
     "cardId": "basep-53",
-    "printingId": "pokemon:basep-53",
+    "printingId": "pokemon:en:basep-53",
     "game": "pokemon",
     "name": "Suicune",
     "number": "53",
@@ -1108,8 +1160,9 @@
     "releaseDate": "1999-07-01",
     "image": "https://assets.tcgdex.net/en/base/basep/53/low.webp",
     "imageHigh": "https://assets.tcgdex.net/en/base/basep/53/high.webp",
+    "language": "en",
+    "catalogLanguage": "en",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "en"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]

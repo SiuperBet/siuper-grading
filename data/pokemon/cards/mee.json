@@ -16,9 +16,10 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "language": "it",
+    "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "it"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
     "id": "pokemon:mee-002",
@@ -37,9 +38,10 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "language": "it",
+    "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "it"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
     "id": "pokemon:mee-003",
@@ -58,9 +60,10 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "language": "it",
+    "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "it"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
     "id": "pokemon:mee-004",
@@ -79,9 +82,10 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "language": "it",
+    "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "it"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
     "id": "pokemon:mee-005",
@@ -100,9 +104,10 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "language": "it",
+    "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "it"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
     "id": "pokemon:mee-006",
@@ -121,9 +126,10 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "language": "it",
+    "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "it"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
     "id": "pokemon:mee-007",
@@ -142,9 +148,10 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "language": "it",
+    "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "it"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   },
   {
     "id": "pokemon:mee-008",
@@ -163,8 +170,9 @@
     "releaseDate": "2025-09-25",
     "image": "",
     "imageHigh": "",
+    "language": "it",
+    "catalogLanguage": "it",
     "source": "TCGdex",
-    "updatedAt": "2026-09-26T11:15:23.599Z",
-    "catalogLanguage": "it"
+    "updatedAt": "2026-09-26T11:21:13.000Z"
   }
 ]
