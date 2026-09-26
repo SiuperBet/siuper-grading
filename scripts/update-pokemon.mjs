@@ -35,7 +35,7 @@ function cardBrief(c,set,language){
     id,cardId:c.id,printingId:id,game:"pokemon",
     name:c.name||"Senza nome",number:c.localId||"",collectionNumber:c.localId||"",
     setId:set.id,setCode:set.id,setName:set.name,
-    series:set.serie&&set.serie.name||"",rarity:c.rarity||"",
+    series:set.serie&&set.serie.name||"",seriesId:set.serie&&set.serie.id||"",rarity:c.rarity||"",
     printedTotal:set.cardCount&&set.cardCount.official||null,
     releaseDate:set.releaseDate||"",
     image:c.image?c.image+"/low.webp":"",imageHigh:c.image?c.image+"/high.webp":"",
