@@ -3,7 +3,7 @@ export function normalizeName(value=""){return stripDiacritics(String(value)).to
 export function normalizeSetCode(value=""){return stripDiacritics(String(value)).toUpperCase().replace(/[^A-Z0-9]/g,"")}
 export function normalizeSetCodeLoose(value=""){
   const raw=stripDiacritics(String(value)).toUpperCase().replace(/[^A-Z0-9-]/g,"");
-  const m=raw.match(/^([A-Z]{2,8})-?(?:EN|E|IT|FR|DE|PT)?-?(\d{1,5})$/);
+  const m=raw.match(/^([A-Z]{2,8})-?(?:EN|E|IT|FR|DE|PT|JP|JPS|SC|TC|KR)?-?(\d{1,5})$/);
   return m?m[1]+String(Number(m[2])):normalizeSetCode(value);
 }
 export function canonicalNumberToken(value=""){
@@ -22,7 +22,7 @@ export function normalizeSearchQuery(value=""){
   const raw=String(value==null?"":value).trim();
   const compact=normalizeSetCode(raw);
   const number=parseCollectionNumber(raw);
-  const looksSetCode=/^[a-z]{2,8}[-\s]?(?:en|e|it|fr|de|pt)?\d{1,5}$/i.test(raw);
+  const looksSetCode=/^[a-z]{2,8}[-\s]?(?:en|e|it|fr|de|pt|jp|jps|sc|tc|kr)?\d{1,5}$/i.test(raw);
   const looksNumber=/^(?:[a-z]{0,8})?\d{1,5}(?:\/(?:[a-z]{0,8})?\d{1,5})?$/i.test(raw.replace(/\s/g,""));
   return {raw:raw,name:normalizeName(raw),compact:compact,number:number,looksSetCode:looksSetCode,looksNumber:looksNumber};
 }
@@ -34,7 +34,7 @@ export function compareCardNumbers(a,b){
 }
 export function scoreMatch(card,query){
   const q=typeof query==="string"?normalizeSearchQuery(query):query;
-  const name=normalizeName(card.name),num=normalizeCollectionNumber(card.collectionNumber||card.number),code=normalizeSetCode(card.setCode||"");
+  const name=normalizeName(card.name),aliases=(Array.isArray(card.aliases)?card.aliases:[]).map(normalizeName).filter(Boolean),num=normalizeCollectionNumber(card.collectionNumber||card.number),code=normalizeSetCode(card.setCode||"");
   const looseCode=normalizeSetCodeLoose(card.setCode||""),qLoose=normalizeSetCodeLoose(q.raw);
   const cardNum=parseCollectionNumber(num),primaryEq=canonicalNumberToken(cardNum.normalizedPrimary)===canonicalNumberToken(q.number.normalizedPrimary);
   const cardTotal=canonicalNumberToken(cardNum.normalizedTotal||card.printedTotal||""),qTotal=canonicalNumberToken(q.number.normalizedTotal||"");
@@ -45,7 +45,9 @@ export function scoreMatch(card,query){
   else if(q.number.normalizedPrimary&&primaryEq&&qTotal&&cardTotal===qTotal)s+=92;
   else if(q.number.normalizedPrimary&&primaryEq)s+=70;
   if(q.name&&name===q.name)s+=85;
+  else if(q.name&&aliases.includes(q.name))s+=82;
   else if(q.name&&name.includes(q.name))s+=45;
+  else if(q.name&&aliases.some(x=>x.includes(q.name)))s+=43;
   if(q.compact&&code.includes(q.compact)&&code!==q.compact)s+=55;
   return s;
 }
