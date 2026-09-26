@@ -2,7 +2,8 @@ import{mkdir,readFile,writeFile,rename}from"node:fs/promises";
 import{existsSync}from"node:fs";
 import path from"node:path";
 
-const API="https://api.tcgdex.net/v2/it";
+const API_IT="https://api.tcgdex.net/v2/it";
+const API_EN="https://api.tcgdex.net/v2/en";
 const OUT="data/pokemon";
 const now=new Date().toISOString();
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
@@ -50,15 +51,21 @@ const previousPokemon=await readJson("data/pokemon/search-index.json",[]);
 const previousBySet=new Map();
 for(const c of previousPokemon){if(!previousBySet.has(c.setId))previousBySet.set(c.setId,[]);previousBySet.get(c.setId).push(c)}
 
-const setBriefs=await fetchJson(API+"/sets");
-const series=await fetchJson(API+"/series").catch(()=>[]);
+const setBriefs=await fetchJson(API_IT+"/sets");
+const series=await fetchJson(API_IT+"/series").catch(()=>[]);
 const setsOut=[],indexOut=[];
 let failed=0,updated=0;
 
 for(let i=0;i<setBriefs.length;i++){
   const s=setBriefs[i];
   try{
-    const detail=await fetchJson(API+"/sets/"+encodeURIComponent(s.id));
+    const detailIt=await fetchJson(API_IT+"/sets/"+encodeURIComponent(s.id));
+    let cardDetail=detailIt,usedLanguage="it";
+    if(!Array.isArray(detailIt.cards)||!detailIt.cards.length){
+      const detailEn=await fetchJson(API_EN+"/sets/"+encodeURIComponent(s.id)).catch(()=>null);
+      if(detailEn&&Array.isArray(detailEn.cards)&&detailEn.cards.length){cardDetail=detailEn;usedLanguage="en"}
+    }
+    const detail=detailIt;
     const setRow={
       game:"pokemon",
       id:detail.id,
@@ -70,9 +77,11 @@ for(let i=0;i<setBriefs.length;i++){
       releaseDate:detail.releaseDate||"",
       series:detail.serie&&detail.serie.name||"",
       seriesId:detail.serie&&detail.serie.id||"",
-      updatedAt:now
+      updatedAt:now,
+      cardLanguage:usedLanguage
     };
-    const cards=(detail.cards||[]).map(c=>cardBrief(c,detail));
+    const cardSet=Object.assign({},cardDetail,{id:detail.id,name:detail.name,serie:detail.serie||cardDetail.serie,cardCount:cardDetail.cardCount||detail.cardCount,releaseDate:detail.releaseDate||cardDetail.releaseDate});
+    const cards=(cardDetail.cards||[]).map(c=>Object.assign(cardBrief(c,cardSet),{catalogLanguage:usedLanguage}));
     setsOut.push(setRow);indexOut.push(...cards);
     await atomicJson(OUT+"/cards/"+encodeURIComponent(detail.id)+".json",cards);
     updated++;
@@ -92,7 +101,9 @@ await atomicJson(OUT+"/sets.json",setsOut.sort((a,b)=>String(b.releaseDate).loca
 await atomicJson(OUT+"/series.json",series);
 await atomicJson("data/pokemon/search-index.json",indexOut);
 
-const meta={databaseVersion:1,game:"pokemon",source:"TCGdex",updatedAt:now,sets:setsOut.length,cards:indexOut.length,failedSets:failed};
+const fallbackSets=setsOut.filter(x=>x.cardLanguage==="en").length;
+const emptySets=setsOut.filter(x=>!indexOut.some(c=>c.setId===x.id)).length;
+const meta={databaseVersion:1,game:"pokemon",source:"TCGdex",updatedAt:now,sets:setsOut.length,cards:indexOut.length,failedSets:failed,englishFallbackSets:fallbackSets,emptySets:emptySets};
 await atomicJson("data/pokemon/meta.json",meta);
-console.log(JSON.stringify({source:"TCGdex",sets:setsOut.length,cards:indexOut.length,updatedSets:updated,failedSets:failed},null,2));
+console.log(JSON.stringify({source:"TCGdex",sets:setsOut.length,cards:indexOut.length,updatedSets:updated,failedSets:failed,englishFallbackSets:fallbackSets,emptySets:emptySets},null,2));
 if(!indexOut.length)process.exitCode=1;
