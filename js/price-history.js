@@ -1,3 +1,21 @@
+let tcgMapPromise=null,tcgDatesPromise=null;
+const tcgGroupCache=new Map();
+function normVariant(v=""){return String(v).toLowerCase().replace(/[^a-z0-9]/g,"")}
+async function readJsonFile(url){try{const r=await fetch(url,{cache:"no-cache"});return r.ok?await r.json():null}catch{return null}}
+async function loadTcgcsvHistory(printingId,reference){
+  if(!printingId||!reference||reference.source!=="TCGPlayer"||!String(printingId).startsWith("pokemon:en:"))return[];
+  if(!tcgMapPromise)tcgMapPromise=readJsonFile("./data/prices/tcgcsv-map-lite.json");
+  if(!tcgDatesPromise)tcgDatesPromise=readJsonFile("./data/prices/tcgcsv-history/dates.json");
+  const [map,datesDoc]=await Promise.all([tcgMapPromise,tcgDatesPromise]);if(!map||!map.cards||!datesDoc||!Array.isArray(datesDoc.dates))return[];
+  const pair=map.cards[printingId];if(!pair)return[];const groupId=pair[0],productId=pair[1],groupKey=String(groupId);
+  if(!tcgGroupCache.has(groupKey))tcgGroupCache.set(groupKey,readJsonFile("./data/prices/tcgcsv-history/groups/"+groupKey+".json"));
+  const group=await tcgGroupCache.get(groupKey);if(!group||!group.series)return[];
+  const wantedVariant=normVariant(reference.variant||"normal"),keys=Object.keys(group.series).filter(k=>String(k).startsWith(String(productId)+"|"));
+  let key=keys.find(k=>normVariant(k.split("|").slice(1).join("|"))===wantedVariant);
+  if(!key&&keys.length===1)key=keys[0];if(!key)return[];
+  const field=reference.priceType==="market"?1:reference.priceType==="low"?2:reference.priceType==="mid"?3:reference.priceType==="direct_low"?4:null;if(field==null)return[];
+  return(group.series[key]||[]).map(row=>({date:datesDoc.dates[row[0]],value:Number(row[field]),source:"TCGPlayer",currency:"USD",priceType:reference.priceType,variant:reference.variant||"",archive:true})).filter(p=>p.date&&Number.isFinite(p.value)&&p.value>0);
+}
 function monthKey(d){return d.getUTCFullYear()+"-"+String(d.getUTCMonth()+1).padStart(2,"0")}
 function recentMonths(count=13){
   const out=[],now=new Date();
@@ -12,14 +30,15 @@ export async function loadPriceHistory(printingId,reference){
   const months=await Promise.all(recentMonths().map(readMonth)),rows=months.flat().filter(p=>
     p.printingId===printingId&&p.source===reference.source&&p.currency===reference.currency&&p.priceType===reference.priceType&&(p.variant||"")===(reference.variant||"")
   );
-  const map=new Map();
+  const archived=await loadTcgcsvHistory(printingId,reference),map=new Map();
+  for(const p of archived){if(p.date)map.set(p.date,p)}
   for(const p of rows){
     const day=p.snapshotDate||String(p.timestamp||"").slice(0,10);
-    if(day)map.set(day,{date:day,value:Number(p.value),source:p.source,currency:p.currency,priceType:p.priceType,variant:p.variant||""});
+    if(day)map.set(day,{date:day,value:Number(p.value),source:p.source,currency:p.currency,priceType:p.priceType,variant:p.variant||"",archive:false});
   }
   const refDay=String(reference.snapshotDate||reference.timestamp||new Date().toISOString()).slice(0,10);
   if(refDay&&Number.isFinite(Number(reference.value))&&Number(reference.value)>0){
-    map.set(refDay,{date:refDay,value:Number(reference.value),source:reference.source,currency:reference.currency,priceType:reference.priceType,variant:reference.variant||""});
+    map.set(refDay,{date:refDay,value:Number(reference.value),source:reference.source,currency:reference.currency,priceType:reference.priceType,variant:reference.variant||"",archive:false});
   }
   return [...map.values()].filter(p=>Number.isFinite(p.value)&&p.value>0).sort((a,b)=>a.date.localeCompare(b.date));
 }
@@ -48,7 +67,7 @@ export function drawPriceHistory(canvas,points,days=30){
   if(info){
     info.textContent=rows.length===1
       ?"1 rilevazione disponibile • il grafico crescerà automaticamente con i prossimi aggiornamenti • "+rows[0].source+" "+rows[0].priceType+" • "+rows[0].currency+(rows[0].variant?" • "+rows[0].variant:"")
-      :rows.length+" rilevazioni • "+rows[0].source+" "+rows[0].priceType+" • "+rows[0].currency+(rows[0].variant?" • "+rows[0].variant:"");
+      :rows.length+" rilevazioni"+(rows.some(x=>x.archive)?" • include storico TCGCSV":"")+" • "+rows[0].source+" "+rows[0].priceType+" • "+rows[0].currency+(rows[0].variant?" • "+rows[0].variant:"");
   }
   return true;
 }
