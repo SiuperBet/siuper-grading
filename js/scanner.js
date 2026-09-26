@@ -6,7 +6,7 @@ import{CONDITION_ESTIMATES}from"./config.js";
 import{getPricesForCard,reliability}from"./prices.js";
 import{addCopy}from"./collection.js";
 
-const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,prevQuadNorm:null,stableFrames:0,lastQuality:null,borderConfidence:0,detectedValid:false,captureBorderConfidence:0,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
+const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,prevQuadNorm:null,stableFrames:0,lastQuality:null,borderConfidence:0,detectedValid:false,captureBorderConfidence:0,manualCorners:false,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
 const $=s=>document.querySelector(s);
 function clamp(v,a,b){return Math.max(a,Math.min(b,v))}
 function dist(a,b){return Math.hypot(a.x-b.x,a.y-b.y)}
@@ -88,6 +88,17 @@ function orderQuad(pts){
   const tl=pts.reduce((a,b)=>sum(a)<sum(b)?a:b),br=pts.reduce((a,b)=>sum(a)>sum(b)?a:b),tr=pts.reduce((a,b)=>dif(a)>dif(b)?a:b),bl=pts.reduce((a,b)=>dif(a)<dif(b)?a:b);
   return [tl,tr,br,bl];
 }
+function polygonArea(pts){let a=0;for(let i=0;i<pts.length;i++){const p=pts[i],q=pts[(i+1)%pts.length];a+=p.x*q.y-q.x*p.y}return Math.abs(a)/2}
+function validateCorners(img,pts){
+  const q=orderQuad(pts);if(!q)return{ok:false,message:"I 4 punti non sono validi."};
+  const area=polygonArea(q),ratio=area/Math.max(1,img.width*img.height),top=dist(q[0],q[1]),bottom=dist(q[3],q[2]),left=dist(q[0],q[3]),right=dist(q[1],q[2]),w=(top+bottom)/2,h=(left+right)/2,aspect=Math.min(w,h)/Math.max(w,h),minSide=Math.min(top,bottom,left,right);
+  if(ratio<.08)return{ok:false,message:"Il riquadro è troppo piccolo: posiziona i 4 punti sugli angoli reali della carta."};
+  if(ratio>.96)return{ok:false,message:"Il riquadro occupa quasi tutta la foto: controlla gli angoli."};
+  if(aspect<.48||aspect>.91)return{ok:false,message:"Le proporzioni dei 4 punti non sono compatibili con una carta. Ricontrolla gli angoli."};
+  if(minSide<Math.min(img.width,img.height)*.18)return{ok:false,message:"Due angoli risultano troppo vicini. Ricontrolla i 4 punti."};
+  if(q.some(p=>p.x<0||p.y<0||p.x>img.width||p.y>img.height))return{ok:false,message:"Un punto è fuori dall'immagine."};
+  return{ok:true,points:q,aspect,areaRatio:ratio};
+}
 async function analysisTick(){
   if(!state.stream||state.busy)return;
   const video=$("#cameraVideo");if(video.readyState<2){state.timer=setTimeout(analysisTick,500);return}
@@ -152,7 +163,7 @@ function drawEditor(){
   pts.forEach((p,i)=>{ctx.fillStyle="#8b5cf6";ctx.beginPath();ctx.arc(p.x,p.y,15,0,Math.PI*2);ctx.fill();ctx.fillStyle="white";ctx.font="bold 15px sans-serif";ctx.fillText(String(i+1),p.x-4,p.y+5)});
 }
 function openEditor(img,corners,blob,auto,borderConfidence=0){
-  state.original=img;state.corners=orderQuad(corners)||defaultCorners(img);state.originalBlob=blob;state.captureBorderConfidence=borderConfidence;state.zoom=1;state.panX=0;state.panY=0;
+  state.original=img;state.corners=orderQuad(corners)||defaultCorners(img);state.originalBlob=blob;state.captureBorderConfidence=borderConfidence;state.manualCorners=false;state.zoom=1;state.panX=0;state.panY=0;
   const c=$("#editorCanvas");c.width=800;c.height=900;$("#editorZoom").value="1";$("#borderEditor").hidden=false;$("#correctedPanel").hidden=true;drawEditor();
   $("#scanQuality").textContent=borderConfidence>=66?(auto?"Scatto automatico: bordi rilevati con confidenza "+borderConfidence+"%. Verifica i 4 punti.":"Bordi rilevati con confidenza "+borderConfidence+"%. Verifica i 4 punti."):"Bordi automatici non abbastanza sicuri: regola i 4 punti sulla carta.";
 }
@@ -180,8 +191,12 @@ async function confirmCorners(){
   if(!state.original||!state.corners)return;
   $("#confirmCornersBtn").disabled=true;$("#confirmCornersBtn").textContent="Raddrizzamento…";
   try{
+    const geometry=validateCorners(state.original,state.corners);
+    if(!geometry.ok){$("#scanQuality").textContent=geometry.message;return}
+    state.corners=geometry.points;
     const corrected=perspectiveWarp(state.original,state.corners),copy=cloneCanvas(corrected),correctedBlob=await canvasBlob(copy);
-    const scanId="scan:"+crypto.randomUUID(),row={id:scanId,side:state.currentSide,createdAt:new Date().toISOString(),originalBlob:state.originalBlob,correctedBlob:correctedBlob,corners:state.corners.map(p=>({x:Math.round(p.x),y:Math.round(p.y)})),borderDetectionConfidence:state.captureBorderConfidence||0};
+    const geometryConfidence=state.manualCorners?Math.max(60,Math.min(78,state.captureBorderConfidence||60)):(state.captureBorderConfidence||0);
+    const scanId="scan:"+crypto.randomUUID(),row={id:scanId,side:state.currentSide,createdAt:new Date().toISOString(),originalBlob:state.originalBlob,correctedBlob:correctedBlob,corners:state.corners.map(p=>({x:Math.round(p.x),y:Math.round(p.y)})),borderDetectionConfidence:geometryConfidence,geometrySource:state.manualCorners?"manual-confirmed":"automatic",geometryAspect:Number(geometry.aspect.toFixed(4)),geometryAreaRatio:Number(geometry.areaRatio.toFixed(4))};
     await put("scans",row);state.captures[state.currentSide]={scanId:scanId,canvas:copy,corners:row.corners,quality:state.lastQuality,borderConfidence:row.borderDetectionConfidence};
     $("#borderEditor").hidden=true;$("#correctedPanel").hidden=false;renderCurrentSide();updateCaptureStatus();
     if(state.currentSide==="front"&&!state.captures.back)$("#scanQuality").textContent="Fronte pronto. Puoi acquisire il retro o continuare solo con il fronte.";
@@ -238,14 +253,20 @@ async function gradingValueHtml(card,grade){
 async function doGrading(){
   const front=state.captures.front;if(!front){$("#gradingResult").innerHTML='<div class="notice">Per il grading serve almeno il fronte.</div>';return}
   const root=$("#gradingResult");root.innerHTML='<div class="notice">Analisi fotografica avanzata in corso…</div>';await new Promise(r=>setTimeout(r,30));
-  const fa=analyzeCanvas(front.canvas,{side:"front",borderConfidence:front.borderConfidence||0}),back=state.captures.back,ba=back?analyzeCanvas(back.canvas,{side:"back",borderConfidence:back.borderConfidence||0}):null,combined=combineAnalyses(fa,ba);
+  const fa=analyzeCanvas(front.canvas,{side:"front",borderConfidence:front.borderConfidence||0});
+  const frontUnusable=fa.quality.blurVariance<35||fa.quality.meanBrightness<30||fa.quality.meanBrightness>232||fa.quality.glareRatio>.12;
+  if(frontUnusable){root.innerHTML='<div class="notice"><b>Foto non idonea al grading.</b><br>Il fronte è troppo sfocato, troppo scuro/chiaro o presenta troppi riflessi. Acquisisci nuovamente la carta: non salvo un voto poco affidabile.</div>';return}
+  const back=state.captures.back;let ba=back?analyzeCanvas(back.canvas,{side:"back",borderConfidence:back.borderConfidence||0}):null;
+  const backRejected=ba&&(ba.quality.blurVariance<35||ba.quality.meanBrightness<30||ba.quality.meanBrightness>232||ba.quality.glareRatio>.12);
+  if(backRejected)ba=null;
+  const combined=combineAnalyses(fa,ba);
   const center=combined.center,corners=combined.corners,edges=combined.edges,surface=combined.surface,cappedFinal=combined.finalGrade,confidence=combined.confidence,appliedCap=combined.appliedCap,defects=combined.defects,interval=professionalInterval(cappedFinal,confidence);
   const saved=await saveGrade({cardId:state.recognized?state.recognized.cardId:null,printingId:state.recognized?state.recognized.printingId:null,cardName:state.recognized?state.recognized.name:null,frontScanId:front.scanId,backScanId:back?back.scanId:null,frontAnalysis:fa,backAnalysis:ba,finalGrade:cappedFinal,confidence,appliedCap,defects});
   drawGradingOverlay(front.canvas,fa,$("#gradingOverlayFront"),"FRONT");if(back&&ba)drawGradingOverlay(back.canvas,ba,$("#gradingOverlayBack"),"BACK");else $("#gradingOverlayBack").hidden=true;$("#gradingOverlays").hidden=false;
   const frontCenter='FRONT L/R '+fa.centering.lr[0]+'/'+fa.centering.lr[1]+' • T/B '+fa.centering.tb[0]+'/'+fa.centering.tb[1],backCenter=ba?'BACK L/R '+ba.centering.lr[0]+'/'+ba.centering.lr[1]+' • T/B '+ba.centering.tb[0]+'/'+ba.centering.tb[1]:"";
-  const defectHtml=defects.length?'<div class="notice"><b>Possibili difetti rilevati</b><br>'+defects.map(d=>d.message).join("<br>")+'</div>':"",qualityWarnings=[...(fa.quality.warnings||[]),...(ba&&ba.quality.warnings||[])],qualityHtml=qualityWarnings.length?'<div class="notice">Qualità foto: '+[...new Set(qualityWarnings)].join(" • ")+'. Il risultato ha confidenza ridotta.</div>':"",capHtml=appliedCap!=null?'<div class="notice">Grade cap fotografico applicato: massimo '+appliedCap.toFixed(1)+'.</div>':"";
+  const rejectedBackHtml=backRejected?'<div class="notice">Il retro acquisito è stato escluso dal calcolo perché la foto non è sufficientemente affidabile. Il grading è quindi calcolato sul solo fronte.</div>':"";\n  const defectHtml=defects.length?'<div class="notice"><b>Possibili difetti rilevati</b><br>'+defects.map(d=>d.message).join("<br>")+'</div>':"",qualityWarnings=[...(fa.quality.warnings||[]),...(ba&&ba.quality.warnings||[])],qualityHtml=qualityWarnings.length?'<div class="notice">Qualità foto: '+[...new Set(qualityWarnings)].join(" • ")+'. Il risultato ha confidenza ridotta.</div>':"",capHtml=appliedCap!=null?'<div class="notice">Grade cap fotografico applicato: massimo '+appliedCap.toFixed(1)+'.</div>':"";
   const valueHtml=await gradingValueHtml(state.recognized,cappedFinal);
-  root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+qualityHtml+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>'+valueHtml+(state.recognized?'<button id="addGradedCard" class="primary">Aggiungi alla collezione</button>':"");
+  root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+rejectedBackHtml+qualityHtml+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>'+valueHtml+(state.recognized?'<button id="addGradedCard" class="primary">Aggiungi alla collezione</button>':"");
   const addGraded=$("#addGradedCard");if(addGraded)addGraded.onclick=async()=>{await addCopy(state.recognized,{condition:conditionFromGrade(cappedFinal),notes:"Aggiunta da grading "+saved.gradingAlgorithmVersion});addGraded.disabled=true;addGraded.textContent="✓ Aggiunta alla collezione"};
 }
 export function getScannerState(){return state}
@@ -257,12 +278,12 @@ export function initScanner(options={}){
   $("#stopCameraBtn").onclick=stopCamera;$("#captureBtn").onclick=()=>captureFromVideo(false);
   $("#photoFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;const img=await imageFromBlob(f),q=detectImageQuad(img,64);openEditor(img,q?q.points:defaultCorners(img),f,false,q?q.confidence:0)};
   $("#editorZoom").oninput=e=>{state.zoom=Number(e.target.value);drawEditor()};
-  $("#resetCornersBtn").onclick=()=>{const q=detectImageQuad(state.original,60);state.corners=q?q.points:defaultCorners(state.original);state.captureBorderConfidence=q?q.confidence:0;state.zoom=1;state.panX=0;state.panY=0;$("#editorZoom").value="1";drawEditor()};
+  $("#resetCornersBtn").onclick=()=>{const q=detectImageQuad(state.original,60);state.corners=q?q.points:defaultCorners(state.original);state.captureBorderConfidence=q?q.confidence:0;state.manualCorners=false;state.zoom=1;state.panX=0;state.panY=0;$("#editorZoom").value="1";drawEditor()};
   $("#confirmCornersBtn").onclick=confirmCorners;$("#sideFrontBtn").onclick=()=>selectSide("front");$("#sideBackBtn").onclick=()=>selectSide("back");
   $("#ocrBtn").onclick=doRecognition;$("#gradeBtn").onclick=doGrading;
   const canvas=$("#editorCanvas");
   canvas.onpointerdown=e=>{canvas.setPointerCapture(e.pointerId);const r=canvas.getBoundingClientRect(),p={x:(e.clientX-r.left)*canvas.width/r.width,y:(e.clientY-r.top)*canvas.height/r.height},screens=state.corners.map(toScreen);let best=-1,bd=1e9;screens.forEach((x,i)=>{const dd=dist(x,p);if(dd<bd){bd=dd;best=i}});state.drag=bd<55?{type:"corner",index:best}:{type:"pan",x:p.x,y:p.y,px:state.panX,py:state.panY}};
-  canvas.onpointermove=e=>{if(!state.drag)return;const r=canvas.getBoundingClientRect(),p={x:(e.clientX-r.left)*canvas.width/r.width,y:(e.clientY-r.top)*canvas.height/r.height};if(state.drag.type==="corner")state.corners[state.drag.index]=toImage(p);else{state.panX=state.drag.px+(p.x-state.drag.x);state.panY=state.drag.py+(p.y-state.drag.y)}drawEditor()};
+  canvas.onpointermove=e=>{if(!state.drag)return;const r=canvas.getBoundingClientRect(),p={x:(e.clientX-r.left)*canvas.width/r.width,y:(e.clientY-r.top)*canvas.height/r.height};if(state.drag.type==="corner"){state.corners[state.drag.index]=toImage(p);state.manualCorners=true}else{state.panX=state.drag.px+(p.x-state.drag.x);state.panY=state.drag.py+(p.y-state.drag.y)}drawEditor()};
   canvas.onpointerup=canvas.onpointercancel=()=>state.drag=null;
   updateCaptureStatus();
 }
