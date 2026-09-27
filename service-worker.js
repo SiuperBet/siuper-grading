@@ -1,5 +1,5 @@
-const CACHE="siuper-grading-shell-v21";
-const SHELL=["./","./index.html","./css/app.css","./css/app.css?v=0.3.0","./manifest.webmanifest","./assets/icon.svg","./js/config.js","./js/normalize.js","./js/db.js","./js/catalog.js","./js/collection.js","./js/scanner.js","./js/recognition.js","./js/grading-config.js","./js/grading.js","./js/prices.js","./js/mastersets.js","./js/price-history.js","./js/data/pokemon-adapter.js","./js/data/yugioh-adapter.js","./js/app.js","./js/app.js?v=0.3.0"];
+const CACHE="siuper-grading-shell-v22";
+const SHELL=["./","./index.html","./css/app.css","./css/app.css?v=0.3.1","./manifest.webmanifest","./assets/icon.svg","./js/config.js","./js/normalize.js","./js/db.js","./js/catalog.js","./js/collection.js","./js/scanner.js","./js/recognition.js","./js/grading-config.js","./js/grading.js","./js/prices.js","./js/mastersets.js","./js/price-history.js","./js/data/pokemon-adapter.js","./js/data/yugioh-adapter.js","./js/app.js","./js/app.js?v=0.3.1"];
 
 self.addEventListener("install",e=>{
   e.waitUntil(caches.open(CACHE).then(c=>Promise.all(SHELL.map(x=>c.add(x).catch(()=>null)))));

@@ -18,7 +18,7 @@ PWA mobile-first, local-first e a costo 0 per Pokémon TCG e Yu-Gi-Oh!.
 Il repository nasce da zero il 25/09/2026. Non contiene codice riutilizzato da altri progetti.
 
 Versioni correnti:
-- APP_VERSION: 0.3.0
+- APP_VERSION: 0.3.1
 - DATABASE_VERSION: 1
 - GRADING_ALGORITHM_VERSION: 0.4.0
 - PRICE_ENGINE_VERSION: 0.2.0
