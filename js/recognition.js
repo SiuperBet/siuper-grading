@@ -68,7 +68,10 @@ async function ocrLanguage(){
 }
 export async function recognizeCard(canvas,preferredGame="all"){
   if(!window.Tesseract)throw new Error("Motore OCR non ancora disponibile. Riprova tra pochi secondi oppure usa la ricerca manuale.");
-  const prepared=makeOcrComposite(canvas),requestedOcrLang=await ocrLanguage();\n  let result,ocrLang=requestedOcrLang;\n  try{result=await window.Tesseract.recognize(prepared,requestedOcrLang,{logger:()=>{}})}catch(e){if(requestedOcrLang==="eng")throw e;ocrLang="eng";result=await window.Tesseract.recognize(prepared,"eng",{logger:()=>{}})}\n  const text=result.data&&result.data.text?result.data.text:"",ocrConfidence=Math.max(0,Math.min(1,((result.data&&result.data.confidence)||0)/100)),signals=extractSignals(text),queries=[];
+  const prepared=makeOcrComposite(canvas),requestedOcrLang=await ocrLanguage();
+  let result,ocrLang=requestedOcrLang;
+  try{result=await window.Tesseract.recognize(prepared,requestedOcrLang,{logger:()=>{}})}catch(e){if(requestedOcrLang==="eng")throw e;ocrLang="eng";result=await window.Tesseract.recognize(prepared,"eng",{logger:()=>{}})}
+  const text=result.data&&result.data.text?result.data.text:"",ocrConfidence=Math.max(0,Math.min(1,((result.data&&result.data.confidence)||0)/100)),signals=extractSignals(text),queries=[];
   if(preferredGame!=="yugioh")queries.push(...signals.pokemon);if(preferredGame!=="pokemon")queries.push(...signals.yugioh);queries.push(...signals.lines.slice(0,10));
   const pool=new Map();
   for(const q of unique(queries).slice(0,16)){
