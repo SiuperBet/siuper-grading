@@ -15,7 +15,7 @@ function extractSignals(text){
   const standalone=[...upper.matchAll(/(?:^|\s)([0-9O]{1,4})\s*\/\s*([0-9O]{1,4})(?:\s|$)/g)].map(m=>cleanNumberToken(m[1]+"/"+m[2]));
   const ygo=[...upper.matchAll(/\b([A-Z]{2,10}[-\s]?(?:(?:EN|E|IT|FR|DE|PT|JP|JPS|SC|TC)[-\s]?)?[0-9O]{3,5})\b/g)].map(m=>cleanNumberToken(m[1]));
   const lines=raw.split(/\n+/).map(x=>x.replace(/[^\p{L}\p{M}\p{N}'’&:+.\-\/ ]/gu," ").replace(/\s+/g," ").trim()).filter(x=>{
-    if(x.length<2||x.length>50)return false;const letters=(x.match(/[\p{L}\p{M}]/gu)||[]).length;return letters/Math.max(1,x.length)>.18;
+    if(x.length<2||x.length>50)return false;const letters=(x.match(/[\p{L}\p{M}]/gu)||[]).length;return letters>=1&&letters/Math.max(1,x.length)>.18;
   });
   return{pokemon:unique([...slashPokemon,...standalone,...promoPokemon]),yugioh:unique(ygo),lines:unique(lines).slice(0,18)};
 }
