@@ -31,7 +31,7 @@
       <label class="searchbox"><span>⌕</span><input id="searchInput" autocomplete="off" inputmode="search" placeholder="Cerca nome, numero o codice carta…"></label>
       <div class="filters search-filters">
         <select id="searchGame"><option value="all">Tutti i giochi</option><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh!</option></select>
-        <select id="searchLanguage"><option value="all">Tutte le lingue Pokémon</option><option value="it">Italiano</option><option value="en">English</option><option value="ja">日本語 / JP</option><option value="zh-tw">中文繁體</option><option value="zh-cn">中文简体</option></select>
+        <select id="searchLanguage"><option value="all">Tutte le stampe / lingue</option><optgroup label="Pokémon"><option value="it">Pokémon • Italiano</option><option value="en">Pokémon • English</option><option value="ja">Pokémon • 日本語 / JP</option><option value="zh-tw">Pokémon • 中文繁體</option><option value="zh-cn">Pokémon • 中文简体</option></optgroup><optgroup label="Yu-Gi-Oh!"><option value="tcg">Yu-Gi-Oh! • TCG</option><option value="ocg-jp">Yu-Gi-Oh! • OCG JP</option><option value="ocg-sc">Yu-Gi-Oh! • OCG 简中</option><option value="ocg-tc">Yu-Gi-Oh! • OCG 繁中</option></optgroup></select>
         <select id="searchOwned"><option value="all">Tutte</option><option value="owned">Ce l'ho</option><option value="missing">Mi manca</option></select>
         <input id="searchSet" placeholder="Espansione / set">
         <input id="searchRarity" placeholder="Rarità">
@@ -50,7 +50,7 @@
         <p class="notice">Usa questa se la stampa esatta non è presente nelle fonti. Viene salvata solo nella tua collezione e non viene inventata nel catalogo globale.</p>
         <div class="filters">
           <select id="customGame"><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh!</option></select>
-          <select id="customLanguage"><option value="it">Italiano</option><option value="en">English</option><option value="ja">日本語 / JP</option><option value="zh-tw">中文繁體</option><option value="zh-cn">中文简体</option><option value="ocg-jp">Yu-Gi-Oh! OCG JP</option><option value="ocg-zh">Yu-Gi-Oh! OCG CN</option></select>
+          <select id="customLanguage"><option value="it">Italiano</option><option value="en">English</option><option value="ja">日本語 / JP</option><option value="zh-tw">中文繁體</option><option value="zh-cn">中文简体</option><option value="ocg-jp">Yu-Gi-Oh! OCG JP</option><option value="ocg-sc">Yu-Gi-Oh! OCG 简中</option><option value="ocg-tc">Yu-Gi-Oh! OCG 繁中</option></select>
           <input id="customName" placeholder="Nome carta *">
           <input id="customSetName" placeholder="Set / espansione / pack">
           <input id="customCode" placeholder="Numero o codice stampa *">
@@ -68,7 +68,7 @@
     <section id="view-album" class="view">
       <div class="section-head"><div><small>MASTER SET</small><h2>Album / Espansioni</h2></div><button id="refreshSets" class="ghost">Aggiorna</button></div>
       <div class="game-switch"><button class="album-game active" data-game="pokemon">POKÉMON</button><button class="album-game" data-game="yugioh">YU-GI-OH!</button></div>
-      <div class="filters"><select id="albumPokemonLanguage"><option value="it">Pokémon • Italiano</option><option value="en">Pokémon • English</option><option value="ja">Pokémon • 日本語 / JP</option><option value="zh-tw">Pokémon • 中文繁體</option><option value="zh-cn">Pokémon • 中文简体</option></select></div>
+      <div class="filters" id="albumPokemonLanguageWrap"><select id="albumPokemonLanguage"><option value="it">Pokémon • Italiano</option><option value="en">Pokémon • English</option><option value="ja">Pokémon • 日本語 / JP</option><option value="zh-tw">Pokémon • 中文繁體</option><option value="zh-cn">Pokémon • 中文简体</option></select></div><div class="filters" id="albumYugiohLanguageWrap" hidden><select id="albumYugiohLanguage"><option value="tcg">Yu-Gi-Oh! • TCG</option><option value="ocg-jp">Yu-Gi-Oh! • OCG JP</option><option value="ocg-sc">Yu-Gi-Oh! • OCG 简中</option><option value="ocg-tc">Yu-Gi-Oh! • OCG 繁中</option></select></div>
       <div id="setsList" class="set-list"><div class="notice">Caricamento espansioni…</div></div>
       <div id="setDetail" class="set-detail" hidden></div>
     </section>
