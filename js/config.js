@@ -1,7 +1,7 @@
-export const APP_VERSION="0.1.10";
+export const APP_VERSION="0.2.0";
 export const DATABASE_VERSION=1;
-export const GRADING_ALGORITHM_VERSION="0.2.0";
-export const PRICE_ENGINE_VERSION="0.1.0";
+export const GRADING_ALGORITHM_VERSION="0.3.0";
+export const PRICE_ENGINE_VERSION="0.2.0";
 export const DB_NAME="siuper-grading";
 export const DB_SCHEMA_VERSION=1;
 
