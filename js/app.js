@@ -9,10 +9,11 @@ import{progressForCards,getCustomMasterSets,progressForCustom,variantKeys,canoni
 import{loadPriceHistory,drawPriceHistory,buildOnlineMarketTrend,drawOnlineMarketTrend}from"./price-history.js";
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
-let albumGame="pokemon",albumLanguage="it",deferredInstall=null;
+let albumGame="pokemon",albumLanguage="it",albumYgoLanguage="tcg",deferredInstall=null;
 
 function esc(s=""){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
-function languageLabel(lang=""){return({it:"IT",en:"EN",ja:"JP","zh-tw":"ZH-TW","zh-cn":"ZH-CN","ocg-jp":"OCG JP","ocg-zh":"OCG CN"})[lang]||String(lang||"").toUpperCase()}
+function languageLabel(lang=""){return({it:"IT",en:"EN",ja:"JP","zh-tw":"ZH-TW","zh-cn":"ZH-CN",tcg:"TCG","ocg-jp":"OCG JP","ocg-sc":"OCG 简中","ocg-tc":"OCG 繁中"})[lang]||String(lang||"").toUpperCase()}
+function activeAlbumLanguage(){return albumGame==="pokemon"?albumLanguage:albumYgoLanguage}
 function stableHash(value=""){
   let h=2166136261;for(const ch of String(value)){h^=ch.charCodeAt(0);h=Math.imul(h,16777619)}return(h>>>0).toString(36);
 }
@@ -74,7 +75,8 @@ async function initPwaUpdater(){
 function imageCandidates(card,quality="low"){
   const raw=Array.isArray(card&&card.imageCandidates)?card.imageCandidates:[];
   const rows=raw.map(x=>({url:quality==="high"?(x.high||x.low):(x.low||x.high),reference:Boolean(x.reference),label:x.label||""})).filter(x=>x.url);
-  if(!rows.length&&card){const url=quality==="high"?(card.imageHigh||card.image):(card.image||card.imageHigh);if(url)rows.push({url,reference:false,label:""})}
+  if(!rows.length&&card){const url=quality==="high"?(card.imageHigh||card.image):(card.image||card.imageHigh);if(url)rows.push({url,reference:Boolean(card.imageReferenceOnly),label:card.imageReferenceOnly?"RIF. ARTE":""})}
+  if(card&&card.imageReference&&!rows.some(x=>x.url===card.imageReference))rows.push({url:card.imageReference,reference:true,label:"RIF. ARTE"});
   return rows;
 }
 function cardImage(card,cls="",quality="low"){
@@ -111,7 +113,7 @@ export function go(view){
 function cardRow(card,owned=false){
   const encoded=encodeURIComponent(JSON.stringify(card));
   const rp=card._referencePrice,price=rp?'<span class="card-price">'+esc(rp.currency)+' '+Number(rp.value).toFixed(2)+' • '+esc(rp.source)+' '+esc(rp.priceType)+'</span>':"";
-  return '<article class="card-row" data-card="'+encoded+'">'+cardImage(card)+'<div><h3>'+esc(card.name)+'</h3><p>'+esc(card.collectionNumber||"—")+' • '+esc(card.setName||card.setCode||"Set non disponibile")+(card.game==="pokemon"&&card.catalogLanguage?' • '+esc(languageLabel(card.catalogLanguage)):"")+'</p>'+price+'<span class="badge '+(owned?"owned":"missing")+'">'+(owned?"✓ CE L'HO":"MI MANCA")+'</span></div><span>›</span></article>';
+  return '<article class="card-row" data-card="'+encoded+'">'+cardImage(card)+'<div><h3>'+esc(card.name)+'</h3><p>'+esc(card.collectionNumber||"—")+' • '+esc(card.setName||card.setCode||"Set non disponibile")+(card.catalogLanguage||card.language?' • '+esc(languageLabel(card.catalogLanguage||card.language)):"")+'</p>'+price+'<span class="badge '+(owned?"owned":"missing")+'">'+(owned?"✓ CE L'HO":"MI MANCA")+'</span></div><span>›</span></article>';
 }
 async function doSearch(){
   const query=$("#searchInput").value.trim(),root=$("#searchResults");
@@ -182,7 +184,7 @@ async function openCard(card){
   const ocgSc=detail.ocgRelease&&detail.ocgRelease.sc?[detail.ocgRelease.sc.pack||"",detail.ocgRelease.sc.date||""].filter(Boolean).join(" • "):"";
   const metadata=[
     ["Gioco",detail.game==="pokemon"?"Pokémon TCG":"Yu-Gi-Oh!"],
-    ["Lingua stampa",detail.game==="pokemon"?languageLabel(detail.catalogLanguage||detail.language||"it"):""],
+    ["Lingua / circuito",languageLabel(detail.catalogLanguage||detail.language||(detail.game==="yugioh"?"tcg":"it"))],
     ["Numero / codice",detail.collectionNumber||"Dato non disponibile"],
     ["Set",detail.setName||"Dato non disponibile"],
     ["Serie",detail.series||""],
@@ -229,8 +231,8 @@ async function openCard(card){
 async function renderSets(force=false){
   const root=$("#setsList");root.hidden=false;$("#setDetail").hidden=true;root.innerHTML='<div class="notice">Caricamento espansioni…</div>';
   try{
-    const [sets,custom,copies]=await Promise.all([getSets(albumGame,force,albumGame==="pokemon"?albumLanguage:null),getCustomMasterSets(),getAll("ownedCopies")]);
-    const gameCustom=custom.filter(x=>x.game===albumGame&&(albumGame!=="pokemon"||!x.catalogLanguage||x.catalogLanguage===albumLanguage)),gameCopies=copies.filter(x=>x.game===albumGame&&(albumGame!=="pokemon"||(x.language||"it")===albumLanguage));
+    const [sets,custom,copies]=await Promise.all([getSets(albumGame,force,activeAlbumLanguage()),getCustomMasterSets(),getAll("ownedCopies")]);
+    const gameCustom=custom.filter(x=>x.game===albumGame&&(albumGame!=="pokemon"||!x.catalogLanguage||x.catalogLanguage===albumLanguage)),gameCopies=copies.filter(x=>x.game===albumGame&&(albumGame==="pokemon"?(x.language||"it")===albumLanguage:(albumYgoLanguage==="tcg"?!String(x.language||"tcg").startsWith("ocg-"):x.language===albumYgoLanguage)));
     const [eurRefs,usdRefs]=await Promise.all([referencePricesForCards(gameCopies,"EUR"),referencePricesForCards(gameCopies,"USD")]);
     const bySet=new Map();
     for(const cp of gameCopies){
@@ -306,7 +308,7 @@ async function openCustomMasterSet(master){
 async function openSet(set){
   const panel=$("#setDetail"),root=$("#setsList");root.hidden=true;panel.hidden=false;panel.innerHTML='<div class="notice">Caricamento master set…</div>';
   try{
-    const cards=await getSetCards(albumGame,set,false,albumGame==="pokemon"?albumLanguage:null),copies=await getAll("ownedCopies"),ownedSet=new Set(copies.map(x=>x.printingId));
+    const cards=await getSetCards(albumGame,set,false,activeAlbumLanguage()),copies=await getAll("ownedCopies"),ownedSet=new Set(copies.map(x=>x.printingId));
     const rarities=[...new Set(cards.map(x=>x.rarity).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"it"));
     const hasVariants=cards.some(c=>variantKeys(c).some(v=>v!=="base"));
     panel.innerHTML='<div class="section-head"><div><small id="setProgressText"></small><h2>'+esc(set.name)+'</h2></div><button id="closeSet" class="ghost">Chiudi</button></div><div class="progressbar"><span id="setProgressBar"></span></div><div class="set-tools"><select id="setProgressMode"><option value="number">Progresso per numero</option><option value="variants">Progresso per varianti</option></select><select id="setOwnedFilter"><option value="all">Tutte</option><option value="owned">Ce l’ho</option><option value="missing">Mi manca</option></select><input id="setTextFilter" placeholder="Nome o numero"><select id="setRarityFilter"><option value="">Tutte le rarità</option>'+rarities.map(r=>'<option>'+esc(r)+'</option>').join("")+'</select><select id="setConditionFilter"><option value="">Qualsiasi condizione</option><option>NM</option><option>LP</option><option>MP</option><option>HP</option><option>DAMAGED</option></select><select id="setCurrency"><option value="EUR">Prezzi EUR</option><option value="USD">Prezzi USD</option></select><select id="setSort"><option value="number-asc">Numero ↑</option><option value="number-desc">Numero ↓</option><option value="name-asc">Nome A-Z</option><option value="name-desc">Nome Z-A</option><option value="price-asc">Prezzo ↑</option><option value="price-desc">Prezzo ↓</option></select></div>'+(!hasVariants?'<div id="variantNotice" class="notice" hidden>Per questo set il catalogo corrente non contiene ancora metadati affidabili sulle varianti: il progresso per varianti coincide temporaneamente con quello per numero.</div>':"")+'<div id="setCardsGrid" class="cards-grid"></div>';
@@ -356,7 +358,7 @@ async function boot(){
   await openDB();$("#dbStatus").textContent="database locale pronto";const freshness=await loadDatabaseFreshness();
   $$(".bottom-nav button").forEach(b=>b.onclick=()=>go(b.dataset.view));$$("[data-go]").forEach(b=>b.onclick=()=>go(b.dataset.go));
   $$(".game-btn").forEach(b=>b.onclick=()=>{$$(".game-btn").forEach(x=>x.classList.remove("active"));b.classList.add("active");$("#searchGame").value=b.dataset.game});
-  $$(".album-game").forEach(b=>b.onclick=()=>{$$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;const al=$("#albumPokemonLanguage");if(al&&al.parentElement)al.parentElement.hidden=albumGame!=="pokemon";$("#setDetail").hidden=true;renderSets()});
+  $(".album-game").forEach(b=>b.onclick=()=>{$(".album-game").forEach(x=>x.classList.remove("active"));b.classList.add("active");albumGame=b.dataset.game;const pw=$("#albumPokemonLanguageWrap"),yw=$("#albumYugiohLanguageWrap");if(pw)pw.hidden=albumGame!=="pokemon";if(yw)yw.hidden=albumGame!=="yugioh";$("#setDetail").hidden=true;renderSets()});
   let timer;$("#searchInput").addEventListener("input",()=>{clearTimeout(timer);timer=setTimeout(doSearch,220)});$("#searchGame").onchange=doSearch;const searchLanguage=$("#searchLanguage");if(searchLanguage)searchLanguage.onchange=doSearch;$("#searchOwned").onchange=doSearch;$("#searchSort").onchange=doSearch;$("#searchCurrency").onchange=doSearch;$("#searchCondition").onchange=doSearch;$("#searchSet").oninput=doSearch;$("#searchRarity").oninput=doSearch;$("#refreshSets").onclick=()=>renderSets(true);
   $("#searchResults").addEventListener("click",e=>{const el=e.target.closest("[data-card]");if(el)openCard(JSON.parse(decodeURIComponent(el.dataset.card)))});
   const addCustom=$("#addCustomPrinting");if(addCustom)addCustom.onclick=addCustomPrinting;
@@ -365,6 +367,7 @@ async function boot(){
   $("#importFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;try{await importBackup(JSON.parse(await f.text()));alert("Backup importato correttamente.");location.reload()}catch(err){alert("Backup non valido: "+err.message)}};
   $("#clearCacheBtn").onclick=async()=>{await clear("catalogCache");alert("Cache catalogo svuotata.")};
   albumLanguage=await setting("albumPokemonLanguage",await setting("pokemonLanguage","it"));const albumLanguageEl=$("#albumPokemonLanguage");if(albumLanguageEl){albumLanguageEl.value=albumLanguage;albumLanguageEl.onchange=async e=>{albumLanguage=e.target.value;await setSetting("albumPokemonLanguage",albumLanguage);$("#setDetail").hidden=true;renderSets()}};
+  albumYgoLanguage=await setting("albumYugiohLanguage","tcg");const albumYgoLanguageEl=$("#albumYugiohLanguage");if(albumYgoLanguageEl){albumYgoLanguageEl.value=albumYgoLanguage;albumYgoLanguageEl.onchange=async e=>{albumYgoLanguage=e.target.value;await setSetting("albumYugiohLanguage",albumYgoLanguage);$("#setDetail").hidden=true;renderSets()}};
   const pokemonLanguageEl=$("#pokemonLanguage");if(pokemonLanguageEl){pokemonLanguageEl.value=await setting("pokemonLanguage","it");pokemonLanguageEl.onchange=async e=>{await setSetting("pokemonLanguage",e.target.value);albumLanguage=e.target.value;if(albumLanguageEl)albumLanguageEl.value=albumLanguage;await setSetting("albumPokemonLanguage",albumLanguage)}};
   $("#autoCapture").checked=await setting("autoCapture",true);$("#autoCapture").onchange=e=>setSetting("autoCapture",e.target.checked);
   $("#versionInfo").innerHTML="App "+APP_VERSION+" • DB "+DATABASE_VERSION+" • Grading "+GRADING_ALGORITHM_VERSION+" • Price engine "+PRICE_ENGINE_VERSION+"<br>Pokémon aggiornato: "+(freshness.pokemon&&freshness.pokemon.updatedAt?new Date(freshness.pokemon.updatedAt).toLocaleString("it-IT"):"dato non disponibile")+"<br>Yu-Gi-Oh! aggiornato: "+(freshness.yugioh&&freshness.yugioh.updatedAt?new Date(freshness.yugioh.updatedAt).toLocaleString("it-IT"):"dato non disponibile");
