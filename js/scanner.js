@@ -218,7 +218,7 @@ async function doRecognition(){
   const cap=state.captures.front||state.captures[state.currentSide];if(!cap){$("#recognitionResult").innerHTML='<div class="notice">Acquisisci prima il fronte.</div>';return}
   const root=$("#recognitionResult");root.innerHTML='<div class="notice">OCR multilingua e confronto visivo in corso…</div>';
   try{
-    const preferred=document.querySelector(".game-btn.active")?.dataset.game||"all",r=await recognizeCard(cap.canvas,preferred),rows=r.candidates;
+    const preferred=document.querySelector(".game-btn.active")?.dataset.game||"all",languageHint=$("#scannerLanguage")?.value||"auto",r=await recognizeCard(cap.canvas,preferred,languageHint),rows=r.candidates;
     if(!rows.length){state.recognized=null;root.innerHTML='<div class="notice">Riconoscimento non conclusivo. OCR: '+r.ocrConfidence+'%. Usa la ricerca manuale per selezionare la stampa esatta.</div>';return}
     const best=rows[0],strongEvidence=best.exactNumber||best.exactSetCode||Number(best.imageSimilarity||0)>=.68||best.nameEvidence>=.72,autoAccepted=best.confidence>=68&&strongEvidence;
     state.recognized=autoAccepted?best.card:null;
