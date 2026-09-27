@@ -5,7 +5,7 @@ export async function getCustomMasterSets(){
 }
 export function canonicalVariant(value=""){
   const raw=String(value||"").trim().toLowerCase().replace(/[_\s-]+/g,"");
-  const map={base:"base",normal:"normal",regular:"normal",standard:"normal",holo:"holo",holofoil:"holo",foil:"holo",reverse:"reverse",reverseholo:"reverse",reverseholofoil:"reverse",firstedition:"firstEdition",first:"firstEdition",unlimited:"unlimited",promo:"promo",wfoil:"wFoil"};
+  const map={base:"base",normal:"normal",regular:"normal",standard:"normal",holo:"holo",holofoil:"holo",foil:"holo",reverse:"reverse",reverseholo:"reverse",reverseholofoil:"reverse",firstedition:"firstEdition","1stedition":"firstEdition",first:"firstEdition",unlimited:"unlimited",promo:"promo",wfoil:"wFoil"};
   return map[raw]||raw||"base";
 }
 function variantEntries(card){
