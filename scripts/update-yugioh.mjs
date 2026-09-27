@@ -71,7 +71,8 @@ for(const card of cards){
     const p=normalizePrinting(card,set),key=p.setId;if(!groups.has(key))groups.set(key,new Map());groups.get(key).set(p.printingId,p);
   }
 }
-for(const [key,map]of groups){const rows=[...map.values()];index.push(...rows);await atomicJson(OUT+"/cards/"+encodeURIComponent(key)+".json",rows)}\nfor(const set of setByName.values()){if(!groups.has(set.id))await atomicJson(OUT+"/cards/"+encodeURIComponent(set.id)+".json",[])}
+for(const [key,map]of groups){const rows=[...map.values()];index.push(...rows);await atomicJson(OUT+"/cards/"+encodeURIComponent(key)+".json",rows)}
+for(const set of setByName.values()){if(!groups.has(set.id))await atomicJson(OUT+"/cards/"+encodeURIComponent(set.id)+".json",[])}
 
 await atomicJson(OUT+"/sets.json",[...setByName.values()].sort((a,b)=>String(b.releaseDate).localeCompare(String(a.releaseDate))||a.name.localeCompare(b.name)));
 await atomicJson("data/yugioh/search-index.json",index);
