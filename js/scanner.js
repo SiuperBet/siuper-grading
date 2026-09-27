@@ -1,21 +1,29 @@
-import{setting,put}from"./db.js";
+import{setting,setSetting,put}from"./db.js";
 import{recognizeCard}from"./recognition.js";
-import{analyzeCanvas,combineAnalyses,saveGrade,professionalInterval,drawGradingOverlay}from"./grading.js";
+import{analyzeCanvas,combineAnalyses,applyInspection,gradeability,gradingStatus,saveGrade,professionalInterval,drawGradingOverlay}from"./grading.js";
 import{GRADING_CONFIG}from"./grading-config.js";
 import{CONDITION_ESTIMATES}from"./config.js";
 import{getPricesForCard,reliability}from"./prices.js";
 import{addCopy}from"./collection.js";
 import{variantKeys}from"./mastersets.js";
 
-const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,prevQuadNorm:null,stableFrames:0,lastQuality:null,borderConfidence:0,detectedValid:false,captureBorderConfidence:0,manualCorners:false,captures:{front:null,back:null},recognized:null,onCardIdentified:null};
+const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,originalBlob:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,prevQuadNorm:null,stableFrames:0,lastQuality:null,borderConfidence:0,detectedValid:false,captureBorderConfidence:0,manualCorners:false,captures:{front:null,back:null},recognized:null,recognitionRun:0,gradingRun:0,onCardIdentified:null};
 const $=s=>document.querySelector(s);
 function clamp(v,a,b){return Math.max(a,Math.min(b,v))}
+function esc(v=""){return String(v).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
 function dist(a,b){return Math.hypot(a.x-b.x,a.y-b.y)}
 function avgQuadMovement(a,b){if(!a||!b||a.length!==4||b.length!==4)return 1;return a.reduce((sum,p,i)=>sum+dist(p,b[i]),0)/4}
 function cloneCanvas(source){const c=document.createElement("canvas");c.width=source.width;c.height=source.height;c.getContext("2d").drawImage(source,0,0);return c}
 function canvasBlob(canvas,type="image/jpeg",quality=.91){return new Promise(resolve=>canvas.toBlob(resolve,type,quality))}
-function imageFromBlob(blob){return new Promise((resolve,reject)=>{const img=new Image();img.onload=()=>{URL.revokeObjectURL(img.src);resolve(img)};img.onerror=reject;img.src=URL.createObjectURL(blob)})}
+function imageFromBlob(blob){return new Promise((resolve,reject)=>{const url=URL.createObjectURL(blob),img=new Image();img.onload=()=>{URL.revokeObjectURL(url);resolve(img)};img.onerror=e=>{URL.revokeObjectURL(url);reject(e)};img.src=url})}
 function defaultCorners(img){let w=img.width*.68,h=w*1.4;if(h>img.height*.74){h=img.height*.74;w=h/1.4}const x=(img.width-w)/2,y=(img.height-h)/2;return[{x:x,y:y},{x:x+w,y:y},{x:x+w,y:y+h},{x:x,y:y+h}]}
+function selectedGame(){
+  const explicit=$("#scannerGame")?.value||"all";if(explicit!=="all")return explicit;
+  const lang=$("#scannerLanguage")?.value||"auto";return lang==="tcg"||lang.startsWith("ocg-")?"yugioh":lang!=="auto"?"pokemon":"all";
+}
+function cardThumb(card){const url=card&&(card.image||card.imageHigh||(card.imageCandidates||[]).map(x=>x.low||x.high).find(Boolean));return url?'<img src="'+esc(url)+'" alt="">':'<div class="img-placeholder"><span>—</span></div>'}
+function readInspection(){const out={};document.querySelectorAll("[data-manual-defect]").forEach(x=>{if(x.checked)out[x.dataset.manualDefect]=true});return out}
+function resetInspection(){document.querySelectorAll("[data-manual-defect]").forEach(x=>x.checked=false)}
 
 function frameQuality(canvas){
   const ctx=canvas.getContext("2d",{willReadFrequently:true}),im=ctx.getImageData(0,0,canvas.width,canvas.height),d=im.data,w=canvas.width,h=canvas.height;
@@ -98,7 +106,7 @@ function validateCorners(img,pts){
   if(aspect<.48||aspect>.91)return{ok:false,message:"Le proporzioni dei 4 punti non sono compatibili con una carta. Ricontrolla gli angoli."};
   if(minSide<Math.min(img.width,img.height)*.18)return{ok:false,message:"Due angoli risultano troppo vicini. Ricontrolla i 4 punti."};
   if(q.some(p=>p.x<0||p.y<0||p.x>img.width||p.y>img.height))return{ok:false,message:"Un punto è fuori dall'immagine."};
-  return{ok:true,points:q,aspect,areaRatio:ratio};
+  return{ok:true,points:q,aspect,areaRatio:ratio,cardWidth:Math.round(w),cardHeight:Math.round(h)};
 }
 async function analysisTick(){
   if(!state.stream||state.busy)return;
@@ -127,7 +135,8 @@ async function analysisTick(){
   if(q.brightness<=48)hints.push("più luce");if(q.brightness>=218)hints.push("troppa luce");if(q.blur<=45)hints.push("immagine poco nitida");if(q.glare>=.075)hints.push("riflessi");if(q.motion>=8.5)hints.push("tieni fermo");
   $("#scanQuality").textContent=hints.length?hints.join(" • "):"Pronto • 4 bordi validi • nitida • stabile";
   const auto=await setting("autoCapture",true);
-  if(auto&&state.stableFrames>=3){state.stableFrames=0;await captureFromVideo(true)}
+  const editorOpen=$("#borderEditor")&&!$("#borderEditor").hidden;
+  if(auto&&!editorOpen&&!state.captures[state.currentSide]&&state.stableFrames>=3){state.stableFrames=0;await captureFromVideo(true)}
   state.timer=setTimeout(analysisTick,520);
 }
 
@@ -197,8 +206,8 @@ async function confirmCorners(){
     state.corners=geometry.points;
     const corrected=perspectiveWarp(state.original,state.corners),copy=cloneCanvas(corrected),correctedBlob=await canvasBlob(copy);
     const geometryConfidence=state.manualCorners?Math.max(60,Math.min(78,state.captureBorderConfidence||60)):(state.captureBorderConfidence||0);
-    const scanId="scan:"+crypto.randomUUID(),row={id:scanId,side:state.currentSide,createdAt:new Date().toISOString(),originalBlob:state.originalBlob,correctedBlob:correctedBlob,corners:state.corners.map(p=>({x:Math.round(p.x),y:Math.round(p.y)})),borderDetectionConfidence:geometryConfidence,geometrySource:state.manualCorners?"manual-confirmed":"automatic",geometryAspect:Number(geometry.aspect.toFixed(4)),geometryAreaRatio:Number(geometry.areaRatio.toFixed(4))};
-    await put("scans",row);state.captures[state.currentSide]={scanId:scanId,canvas:copy,corners:row.corners,quality:state.lastQuality,borderConfidence:row.borderDetectionConfidence};
+    const scanId="scan:"+crypto.randomUUID(),row={id:scanId,side:state.currentSide,createdAt:new Date().toISOString(),originalBlob:state.originalBlob,correctedBlob:correctedBlob,corners:state.corners.map(p=>({x:Math.round(p.x),y:Math.round(p.y)})),borderDetectionConfidence:geometryConfidence,geometrySource:state.manualCorners?"manual-confirmed":"automatic",geometryAspect:Number(geometry.aspect.toFixed(4)),geometryAreaRatio:Number(geometry.areaRatio.toFixed(4)),nativeCardWidth:geometry.cardWidth,nativeCardHeight:geometry.cardHeight};
+    await put("scans",row);state.captures[state.currentSide]={scanId:scanId,canvas:copy,corners:row.corners,quality:state.lastQuality,borderConfidence:row.borderDetectionConfidence,nativeCardWidth:row.nativeCardWidth,nativeCardHeight:row.nativeCardHeight};
     $("#borderEditor").hidden=true;$("#correctedPanel").hidden=false;renderCurrentSide();updateCaptureStatus();
     if(state.currentSide==="front"&&!state.captures.back)$("#scanQuality").textContent="Fronte pronto. Puoi acquisire il retro o continuare solo con il fronte.";
   }finally{$("#confirmCornersBtn").disabled=false;$("#confirmCornersBtn").textContent="CONFERMA BORDI"}
@@ -211,23 +220,30 @@ function updateCaptureStatus(){
   $("#captureStatus").textContent=(state.captures.front?"fronte ✓":"fronte non acquisito")+" • "+(state.captures.back?"retro ✓":"retro opzionale");
 }
 function selectSide(side){
+  if($("#borderEditor")&&!$("#borderEditor").hidden){$("#scanQuality").textContent="Conferma o annulla la foto corrente prima di cambiare lato.";return}
   state.currentSide=side;$("#sideFrontBtn").classList.toggle("active",side==="front");$("#sideBackBtn").classList.toggle("active",side==="back");
   if(state.captures[side]){$("#correctedPanel").hidden=false;renderCurrentSide()}else $("#correctedPanel").hidden=true;
 }
+function cancelEditor(){
+  state.original=null;state.originalBlob=null;state.corners=null;state.manualCorners=false;$("#borderEditor").hidden=true;
+  if(state.captures[state.currentSide]){$("#correctedPanel").hidden=false;renderCurrentSide()}else $("#correctedPanel").hidden=true;
+  $("#scanQuality").textContent="Foto annullata. Acquisisci di nuovo il "+(state.currentSide==="front"?"fronte":"retro")+".";
+}
 async function doRecognition(){
   const cap=state.captures.front||state.captures[state.currentSide];if(!cap){$("#recognitionResult").innerHTML='<div class="notice">Acquisisci prima il fronte.</div>';return}
-  const root=$("#recognitionResult");root.innerHTML='<div class="notice">OCR multilingua e confronto visivo in corso…</div>';
+  const root=$("#recognitionResult"),button=$("#ocrBtn"),run=++state.recognitionRun;button.disabled=true;button.textContent="Riconoscimento…";root.innerHTML='<div class="notice">OCR multilingua e confronto visivo in corso…</div>';
   try{
-    const preferred=document.querySelector(".game-btn.active")?.dataset.game||"all",languageHint=$("#scannerLanguage")?.value||"auto",r=await recognizeCard(cap.canvas,preferred,languageHint),rows=r.candidates;
+    const preferred=selectedGame(),languageHint=$("#scannerLanguage")?.value||"auto",r=await recognizeCard(cap.canvas,preferred,languageHint),rows=r.candidates;if(run!==state.recognitionRun)return;
     if(!rows.length){state.recognized=null;root.innerHTML='<div class="notice">Riconoscimento non conclusivo. OCR: '+r.ocrConfidence+'%. Usa la ricerca manuale per selezionare la stampa esatta.</div>';return}
     const best=rows[0],strongEvidence=best.exactNumber||best.exactSetCode||Number(best.imageSimilarity||0)>=.68||best.nameEvidence>=.72,autoAccepted=best.confidence>=68&&strongEvidence;
     state.recognized=autoAccepted?best.card:null;
     const visual=best.imageSimilarity==null?"n/d":Math.round(best.imageSimilarity*100)+"%";
-    root.innerHTML='<div class="analysis-box"><h3>'+(autoAccepted?'Carta identificata':'Candidato principale da confermare')+'</h3><b>'+best.card.name+'</b><div>'+(best.card.collectionNumber||"—")+' • '+(best.card.setName||best.card.setCode||"")+'</div><p class="confidence">Confidenza: '+best.confidence+'% • OCR '+r.ocrConfidence+'% • Visuale '+visual+'</p>'+(autoAccepted?'':'<button id="confirmBestCandidate" class="primary">Conferma questa carta</button>')+'<small>Alternative:</small>'+rows.slice(1).map((x,i)=>'<button class="candidate-btn" data-i="'+(i+1)+'">'+x.card.name+' • '+(x.card.collectionNumber||"—")+' ('+x.confidence+'%)</button>').join(" ")+'<p><button id="manualSearchBtn">Correggi con ricerca manuale</button></p></div>';
+    root.innerHTML='<div class="analysis-box"><h3>'+(autoAccepted?'Carta identificata':'Candidato principale da confermare')+'</h3><div class="candidate-card">'+cardThumb(best.card)+'<div><b>'+esc(best.card.name)+'</b><div>'+esc(best.card.collectionNumber||"—")+' • '+esc(best.card.setName||best.card.setCode||"")+'</div></div></div><p class="confidence">Confidenza: '+best.confidence+'% • OCR '+r.ocrConfidence+'% • Visuale '+visual+'</p>'+(autoAccepted?'':'<button id="confirmBestCandidate" class="primary">Conferma questa carta</button>')+(rows.length>1?'<small>Alternative:</small><div class="candidate-list">'+rows.slice(1).map((x,i)=>'<button class="candidate-btn" data-i="'+(i+1)+'">'+esc(x.card.name)+' • '+esc(x.card.collectionNumber||"—")+' ('+x.confidence+'%)</button>').join("")+'</div>':"")+'<p><button id="manualSearchBtn">Correggi con ricerca manuale</button></p></div>';
     const confirm=$("#confirmBestCandidate");if(confirm)confirm.onclick=()=>{state.recognized=best.card;confirm.disabled=true;confirm.textContent="✓ Confermata";root.querySelector("h3").textContent="Carta identificata e confermata"};
-    root.querySelectorAll(".candidate-btn").forEach(b=>b.onclick=()=>{const x=rows[Number(b.dataset.i)];state.recognized=x.card;root.querySelector("b").textContent=x.card.name;root.querySelector(".confidence").textContent="Selezione manuale tra i candidati • "+x.confidence+"%";root.querySelector("h3").textContent="Carta identificata e confermata"});
+    root.querySelectorAll(".candidate-btn").forEach(b=>b.onclick=()=>{const x=rows[Number(b.dataset.i)];state.recognized=x.card;const box=root.querySelector(".candidate-card");if(box)box.innerHTML=cardThumb(x.card)+'<div><b>'+esc(x.card.name)+'</b><div>'+esc(x.card.collectionNumber||"—")+' • '+esc(x.card.setName||x.card.setCode||"")+'</div></div>';root.querySelector(".confidence").textContent="Selezione manuale tra i candidati • "+x.confidence+"%";root.querySelector("h3").textContent="Carta identificata e confermata";root.querySelectorAll(".candidate-btn").forEach(x=>x.disabled=false);b.disabled=true;if(confirm)confirm.hidden=true});
     $("#manualSearchBtn").onclick=()=>document.querySelector('[data-view="search"]').click();
-  }catch(e){state.recognized=null;root.innerHTML='<div class="notice">OCR non riuscito: '+e.message+' Puoi sempre usare la ricerca manuale.</div>'}
+  }catch(e){if(run===state.recognitionRun){state.recognized=null;root.innerHTML='<div class="notice">OCR non riuscito: '+esc(e.message)+' Puoi sempre usare la ricerca manuale.</div>'}}
+  finally{if(run===state.recognitionRun){button.disabled=false;button.textContent="Riconosci carta"}}
 }
 function conditionFromGrade(grade){
   if(grade>=8.5)return"NM";
@@ -253,41 +269,49 @@ async function gradingValueHtml(card,grade){
 }
 async function doGrading(){
   const front=state.captures.front;if(!front){$("#gradingResult").innerHTML='<div class="notice">Per il grading serve almeno il fronte.</div>';return}
-  const root=$("#gradingResult");root.innerHTML='<div class="notice">Analisi fotografica avanzata in corso…</div>';await new Promise(r=>setTimeout(r,30));
-  const fa=analyzeCanvas(front.canvas,{side:"front",borderConfidence:front.borderConfidence||0});
-  const frontUnusable=fa.quality.blurVariance<35||fa.quality.meanBrightness<30||fa.quality.meanBrightness>232||fa.quality.glareRatio>.12;
-  if(frontUnusable){root.innerHTML='<div class="notice"><b>Foto non idonea al grading.</b><br>Il fronte è troppo sfocato, troppo scuro/chiaro o presenta troppi riflessi. Acquisisci nuovamente la carta: non salvo un voto poco affidabile.</div>';return}
-  const back=state.captures.back;let ba=back?analyzeCanvas(back.canvas,{side:"back",borderConfidence:back.borderConfidence||0}):null;
-  const backRejected=ba&&(ba.quality.blurVariance<35||ba.quality.meanBrightness<30||ba.quality.meanBrightness>232||ba.quality.glareRatio>.12);
-  if(backRejected)ba=null;
-  const combined=combineAnalyses(fa,ba);
-  const center=combined.center,corners=combined.corners,edges=combined.edges,surface=combined.surface,cappedFinal=combined.finalGrade,confidence=combined.confidence,appliedCap=combined.appliedCap,defects=combined.defects,interval=professionalInterval(cappedFinal,confidence);
-  const saved=await saveGrade({cardId:state.recognized?state.recognized.cardId:null,printingId:state.recognized?state.recognized.printingId:null,cardName:state.recognized?state.recognized.name:null,frontScanId:front.scanId,backScanId:back?back.scanId:null,frontAnalysis:fa,backAnalysis:ba,finalGrade:cappedFinal,confidence,appliedCap,defects});
-  drawGradingOverlay(front.canvas,fa,$("#gradingOverlayFront"),"FRONT");if(back&&ba)drawGradingOverlay(back.canvas,ba,$("#gradingOverlayBack"),"BACK");else $("#gradingOverlayBack").hidden=true;$("#gradingOverlays").hidden=false;
-  const frontCenter='FRONT L/R '+fa.centering.lr[0]+'/'+fa.centering.lr[1]+' • T/B '+fa.centering.tb[0]+'/'+fa.centering.tb[1],backCenter=ba?'BACK L/R '+ba.centering.lr[0]+'/'+ba.centering.lr[1]+' • T/B '+ba.centering.tb[0]+'/'+ba.centering.tb[1]:"";
-  const rejectedBackHtml=backRejected?'<div class="notice">Il retro acquisito è stato escluso dal calcolo perché la foto non è sufficientemente affidabile. Il grading è quindi calcolato sul solo fronte.</div>':"";
-  const defectHtml=defects.length?'<div class="notice"><b>Possibili difetti rilevati</b><br>'+defects.map(d=>d.message).join("<br>")+'</div>':"",qualityWarnings=[...(fa.quality.warnings||[]),...(ba&&ba.quality.warnings||[])],qualityHtml=qualityWarnings.length?'<div class="notice">Qualità foto: '+[...new Set(qualityWarnings)].join(" • ")+'. Il risultato ha confidenza ridotta.</div>':"",capHtml=appliedCap!=null?'<div class="notice">Grade cap fotografico applicato: massimo '+appliedCap.toFixed(1)+'.</div>':"";
-  const valueHtml=await gradingValueHtml(state.recognized,cappedFinal);
-  const gradeVariants=state.recognized?variantKeys(state.recognized).filter(v=>v!=="base"):[];
-  const gradeVariantHtml=gradeVariants.length?'<label>Variante <select id="gradedVariant">'+gradeVariants.map(v=>'<option value="'+v+'">'+v+'</option>').join("")+'</select></label>':"";
-  root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+rejectedBackHtml+qualityHtml+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>'+valueHtml+(state.recognized?gradeVariantHtml+'<button id="addGradedCard" class="primary">Aggiungi alla collezione</button>':"");
-  const addGraded=$("#addGradedCard");if(addGraded)addGraded.onclick=async()=>{const v=$("#gradedVariant");await addCopy(state.recognized,{condition:conditionFromGrade(cappedFinal),variant:v?v.value:"",notes:"Aggiunta da grading "+saved.gradingAlgorithmVersion});addGraded.disabled=true;addGraded.textContent="✓ Aggiunta alla collezione"};
+  const root=$("#gradingResult"),button=$("#gradeBtn"),run=++state.gradingRun;button.disabled=true;button.textContent="Analisi…";root.innerHTML='<div class="notice">Analisi fotografica avanzata in corso…</div>';await new Promise(r=>setTimeout(r,30));if(run!==state.gradingRun)return;
+  try{
+    const fa=analyzeCanvas(front.canvas,{side:"front",borderConfidence:front.borderConfidence||0,sourceResolution:{w:front.nativeCardWidth||front.canvas.width,h:front.nativeCardHeight||front.canvas.height}}),frontGate=gradeability(fa);
+    if(!frontGate.usable){root.innerHTML='<div class="notice"><b>Foto non idonea al grading.</b><br>'+frontGate.blockers.map(esc).join(" • ")+'. Acquisisci nuovamente il fronte: non salvo un voto poco affidabile.</div>';return}
+    const back=state.captures.back;let ba=back?analyzeCanvas(back.canvas,{side:"back",borderConfidence:back.borderConfidence||0,sourceResolution:{w:back.nativeCardWidth||back.canvas.width,h:back.nativeCardHeight||back.canvas.height}}):null,backGate=ba?gradeability(ba):null;
+    const backRejected=Boolean(ba&&backGate&&!backGate.usable);if(backRejected)ba=null;
+    const inspection=readInspection(),combined=applyInspection(combineAnalyses(fa,ba),inspection),status=gradingStatus(fa,ba,combined);
+    const center=combined.center,corners=combined.corners,edges=combined.edges,surface=combined.surface,cappedFinal=combined.finalGrade,confidence=combined.confidence,appliedCap=combined.appliedCap,defects=combined.defects,interval=professionalInterval(cappedFinal,confidence);
+    if(run!==state.gradingRun)return;const saved=await saveGrade({cardId:state.recognized?state.recognized.cardId:null,printingId:state.recognized?state.recognized.printingId:null,cardName:state.recognized?state.recognized.name:null,frontScanId:front.scanId,backScanId:back?back.scanId:null,backRejected,frontAnalysis:fa,backAnalysis:ba,inspection:combined.inspection,finalGrade:cappedFinal,confidence,appliedCap,defects,statusCode:status.code,statusLabel:status.label});
+    drawGradingOverlay(front.canvas,fa,$("#gradingOverlayFront"),"FRONT");if(back&&ba)drawGradingOverlay(back.canvas,ba,$("#gradingOverlayBack"),"BACK");else $("#gradingOverlayBack").hidden=true;$("#gradingOverlays").hidden=false;
+    const frontCenter='FRONT L/R '+fa.centering.lr[0]+'/'+fa.centering.lr[1]+' • T/B '+fa.centering.tb[0]+'/'+fa.centering.tb[1]+' • segnale '+Math.round(fa.centering.reliability*100)+'%',backCenter=ba?'BACK L/R '+ba.centering.lr[0]+'/'+ba.centering.lr[1]+' • T/B '+ba.centering.tb[0]+'/'+ba.centering.tb[1]+' • segnale '+Math.round(ba.centering.reliability*100)+'%':"";
+    const rejectedBackHtml=backRejected?'<div class="notice">Il retro acquisito è stato escluso: '+backGate.blockers.map(esc).join(" • ")+'. Il voto resta provvisorio sul solo fronte.</div>':"";
+    const defectHtml=defects.length?'<div class="notice"><b>Difetti e segnali rilevati</b><br>'+defects.map(d=>esc(d.message)).join("<br>")+'</div>':"",qualityWarnings=[...(fa.quality.warnings||[]),...(ba&&ba.quality.warnings||[])],qualityHtml=qualityWarnings.length?'<div class="notice">Qualità foto: '+[...new Set(qualityWarnings)].map(esc).join(" • ")+'. Il risultato ha confidenza ridotta.</div>':"",capHtml=appliedCap!=null?'<div class="notice">Grade cap applicato: massimo '+appliedCap.toFixed(1)+'.</div>':"";
+    const valueHtml=await gradingValueHtml(state.recognized,cappedFinal);if(run!==state.gradingRun)return;const gradeVariants=state.recognized?variantKeys(state.recognized).filter(v=>v!=="base"):[],gradeVariantHtml=gradeVariants.length?'<label>Variante <select id="gradedVariant">'+gradeVariants.map(v=>'<option value="'+esc(v)+'">'+esc(v)+'</option>').join("")+'</select></label>':"";
+    root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><p class="grade-status '+status.code+'">'+status.label+'</p><p>'+esc(status.message)+'</p><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+rejectedBackHtml+qualityHtml+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>'+valueHtml+(state.recognized?gradeVariantHtml+'<button id="addGradedCard" class="primary">Aggiungi alla collezione</button>':"");
+    const addGraded=$("#addGradedCard");if(addGraded)addGraded.onclick=async()=>{const v=$("#gradedVariant");await addCopy(state.recognized,{condition:conditionFromGrade(cappedFinal),variant:v?v.value:"",notes:"Aggiunta da grading "+saved.gradingAlgorithmVersion});addGraded.disabled=true;addGraded.textContent="✓ Aggiunta alla collezione"};
+  }catch(e){root.innerHTML='<div class="notice">Analisi non riuscita: '+esc(e.message)+'</div>'}
+  finally{if(run===state.gradingRun){button.disabled=false;button.textContent="Analizza grading"}}
 }
 export function getScannerState(){return state}
-export function setRecognizedCard(card){state.recognized=card;const root=document.querySelector("#recognitionResult");if(root&&card)root.innerHTML='<div class="analysis-box"><h3>Identificazione corretta manualmente</h3><b>'+card.name+'</b><div>'+(card.collectionNumber||"—")+' • '+(card.setName||card.setCode||"")+'</div><p class="confidence">Selezione manuale confermata.</p></div>'}
+export function setRecognizedCard(card){state.recognized=card;const root=document.querySelector("#recognitionResult");if(root&&card)root.innerHTML='<div class="analysis-box"><h3>Identificazione corretta manualmente</h3><div class="candidate-card">'+cardThumb(card)+'<div><b>'+esc(card.name)+'</b><div>'+esc(card.collectionNumber||"—")+' • '+esc(card.setName||card.setCode||"")+'</div></div></div><p class="confidence">Selezione manuale confermata.</p></div>'}
+export function resetScannerSession(){
+  state.recognitionRun++;state.gradingRun++;state.currentSide="front";state.original=null;state.originalBlob=null;state.corners=null;state.detectedCorners=null;state.prevThumb=null;state.prevQuadNorm=null;state.stableFrames=0;state.lastQuality=null;state.borderConfidence=0;state.detectedValid=false;state.captureBorderConfidence=0;state.manualCorners=false;state.captures={front:null,back:null};state.recognized=null;
+  $("#sideFrontBtn")?.classList.add("active");$("#sideBackBtn")?.classList.remove("active");if($("#borderEditor"))$("#borderEditor").hidden=true;if($("#correctedPanel"))$("#correctedPanel").hidden=true;if($("#gradingOverlays"))$("#gradingOverlays").hidden=true;
+  if($("#recognitionResult"))$("#recognitionResult").innerHTML="";if($("#gradingResult"))$("#gradingResult").innerHTML="";if($("#photoFile"))$("#photoFile").value="";if($("#ocrBtn")){ $("#ocrBtn").disabled=false;$("#ocrBtn").textContent="Riconosci carta" }if($("#gradeBtn")){ $("#gradeBtn").disabled=false;$("#gradeBtn").textContent="Analizza grading" }resetInspection();updateCaptureStatus();
+  if($("#scanQuality"))$("#scanQuality").textContent=state.stream?"Nuova carta: inquadra il fronte.":"Nuova carta pronta. Apri la fotocamera o carica il fronte.";
+}
 
 export function initScanner(options={}){
   state.onCardIdentified=options.onCardIdentified||null;
   $("#startCameraBtn").onclick=()=>startCamera().catch(()=>{});
-  $("#stopCameraBtn").onclick=stopCamera;$("#captureBtn").onclick=()=>captureFromVideo(false);
-  $("#photoFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;const img=await imageFromBlob(f),q=detectImageQuad(img,64);openEditor(img,q?q.points:defaultCorners(img),f,false,q?q.confidence:0)};
+  $("#stopCameraBtn").onclick=stopCamera;$("#newScanBtn").onclick=resetScannerSession;$("#captureBtn").onclick=()=>captureFromVideo(false);
+  $("#photoFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;try{const img=await imageFromBlob(f),q=detectImageQuad(img,64);openEditor(img,q?q.points:defaultCorners(img),f,false,q?q.confidence:0)}catch(err){$("#scanQuality").textContent="Impossibile leggere la foto: "+err.message}};
   $("#editorZoom").oninput=e=>{state.zoom=Number(e.target.value);drawEditor()};
   $("#resetCornersBtn").onclick=()=>{const q=detectImageQuad(state.original,60);state.corners=q?q.points:defaultCorners(state.original);state.captureBorderConfidence=q?q.confidence:0;state.manualCorners=false;state.zoom=1;state.panX=0;state.panY=0;$("#editorZoom").value="1";drawEditor()};
-  $("#confirmCornersBtn").onclick=confirmCorners;$("#sideFrontBtn").onclick=()=>selectSide("front");$("#sideBackBtn").onclick=()=>selectSide("back");
+  $("#cancelEditBtn").onclick=cancelEditor;$("#confirmCornersBtn").onclick=confirmCorners;$("#sideFrontBtn").onclick=()=>selectSide("front");$("#sideBackBtn").onclick=()=>selectSide("back");
   $("#ocrBtn").onclick=doRecognition;$("#gradeBtn").onclick=doGrading;
   const canvas=$("#editorCanvas");
   canvas.onpointerdown=e=>{canvas.setPointerCapture(e.pointerId);const r=canvas.getBoundingClientRect(),p={x:(e.clientX-r.left)*canvas.width/r.width,y:(e.clientY-r.top)*canvas.height/r.height},screens=state.corners.map(toScreen);let best=-1,bd=1e9;screens.forEach((x,i)=>{const dd=dist(x,p);if(dd<bd){bd=dd;best=i}});state.drag=bd<55?{type:"corner",index:best}:{type:"pan",x:p.x,y:p.y,px:state.panX,py:state.panY}};
   canvas.onpointermove=e=>{if(!state.drag)return;const r=canvas.getBoundingClientRect(),p={x:(e.clientX-r.left)*canvas.width/r.width,y:(e.clientY-r.top)*canvas.height/r.height};if(state.drag.type==="corner"){state.corners[state.drag.index]=toImage(p);state.manualCorners=true}else{state.panX=state.drag.px+(p.x-state.drag.x);state.panY=state.drag.py+(p.y-state.drag.y)}drawEditor()};
   canvas.onpointerup=canvas.onpointercancel=()=>state.drag=null;
+  const game=$("#scannerGame"),language=$("#scannerLanguage");
+  Promise.all([setting("scannerGame","all"),setting("scannerLanguage","auto")]).then(([g,l])=>{if(game)game.value=g;if(language)language.value=l});
+  if(game)game.onchange=e=>setSetting("scannerGame",e.target.value);if(language)language.onchange=e=>setSetting("scannerLanguage",e.target.value);
   updateCaptureStatus();
 }
