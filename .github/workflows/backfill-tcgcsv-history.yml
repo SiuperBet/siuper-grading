@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 50
     env:
-      TCGCSV_BACKFILL_BATCH: "3"
+      TCGCSV_BACKFILL_BATCH: "80"
     steps:
       - uses: actions/checkout@v6
         with:
