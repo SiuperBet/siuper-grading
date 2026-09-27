@@ -256,21 +256,6 @@
   },
   {
     "game": "pokemon",
-    "id": "CSV1C",
-    "name": "亘古开来",
-    "cardCount": 127,
-    "printedTotal": 127,
-    "logo": "",
-    "symbol": "",
-    "releaseDate": "2025-01-17",
-    "series": "朱&紫",
-    "seriesId": "SV",
-    "catalogLanguage": "zh-cn",
-    "cardLanguage": "zh-cn",
-    "updatedAt": "2026-09-26T16:33:12.619Z"
-  },
-  {
-    "game": "pokemon",
     "id": "SV8a",
     "name": "太晶慶典ex",
     "cardCount": 237,
