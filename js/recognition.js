@@ -63,19 +63,23 @@ function lineMatchesName(line,name){
   const l=normalizeName(line),n=normalizeName(name);if(!l||!n)return 0;if(l===n)return 1;if(l.length>=3&&(l.includes(n)||n.includes(l)))return .75;
   const lw=new Set(l.split(" ").filter(x=>x.length>1)),nw=n.split(" ").filter(x=>x.length>1);if(!nw.length)return 0;let hit=0;for(const w of nw)if(lw.has(w))hit++;return hit/nw.length>=.67?.54:0;
 }
-async function ocrLanguage(){
-  const lang=await setting("pokemonLanguage","it");if(lang==="ja")return"jpn+eng";if(lang==="zh-cn")return"chi_sim+eng";if(lang==="zh-tw")return"chi_tra+eng";return"eng";
+async function ocrLanguage(hint="auto"){
+  const lang=hint&&hint!=="auto"?hint:await setting("pokemonLanguage","it");
+  if(lang==="ja"||lang==="ocg-jp")return"jpn+eng";
+  if(lang==="zh-cn"||lang==="ocg-sc")return"chi_sim+eng";
+  if(lang==="zh-tw"||lang==="ocg-tc")return"chi_tra+eng";
+  return"eng";
 }
-export async function recognizeCard(canvas,preferredGame="all"){
+export async function recognizeCard(canvas,preferredGame="all",languageHint="auto"){
   if(!window.Tesseract)throw new Error("Motore OCR non ancora disponibile. Riprova tra pochi secondi oppure usa la ricerca manuale.");
-  const prepared=makeOcrComposite(canvas),requestedOcrLang=await ocrLanguage();
+  const prepared=makeOcrComposite(canvas),requestedOcrLang=await ocrLanguage(languageHint);
   let result,ocrLang=requestedOcrLang;
   try{result=await window.Tesseract.recognize(prepared,requestedOcrLang,{logger:()=>{}})}catch(e){if(requestedOcrLang==="eng")throw e;ocrLang="eng";result=await window.Tesseract.recognize(prepared,"eng",{logger:()=>{}})}
   const text=result.data&&result.data.text?result.data.text:"",ocrConfidence=Math.max(0,Math.min(1,((result.data&&result.data.confidence)||0)/100)),signals=extractSignals(text),queries=[];
   if(preferredGame!=="yugioh")queries.push(...signals.pokemon);if(preferredGame!=="pokemon")queries.push(...signals.yugioh);queries.push(...signals.lines.slice(0,10));
   const pool=new Map();
   for(const q of unique(queries).slice(0,16)){
-    const numeric=/\d/.test(q),rows=await searchCards(q,{game:preferredGame,limit:numeric?90:35,language:"all"});
+    const numeric=/\d/.test(q),catalogLanguage=languageHint&&languageHint!=="auto"?languageHint:"all",rows=await searchCards(q,{game:preferredGame,limit:numeric?90:35,language:catalogLanguage});
     for(const row of rows){
       const old=pool.get(row.printingId),rowNum=cardNumberKey(row),rowSet=normalizeSetCode(row.setCode||row.collectionNumber||""),exactNumber=signals.pokemon.some(x=>{const nx=normalizeCollectionNumber(x);return nx&&rowNum&&(nx===rowNum||(!x.includes("/")&&nx===normalizeCollectionNumber(row.collectionNumber)))}),exactSetCode=signals.yugioh.some(x=>normalizeSetCode(x)===rowSet||normalizeSetCode(x)===normalizeSetCode(row.collectionNumber));
       let nameEvidence=0;for(const line of signals.lines)nameEvidence=Math.max(nameEvidence,lineMatchesName(line,row.name));
