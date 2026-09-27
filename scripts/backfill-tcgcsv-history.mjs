@@ -26,7 +26,9 @@ function cleanVariant(v=""){return String(v).trim()||"Unknown"}
 const map=await readJson("data/prices/tcgcsv-map.json",null);if(!map||!Array.isArray(map.cards)||!map.cards.length)throw new Error("TCGCSV mapping not available");
 const byGroup=new Map();
 for(const c of map.cards){const g=String(c.groupId),p=Number(c.productId);if(!byGroup.has(g))byGroup.set(g,new Set());byGroup.get(g).add(p)}
-const state=await readJson(ROOT+"/state.json",{version:1,completed:[],failed:{}}),datesDoc=await readJson(ROOT+"/dates.json",{version:1,source:"TCGCSV / TCGplayer",currency:"USD",dates:[]}),targets=targetDates(),targetSet=new Set(targets);\nfor(const date of Object.keys(state.failed||{}))if(!targetSet.has(date))delete state.failed[date];\nconst done=new Set(state.completed||[]),todo=targets.filter(x=>!done.has(x)).slice(0,BATCH);
+const state=await readJson(ROOT+"/state.json",{version:1,completed:[],failed:{}}),datesDoc=await readJson(ROOT+"/dates.json",{version:1,source:"TCGCSV / TCGplayer",currency:"USD",dates:[]}),targets=targetDates(),targetSet=new Set(targets);
+for(const date of Object.keys(state.failed||{}))if(!targetSet.has(date))delete state.failed[date];
+const done=new Set(state.completed||[]),todo=targets.filter(x=>!done.has(x)).slice(0,BATCH);
 let processed=0,priceRows=0;
 await mkdir(ROOT+"/groups",{recursive:true});await rm(TMP,{recursive:true,force:true});await mkdir(TMP,{recursive:true});
 
