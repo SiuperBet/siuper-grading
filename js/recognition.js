@@ -15,7 +15,7 @@ function extractSignals(text){
   const standalone=[...upper.matchAll(/(?:^|\s)([0-9O]{1,4})\s*\/\s*([0-9O]{1,4})(?:\s|$)/g)].map(m=>cleanNumberToken(m[1]+"/"+m[2]));
   const ygo=[...upper.matchAll(/\b([A-Z]{2,10}[-\s]?(?:(?:EN|E|IT|FR|DE|PT|JP|JPS|SC|TC)[-\s]?)?[0-9O]{3,5})\b/g)].map(m=>cleanNumberToken(m[1]));
   const lines=raw.split(/\n+/).map(x=>x.replace(/[^\p{L}\p{M}\p{N}'’&:+.\-\/ ]/gu," ").replace(/\s+/g," ").trim()).filter(x=>{
-    if(x.length<2||x.length>50)return false;const letters=(x.match(/[\p{L}\p{M}]/gu)||[]).length;return letters>=1&&letters/Math.max(1,x.length)>.18;
+    if(x.length<2||x.length>50)return false;const letters=(x.match(/[\p{L}\p{M}]/gu)||[]).length;return letters/Math.max(1,x.length)>.18;
   });
   return{pokemon:unique([...slashPokemon,...standalone,...promoPokemon]),yugioh:unique(ygo),lines:unique(lines).slice(0,18)};
 }
@@ -56,7 +56,8 @@ async function signatureUrl(url){
   if(!url)return null;const r=await fetch(url,{mode:"cors",cache:"force-cache"});if(!r.ok)return null;const bmp=await createImageBitmap(await r.blob()),c=document.createElement("canvas");c.width=Math.max(16,bmp.width);c.height=Math.max(24,bmp.height);c.getContext("2d").drawImage(bmp,0,0,c.width,c.height);if(bmp.close)bmp.close();return signatureFromCanvas(c);
 }
 async function bestVisualForCard(card,source){
-  let best=null;for(const url of imageUrls(card).slice(0,4)){try{const ref=await signatureUrl(url),sim=visualSimilarity(source,ref);if(sim!=null&&(best==null||sim>best))best=sim}catch{}if(best!=null&&best>.88)break}return best;
+  const attempts=await Promise.all(imageUrls(card).slice(0,2).map(async url=>{try{return visualSimilarity(source,await signatureUrl(url))}catch{return null}}));
+  const usable=attempts.filter(x=>x!=null);return usable.length?Math.max(...usable):null;
 }
 function cardNumberKey(card){const n=String(card.collectionNumber||"");if(!n)return"";if(n.includes("/")||!card.printedTotal)return normalizeCollectionNumber(n);return normalizeCollectionNumber(n+"/"+card.printedTotal)}
 function lineMatchesName(line,name){
@@ -65,6 +66,7 @@ function lineMatchesName(line,name){
 }
 async function ocrLanguage(hint="auto"){
   const lang=hint&&hint!=="auto"?hint:await setting("pokemonLanguage","it");
+  if(lang==="it")return"ita+eng";
   if(lang==="ja"||lang==="ocg-jp")return"jpn+eng";
   if(lang==="zh-cn"||lang==="ocg-sc")return"chi_sim+eng";
   if(lang==="zh-tw"||lang==="ocg-tc")return"chi_tra+eng";
@@ -88,7 +90,7 @@ export async function recognizeCard(canvas,preferredGame="all",languageHint="aut
     }
   }
   let candidates=[...pool.values()].sort((a,b)=>b.score-a.score).slice(0,24),sourceSig=signatureFromCanvas(canvas);
-  for(const item of candidates.slice(0,16)){const sim=await bestVisualForCard(item.card,sourceSig);item.imageSimilarity=sim;if(sim!=null)item.score+=Math.max(0,sim-.42)*220}
+  await Promise.all(candidates.slice(0,12).map(async item=>{const sim=await bestVisualForCard(item.card,sourceSig);item.imageSimilarity=sim;if(sim!=null)item.score+=Math.max(0,sim-.42)*220}));
   candidates.sort((a,b)=>b.score-a.score);const best=candidates[0],second=candidates[1],margin=best&&second?Math.max(0,best.score-second.score):0;
   for(const item of candidates){
     let evidence=.05+ocrConfidence*.14;if(item.exactNumber)evidence+=.42;if(item.exactSetCode)evidence+=.48;evidence+=item.nameEvidence*.22;if(item.imageSimilarity!=null)evidence+=Math.max(0,item.imageSimilarity-.38)*.68;if(item===best)evidence+=Math.min(.12,margin/240);item.confidence=Math.round(100*Math.max(.04,Math.min(.99,evidence)));
