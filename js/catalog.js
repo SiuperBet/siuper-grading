@@ -40,28 +40,38 @@ function decorateYgoOcg(card,aliases){
   return Object.assign({},card,{aliases:[...new Set(names)],jpName:a.jpName||"",jpRuby:a.jpRuby||"",zhName:a.zhName||"",scName:a.scName||"",ocgCid:a.cid??null,ocgRelease:a.release||null});
 }
 let indexPromise;
+async function loadSearchIndex(){
+  const [it,en,ja,zhtw,zhcn,yugioh,ygoJp,ygoSc,ygoTc,ocg,legacy]=await Promise.all([
+    staticJson("./data/pokemon/search-index.json"),
+    staticJson("./data/pokemon-en/search-index.json"),
+    staticJson("./data/pokemon-ja/search-index.json"),
+    staticJson("./data/pokemon-zh-tw/search-index.json"),
+    staticJson("./data/pokemon-zh-cn/search-index.json"),
+    staticJson("./data/yugioh/search-index.json"),
+    staticJson("./data/yugioh-ocg-jp/search-index.json"),
+    staticJson("./data/yugioh-ocg-sc/search-index.json"),
+    staticJson("./data/yugioh-ocg-tc/search-index.json"),
+    ygoOcgData(),
+    staticJson("./data/search-index.json")
+  ]);
+  const merged=[it,en,ja,zhtw,zhcn].flatMap(x=>Array.isArray(x)?x:[]);
+  const pokemon=[...new Map(merged.map(x=>[x.printingId,x])).values()];
+  const ygoRows=[yugioh,ygoJp,ygoSc,ygoTc].flatMap(x=>Array.isArray(x)?x:[]).map(x=>decorateYgoOcg(x,ocg));
+  const rows=[...pokemon,...new Map(ygoRows.map(x=>[x.printingId,x])).values()];
+  const result=rows.length?rows:(Array.isArray(legacy)?legacy:[]);
+  // Gli indici OCG sono facoltativi; se manca uno degli indici principali (rete assente,
+  // errore HTTP, JSON non valido) o il risultato e' vuoto, non va messo in cache.
+  const failed=[it,en,ja,zhtw,zhcn,yugioh].some(x=>!Array.isArray(x))||result.length===0;
+  return{rows:result,failed};
+}
 export async function getSearchIndex(){
-  if(!indexPromise)indexPromise=(async()=>{
-    const [it,en,ja,zhtw,zhcn,yugioh,ygoJp,ygoSc,ygoTc,ocg,legacy]=await Promise.all([
-      staticJson("./data/pokemon/search-index.json"),
-      staticJson("./data/pokemon-en/search-index.json"),
-      staticJson("./data/pokemon-ja/search-index.json"),
-      staticJson("./data/pokemon-zh-tw/search-index.json"),
-      staticJson("./data/pokemon-zh-cn/search-index.json"),
-      staticJson("./data/yugioh/search-index.json"),
-      staticJson("./data/yugioh-ocg-jp/search-index.json"),
-      staticJson("./data/yugioh-ocg-sc/search-index.json"),
-      staticJson("./data/yugioh-ocg-tc/search-index.json"),
-      ygoOcgData(),
-      staticJson("./data/search-index.json")
-    ]);
-    const merged=[it,en,ja,zhtw,zhcn].flatMap(x=>Array.isArray(x)?x:[]);
-    const pokemon=[...new Map(merged.map(x=>[x.printingId,x])).values()];
-    const ygoRows=[yugioh,ygoJp,ygoSc,ygoTc].flatMap(x=>Array.isArray(x)?x:[]).map(x=>decorateYgoOcg(x,ocg));
-    const rows=[...pokemon,...new Map(ygoRows.map(x=>[x.printingId,x])).values()];
-    if(rows.length)return rows;
-    return Array.isArray(legacy)?legacy:[];
-  })();
+  if(!indexPromise){
+    const request=loadSearchIndex().then(
+      r=>{if(r.failed&&indexPromise===request)indexPromise=null;return r.rows},
+      e=>{if(indexPromise===request)indexPromise=null;throw e}
+    );
+    indexPromise=request;
+  }
   return indexPromise;
 }
 export function resetSearchIndex(){indexPromise=null}
