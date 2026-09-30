@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:30915572:GX06EN001:ygo-yu-gi-oh-gx-tag-force-3-promotional-cards-2dgwr1:ygo-super-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 23.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:67300516:GX06EN002:ygo-yu-gi-oh-gx-tag-force-3-promotional-cards-2dgwr1:ygo-super-rare",
@@ -110,10 +110,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 53.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

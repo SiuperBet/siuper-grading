@@ -28,7 +28,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74311226:OP14EN013:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -59,7 +59,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50619462:OP14EN020:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -90,7 +90,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48934760:OP14EN019:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -121,7 +121,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85431040:OP14EN015:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -152,7 +152,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53567095:OP14EN024:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -183,7 +183,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17502671:OP14EN005:ygo-ots-tournament-pack-14-3284m8:ygo-super-rare",
@@ -218,11 +218,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52404456:OP14EN004:ygo-ots-tournament-pack-14-3284m8:ygo-super-rare",
@@ -253,7 +253,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:27204311:OP14EN003:ygo-ots-tournament-pack-14-3284m8:ygo-ultimate-rare",
@@ -284,7 +284,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71278040:OP14EN007:ygo-ots-tournament-pack-14-3284m8:ygo-super-rare",
@@ -315,7 +315,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73347079:OP14EN008:ygo-ots-tournament-pack-14-3284m8:ygo-super-rare",
@@ -346,7 +346,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8559793:OP14EN023:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -377,7 +377,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:31314549:OP14EN016:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -408,7 +408,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7672244:OP14EN022:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -439,7 +439,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:63789924:OP14EN009:ygo-ots-tournament-pack-14-3284m8:ygo-super-rare",
@@ -470,7 +470,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48130397:OP14EN001:ygo-ots-tournament-pack-14-3284m8:ygo-ultimate-rare",
@@ -501,7 +501,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:59975920:OP14EN006:ygo-ots-tournament-pack-14-3284m8:ygo-super-rare",
@@ -532,7 +532,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90432163:OP14EN017:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -563,7 +563,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98827725:OP14EN025:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -594,7 +594,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3298689:OP14EN021:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -625,7 +625,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43175858:OP14EN002:ygo-ots-tournament-pack-14-3284m8:ygo-ultimate-rare",
@@ -656,7 +656,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43658697:OP14EN010:ygo-ots-tournament-pack-14-3284m8:ygo-super-rare",
@@ -687,7 +687,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25704359:OP14EN012:ygo-ots-tournament-pack-14-3284m8:ygo-super-rare",
@@ -718,7 +718,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81020646:OP14EN018:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -749,7 +749,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5763020:OP14EN014:ygo-ots-tournament-pack-14-3284m8:ygo-common",
@@ -780,6 +780,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

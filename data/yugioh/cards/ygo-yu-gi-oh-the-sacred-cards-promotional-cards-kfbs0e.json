@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 18.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74137509:TSCE002:ygo-yu-gi-oh-the-sacred-cards-promotional-cards-kfbs0e:ygo-prismatic-secret-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14315573:TSC003:ygo-yu-gi-oh-the-sacred-cards-promotional-cards-kfbs0e:ygo-prismatic-secret-rare",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48579379:TSC001:ygo-yu-gi-oh-the-sacred-cards-promotional-cards-kfbs0e:ygo-prismatic-secret-rare",
@@ -149,11 +149,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:34016756:TSC002:ygo-yu-gi-oh-the-sacred-cards-promotional-cards-kfbs0e:ygo-prismatic-secret-rare",
@@ -188,11 +188,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:126218:TSCE003:ygo-yu-gi-oh-the-sacred-cards-promotional-cards-kfbs0e:ygo-prismatic-secret-rare",
@@ -227,10 +227,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 27.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

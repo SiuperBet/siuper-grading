@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.89,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95453143:DPC5EN003:ygo-duelist-pack-collection-tin-2011-odekff:ygo-super-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:63465535:DPC5EN001:ygo-duelist-pack-collection-tin-2011-odekff:ygo-super-rare",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:22858242:DPC5EN002:ygo-duelist-pack-collection-tin-2011-odekff:ygo-super-rare",
@@ -149,10 +149,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

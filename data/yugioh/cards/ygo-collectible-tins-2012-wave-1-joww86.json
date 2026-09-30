@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:75326861:CT09EN007:ygo-collectible-tins-2012-wave-1-joww86:ygo-super-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42752141:CT09EN001:ygo-collectible-tins-2012-wave-1-joww86:ygo-secret-rare",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74294676:CT09EN011:ygo-collectible-tins-2012-wave-1-joww86:ygo-super-rare",
@@ -149,11 +149,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19182751:CT09EN005:ygo-collectible-tins-2012-wave-1-joww86:ygo-super-rare",
@@ -188,11 +188,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60645181:CT09EN002:ygo-collectible-tins-2012-wave-1-joww86:ygo-secret-rare",
@@ -227,11 +227,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76774528:CT09EN006:ygo-collectible-tins-2012-wave-1-joww86:ygo-super-rare",
@@ -266,11 +266,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42874792:CT09EN010:ygo-collectible-tins-2012-wave-1-joww86:ygo-super-rare",
@@ -305,11 +305,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78156759:CT09EN008:ygo-collectible-tins-2012-wave-1-joww86:ygo-super-rare",
@@ -344,10 +344,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

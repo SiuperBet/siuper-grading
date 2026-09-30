@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81167171:DPKENSE3:ygo-duelist-pack-special-edition-mrpb4x:ygo-secret-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54762426:DPKENSE2:ygo-duelist-pack-special-edition-mrpb4x:ygo-secret-rare",
@@ -110,10 +110,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

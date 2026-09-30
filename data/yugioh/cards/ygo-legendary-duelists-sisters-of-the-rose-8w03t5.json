@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51369889:LED4EN038:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-ultra-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71645242:LED4EN032:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -106,7 +106,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73580471:LED4EN028:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -138,7 +138,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:99092624:LED4EN027:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -173,11 +173,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98884569:LED4EN031:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -208,7 +208,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:34475451:LED4EN043:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -239,7 +239,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:77235086:LED4EN018:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -270,7 +270,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39618799:LED4EN020:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -301,7 +301,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3629090:LED4EN019:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -332,7 +332,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91668401:LED4EN012:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-super-rare",
@@ -367,11 +367,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28053106:LED4EN013:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -406,11 +406,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76103404:LED4EN017:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -441,7 +441,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90724272:LED4EN024:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -476,11 +476,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90219263:LED4EN008:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -511,7 +511,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88875132:LED4EN036:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-super-rare",
@@ -546,11 +546,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53503015:LED4EN026:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-ultra-rare",
@@ -585,11 +585,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53325667:LED4EN023:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-ultra-rare",
@@ -624,11 +624,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:65664792:LED4EN005:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -663,11 +663,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.85,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86308219:LED4EN010:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -698,7 +698,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12206212:LED4EN006:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -729,7 +729,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66386380:LED4EN002:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-super-rare",
@@ -764,11 +764,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39392286:LED4EN001:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-ultra-rare",
@@ -803,11 +803,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.89,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:75064463:LED4EN007:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -838,7 +838,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39275698:LED4EN004:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-ultra-rare",
@@ -873,11 +873,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87639778:LED4EN000:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-super-rare",
@@ -908,7 +908,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:75782277:LED4EN009:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -939,7 +939,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91946859:LED4EN015:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -974,11 +974,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48444114:LED4EN055:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1009,7 +1009,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11439455:LED4EN050:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1040,7 +1040,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51777272:LED4EN052:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1071,7 +1071,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14152693:LED4EN046:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -1106,11 +1106,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87931906:LED4EN048:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-super-rare",
@@ -1145,11 +1145,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.99,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:35618217:LED4EN051:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1180,7 +1180,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24550676:LED4EN054:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1211,7 +1211,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:97165977:LED4EN053:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1242,7 +1242,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88753594:LED4EN045:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-super-rare",
@@ -1277,11 +1277,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13935001:LED4EN049:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-super-rare",
@@ -1316,11 +1316,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50546208:LED4EN047:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -1355,11 +1355,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39996157:LED4EN021:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1390,7 +1390,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:27331568:LED4EN016:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -1425,11 +1425,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:45247637:LED4EN033:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1460,7 +1460,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:64442155:LED4EN014:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-super-rare",
@@ -1495,11 +1495,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.41,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51126152:LED4EN040:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1530,7 +1530,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:26118970:LED4EN025:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -1565,11 +1565,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.65,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95658967:LED4EN022:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1601,7 +1601,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24919805:LED4EN042:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1632,7 +1632,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24731453:LED4EN041:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1663,7 +1663,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:97520701:LED4EN044:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1694,7 +1694,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52481437:LED4EN035:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-ultra-rare",
@@ -1729,11 +1729,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56910167:LED4EN039:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-rare",
@@ -1764,7 +1764,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:26096328:LED4EN034:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-ultra-rare",
@@ -1799,11 +1799,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12181376:LED4EN011:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1834,7 +1834,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2986553:LED4EN029:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1865,7 +1865,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25274141:LED4EN037:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-ultra-rare",
@@ -1900,11 +1900,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17720747:LED4EN030:ygo-legendary-duelists-sisters-of-the-rose-8w03t5:ygo-common",
@@ -1935,6 +1935,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

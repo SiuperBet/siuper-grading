@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:6850209:DCREN030:ygo-dark-crisis-1vipqey:ygo-common",
@@ -67,7 +67,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:47372349:DCR003:ygo-dark-crisis-1vipqey:ygo-common",
@@ -102,11 +102,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:47372349:DCREN003:ygo-dark-crisis-1vipqey:ygo-common",
@@ -137,7 +137,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16135253:DCR080:ygo-dark-crisis-1vipqey:ygo-common",
@@ -172,11 +172,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16135253:DCREN080:ygo-dark-crisis-1vipqey:ygo-common",
@@ -207,7 +207,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21070956:DCR095:ygo-dark-crisis-1vipqey:ygo-common",
@@ -242,11 +242,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21070956:DCREN095:ygo-dark-crisis-1vipqey:ygo-common",
@@ -277,7 +277,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49881766:DCR057:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -312,11 +312,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49881766:DCREN057:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -347,7 +347,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:22796548:DCR092:ygo-dark-crisis-1vipqey:ygo-common",
@@ -382,11 +382,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.72,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:22796548:DCREN092:ygo-dark-crisis-1vipqey:ygo-common",
@@ -417,7 +417,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56246017:DCR099:ygo-dark-crisis-1vipqey:ygo-common",
@@ -452,11 +452,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56246017:DCREN099:ygo-dark-crisis-1vipqey:ygo-common",
@@ -487,7 +487,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55348096:DCR048:ygo-dark-crisis-1vipqey:ygo-common",
@@ -522,11 +522,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55348096:DCREN048:ygo-dark-crisis-1vipqey:ygo-common",
@@ -557,7 +557,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85489096:DCR004:ygo-dark-crisis-1vipqey:ygo-common",
@@ -592,11 +592,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85489096:DCREN004:ygo-dark-crisis-1vipqey:ygo-common",
@@ -627,7 +627,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48094997:DCR001:ygo-dark-crisis-1vipqey:ygo-common",
@@ -662,11 +662,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48094997:DCREN001:ygo-dark-crisis-1vipqey:ygo-common",
@@ -697,7 +697,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94463200:DCR097:ygo-dark-crisis-1vipqey:ygo-common",
@@ -732,11 +732,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94463200:DCREN097:ygo-dark-crisis-1vipqey:ygo-common",
@@ -767,7 +767,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85605684:DCR019:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -802,11 +802,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85605684:DCREN019:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -837,7 +837,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89041555:DCR104:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -872,11 +872,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89041555:DCREN104:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -907,7 +907,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:35215622:DCR022:ygo-dark-crisis-1vipqey:ygo-common",
@@ -942,11 +942,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:35215622:DCREN022:ygo-dark-crisis-1vipqey:ygo-common",
@@ -977,7 +977,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69243953:DCR032:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -1012,11 +1012,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69243953:DCREN032:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -1047,7 +1047,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28106077:DCR090:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1082,11 +1082,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28106077:DCREN090:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1117,7 +1117,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69313735:DCR089:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1152,11 +1152,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69313735:DCREN089:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1187,7 +1187,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:33244944:DCR031:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1222,11 +1222,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:33244944:DCREN031:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1257,7 +1257,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69035382:DCR086:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -1292,11 +1292,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69035382:DCREN086:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -1327,7 +1327,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:96420087:DCR087:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1362,11 +1362,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:96420087:DCREN087:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1397,7 +1397,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:23265313:DCR053:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -1432,11 +1432,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.89,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:23265313:DCREN053:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -1467,7 +1467,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39978267:DCR011:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -1502,11 +1502,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39978267:DCREN011:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1537,7 +1537,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39978267:DCREN011:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -1568,7 +1568,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86498013:DCR055:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1603,11 +1603,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86498013:DCREN055:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1638,7 +1638,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7572887:DCR027:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -1673,11 +1673,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7572887:DCREN027:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -1708,7 +1708,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13722870:DCR017:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -1743,11 +1743,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13722870:DCREN017:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -1778,7 +1778,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:97642679:DCR082:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -1813,11 +1813,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:97642679:DCREN082:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -1848,7 +1848,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:61587183:DCR026:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1883,11 +1883,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:61587183:DCREN026:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1918,7 +1918,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48768179:DCR060:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1953,11 +1953,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48768179:DCREN060:ygo-dark-crisis-1vipqey:ygo-common",
@@ -1988,7 +1988,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74153887:DCR061:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2023,11 +2023,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74153887:DCREN061:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2058,7 +2058,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20858318:DCR098:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -2093,11 +2093,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.73,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20858318:DCREN098:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -2128,7 +2128,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:35798491:DCR069:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -2163,11 +2163,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:35798491:DCREN069:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -2198,7 +2198,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81985784:DCR014:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -2233,11 +2233,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81985784:DCREN014:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -2268,7 +2268,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71200730:DCR023:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -2303,11 +2303,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71200730:DCREN023:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2338,7 +2338,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71200730:DCREN023:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -2369,7 +2369,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:72192100:DCR070:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2404,11 +2404,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:72192100:DCREN070:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2439,7 +2439,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83241722:DCR100:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -2474,11 +2474,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83241722:DCREN100:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2509,7 +2509,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83241722:DCREN100:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -2540,7 +2540,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50939127:DCR015:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -2575,11 +2575,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50939127:DCREN015:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -2610,7 +2610,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56460688:DCR044:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -2645,11 +2645,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56460688:DCREN044:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -2680,7 +2680,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16435215:DCR084:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2715,11 +2715,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16435215:DCREN084:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2750,7 +2750,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12600382:DCR020:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -2785,11 +2785,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 59.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12600382:DCREN020:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -2820,7 +2820,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20188127:DCR040:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2855,11 +2855,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20188127:DCREN040:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2890,7 +2890,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32919136:DCR088:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -2925,11 +2925,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32919136:DCREN088:ygo-dark-crisis-1vipqey:ygo-common",
@@ -2960,7 +2960,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32919136:DCREN088:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -2991,7 +2991,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:34193084:DCR025:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -3026,11 +3026,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:34193084:DCREN025:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -3061,7 +3061,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52503575:DCR045:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3096,11 +3096,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52503575:DCREN045:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3131,7 +3131,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95308449:DCR091:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3166,11 +3166,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95308449:DCREN091:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3201,7 +3201,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:57069605:DCR096:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3236,11 +3236,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:57069605:DCREN096:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3271,7 +3271,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49003308:DCR054:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3306,11 +3306,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49003308:DCREN054:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3341,7 +3341,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:425934:DCR065:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3376,11 +3376,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:425934:DCREN065:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3411,7 +3411,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32022366:DCR034:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3446,11 +3446,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32022366:DCREN034:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3481,7 +3481,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:47942531:DCR063:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -3516,11 +3516,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:47942531:DCREN063:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -3551,7 +3551,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73544866:DCR008:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -3586,11 +3586,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73544866:DCREN008:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -3621,7 +3621,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10755153:DCR006:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -3656,11 +3656,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.65,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10755153:DCREN006:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -3691,7 +3691,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74367458:DCR005:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3726,11 +3726,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74367458:DCREN005:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3761,7 +3761,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:47150851:DCR007:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -3796,11 +3796,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:47150851:DCREN007:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -3831,7 +3831,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9633505:DCR009:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3866,11 +3866,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9633505:DCREN009:ygo-dark-crisis-1vipqey:ygo-common",
@@ -3901,7 +3901,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46037213:DCR010:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -3936,11 +3936,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46037213:DCREN010:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -3971,7 +3971,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9817927:DCR021:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4006,11 +4006,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9817927:DCREN021:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4041,7 +4041,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:33031674:DCR085:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4076,11 +4076,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:33031674:DCREN085:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4111,7 +4111,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8581705:DCR071:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -4146,11 +4146,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8581705:DCREN071:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -4181,7 +4181,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:36261276:DCR052:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -4216,11 +4216,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:36261276:DCREN052:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -4251,7 +4251,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73431236:DCR064:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4286,11 +4286,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73431236:DCREN064:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4321,7 +4321,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55256016:DCR105:ygo-dark-crisis-1vipqey:ygo-secret-rare",
@@ -4356,11 +4356,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55256016:DCREN105:ygo-dark-crisis-1vipqey:ygo-secret-rare",
@@ -4391,7 +4391,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52824910:DCR051:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -4426,11 +4426,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52824910:DCREN051:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -4461,7 +4461,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54878498:DCR078:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4496,11 +4496,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54878498:DCREN078:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4531,7 +4531,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80441106:DCR077:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4566,11 +4566,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80441106:DCREN077:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4601,7 +4601,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60258960:DCR081:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -4636,11 +4636,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60258960:DCREN081:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -4671,7 +4671,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90790253:DCR013:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4706,11 +4706,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90790253:DCREN013:ygo-dark-crisis-1vipqey:ygo-common",
@@ -4741,7 +4741,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8794435:DCR024:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -4776,11 +4776,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8794435:DCREN024:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -4815,11 +4815,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.65,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46820049:DCR066:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -4854,11 +4854,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46820049:DCREN066:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -4889,7 +4889,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7369217:DCR074:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -4924,11 +4924,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.89,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7369217:DCREN074:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -4959,7 +4959,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49217579:DCR018:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -4994,11 +4994,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49217579:DCREN018:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -5029,7 +5029,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93671934:DCR042:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5064,11 +5064,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93671934:DCREN042:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5099,7 +5099,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:82108372:DCR076:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -5134,11 +5134,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:82108372:DCREN076:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -5169,7 +5169,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68191243:DCR093:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5204,11 +5204,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68191243:DCREN093:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5239,7 +5239,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11987744:DCR002:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5274,11 +5274,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11987744:DCREN002:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5309,7 +5309,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20065549:DCR043:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5344,11 +5344,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20065549:DCREN043:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5379,7 +5379,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12482652:DCR056:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5414,11 +5414,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12482652:DCREN056:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5449,7 +5449,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29843091:DCR047:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -5484,11 +5484,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29843091:DCREN047:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5519,7 +5519,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29843091:DCREN047:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -5550,7 +5550,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11548522:DCR062:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -5585,11 +5585,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11548522:DCREN062:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5620,7 +5620,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11548522:DCREN062:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -5655,11 +5655,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.72,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94585852:DCR094:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -5694,11 +5694,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94585852:DCREN094:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5729,7 +5729,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94585852:DCREN094:ygo-dark-crisis-1vipqey:ygo-short-print",
@@ -5760,7 +5760,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:75375465:DCR058:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5795,11 +5795,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:75375465:DCREN058:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5830,7 +5830,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68304813:DCR038:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5865,11 +5865,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68304813:DCREN038:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5900,7 +5900,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:82529174:DCR103:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5935,11 +5935,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:82529174:DCREN103:ygo-dark-crisis-1vipqey:ygo-common",
@@ -5970,7 +5970,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28121403:DCR050:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6005,11 +6005,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28121403:DCREN050:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6040,7 +6040,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2851070:DCR012:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -6075,11 +6075,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2851070:DCREN012:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -6110,7 +6110,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95515060:DCR036:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6145,11 +6145,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95515060:DCREN036:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6180,7 +6180,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94793422:DCR039:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6215,11 +6215,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94793422:DCREN039:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6250,7 +6250,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56120475:DCR102:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6285,11 +6285,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56120475:DCREN102:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6320,7 +6320,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11760174:DCR059:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6355,11 +6355,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11760174:DCREN059:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6390,7 +6390,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9603356:DCR068:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6425,11 +6425,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9603356:DCREN068:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6460,7 +6460,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86327225:DCR016:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -6495,11 +6495,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 18.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86327225:DCREN016:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -6530,7 +6530,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60365591:DCR029:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6565,11 +6565,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60365591:DCREN029:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6600,7 +6600,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95638658:DCR033:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6635,11 +6635,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95638658:DCREN033:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6670,7 +6670,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:82732705:DCR049:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -6705,11 +6705,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 18.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:82732705:DCREN049:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -6740,7 +6740,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:61370518:DCR073:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -6775,11 +6775,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:61370518:DCREN073:ygo-dark-crisis-1vipqey:ygo-ultra-rare",
@@ -6810,7 +6810,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29228529:DCR083:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6845,11 +6845,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29228529:DCREN083:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6880,7 +6880,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29735721:DCR101:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -6915,11 +6915,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29735721:DCREN101:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -6950,7 +6950,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:92854392:DCR046:ygo-dark-crisis-1vipqey:ygo-common",
@@ -6985,11 +6985,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:92854392:DCREN046:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7020,7 +7020,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:35975813:DCR072:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -7055,11 +7055,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:35975813:DCREN072:ygo-dark-crisis-1vipqey:ygo-super-rare",
@@ -7090,7 +7090,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:33977496:DCR028:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7125,11 +7125,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:33977496:DCREN028:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7160,7 +7160,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:57182235:DCR041:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7195,11 +7195,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.16,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:57182235:DCREN041:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7230,7 +7230,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:34853266:DCR075:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -7265,11 +7265,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:34853266:DCREN075:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -7300,7 +7300,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21900719:DCR037:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7335,11 +7335,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21900719:DCREN037:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7370,7 +7370,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53839837:DCR000:ygo-dark-crisis-1vipqey:ygo-secret-rare",
@@ -7405,11 +7405,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 50.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53839837:DCREN000:ygo-dark-crisis-1vipqey:ygo-secret-rare",
@@ -7440,7 +7440,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73219648:DCR067:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7475,11 +7475,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73219648:DCREN067:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7510,7 +7510,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68427465:DCR035:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -7545,11 +7545,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68427465:DCREN035:ygo-dark-crisis-1vipqey:ygo-rare",
@@ -7580,7 +7580,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16268841:DCR079:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7615,11 +7615,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16268841:DCREN079:ygo-dark-crisis-1vipqey:ygo-common",
@@ -7650,6 +7650,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

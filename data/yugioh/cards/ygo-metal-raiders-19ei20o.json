@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.85,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:23771716:MRDE098:ygo-metal-raiders-19ei20o:ygo-common",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:23771716:MRDEN098:ygo-metal-raiders-19ei20o:ygo-common",
@@ -106,7 +106,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42431843:MRD082:ygo-metal-raiders-19ei20o:ygo-common",
@@ -141,11 +141,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42431843:MRDE082:ygo-metal-raiders-19ei20o:ygo-common",
@@ -180,11 +180,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42431843:MRDEN082:ygo-metal-raiders-19ei20o:ygo-common",
@@ -215,7 +215,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93221206:MRD037:ygo-metal-raiders-19ei20o:ygo-common",
@@ -250,11 +250,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93221206:MRDE037:ygo-metal-raiders-19ei20o:ygo-common",
@@ -289,11 +289,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93221206:MRDEN037:ygo-metal-raiders-19ei20o:ygo-common",
@@ -324,7 +324,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43230671:MRD050:ygo-metal-raiders-19ei20o:ygo-common",
@@ -359,11 +359,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43230671:MRDE050:ygo-metal-raiders-19ei20o:ygo-common",
@@ -398,11 +398,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43230671:MRDEN050:ygo-metal-raiders-19ei20o:ygo-common",
@@ -433,7 +433,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15480588:MRD005:ygo-metal-raiders-19ei20o:ygo-common",
@@ -468,11 +468,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15480588:MRDE005:ygo-metal-raiders-19ei20o:ygo-common",
@@ -507,11 +507,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15480588:MRDEN005:ygo-metal-raiders-19ei20o:ygo-common",
@@ -542,7 +542,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20277860:MRD013:ygo-metal-raiders-19ei20o:ygo-common",
@@ -577,11 +577,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20277860:MRDE013:ygo-metal-raiders-19ei20o:ygo-common",
@@ -616,11 +616,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20277860:MRDEN013:ygo-metal-raiders-19ei20o:ygo-common",
@@ -651,7 +651,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88819587:MRD061:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -686,11 +686,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88819587:MRDE061:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -725,11 +725,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88819587:MRDEN061:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -760,7 +760,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81480461:MRD126:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -796,11 +796,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.69,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81480461:MRDE126:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -836,11 +836,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 16.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81480461:MRDEN126:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -872,7 +872,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:18246479:MRD064:ygo-metal-raiders-19ei20o:ygo-common",
@@ -907,11 +907,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:18246479:MRDE064:ygo-metal-raiders-19ei20o:ygo-common",
@@ -946,11 +946,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:18246479:MRDEN064:ygo-metal-raiders-19ei20o:ygo-common",
@@ -981,7 +981,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25655502:MRD093:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1016,11 +1016,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25655502:MRDE093:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1055,11 +1055,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25655502:MRDEN093:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1090,7 +1090,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16768387:MRD017:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1125,11 +1125,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16768387:MRDE017:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1164,11 +1164,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16768387:MRDEN017:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1199,7 +1199,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11901678:MRD018:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -1234,11 +1234,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 22.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11901678:MRDE018:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -1273,11 +1273,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 59.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11901678:MRDEN018:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -1308,7 +1308,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87564352:MRD062:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1343,11 +1343,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87564352:MRDE062:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1382,11 +1382,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87564352:MRDEN062:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1417,7 +1417,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28470714:MRD118:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -1452,11 +1452,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28470714:MRDE118:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -1491,11 +1491,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28470714:MRDEN118:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -1526,7 +1526,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:70138455:MRD034:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1561,11 +1561,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:70138455:MRDE034:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1600,11 +1600,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:70138455:MRDEN034:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1635,7 +1635,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25880422:MRD133:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1670,11 +1670,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25880422:MRDE133:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1709,11 +1709,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25880422:MRDEN133:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1744,7 +1744,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41396436:MRD122:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1779,11 +1779,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41396436:MRDE122:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1818,11 +1818,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41396436:MRDEN122:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1853,7 +1853,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81386177:MRD039:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1888,11 +1888,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81386177:MRDE039:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1927,11 +1927,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81386177:MRDEN039:ygo-metal-raiders-19ei20o:ygo-common",
@@ -1962,7 +1962,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11384280:MRD106:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -1997,11 +1997,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11384280:MRDE106:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -2036,11 +2036,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11384280:MRDEN106:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -2071,7 +2071,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:62121:MRD073:ygo-metal-raiders-19ei20o:ygo-common",
@@ -2106,11 +2106,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.01,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:62121:MRDE073:ygo-metal-raiders-19ei20o:ygo-common",
@@ -2145,11 +2145,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:62121:MRDEN073:ygo-metal-raiders-19ei20o:ygo-common",
@@ -2180,7 +2180,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95727991:MRD075:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -2215,11 +2215,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95727991:MRDE075:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -2254,11 +2254,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95727991:MRDEN075:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -2289,7 +2289,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4031928:MRD060:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -2324,11 +2324,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 36.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4031928:MRDE060:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -2363,11 +2363,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 51.01,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4031928:MRDEN060:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -2398,7 +2398,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40240595:MRD011:ygo-metal-raiders-19ei20o:ygo-super-short-print",
@@ -2433,11 +2433,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40240595:MRDE011:ygo-metal-raiders-19ei20o:ygo-super-short-print",
@@ -2472,11 +2472,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40240595:MRDEN011:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -2507,7 +2507,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40240595:MRDEN011:ygo-metal-raiders-19ei20o:ygo-super-short-print",
@@ -2538,7 +2538,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93889755:MRD078:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -2573,11 +2573,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93889755:MRDE078:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -2612,11 +2612,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93889755:MRDEN078:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -2647,7 +2647,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:67494157:MRD012:ygo-metal-raiders-19ei20o:ygo-common",
@@ -2682,11 +2682,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:67494157:MRDE012:ygo-metal-raiders-19ei20o:ygo-common",
@@ -2721,11 +2721,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:67494157:MRDEN012:ygo-metal-raiders-19ei20o:ygo-common",
@@ -2756,7 +2756,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89112729:MRD105:ygo-metal-raiders-19ei20o:ygo-common",
@@ -2791,11 +2791,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89112729:MRDE105:ygo-metal-raiders-19ei20o:ygo-common",
@@ -2830,11 +2830,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89112729:MRDEN105:ygo-metal-raiders-19ei20o:ygo-common",
@@ -2865,7 +2865,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21417692:MRD113:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -2900,11 +2900,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21417692:MRDE113:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -2939,11 +2939,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21417692:MRDEN113:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -2974,7 +2974,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28593363:MRD038:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3009,11 +3009,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28593363:MRDE038:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3048,11 +3048,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28593363:MRDEN038:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3083,7 +3083,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73481154:MRD040:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3118,11 +3118,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73481154:MRDE040:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3157,11 +3157,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73481154:MRDEN040:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3192,7 +3192,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76446915:MRD053:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3227,11 +3227,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.96,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76446915:MRDE053:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3266,11 +3266,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76446915:MRDEN053:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3301,7 +3301,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16972957:MRD015:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3336,11 +3336,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.69,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16972957:MRDE015:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3375,11 +3375,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16972957:MRDEN015:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3410,7 +3410,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55763552:MRD067:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3445,11 +3445,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55763552:MRDE067:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3484,11 +3484,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.79,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55763552:MRDEN067:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3519,7 +3519,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13215230:MRD080:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -3554,11 +3554,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13215230:MRDE080:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -3593,11 +3593,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13215230:MRDEN080:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -3628,7 +3628,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55875323:MRD048:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3663,11 +3663,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55875323:MRDE048:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3702,11 +3702,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55875323:MRDEN048:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3737,7 +3737,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90219263:MRD024:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -3772,11 +3772,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90219263:MRDE024:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -3811,11 +3811,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90219263:MRDEN024:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -3846,7 +3846,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15237615:MRD046:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3881,11 +3881,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15237615:MRDE046:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3920,11 +3920,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.16,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15237615:MRDEN046:ygo-metal-raiders-19ei20o:ygo-common",
@@ -3955,7 +3955,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3027001:MRD056:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -3990,11 +3990,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3027001:MRDE056:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -4029,11 +4029,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3027001:MRDEN056:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -4064,7 +4064,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41392891:MRD001:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4099,11 +4099,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41392891:MRDE001:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4138,11 +4138,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41392891:MRDEN001:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4173,7 +4173,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60862676:MRD111:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4208,11 +4208,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60862676:MRDE111:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4247,11 +4247,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60862676:MRDEN111:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4282,7 +4282,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49888191:MRD125:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -4317,11 +4317,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49888191:MRDE125:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -4356,11 +4356,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.96,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49888191:MRDEN125:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -4391,7 +4391,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25833572:MRD000:ygo-metal-raiders-19ei20o:ygo-secret-rare",
@@ -4426,11 +4426,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 82.69,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25833572:MRDE000:ygo-metal-raiders-19ei20o:ygo-secret-rare",
@@ -4465,11 +4465,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 193.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25833572:MRDEN000:ygo-metal-raiders-19ei20o:ygo-secret-rare",
@@ -4500,7 +4500,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5818798:MRD124:ygo-metal-raiders-19ei20o:ygo-super-short-print",
@@ -4535,11 +4535,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5818798:MRDE124:ygo-metal-raiders-19ei20o:ygo-super-short-print",
@@ -4574,11 +4574,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5818798:MRDEN124:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -4609,7 +4609,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5818798:MRDEN124:ygo-metal-raiders-19ei20o:ygo-super-short-print",
@@ -4644,11 +4644,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24668830:MRD136:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4683,11 +4683,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24668830:MRDE136:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4722,11 +4722,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24668830:MRDEN136:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4757,7 +4757,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8471389:MRD096:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4792,11 +4792,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8471389:MRDE096:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4827,7 +4827,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8471389:MRDEN096:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4858,7 +4858,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51828629:MRD094:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4893,11 +4893,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51828629:MRDE094:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4932,11 +4932,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51828629:MRDEN094:ygo-metal-raiders-19ei20o:ygo-common",
@@ -4967,7 +4967,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14141448:MRD070:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -5002,11 +5002,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14141448:MRDE070:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -5041,11 +5041,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14141448:MRDEN070:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -5076,7 +5076,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58314394:MRD022:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5111,11 +5111,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58314394:MRDE022:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5150,11 +5150,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58314394:MRDEN022:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5185,7 +5185,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89272878:MRD083:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5220,11 +5220,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89272878:MRDE083:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5259,11 +5259,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89272878:MRDEN083:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5294,7 +5294,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76812113:MRD008:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5329,11 +5329,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76812113:MRDE008:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5368,11 +5368,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 16.16,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76812113:MRDEN008:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5403,7 +5403,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12206212:MRD009:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -5438,11 +5438,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12206212:MRDE009:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -5477,11 +5477,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12206212:MRDEN009:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -5512,7 +5512,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19613556:MRD142:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -5547,11 +5547,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19613556:MRDE142:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -5586,11 +5586,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19613556:MRDEN142:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -5621,7 +5621,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:64501875:MRD055:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5656,11 +5656,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.99,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:64501875:MRDE055:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5695,11 +5695,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:64501875:MRDEN055:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5730,7 +5730,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98069388:MRD130:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -5765,11 +5765,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98069388:MRDE130:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -5804,11 +5804,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98069388:MRDEN130:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -5839,7 +5839,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:67629977:MRD102:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -5874,11 +5874,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:67629977:MRDE102:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -5913,11 +5913,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:67629977:MRDEN102:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -5948,7 +5948,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80141480:MRD049:ygo-metal-raiders-19ei20o:ygo-common",
@@ -5983,11 +5983,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80141480:MRDE049:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6022,11 +6022,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80141480:MRDEN049:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6057,7 +6057,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2118022:MRD054:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6092,11 +6092,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2118022:MRDE054:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6131,11 +6131,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2118022:MRDEN054:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6166,7 +6166,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28546905:MRD068:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6201,11 +6201,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28546905:MRDE068:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6240,11 +6240,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.72,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28546905:MRDEN068:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6275,7 +6275,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7019529:MRD101:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6310,11 +6310,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7019529:MRDE101:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6349,11 +6349,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7019529:MRDEN101:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6384,7 +6384,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14851496:MRD072:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6419,11 +6419,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.69,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14851496:MRDE072:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6458,11 +6458,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14851496:MRDEN072:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6493,7 +6493,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32809211:MRD035:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -6528,11 +6528,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32809211:MRDE035:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -6567,11 +6567,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32809211:MRDEN035:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -6602,7 +6602,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94773007:MRD089:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6637,11 +6637,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94773007:MRDE089:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6676,11 +6676,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.16,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94773007:MRDEN089:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6711,7 +6711,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9653271:MRD041:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6746,11 +6746,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9653271:MRDE041:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6785,11 +6785,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9653271:MRDEN041:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6820,7 +6820,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:62340868:MRD026:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -6855,11 +6855,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:62340868:MRDE026:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -6894,11 +6894,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:62340868:MRDEN026:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -6929,7 +6929,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88979991:MRD006:ygo-metal-raiders-19ei20o:ygo-common",
@@ -6964,11 +6964,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88979991:MRDE006:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7003,11 +7003,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88979991:MRDEN006:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7038,7 +7038,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69455834:MRD074:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7073,11 +7073,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69455834:MRDE074:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7112,11 +7112,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69455834:MRDEN074:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7147,7 +7147,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:1184620:MRD010:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7182,11 +7182,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:1184620:MRDE010:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7221,11 +7221,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:1184620:MRDEN010:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7256,7 +7256,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40640057:MRD071:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -7293,11 +7293,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40640057:MRDE071:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -7334,11 +7334,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 17.99,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40640057:MRDEN071:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -7371,7 +7371,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:99551425:MRD091:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7406,11 +7406,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:99551425:MRDE091:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7445,11 +7445,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.99,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:99551425:MRDEN091:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7480,7 +7480,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17358176:MRD119:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7515,11 +7515,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.79,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17358176:MRDE119:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7554,11 +7554,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17358176:MRDEN119:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7589,7 +7589,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87756343:MRD007:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7624,11 +7624,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87756343:MRDE007:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7663,11 +7663,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87756343:MRDEN007:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7698,7 +7698,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87322377:MRD095:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7734,11 +7734,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87322377:MRDE095:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7774,11 +7774,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87322377:MRDEN095:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7810,7 +7810,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20394040:MRD115:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7845,11 +7845,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.54,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20394040:MRDE115:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7884,11 +7884,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.89,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20394040:MRDEN115:ygo-metal-raiders-19ei20o:ygo-common",
@@ -7919,7 +7919,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12472242:MRD031:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -7954,11 +7954,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12472242:MRDE031:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -7993,11 +7993,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12472242:MRDEN031:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -8028,7 +8028,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10538007:MRD033:ygo-metal-raiders-19ei20o:ygo-common",
@@ -8063,11 +8063,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10538007:MRDE033:ygo-metal-raiders-19ei20o:ygo-common",
@@ -8102,11 +8102,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10538007:MRDEN033:ygo-metal-raiders-19ei20o:ygo-common",
@@ -8137,7 +8137,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68658728:MRD117:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8172,11 +8172,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68658728:MRDE117:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8211,11 +8211,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68658728:MRDEN117:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8246,7 +8246,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:77414722:MRD128:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -8281,11 +8281,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:77414722:MRDE128:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -8320,11 +8320,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 23.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:77414722:MRDEN128:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -8355,7 +8355,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:31560081:MRD036:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8390,11 +8390,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:31560081:MRDE036:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8429,11 +8429,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:31560081:MRDEN036:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8464,7 +8464,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28933734:MRD014:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8499,11 +8499,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28933734:MRDE014:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8538,11 +8538,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28933734:MRDEN014:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8573,7 +8573,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10189126:MRD019:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8608,11 +8608,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.89,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10189126:MRDE019:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8647,11 +8647,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10189126:MRDEN019:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8682,7 +8682,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21817254:MRD044:ygo-metal-raiders-19ei20o:ygo-common",
@@ -8717,11 +8717,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21817254:MRDE044:ygo-metal-raiders-19ei20o:ygo-common",
@@ -8756,11 +8756,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21817254:MRDEN044:ygo-metal-raiders-19ei20o:ygo-common",
@@ -8791,7 +8791,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7489323:MRD110:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8826,11 +8826,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7489323:MRDE110:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8865,11 +8865,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7489323:MRDEN110:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -8900,7 +8900,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:44095762:MRD138:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -8935,11 +8935,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:44095762:MRDE138:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -8974,11 +8974,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 19.79,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:44095762:MRDEN138:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -9009,7 +9009,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55784832:MRD043:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9044,11 +9044,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55784832:MRDE043:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9083,11 +9083,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55784832:MRDEN043:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9118,7 +9118,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46657337:MRD107:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -9153,11 +9153,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46657337:MRDE107:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -9192,11 +9192,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46657337:MRDEN107:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -9227,7 +9227,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93900406:MRD114:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9262,11 +9262,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93900406:MRDE114:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9301,11 +9301,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93900406:MRDEN114:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9336,7 +9336,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56907389:MRD103:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9371,11 +9371,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56907389:MRDE103:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9410,11 +9410,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56907389:MRDEN103:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9445,7 +9445,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68516705:MRD076:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9480,11 +9480,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68516705:MRDE076:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9519,11 +9519,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68516705:MRDEN076:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9554,7 +9554,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98049915:MRD028:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -9589,11 +9589,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98049915:MRDE028:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -9628,11 +9628,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98049915:MRDEN028:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -9663,7 +9663,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7805359:MRD112:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9698,11 +9698,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7805359:MRDE112:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9737,11 +9737,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.01,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7805359:MRDEN112:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9772,7 +9772,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86088138:MRD030:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9807,11 +9807,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86088138:MRDE030:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9846,11 +9846,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.85,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86088138:MRDEN030:ygo-metal-raiders-19ei20o:ygo-common",
@@ -9881,7 +9881,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58861941:MRD032:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -9916,11 +9916,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58861941:MRDE032:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -9955,11 +9955,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58861941:MRDEN032:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -9990,7 +9990,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21263083:MRD047:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10025,11 +10025,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21263083:MRDE047:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10064,11 +10064,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21263083:MRDEN047:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10099,7 +10099,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50152549:MRD137:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10134,11 +10134,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50152549:MRDE137:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10173,11 +10173,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50152549:MRDEN137:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10208,7 +10208,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58192742:MRD023:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10243,11 +10243,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58192742:MRDE023:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10282,11 +10282,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58192742:MRDEN023:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10317,7 +10317,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:549481:MRD084:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10352,11 +10352,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:549481:MRDE084:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10391,11 +10391,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.9,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:549481:MRDEN084:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10426,7 +10426,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51371017:MRD086:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -10461,11 +10461,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51371017:MRDE086:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -10500,11 +10500,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51371017:MRDEN086:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -10535,7 +10535,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10071456:MRD087:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10570,11 +10570,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10071456:MRDE087:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10609,11 +10609,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10071456:MRDEN087:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10644,7 +10644,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29155212:MRD079:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10679,11 +10679,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29155212:MRDE079:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10718,11 +10718,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29155212:MRDEN079:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10753,7 +10753,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74703140:MRD100:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10788,11 +10788,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74703140:MRDE100:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10827,11 +10827,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74703140:MRDEN100:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10862,7 +10862,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5901497:MRD051:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -10897,11 +10897,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5901497:MRDE051:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -10932,7 +10932,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5901497:MRDEN051:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -10963,7 +10963,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94905343:MRD077:ygo-metal-raiders-19ei20o:ygo-common",
@@ -10998,11 +10998,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94905343:MRDE077:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11037,11 +11037,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94905343:MRDEN077:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11072,7 +11072,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21347810:MRD042:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -11107,11 +11107,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21347810:MRDE042:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -11142,7 +11142,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21347810:MRDEN042:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -11173,7 +11173,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20436034:MRD139:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11208,11 +11208,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20436034:MRDE139:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11247,11 +11247,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20436034:MRDEN139:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11282,7 +11282,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19066538:MRD020:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11317,11 +11317,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19066538:MRDE020:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11356,11 +11356,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19066538:MRDEN020:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11391,7 +11391,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88279736:MRD135:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -11426,11 +11426,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88279736:MRDE135:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -11465,11 +11465,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88279736:MRDEN135:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -11500,7 +11500,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68846917:MRD004:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11535,11 +11535,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68846917:MRDE004:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11574,11 +11574,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68846917:MRDEN004:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11609,7 +11609,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24611934:MRD092:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11644,11 +11644,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.89,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24611934:MRDE092:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11683,11 +11683,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24611934:MRDEN092:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11718,7 +11718,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66602787:MRD066:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11753,11 +11753,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66602787:MRDE066:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11792,11 +11792,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66602787:MRDEN066:ygo-metal-raiders-19ei20o:ygo-common",
@@ -11827,7 +11827,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25955164:MRD025:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -11862,11 +11862,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25955164:MRDE025:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -11901,11 +11901,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25955164:MRDEN025:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -11936,7 +11936,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:26202165:MRD069:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -11971,11 +11971,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:26202165:MRDE069:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12010,11 +12010,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.9,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:26202165:MRDEN069:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12045,7 +12045,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3819470:MRD129:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -12080,11 +12080,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3819470:MRDE129:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -12119,11 +12119,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3819470:MRDEN129:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -12154,7 +12154,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:30778711:MRD090:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12189,11 +12189,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:30778711:MRDE090:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12228,11 +12228,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:30778711:MRDEN090:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12263,7 +12263,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56830749:MRD140:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12298,11 +12298,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56830749:MRDE140:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12337,11 +12337,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56830749:MRDEN140:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12372,7 +12372,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52097679:MRD131:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12407,11 +12407,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52097679:MRDE131:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12446,11 +12446,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52097679:MRDEN131:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12481,7 +12481,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2504891:MRD123:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12516,11 +12516,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2504891:MRDE123:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12555,11 +12555,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2504891:MRDEN123:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12590,7 +12590,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41420027:MRD127:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -12625,11 +12625,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 32.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41420027:MRDE127:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -12664,11 +12664,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 41.99,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41420027:MRDEN127:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -12699,7 +12699,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5758500:MRD058:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12734,11 +12734,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5758500:MRDE058:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12773,11 +12773,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5758500:MRDEN058:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12808,7 +12808,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8201910:MRD109:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12843,11 +12843,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8201910:MRDE109:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12882,11 +12882,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.69,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8201910:MRDEN109:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -12917,7 +12917,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13599884:MRD029:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12952,11 +12952,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13599884:MRDE029:ygo-metal-raiders-19ei20o:ygo-common",
@@ -12991,11 +12991,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13599884:MRDEN029:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13026,7 +13026,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83225447:MRD141:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -13061,11 +13061,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83225447:MRDE141:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -13100,11 +13100,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83225447:MRDEN141:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -13135,7 +13135,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98434877:MRD027:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -13170,11 +13170,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98434877:MRDE027:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -13209,11 +13209,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 23.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98434877:MRDEN027:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -13244,7 +13244,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:70781052:MRD003:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -13282,11 +13282,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 45.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:70781052:MRDE003:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -13324,11 +13324,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 86.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:70781052:MRDEN003:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -13362,7 +13362,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40453765:MRD063:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13397,11 +13397,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40453765:MRDE063:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13436,11 +13436,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40453765:MRDEN063:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13471,7 +13471,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98495314:MRD132:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13506,11 +13506,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98495314:MRDE132:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13545,11 +13545,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:98495314:MRDEN132:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13580,7 +13580,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28725004:MRD081:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13615,11 +13615,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28725004:MRDE081:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13654,11 +13654,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 0.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28725004:MRDEN081:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13689,7 +13689,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71107816:MRD108:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13724,11 +13724,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71107816:MRDE108:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13763,11 +13763,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71107816:MRDEN108:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13798,7 +13798,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41142615:MRD059:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13833,11 +13833,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41142615:MRDE059:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13872,11 +13872,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41142615:MRDEN059:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13907,7 +13907,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:84926738:MRD099:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13942,11 +13942,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:84926738:MRDE099:ygo-metal-raiders-19ei20o:ygo-common",
@@ -13981,11 +13981,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:84926738:MRDEN099:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14016,7 +14016,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25109950:MRD085:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14051,11 +14051,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25109950:MRDE085:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14090,11 +14090,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25109950:MRDEN085:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14125,7 +14125,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51275027:MRD134:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -14160,11 +14160,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.96,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51275027:MRDE134:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -14195,7 +14195,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51275027:MRDEN134:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -14226,7 +14226,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41462083:MRD143:ygo-metal-raiders-19ei20o:ygo-secret-rare",
@@ -14262,11 +14262,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41462083:MRDE143:ygo-metal-raiders-19ei20o:ygo-secret-rare",
@@ -14302,11 +14302,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 33.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41462083:MRDEN143:ygo-metal-raiders-19ei20o:ygo-secret-rare",
@@ -14338,7 +14338,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:31786629:MRD097:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -14373,11 +14373,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:31786629:MRDE097:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -14412,11 +14412,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:31786629:MRDEN097:ygo-metal-raiders-19ei20o:ygo-short-print",
@@ -14447,7 +14447,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71625222:MRD065:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -14482,11 +14482,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 30.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71625222:MRDE065:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -14521,11 +14521,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 38.16,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71625222:MRDEN065:ygo-metal-raiders-19ei20o:ygo-ultra-rare",
@@ -14556,7 +14556,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69572024:MRD045:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14591,11 +14591,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69572024:MRDE045:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14630,11 +14630,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.79,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69572024:MRDEN045:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14665,7 +14665,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46918794:MRD088:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14700,11 +14700,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46918794:MRDE088:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14739,11 +14739,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46918794:MRDEN088:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14774,7 +14774,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78780140:MRD052:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14809,11 +14809,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78780140:MRDE052:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14848,11 +14848,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78780140:MRDEN052:ygo-metal-raiders-19ei20o:ygo-common",
@@ -14883,7 +14883,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:79759861:MRD057:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -14918,11 +14918,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:79759861:MRDE057:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -14957,11 +14957,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:79759861:MRDEN057:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -14992,7 +14992,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54752875:MRD120:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -15027,11 +15027,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54752875:MRDE120:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -15066,11 +15066,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54752875:MRDEN120:ygo-metal-raiders-19ei20o:ygo-super-rare",
@@ -15101,7 +15101,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2483611:MRD021:ygo-metal-raiders-19ei20o:ygo-common",
@@ -15136,11 +15136,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.41,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2483611:MRDE021:ygo-metal-raiders-19ei20o:ygo-common",
@@ -15175,11 +15175,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2483611:MRDEN021:ygo-metal-raiders-19ei20o:ygo-common",
@@ -15210,7 +15210,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15150365:MRD016:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -15245,11 +15245,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15150365:MRDE016:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -15284,11 +15284,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15150365:MRDEN016:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -15319,7 +15319,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87796900:MRD002:ygo-metal-raiders-19ei20o:ygo-common",
@@ -15354,11 +15354,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87796900:MRDE002:ygo-metal-raiders-19ei20o:ygo-common",
@@ -15393,11 +15393,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87796900:MRDEN002:ygo-metal-raiders-19ei20o:ygo-common",
@@ -15428,7 +15428,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78010363:MRD116:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -15463,11 +15463,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78010363:MRDE116:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -15502,11 +15502,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78010363:MRDEN116:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -15537,7 +15537,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80741828:MRD121:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -15572,11 +15572,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80741828:MRDE121:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -15611,11 +15611,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.01,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80741828:MRDEN121:ygo-metal-raiders-19ei20o:ygo-rare",
@@ -15646,7 +15646,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29380133:MRD104:ygo-metal-raiders-19ei20o:ygo-common",
@@ -15681,11 +15681,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29380133:MRDE104:ygo-metal-raiders-19ei20o:ygo-common",
@@ -15720,11 +15720,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29380133:MRDEN104:ygo-metal-raiders-19ei20o:ygo-common",
@@ -15755,6 +15755,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

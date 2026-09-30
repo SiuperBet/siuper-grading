@@ -35,7 +35,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46986414:LC01EN005:ygo-legendary-collection-gm8y2e:ygo-ultra-rare",
@@ -78,11 +78,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74677422:LC01EN006:ygo-legendary-collection-gm8y2e:ygo-ultra-rare",
@@ -122,10 +122,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

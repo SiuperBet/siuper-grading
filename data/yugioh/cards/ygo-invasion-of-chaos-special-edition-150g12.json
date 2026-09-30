@@ -33,11 +33,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:102380:IOCSE4:ygo-invasion-of-chaos-special-edition-150g12:ygo-ultra-rare",
@@ -72,11 +72,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:62279055:IOCSE2:ygo-invasion-of-chaos-special-edition-150g12:ygo-ultra-rare",
@@ -111,11 +111,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83555666:IOCSE3:ygo-invasion-of-chaos-special-edition-150g12:ygo-ultra-rare",
@@ -151,10 +151,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

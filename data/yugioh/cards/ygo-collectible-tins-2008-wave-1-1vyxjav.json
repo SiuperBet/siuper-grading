@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:44508094:CT05EN001:ygo-collectible-tins-2008-wave-1-1vyxjav:ygo-secret-rare",
@@ -72,10 +72,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 22.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

@@ -33,11 +33,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:96363153:SHSPENSE2:ygo-shadow-specters-special-edition-1j0rt0n:ygo-super-rare",
@@ -72,10 +72,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

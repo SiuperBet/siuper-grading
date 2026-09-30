@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93221206:SDYE022:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48365709:SDY016:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:48365709:SDYE014:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -149,11 +149,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86325596:SDY036:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -188,11 +188,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86325596:SDYE033:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -227,11 +227,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32452818:SDY005:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -266,11 +266,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91595718:SDY021:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -305,11 +305,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91595718:SDYE019:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -344,11 +344,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:72892473:SDY042:ygo-starter-deck-yugi-3swkp1:ygo-super-rare",
@@ -383,11 +383,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:72892473:SDYE038:ygo-starter-deck-yugi-3swkp1:ygo-super-rare",
@@ -422,11 +422,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:44209392:SDY049:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -461,11 +461,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:44209392:SDYE045:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -500,11 +500,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91152256:SDY009:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -541,11 +541,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91152256:SDYE008:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -582,11 +582,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4031928:SDY032:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -621,11 +621,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4031928:SDYE030:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -660,11 +660,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41218256:SDY018:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -699,11 +699,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41218256:SDYE016:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -734,7 +734,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28279543:SDY008:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -769,11 +769,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28279543:SDYE007:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -808,11 +808,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.72,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53129443:SDY022:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -847,11 +847,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53129443:SDYE020:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -886,11 +886,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46986414:SDY006:ygo-starter-deck-yugi-3swkp1:ygo-ultra-rare",
@@ -933,11 +933,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.96,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46986414:SDYE005:ygo-starter-deck-yugi-3swkp1:ygo-ultra-rare",
@@ -980,11 +980,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 24.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19159413:SDY029:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1019,11 +1019,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19159413:SDYE027:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1058,11 +1058,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:84257640:SDY023:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1098,11 +1098,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:84257640:SDYE021:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1138,11 +1138,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16972957:SDY015:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1177,11 +1177,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16972957:SDYE013:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1216,11 +1216,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50045299:SDY044:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1255,11 +1255,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50045299:SDYE040:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1294,11 +1294,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66672569:SDY014:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1333,11 +1333,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66672569:SDYE012:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1372,11 +1372,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41392891:SDY002:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1411,11 +1411,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41392891:SDYE002:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1450,11 +1450,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66788016:SDY026:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1489,11 +1489,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66788016:SDYE024:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1528,11 +1528,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:6368038:SDY007:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1568,11 +1568,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:6368038:SDYE006:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1608,11 +1608,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13039848:SDY013:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1647,11 +1647,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13039848:SDYE011:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1686,11 +1686,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13429800:SDY011:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1725,11 +1725,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13429800:SDYE009:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1760,7 +1760,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85602018:SDY039:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1795,11 +1795,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.9,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85602018:SDYE035:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1830,7 +1830,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46474915:SDY025:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1865,11 +1865,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46474915:SDYE023:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1904,11 +1904,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.65,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40374923:SDY010:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1943,11 +1943,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54652250:SDY046:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -1982,11 +1982,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54652250:SDYE042:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2021,11 +2021,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13723605:SDY037:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2060,11 +2060,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83764719:SDY030:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2100,11 +2100,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83764719:SDYE028:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2140,11 +2140,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:47060154:SDY019:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2179,11 +2179,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.96,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:47060154:SDYE017:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2218,11 +2218,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15025844:SDY001:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2257,11 +2257,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15025844:SDYE001:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2296,11 +2296,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50930991:SDY035:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2335,11 +2335,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17814387:SDY031:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2374,11 +2374,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17814387:SDYE029:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2413,11 +2413,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51482758:SDY048:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2452,11 +2452,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51482758:SDYE044:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2491,11 +2491,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:77622396:SDY047:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2530,11 +2530,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:77622396:SDYE043:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2569,11 +2569,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90357090:SDY012:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2608,11 +2608,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90357090:SDYE010:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2647,11 +2647,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.41,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49218300:SDY038:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2686,11 +2686,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:49218300:SDYE034:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2725,11 +2725,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68005187:SDY041:ygo-starter-deck-yugi-3swkp1:ygo-super-rare",
@@ -2764,11 +2764,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68005187:SDYE037:ygo-starter-deck-yugi-3swkp1:ygo-super-rare",
@@ -2803,11 +2803,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:70781052:SDYE004:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2845,11 +2845,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:37120512:SDY020:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2884,11 +2884,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:37120512:SDYE018:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2923,11 +2923,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87557188:SDY033:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -2962,11 +2962,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87557188:SDYE031:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3001,11 +3001,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4206964:SDY027:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3040,11 +3040,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4206964:SDYE025:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3079,11 +3079,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46461247:SDY043:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3118,11 +3118,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46461247:SDYE039:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3157,11 +3157,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83887306:SDY028:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3196,11 +3196,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83887306:SDYE026:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3235,11 +3235,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80604092:SDY050:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3275,11 +3275,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80604092:SDYE046:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3315,11 +3315,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12607053:SDY040:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3354,11 +3354,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:12607053:SDYE036:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3393,11 +3393,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.96,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13945283:SDY034:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3432,11 +3432,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:13945283:SDYE032:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3471,11 +3471,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87796900:SDY003:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3510,11 +3510,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:87796900:SDYE003:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3549,11 +3549,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:36304921:SDY017:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3588,11 +3588,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:36304921:SDYE015:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3627,11 +3627,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:59197169:SDY045:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3666,11 +3666,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:59197169:SDYE041:ygo-starter-deck-yugi-3swkp1:ygo-common",
@@ -3705,10 +3705,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

@@ -28,7 +28,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17896384:SR08EN026:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -59,7 +59,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73853830:SR08EN006:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -90,7 +90,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40737112:SR08EN015:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -121,7 +121,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91336701:SR08EN040:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-ultra-rare",
@@ -156,11 +156,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2525268:SR08EN007:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -191,7 +191,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76137614:SR08EN013:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -222,7 +222,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94145021:SR08EN021:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -258,11 +258,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24721709:SR08EN041:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-super-rare",
@@ -297,11 +297,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40732515:SR08EN005:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -332,7 +332,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3611830:SR08EN001:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-ultra-rare",
@@ -367,11 +367,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:65342096:SR08EN023:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -406,11 +406,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94937430:SR08EN037:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -441,7 +441,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86937530:SR08EN016:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -472,7 +472,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:18446701:SR08EN038:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -503,7 +503,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86541496:SR08EN033:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -534,7 +534,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10239627:SR08EN012:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -565,7 +565,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91819979:SR08EN030:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -596,7 +596,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39910367:SR08EN024:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -627,7 +627,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28553439:SR08EN031:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -658,7 +658,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:6061630:SR08EN011:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -689,7 +689,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43930492:SR08EN010:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -720,7 +720,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:30608985:SR08EN019:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -751,7 +751,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:31560081:SR08EN020:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -782,7 +782,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50755:SR08EN039:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -813,7 +813,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66104644:SR08EN003:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -848,11 +848,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55424270:SR08EN008:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -883,7 +883,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54965929:SR08EN009:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -914,7 +914,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:24429467:SR08EN035:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -945,7 +945,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:34029630:SR08EN036:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -976,7 +976,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:35261759:SR08EN034:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -1007,7 +1007,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39000945:SR08EN002:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-super-rare",
@@ -1042,11 +1042,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:92559258:SR08EN004:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -1081,11 +1081,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:75014062:SR08EN025:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -1120,11 +1120,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:38943357:SR08EN022:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-super-rare",
@@ -1159,11 +1159,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14824019:SR08EN018:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -1194,7 +1194,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25123082:SR08EN028:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -1225,7 +1225,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89739383:SR08EN027:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -1256,7 +1256,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88616795:SR08EN029:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -1287,7 +1287,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:423585:SR08EN017:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -1318,7 +1318,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73628505:SR08EN032:ygo-structure-deck-order-of-the-spellcasters-1yhokaa:ygo-common",
@@ -1349,6 +1349,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

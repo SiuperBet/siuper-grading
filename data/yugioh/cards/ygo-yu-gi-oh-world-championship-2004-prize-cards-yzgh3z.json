@@ -28,7 +28,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76232340:WCSEN403:ygo-yu-gi-oh-world-championship-2004-prize-cards-yzgh3z:ygo-super-rare",
@@ -63,11 +63,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 281.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:501000000:WCSEN401:ygo-yu-gi-oh-world-championship-2004-prize-cards-yzgh3z:ygo-ultra-rare",
@@ -98,6 +98,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

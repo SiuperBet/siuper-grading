@@ -33,11 +33,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 17.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89943723:CT03EN001:ygo-collectible-tins-2006-wave-1-17ra05p:ygo-secret-rare",
@@ -73,11 +73,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 22.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69890967:CT03EN003:ygo-collectible-tins-2006-wave-1-17ra05p:ygo-secret-rare",
@@ -112,10 +112,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

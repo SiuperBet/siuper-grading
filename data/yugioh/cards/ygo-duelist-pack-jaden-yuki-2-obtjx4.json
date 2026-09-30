@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 17.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85087012:DP03EN009:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-ultra-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.85,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42682609:DP03EN008:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -106,7 +106,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14772491:DP03EN023:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -137,7 +137,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16616620:DP03EN021:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -168,7 +168,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29612557:DP03EN015:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -199,7 +199,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:213326:DP03EN017:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -230,7 +230,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:84361420:DP03EN029:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-super-rare",
@@ -265,11 +265,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55171412:DP03EN012:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-rare",
@@ -300,7 +300,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:59793705:DP03EN002:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-rare",
@@ -331,7 +331,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28677304:DP03EN014:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-super-rare",
@@ -362,7 +362,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81566151:DP03EN013:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-rare",
@@ -393,7 +393,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89943723:DP03EN001:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -429,11 +429,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55615891:DP03EN011:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -464,7 +464,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10526791:DP03EN010:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-rare",
@@ -495,7 +495,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:86188410:DP03EN003:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -526,7 +526,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78387742:DP03EN022:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -557,7 +557,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74825788:DP03EN016:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -588,7 +588,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:44676200:DP03EN027:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -619,7 +619,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:191749:DP03EN020:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -650,7 +650,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:32679370:DP03EN004:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -681,7 +681,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10759529:DP03EN030:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-super-rare",
@@ -716,11 +716,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.89,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11471117:DP03EN025:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-super-rare",
@@ -755,11 +755,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55985014:DP03EN028:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -790,7 +790,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42015635:DP03EN024:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -821,7 +821,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17955766:DP03EN005:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-rare",
@@ -852,7 +852,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43237273:DP03EN007:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-rare",
@@ -883,7 +883,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89621922:DP03EN006:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-rare",
@@ -914,7 +914,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:63703130:DP03EN019:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -945,7 +945,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:37318031:DP03EN018:ygo-duelist-pack-jaden-yuki-2-obtjx4:ygo-common",
@@ -976,6 +976,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

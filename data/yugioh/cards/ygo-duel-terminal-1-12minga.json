@@ -28,7 +28,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:26593852:DT01EN035:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -59,7 +59,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89386122:DT01EN023:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -90,7 +90,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25771826:DT01EN024:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -121,7 +121,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19204398:DT01EN090:ygo-duel-terminal-1-12minga:ygo-duel-terminal-ultra-parallel-rare",
@@ -152,7 +152,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52265835:DT01EN025:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -183,7 +183,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85876417:DT01EN078:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -214,7 +214,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:22371016:DT01EN079:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -245,7 +245,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:59482302:DT01EN077:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -276,7 +276,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15471265:DT01EN044:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -307,7 +307,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:25247218:DT01EN053:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -338,7 +338,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50323155:DT01EN100:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -369,7 +369,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:65169794:DT01EN094:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -400,7 +400,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:96565487:DT01EN011:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -431,7 +431,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60161788:DT01EN010:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -466,11 +466,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60161788:DT01EN010:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -501,7 +501,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89631139:DT01EN001:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -539,7 +539,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50321796:DT01EN031:ygo-duel-terminal-1-12minga:ygo-duel-terminal-ultra-parallel-rare",
@@ -570,7 +570,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17655904:DT01EN039:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -601,7 +601,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78193831:DT01EN006:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -633,7 +633,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53388413:DT01EN022:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -664,7 +664,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:23950192:DT01EN012:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -695,7 +695,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7093411:DT01EN058:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -726,7 +726,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:96331676:DT01EN099:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -757,7 +757,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:70095154:DT01EN009:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -789,7 +789,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2314238:DT01EN040:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -820,7 +820,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:46986414:DT01EN002:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -863,11 +863,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:97021916:DT01EN054:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -898,7 +898,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89086566:DT01EN043:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -929,7 +929,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60082869:DT01EN046:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -960,7 +960,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:89943723:DT01EN005:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -996,11 +996,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 17.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52875873:DT01EN045:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -1031,7 +1031,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:97687912:DT01EN095:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1062,7 +1062,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54326448:DT01EN071:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1093,7 +1093,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68226653:DT01EN016:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1124,7 +1124,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91711547:DT01EN072:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -1155,7 +1155,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21615956:DT01EN018:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1186,7 +1186,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95621257:DT01EN017:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1217,7 +1217,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:28332833:DT01EN070:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -1248,7 +1248,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53714009:DT01EN033:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -1279,7 +1279,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68505803:DT01EN059:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -1310,7 +1310,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:30399511:DT01EN061:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1341,7 +1341,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:67483216:DT01EN062:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1372,7 +1372,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4904812:DT01EN060:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -1403,7 +1403,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:93882364:DT01EN063:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1434,7 +1434,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:59965151:DT01EN052:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1465,7 +1465,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:7391448:DT01EN087:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -1496,7 +1496,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:97904474:DT01EN055:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1527,7 +1527,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:91932350:DT01EN057:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1558,7 +1558,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:47421985:DT01EN088:ygo-duel-terminal-1-12minga:ygo-duel-terminal-ultra-parallel-rare",
@@ -1589,7 +1589,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52684508:DT01EN041:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -1620,7 +1620,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40640057:DT01EN007:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1653,7 +1653,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:77414722:DT01EN048:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1684,7 +1684,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:99597615:DT01EN037:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1715,7 +1715,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:57882509:DT01EN047:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1746,7 +1746,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:37580756:DT01EN096:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1777,7 +1777,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:65549080:DT01EN068:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -1808,7 +1808,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95443805:DT01EN014:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -1839,7 +1839,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:22837504:DT01EN015:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1870,7 +1870,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69448290:DT01EN013:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1901,7 +1901,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29054481:DT01EN067:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1932,7 +1932,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:92933195:DT01EN069:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -1963,7 +1963,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:27315304:DT01EN032:ygo-duel-terminal-1-12minga:ygo-duel-terminal-ultra-parallel-rare",
@@ -1994,7 +1994,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5318639:DT01EN093:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2025,7 +2025,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14315573:DT01EN050:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2056,7 +2056,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:96182448:DT01EN051:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -2087,7 +2087,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:18013090:DT01EN086:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -2118,7 +2118,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17449108:DT01EN038:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2149,7 +2149,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:92065772:DT01EN066:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -2180,7 +2180,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42941100:DT01EN004:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2211,7 +2211,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:74677422:DT01EN003:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -2251,11 +2251,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 217.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:30276969:DT01EN064:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2286,7 +2286,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17814387:DT01EN049:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2317,7 +2317,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:34016756:DT01EN092:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2348,7 +2348,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:66661678:DT01EN065:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -2379,7 +2379,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58621589:DT01EN097:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2410,7 +2410,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56830749:DT01EN091:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2441,7 +2441,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68005187:DT01EN036:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2472,7 +2472,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16589042:DT01EN056:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2503,7 +2503,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:57116033:DT01EN008:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2535,7 +2535,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88650530:DT01EN026:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2566,7 +2566,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15658249:DT01EN027:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2597,7 +2597,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:51043243:DT01EN028:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2628,7 +2628,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:88438982:DT01EN029:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2659,7 +2659,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:14936691:DT01EN030:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -2690,7 +2690,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:58760121:DT01EN080:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2721,7 +2721,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:85754829:DT01EN081:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2752,7 +2752,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11159464:DT01EN082:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2783,7 +2783,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:57543573:DT01EN083:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -2814,7 +2814,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:84932271:DT01EN084:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -2849,11 +2849,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:84932271:DT01EN084:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -2884,7 +2884,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:10026986:DT01EN085:ygo-duel-terminal-1-12minga:ygo-duel-terminal-ultra-parallel-rare",
@@ -2915,7 +2915,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:52098461:DT01EN042:ygo-duel-terminal-1-12minga:ygo-duel-terminal-ultra-parallel-rare",
@@ -2946,7 +2946,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:90508760:DT01EN020:ygo-duel-terminal-1-12minga:ygo-duel-terminal-super-parallel-rare",
@@ -2977,7 +2977,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:23115241:DT01EN073:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -3008,7 +3008,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:53100061:DT01EN019:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -3039,7 +3039,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:50604950:DT01EN074:ygo-duel-terminal-1-12minga:ygo-duel-terminal-rare-parallel-rare",
@@ -3070,7 +3070,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:96099959:DT01EN075:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -3101,7 +3101,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:23093604:DT01EN076:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -3132,7 +3132,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80108118:DT01EN034:ygo-duel-terminal-1-12minga:ygo-duel-terminal-ultra-parallel-rare",
@@ -3163,7 +3163,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:26993374:DT01EN021:ygo-duel-terminal-1-12minga:ygo-duel-terminal-normal-parallel-rare",
@@ -3194,7 +3194,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83810690:DT01EN089:ygo-duel-terminal-1-12minga:ygo-duel-terminal-ultra-parallel-rare",
@@ -3225,6 +3225,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

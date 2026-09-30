@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:97127906:TAEVEN001:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -67,7 +67,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:77972406:TAEVEN070:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -102,11 +102,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5183693:TAEVEN061:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -137,7 +137,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:22377815:TAEVEN020:ygo-tactical-evolution-1fr4o91:ygo-super-rare",
@@ -168,7 +168,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:22377815:TAEVEN020:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -199,7 +199,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16984449:TAEVEN089:ygo-tactical-evolution-1fr4o91:ygo-super-rare",
@@ -234,11 +234,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16984449:TAEVEN089:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -273,11 +273,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41587307:TAEVEN062:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -308,7 +308,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17363041:TAEVEN008:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -339,7 +339,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16241441:TAEVEN010:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -370,7 +370,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42239546:TAEVEN011:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -401,7 +401,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43751755:TAEVEN007:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -432,7 +432,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29246354:TAEVEN009:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -463,7 +463,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95888876:TAEVEN019:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -494,7 +494,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95888876:TAEVEN019:ygo-tactical-evolution-1fr4o91:ygo-ultra-rare",
@@ -525,7 +525,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80368942:TAEVEN048:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -556,7 +556,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43644025:TAEVEN050:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -587,7 +587,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56641453:TAEVEN065:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -618,7 +618,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40465719:TAEVEN072:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -653,11 +653,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:82639107:TAEVEN047:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -688,7 +688,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42309337:TAEVEN080:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -723,11 +723,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:18828179:TAEVEN083:ygo-tactical-evolution-1fr4o91:ygo-secret-rare",
@@ -762,11 +762,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 23.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:15305240:TAEVEN058:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -797,7 +797,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:82099401:TAEVEN031:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -828,7 +828,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:82099401:TAEVEN031:ygo-tactical-evolution-1fr4o91:ygo-ultra-rare",
@@ -859,7 +859,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80033124:TAEVEN054:ygo-tactical-evolution-1fr4o91:ygo-secret-rare",
@@ -890,7 +890,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:44584775:TAEVEN067:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -925,11 +925,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81755371:TAEVEN038:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -960,7 +960,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:57549932:TAEVEN024:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -991,7 +991,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81977953:TAEVEN034:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -1022,7 +1022,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81977953:TAEVEN034:ygo-tactical-evolution-1fr4o91:ygo-ultra-rare",
@@ -1053,7 +1053,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:77859858:TAEVEN073:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -1088,11 +1088,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94944637:TAEVEN025:ygo-tactical-evolution-1fr4o91:ygo-super-rare",
@@ -1123,7 +1123,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:94944637:TAEVEN025:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -1154,7 +1154,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43422537:TAEVEN056:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -1185,7 +1185,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41517968:TAEVEN042:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -1216,7 +1216,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:41517968:TAEVEN042:ygo-tactical-evolution-1fr4o91:ygo-ultra-rare",
@@ -1247,7 +1247,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78512663:TAEVEN043:ygo-tactical-evolution-1fr4o91:ygo-secret-rare",
@@ -1278,7 +1278,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5128859:TAEVEN041:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -1309,7 +1309,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69884162:TAEVEN018:ygo-tactical-evolution-1fr4o91:ygo-super-rare",
@@ -1340,7 +1340,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:69884162:TAEVEN018:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -1371,7 +1371,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55428811:TAEVEN045:ygo-tactical-evolution-1fr4o91:ygo-super-rare",
@@ -1402,7 +1402,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55428811:TAEVEN045:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -1433,7 +1433,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:83812099:TAEVEN028:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -1464,7 +1464,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16437822:TAEVEN055:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -1495,7 +1495,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17706537:TAEVEN086:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -1530,11 +1530,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:55589254:TAEVEN033:ygo-tactical-evolution-1fr4o91:ygo-secret-rare",
@@ -1565,7 +1565,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19041767:TAEVEN000:ygo-tactical-evolution-1fr4o91:ygo-secret-rare",
@@ -1596,7 +1596,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39526584:TAEVEN078:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -1631,11 +1631,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:21155323:TAEVEN023:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -1666,7 +1666,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:95166228:TAEVEN022:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -1697,7 +1697,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:29216198:TAEVEN029:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -1728,7 +1728,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19024706:TAEVEN064:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -1759,7 +1759,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:96005454:TAEVEN004:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -1790,7 +1790,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:70595331:TAEVEN088:ygo-tactical-evolution-1fr4o91:ygo-secret-rare",
@@ -1825,11 +1825,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 170.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:20438745:TAEVEN026:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -1860,7 +1860,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54766667:TAEVEN037:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -1891,7 +1891,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68762510:TAEVEN021:ygo-tactical-evolution-1fr4o91:ygo-super-rare",
@@ -1922,7 +1922,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:68762510:TAEVEN021:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -1953,7 +1953,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43452193:TAEVEN063:ygo-tactical-evolution-1fr4o91:ygo-super-rare",
@@ -1984,7 +1984,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43452193:TAEVEN063:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -2015,7 +2015,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:71717923:TAEVEN085:ygo-tactical-evolution-1fr4o91:ygo-secret-rare",
@@ -2050,11 +2050,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4906301:TAEVEN012:ygo-tactical-evolution-1fr4o91:ygo-super-rare",
@@ -2085,7 +2085,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4906301:TAEVEN012:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -2116,7 +2116,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:19594506:TAEVEN032:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2147,7 +2147,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78734254:TAEVEN040:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2178,7 +2178,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81913510:TAEVEN049:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2209,7 +2209,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:45045866:TAEVEN081:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2244,11 +2244,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:40391316:TAEVEN044:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2279,7 +2279,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:42709949:TAEVEN059:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2310,7 +2310,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:56605802:TAEVEN030:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2341,7 +2341,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:43191636:TAEVEN087:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2376,11 +2376,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:79856792:TAEVEN006:ygo-tactical-evolution-1fr4o91:ygo-ghost-rare",
@@ -2411,7 +2411,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:79856792:TAEVEN006:ygo-tactical-evolution-1fr4o91:ygo-secret-rare",
@@ -2442,7 +2442,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:18372968:TAEVEN036:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2473,7 +2473,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60606759:TAEVEN003:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2504,7 +2504,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:18302224:TAEVEN046:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2535,7 +2535,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:16067089:TAEVEN069:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2570,11 +2570,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:34334692:TAEVEN035:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2605,7 +2605,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:57827484:TAEVEN027:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2636,7 +2636,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:3244563:TAEVEN074:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2671,11 +2671,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.01,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:80678380:TAEVEN068:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2710,11 +2710,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17189677:TAEVEN052:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2745,7 +2745,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81791932:TAEVEN066:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2776,7 +2776,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:76137276:TAEVEN076:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2811,11 +2811,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:30643162:TAEVEN075:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2850,11 +2850,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:79816536:TAEVEN057:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2885,7 +2885,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:78794994:TAEVEN060:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2916,7 +2916,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:5915629:TAEVEN079:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -2951,11 +2951,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:81434470:TAEVEN082:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -2990,11 +2990,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:2122975:TAEVEN077:ygo-tactical-evolution-1fr4o91:ygo-rare",
@@ -3029,11 +3029,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:8062132:TAEVEN013:ygo-tactical-evolution-1fr4o91:ygo-secret-rare",
@@ -3064,7 +3064,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:72677437:TAEVEN014:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -3095,7 +3095,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:72677437:TAEVEN014:ygo-tactical-evolution-1fr4o91:ygo-ultra-rare",
@@ -3126,7 +3126,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:9284723:TAEVEN016:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -3157,7 +3157,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:4466015:TAEVEN071:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -3192,11 +3192,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:22499463:TAEVEN005:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -3227,7 +3227,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:36278828:TAEVEN017:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -3258,7 +3258,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:60728397:TAEVEN053:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -3289,7 +3289,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:73899015:TAEVEN015:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -3320,7 +3320,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:54306223:TAEVEN051:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -3351,7 +3351,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:33112041:TAEVEN002:ygo-tactical-evolution-1fr4o91:ygo-common",
@@ -3382,7 +3382,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17259470:TAEVEN039:ygo-tactical-evolution-1fr4o91:ygo-super-rare",
@@ -3413,7 +3413,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:17259470:TAEVEN039:ygo-tactical-evolution-1fr4o91:ygo-ultimate-rare",
@@ -3444,6 +3444,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

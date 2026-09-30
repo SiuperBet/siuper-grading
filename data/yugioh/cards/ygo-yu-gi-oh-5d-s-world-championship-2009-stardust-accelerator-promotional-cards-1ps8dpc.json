@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 38.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:99177923:WC09EN001:ygo-yu-gi-oh-5d-s-world-championship-2009-stardust-accelerator-promotional-cards-1ps8dpc:ygo-ultra-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]

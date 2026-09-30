@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:99785935:DORE001:ygo-yu-gi-oh-the-duelists-of-the-roses-promotional-cards-w46kc6:ygo-prismatic-secret-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39256679:DOR002:ygo-yu-gi-oh-the-duelists-of-the-roses-promotional-cards-w46kc6:ygo-prismatic-secret-rare",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:39256679:DORE002:ygo-yu-gi-oh-the-duelists-of-the-roses-promotional-cards-w46kc6:ygo-prismatic-secret-rare",
@@ -149,11 +149,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11549357:DOR003:ygo-yu-gi-oh-the-duelists-of-the-roses-promotional-cards-w46kc6:ygo-prismatic-secret-rare",
@@ -188,11 +188,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   },
   {
     "id": "yugioh:11549357:DORE003:ygo-yu-gi-oh-the-duelists-of-the-roses-promotional-cards-w46kc6:ygo-prismatic-secret-rare",
@@ -227,10 +227,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 21.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T10:00:35.091Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T10:00:35.091Z"
   }
 ]
