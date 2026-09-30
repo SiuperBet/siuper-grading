@@ -28,7 +28,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:71867500:LC06EN004:ygo-legendary-collection-kaiba-1m9gz18:ygo-ultra-rare",
@@ -59,7 +59,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72589042:LC06EN001:ygo-legendary-collection-kaiba-1m9gz18:ygo-ultra-rare",
@@ -90,7 +90,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7852509:LC06EN005:ygo-legendary-collection-kaiba-1m9gz18:ygo-ultra-rare",
@@ -126,11 +126,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8978197:LC06EN002:ygo-legendary-collection-kaiba-1m9gz18:ygo-ultra-rare",
@@ -161,6 +161,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:20586572:WC07EN002:ygo-yu-gi-oh-world-championship-2007-promotional-cards-a7ovw6:ygo-super-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:93187568:WC07EN001:ygo-yu-gi-oh-world-championship-2007-promotional-cards-a7ovw6:ygo-super-rare",
@@ -110,10 +110,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

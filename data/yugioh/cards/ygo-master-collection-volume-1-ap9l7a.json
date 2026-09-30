@@ -33,11 +33,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.99,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:31829185:MC1EN005:ygo-master-collection-volume-1-ap9l7a:ygo-secret-rare",
@@ -72,11 +72,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53982768:MC1EN006:ygo-master-collection-volume-1-ap9l7a:ygo-secret-rare",
@@ -111,11 +111,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33396948:MC1EN001:ygo-master-collection-volume-1-ap9l7a:ygo-secret-rare",
@@ -150,11 +150,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64631466:MC1EN003:ygo-master-collection-volume-1-ap9l7a:ygo-secret-rare",
@@ -189,11 +189,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63519819:MC1EN004:ygo-master-collection-volume-1-ap9l7a:ygo-secret-rare",
@@ -228,10 +228,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

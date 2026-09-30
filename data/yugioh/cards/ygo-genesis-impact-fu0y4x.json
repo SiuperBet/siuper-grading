@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97973962:GEIMEN053:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97973962:GEIMEN053:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -106,7 +106,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34755994:GEIMEN008:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -141,11 +141,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34755994:GEIMEN008:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -176,7 +176,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63528891:GEIMEN049:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -211,11 +211,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:99011763:GEIMEN048:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -250,11 +250,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:99011763:GEIMEN048:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -285,7 +285,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96699830:GEIMEN044:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -320,11 +320,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:29401950:GEIMEN045:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -359,11 +359,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9505425:GEIMEN001:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -398,11 +398,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77235086:GEIMEN040:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -437,11 +437,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:60600126:GEIMEN042:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -476,11 +476,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:645087:GEIMEN037:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -515,11 +515,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:19943114:GEIMEN057:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -554,11 +554,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97148796:GEIMEN024:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -593,11 +593,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:57970721:GEIMEN035:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -632,11 +632,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33543890:GEIMEN025:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -671,11 +671,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22420202:GEIMEN027:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -710,11 +710,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 0.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:21576077:GEIMEN034:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -749,11 +749,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:58793369:GEIMEN031:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -788,11 +788,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:60037599:GEIMEN026:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -827,11 +827,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:69815951:GEIMEN029:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -866,11 +866,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:69815951:GEIMEN029:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -901,7 +901,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95209656:GEIMEN030:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -936,11 +936,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95209656:GEIMEN030:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -971,7 +971,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:84965420:GEIMEN036:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1006,11 +1006,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:94187078:GEIMEN033:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -1045,11 +1045,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 18.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96026108:GEIMEN028:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1084,11 +1084,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 0.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9482987:GEIMEN004:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1123,11 +1123,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50078320:GEIMEN059:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1162,11 +1162,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98360333:GEIMEN021:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1197,7 +1197,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34365442:GEIMEN022:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1232,11 +1232,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 0.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9205573:GEIMEN015:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -1271,11 +1271,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 23.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9205573:GEIMEN015:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -1306,7 +1306,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36609518:GEIMEN016:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -1337,7 +1337,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:60759087:GEIMEN023:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1372,11 +1372,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 0.9,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:62098216:GEIMEN017:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -1411,11 +1411,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:62098216:GEIMEN017:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -1446,7 +1446,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:57995165:GEIMEN043:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1481,11 +1481,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:48546368:GEIMEN046:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1520,11 +1520,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65877963:GEIMEN047:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -1559,11 +1559,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85908279:GEIMEN055:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1598,11 +1598,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:48791583:GEIMEN056:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1637,11 +1637,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65330383:GEIMEN041:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1676,11 +1676,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2857636:GEIMEN051:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -1715,11 +1715,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2857636:GEIMEN051:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1750,7 +1750,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38342335:GEIMEN050:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -1786,11 +1786,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38342335:GEIMEN050:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1822,7 +1822,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:35487920:GEIMEN019:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -1853,7 +1853,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8083925:GEIMEN018:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -1888,11 +1888,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36326160:GEIMEN013:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -1927,11 +1927,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36326160:GEIMEN013:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -1962,7 +1962,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73810864:GEIMEN014:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -1997,11 +1997,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73810864:GEIMEN014:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -2032,7 +2032,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34933456:GEIMEN011:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -2067,11 +2067,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7548747:GEIMEN010:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -2106,11 +2106,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:327051:GEIMEN012:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -2145,11 +2145,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22398665:GEIMEN032:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -2184,11 +2184,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.72,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22398665:GEIMEN032:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -2219,7 +2219,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8660395:GEIMEN007:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -2254,11 +2254,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8660395:GEIMEN007:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -2289,7 +2289,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55727845:GEIMEN052:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -2324,11 +2324,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:68819554:GEIMEN060:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -2363,11 +2363,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:31292357:GEIMEN038:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -2402,11 +2402,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72498838:GEIMEN003:ygo-genesis-impact-fu0y4x:ygo-collector-s-rare",
@@ -2441,11 +2441,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72498838:GEIMEN003:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -2476,7 +2476,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61976639:GEIMEN020:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -2511,11 +2511,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24610207:GEIMEN039:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -2550,11 +2550,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.16,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:458748:GEIMEN054:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -2589,11 +2589,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61159609:GEIMEN009:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -2628,11 +2628,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.41,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61272280:GEIMEN006:ygo-genesis-impact-fu0y4x:ygo-super-rare",
@@ -2667,11 +2667,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46647144:GEIMEN058:ygo-genesis-impact-fu0y4x:ygo-rare",
@@ -2706,11 +2706,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36099130:GEIMEN002:ygo-genesis-impact-fu0y4x:ygo-ultra-rare",
@@ -2745,10 +2745,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

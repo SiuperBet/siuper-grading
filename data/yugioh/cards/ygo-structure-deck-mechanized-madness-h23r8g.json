@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:20374520:SR10EN038:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -67,7 +67,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22666164:SR10EN013:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -98,7 +98,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8267140:SR10EN032:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -129,7 +129,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63477921:SR10EN035:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -160,7 +160,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:94693857:SR10EN021:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -191,7 +191,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75944053:SR10EN022:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -222,7 +222,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64034255:SR10EN016:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -253,7 +253,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64662453:SR10EN026:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -284,7 +284,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34559295:SR10EN027:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -315,7 +315,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63941210:SR10EN014:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -346,7 +346,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44935634:SR10EN020:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -377,7 +377,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23171610:SR10EN029:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -408,7 +408,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23469398:SR10EN002:ygo-structure-deck-mechanized-madness-h23r8g:ygo-super-rare",
@@ -443,11 +443,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:31828916:SR10EN025:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -478,7 +478,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39284521:SR10EN009:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -509,7 +509,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:87074380:SR10EN001:ygo-structure-deck-mechanized-madness-h23r8g:ygo-ultra-rare",
@@ -544,11 +544,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96384007:SR10EN012:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -579,7 +579,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:13247801:SR10EN024:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -614,11 +614,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:58054262:SR10EN007:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -649,7 +649,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:5556499:SR10EN004:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -680,7 +680,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:42940404:SR10EN005:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -711,7 +711,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50863093:SR10EN003:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -746,11 +746,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51617185:SR10EN008:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -781,7 +781,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59741415:SR10EN034:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -816,11 +816,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:78349103:SR10EN006:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -851,7 +851,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85136114:SR10EN040:ygo-structure-deck-mechanized-madness-h23r8g:ygo-ultra-rare",
@@ -886,11 +886,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:86852702:SR10EN023:ygo-structure-deck-mechanized-madness-h23r8g:ygo-super-rare",
@@ -925,11 +925,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.9,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23782705:SR10EN011:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -960,7 +960,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:60999392:SR10EN010:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -991,7 +991,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80352158:SR10EN028:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1022,7 +1022,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:67169062:SR10EN031:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1053,7 +1053,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:60071928:SR10EN019:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1084,7 +1084,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4334811:SR10EN017:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1115,7 +1115,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24731453:SR10EN015:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1146,7 +1146,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40605147:SR10EN039:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1177,7 +1177,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17626381:SR10EN033:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1208,7 +1208,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40450317:SR10EN030:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1239,7 +1239,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:79538761:SR10EN018:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1270,7 +1270,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80101899:SR10EN037:ygo-structure-deck-mechanized-madness-h23r8g:ygo-common",
@@ -1301,7 +1301,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:12524259:SR10EN041:ygo-structure-deck-mechanized-madness-h23r8g:ygo-super-rare",
@@ -1336,10 +1336,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

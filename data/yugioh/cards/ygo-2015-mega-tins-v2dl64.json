@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16195942:CT12EN002:ygo-2015-mega-tins-v2dl64:ygo-platinum-secret-rare",
@@ -72,11 +72,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17412721:CT12EN003:ygo-2015-mega-tins-v2dl64:ygo-super-rare",
@@ -111,11 +111,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33746252:CT12EN004:ygo-2015-mega-tins-v2dl64:ygo-super-rare",
@@ -150,11 +150,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.73,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16178681:CT12EN001:ygo-2015-mega-tins-v2dl64:ygo-platinum-secret-rare",
@@ -191,11 +191,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70913714:CT12EN005:ygo-2015-mega-tins-v2dl64:ygo-super-rare",
@@ -230,10 +230,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

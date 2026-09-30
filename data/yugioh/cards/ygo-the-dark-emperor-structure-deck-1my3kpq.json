@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40133511:SDDEEN008:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61127349:SDDEEN024:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:29401950:SDDEEN032:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -149,11 +149,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:87910978:SDDEEN027:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -188,11 +188,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:35011819:SDDEEN029:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -227,11 +227,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9748752:SDDEEN001:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-ultra-rare",
@@ -262,7 +262,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:47829960:SDDEEN012:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -297,11 +297,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70074904:SDDEEN017:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -336,11 +336,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8628798:SDDEEN035:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -375,11 +375,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3773196:SDDEEN011:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -414,11 +414,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:48092532:SDDEEN014:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -453,11 +453,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37043180:SDDEEN006:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -492,11 +492,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7572887:SDDEEN010:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -531,11 +531,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82112775:SDDEEN015:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -570,11 +570,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.54,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9622164:SDDEEN018:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -609,11 +609,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70231910:SDDEEN023:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -648,11 +648,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36733451:SDDEEN002:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -687,11 +687,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81674782:SDDEEN028:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -726,11 +726,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98045062:SDDEEN025:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -765,11 +765,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:74131780:SDDEEN009:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -804,11 +804,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:27408609:SDDEEN004:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -843,11 +843,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36584821:SDDEEN013:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -882,11 +882,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54493213:SDDEEN005:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -921,11 +921,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:71587526:SDDEEN034:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -960,11 +960,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:88240808:SDDEEN007:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -999,11 +999,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:69162969:SDDEEN026:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1038,11 +1038,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:30241314:SDDEEN036:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1077,11 +1077,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:5318639:SDDEEN019:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1116,11 +1116,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:71044499:SDDEEN020:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1155,11 +1155,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32807846:SDDEEN022:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1194,11 +1194,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:27174286:SDDEEN030:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1233,11 +1233,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56120475:SDDEEN033:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1272,11 +1272,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72237166:SDDEEN003:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1311,11 +1311,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:5758500:SDDEEN021:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1350,11 +1350,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53582587:SDDEEN031:ygo-the-dark-emperor-structure-deck-1my3kpq:ygo-common",
@@ -1389,10 +1389,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2023.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:60025883:YCSWEN012:ygo-yu-gi-oh-championship-series-2019-prize-card-ua07dx:ygo-ultra-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4121.96,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

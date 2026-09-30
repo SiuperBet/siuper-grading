@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85639257:LOBE021:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85639257:LOBEN027:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -106,7 +106,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53153481:LOB079:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -141,11 +141,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53153481:LOBE062:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -180,11 +180,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53153481:LOBEN079:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -215,7 +215,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9076207:LOB106:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -250,11 +250,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9076207:LOBE086:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -289,11 +289,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9076207:LOBEN106:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -324,7 +324,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17535588:LOB116:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -359,11 +359,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17535588:LOBE094:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -398,11 +398,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.79,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17535588:LOBEN116:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -433,7 +433,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:89091579:LOB008:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -468,11 +468,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:89091579:LOBE006:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -507,11 +507,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:89091579:LOBEN008:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -542,7 +542,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46009906:LOB041:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -577,11 +577,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46009906:LOBE032:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -616,11 +616,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46009906:LOBEN041:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -651,7 +651,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32452818:LOB064:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -686,11 +686,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32452818:LOBEN064:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -721,7 +721,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:89631139:LOB001:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -763,11 +763,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 62.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:89631139:LOBE001:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -809,11 +809,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 681.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:89631139:LOBEN001:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -851,7 +851,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91595718:LOB043:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -886,11 +886,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91595718:LOBE034:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -925,11 +925,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.16,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91595718:LOBEN043:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -964,11 +964,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91152256:LOB007:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -1005,11 +1005,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91152256:LOBE005:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -1046,11 +1046,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91152256:LOBEN007:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -1083,7 +1083,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37421579:LOB015:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -1118,11 +1118,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37421579:LOBE011:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -1157,11 +1157,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37421579:LOBEN015:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -1192,7 +1192,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:28279543:LOB066:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -1227,11 +1227,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:28279543:LOBE053:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -1266,11 +1266,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.69,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:28279543:LOBEN066:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -1301,7 +1301,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4614116:LOB088:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -1336,11 +1336,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4614116:LOBE068:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -1375,11 +1375,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4614116:LOBEN088:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -1414,11 +1414,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9159938:LOB011:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -1453,11 +1453,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.89,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9159938:LOBE008:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -1492,11 +1492,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9159938:LOBEN011:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -1527,7 +1527,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53129443:LOB052:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -1562,11 +1562,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53129443:LOBE041:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -1601,11 +1601,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 31.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53129443:LOBEN052:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -1636,7 +1636,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53375573:LOB020:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -1671,11 +1671,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53375573:LOBE016:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -1710,11 +1710,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53375573:LOBEN020:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -1745,7 +1745,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46986414:LOB005:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -1788,11 +1788,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 46.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46986414:LOBE003:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -1835,11 +1835,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 53.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46986414:LOBEN005:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -1878,7 +1878,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17881964:LOB019:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -1913,11 +1913,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17881964:LOBE015:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -1952,11 +1952,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 24.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17881964:LOBEN019:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -1987,7 +1987,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43500484:LOB114:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2022,11 +2022,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43500484:LOBE092:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2061,11 +2061,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43500484:LOBEN114:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2096,7 +2096,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40826495:LOB031:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2131,11 +2131,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40826495:LOBE025:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2170,11 +2170,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40826495:LOBEN031:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2205,7 +2205,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50045299:LOB045:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -2240,11 +2240,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50045299:LOBE035:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -2279,11 +2279,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50045299:LOBEN045:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -2314,7 +2314,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1435851:LOB092:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -2349,11 +2349,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1435851:LOBE072:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -2388,11 +2388,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1435851:LOBEN092:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -2423,7 +2423,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70681994:LOB086:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -2458,11 +2458,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70681994:LOBEN086:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -2493,7 +2493,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16353197:LOB115:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2528,11 +2528,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16353197:LOBE093:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2567,11 +2567,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16353197:LOBEN115:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2602,7 +2602,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37820550:LOB093:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2637,11 +2637,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37820550:LOBE073:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2676,11 +2676,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37820550:LOBEN093:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2711,7 +2711,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37820550:LOBEN093:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -2742,7 +2742,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75376965:LOB084:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2777,11 +2777,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75376965:LOBE066:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2816,11 +2816,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75376965:LOBEN084:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2851,7 +2851,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33396948:LOB124:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -2886,11 +2886,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 33.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33396948:LOBE101:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -2925,11 +2925,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 220.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33396948:LOBEN124:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -2960,7 +2960,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2863439:LOB021:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -2995,11 +2995,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.65,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2863439:LOBE017:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3034,11 +3034,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.73,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2863439:LOBEN021:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3069,7 +3069,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73134082:LOB100:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3105,11 +3105,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73134082:LOBE080:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3145,11 +3145,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73134082:LOBEN100:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3181,7 +3181,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53293545:LOB018:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3216,11 +3216,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.18,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53293545:LOBE014:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3255,11 +3255,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53293545:LOBEN018:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3290,7 +3290,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:71407486:LOB085:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3325,11 +3325,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:71407486:LOBE067:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3364,11 +3364,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:71407486:LOBEN085:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3399,7 +3399,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:66788016:LOB057:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3434,11 +3434,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:66788016:LOBE045:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3473,11 +3473,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:66788016:LOBEN057:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3508,7 +3508,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:58528964:LOB029:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3543,11 +3543,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:58528964:LOBE023:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3582,11 +3582,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:58528964:LOBEN029:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3617,7 +3617,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34460851:LOB016:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3652,11 +3652,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34460851:LOBE012:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3691,11 +3691,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34460851:LOBEN016:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -3726,7 +3726,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45231177:LOB003:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -3762,11 +3762,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45231177:LOBEN003:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -3798,7 +3798,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95952802:LOB107:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3833,11 +3833,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95952802:LOBE087:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3872,11 +3872,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95952802:LOBEN107:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -3907,7 +3907,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98252586:LOB098:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -3942,11 +3942,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98252586:LOBE078:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -3981,11 +3981,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98252586:LOBEN098:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -4020,11 +4020,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 251.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98252586:LOBEN098:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-short-print",
@@ -4055,7 +4055,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:87430998:LOB046:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -4090,11 +4090,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:87430998:LOBE036:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -4129,11 +4129,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:87430998:LOBEN046:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -4164,7 +4164,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98818516:LOB081:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -4199,11 +4199,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98818516:LOBEN081:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -4234,7 +4234,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1641882:LOB022:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4269,11 +4269,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.9,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1641882:LOBEN022:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4304,7 +4304,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:66889139:LOB125:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-secret-rare",
@@ -4339,11 +4339,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:66889139:LOBE102:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-secret-rare",
@@ -4378,11 +4378,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 51.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:66889139:LOBEN125:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-secret-rare",
@@ -4413,7 +4413,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:6368038:LOB006:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -4449,11 +4449,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 25.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:6368038:LOBE004:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -4489,11 +4489,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 266.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:6368038:LOBEN006:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -4525,7 +4525,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:13039848:LOB068:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4560,11 +4560,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:13039848:LOBE054:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4599,11 +4599,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:13039848:LOBEN068:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4634,7 +4634,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:11868825:LOB099:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4669,11 +4669,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:11868825:LOBE079:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4708,11 +4708,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:11868825:LOBEN099:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4743,7 +4743,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82542267:LOB065:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4778,11 +4778,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82542267:LOBE052:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4817,11 +4817,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82542267:LOBEN065:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4852,7 +4852,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22910685:LOB034:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -4887,11 +4887,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22910685:LOBE028:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -4926,11 +4926,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22910685:LOBEN034:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -4961,7 +4961,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7089711:LOB110:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -4996,11 +4996,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7089711:LOBEN110:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -5031,7 +5031,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:20060230:LOB074:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5066,11 +5066,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:20060230:LOBE059:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5105,11 +5105,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:20060230:LOBEN074:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5140,7 +5140,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46130346:LOB056:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5175,11 +5175,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46130346:LOBEN056:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5210,7 +5210,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96851799:LOB026:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5245,11 +5245,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96851799:LOBE020:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5284,11 +5284,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96851799:LOBEN026:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5319,7 +5319,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76184692:LOB002:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5354,11 +5354,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76184692:LOBEN002:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5389,7 +5389,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15401633:LOB028:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5424,11 +5424,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15401633:LOBE022:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5463,11 +5463,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15401633:LOBEN028:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5498,7 +5498,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54541900:LOB067:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -5533,11 +5533,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54541900:LOBEN067:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -5568,7 +5568,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:84686841:LOB036:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5603,11 +5603,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:84686841:LOBE030:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5642,11 +5642,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:84686841:LOBEN036:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5677,7 +5677,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56283725:LOB082:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5712,11 +5712,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56283725:LOBE064:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5751,11 +5751,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56283725:LOBEN082:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5786,7 +5786,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85705804:LOB039:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5821,11 +5821,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85705804:LOBEN039:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5856,7 +5856,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:94675535:LOB073:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5891,11 +5891,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:94675535:LOBEN073:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -5926,7 +5926,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77007920:LOB089:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -5961,11 +5961,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77007920:LOBE069:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -6000,11 +6000,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77007920:LOBEN089:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -6035,7 +6035,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7902349:LOB123:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -6070,11 +6070,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 35.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7902349:LOBE100:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -6109,11 +6109,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 45.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7902349:LOBEN123:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -6144,7 +6144,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44519536:LOB121:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -6179,11 +6179,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 20.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44519536:LOBE098:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -6218,11 +6218,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 58.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44519536:LOBEN121:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -6253,7 +6253,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61854111:LOB040:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -6288,11 +6288,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61854111:LOBE031:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -6327,11 +6327,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61854111:LOBEN040:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -6362,7 +6362,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55444629:LOB113:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6397,11 +6397,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55444629:LOBE091:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6436,11 +6436,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55444629:LOBEN113:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6471,7 +6471,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56342351:LOB076:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6506,11 +6506,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56342351:LOBEN076:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6541,7 +6541,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:92731455:LOB077:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6576,11 +6576,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:92731455:LOBEN077:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6611,7 +6611,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:25769732:LOB096:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -6646,11 +6646,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:25769732:LOBE076:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -6685,11 +6685,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 21.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:25769732:LOBEN096:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -6724,11 +6724,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40374923:LOB009:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6763,11 +6763,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40374923:LOBEN009:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6798,7 +6798,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:93553943:LOB075:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6833,11 +6833,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:93553943:LOBE060:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6872,11 +6872,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:93553943:LOBEN075:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -6907,7 +6907,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54652250:LOB108:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -6942,11 +6942,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54652250:LOBE088:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -6981,11 +6981,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 32.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54652250:LOBEN108:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -7016,7 +7016,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44287299:LOB038:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7051,11 +7051,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44287299:LOBEN038:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7086,7 +7086,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76211194:LOB083:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7121,11 +7121,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.65,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76211194:LOBE065:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7160,11 +7160,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76211194:LOBEN083:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7195,7 +7195,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9293977:LOB102:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -7230,11 +7230,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9293977:LOBE082:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -7269,11 +7269,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9293977:LOBEN102:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -7304,7 +7304,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33178416:LOB111:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7339,11 +7339,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33178416:LOBE089:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7378,11 +7378,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33178416:LOBEN111:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7413,7 +7413,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36121917:LOB017:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7448,11 +7448,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36121917:LOBE013:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7487,11 +7487,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36121917:LOBEN017:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7522,7 +7522,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83764719:LOB118:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -7558,11 +7558,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 27.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83764719:LOBE096:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -7598,11 +7598,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 27.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83764719:LOBEN118:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -7634,7 +7634,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50913601:LOB048:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7669,11 +7669,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50913601:LOBEN048:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7704,7 +7704,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15025844:LOB062:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -7739,11 +7739,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15025844:LOBE050:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -7778,11 +7778,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15025844:LOBEN062:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -7813,7 +7813,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36607978:LOB094:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -7848,11 +7848,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36607978:LOBE074:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -7887,11 +7887,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36607978:LOBEN094:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -7926,11 +7926,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83464209:LOB037:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -7965,11 +7965,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.73,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83464209:LOBEN037:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8000,7 +8000,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90963488:LOB013:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8035,11 +8035,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90963488:LOBE009:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8074,11 +8074,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90963488:LOBEN013:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8109,7 +8109,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33064647:LOB087:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8144,11 +8144,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33064647:LOBEN087:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8179,7 +8179,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38142739:LOB025:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8214,11 +8214,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.54,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38142739:LOBEN025:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8249,7 +8249,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75356564:LOB024:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8284,11 +8284,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75356564:LOBE019:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8323,11 +8323,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75356564:LOBEN024:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8358,7 +8358,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24094653:LOB059:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -8394,11 +8394,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24094653:LOBE047:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -8434,11 +8434,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 24.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24094653:LOBEN059:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -8470,7 +8470,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55144522:LOB119:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -8505,11 +8505,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55144522:LOBEN119:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -8540,7 +8540,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77027445:LOB044:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -8575,11 +8575,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77027445:LOBEN044:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -8610,7 +8610,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:12580477:LOB053:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -8645,11 +8645,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 26.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:12580477:LOBE042:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -8684,11 +8684,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 23.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:12580477:LOBEN053:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -8719,7 +8719,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51267887:LOB097:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -8754,11 +8754,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51267887:LOBE077:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -8793,11 +8793,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51267887:LOBEN097:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -8828,7 +8828,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51267887:LOBEN097:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-short-print",
@@ -8859,7 +8859,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85309439:LOB035:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8894,11 +8894,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85309439:LOBE029:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8933,11 +8933,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85309439:LOBEN035:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -8968,7 +8968,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33066139:LOB071:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -9003,11 +9003,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33066139:LOBE057:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -9042,11 +9042,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33066139:LOBEN071:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -9077,7 +9077,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38199696:LOB054:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9112,11 +9112,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38199696:LOBE043:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9151,11 +9151,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38199696:LOBEN054:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9186,7 +9186,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:74677422:LOB070:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -9226,11 +9226,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 39.69,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:74677422:LOBE056:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -9270,11 +9270,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 920.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:74677422:LOBEN070:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -9310,7 +9310,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51482758:LOB060:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9345,11 +9345,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51482758:LOBE048:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9384,11 +9384,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51482758:LOBEN060:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9419,7 +9419,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70903634:LOB122:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -9454,11 +9454,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 20.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70903634:LOBE099:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -9493,11 +9493,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 366.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70903634:LOBEN122:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -9528,7 +9528,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8124921:LOB120:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -9563,11 +9563,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 36.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8124921:LOBE097:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -9602,11 +9602,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 154.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8124921:LOBEN120:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-ultra-rare",
@@ -9637,7 +9637,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39004808:LOB032:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9672,11 +9672,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39004808:LOBE026:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9711,11 +9711,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39004808:LOBEN032:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9746,7 +9746,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73051941:LOB109:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9781,11 +9781,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73051941:LOBEN109:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9816,7 +9816,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1557499:LOB091:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -9851,11 +9851,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1557499:LOBE071:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -9890,11 +9890,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.72,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1557499:LOBEN091:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -9925,7 +9925,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90357090:LOB010:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9960,11 +9960,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90357090:LOBE007:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -9999,11 +9999,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90357090:LOBEN010:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10034,7 +10034,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:10202894:LOB105:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10069,11 +10069,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.85,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:10202894:LOBE085:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10108,11 +10108,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:10202894:LOBEN105:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10143,7 +10143,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32274490:LOB004:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10178,11 +10178,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32274490:LOBE002:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10217,11 +10217,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32274490:LOBEN004:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10252,7 +10252,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:86318356:LOB049:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10287,11 +10287,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:86318356:LOBE038:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10326,11 +10326,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.73,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:86318356:LOBEN049:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10361,7 +10361,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76103675:LOB055:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10396,11 +10396,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76103675:LOBE044:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10435,11 +10435,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76103675:LOBEN055:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10470,7 +10470,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85326399:LOB103:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10505,11 +10505,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85326399:LOBE083:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10544,11 +10544,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85326399:LOBEN103:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10579,7 +10579,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80770678:LOB078:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -10614,11 +10614,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80770678:LOBE061:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -10653,11 +10653,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80770678:LOBEN078:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -10688,7 +10688,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:29172562:LOB112:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10723,11 +10723,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:29172562:LOBE090:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10762,11 +10762,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:29172562:LOBEN112:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10797,7 +10797,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63102017:LOB095:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -10832,11 +10832,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63102017:LOBE075:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -10871,11 +10871,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63102017:LOBEN095:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -10906,7 +10906,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55291359:LOB117:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10941,11 +10941,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55291359:LOBE095:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -10980,11 +10980,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55291359:LOBEN117:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11015,7 +11015,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72302403:LOB101:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -11050,11 +11050,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72302403:LOBE081:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -11089,11 +11089,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 14.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72302403:LOBEN101:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -11124,7 +11124,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63308047:LOB080:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11159,11 +11159,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63308047:LOBE063:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11198,11 +11198,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63308047:LOBEN080:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11233,7 +11233,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32864:LOB014:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11268,11 +11268,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32864:LOBE010:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11307,11 +11307,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32864:LOBEN014:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11342,7 +11342,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18710707:LOB033:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11377,11 +11377,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18710707:LOBE027:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11416,11 +11416,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18710707:LOBEN033:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11451,7 +11451,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4206964:LOB058:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -11486,11 +11486,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4206964:LOBE046:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -11525,11 +11525,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4206964:LOBEN058:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-super-rare",
@@ -11560,7 +11560,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39111158:LOB000:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-secret-rare",
@@ -11595,11 +11595,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 54.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39111158:LOBE000:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-secret-rare",
@@ -11634,11 +11634,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 93.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39111158:LOBEN000:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-secret-rare",
@@ -11669,7 +11669,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77827521:LOB012:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11704,11 +11704,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77827521:LOBEN012:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11739,7 +11739,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45042329:LOB104:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11774,11 +11774,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45042329:LOBE084:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11813,11 +11813,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45042329:LOBEN104:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11848,7 +11848,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37313348:LOB023:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11883,11 +11883,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37313348:LOBE018:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11922,11 +11922,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37313348:LOBEN023:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11957,7 +11957,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:57305373:LOB030:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -11992,11 +11992,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:57305373:LOBE024:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12031,11 +12031,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:57305373:LOBEN030:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12066,7 +12066,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83887306:LOB061:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -12101,11 +12101,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83887306:LOBE049:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -12140,11 +12140,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.01,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83887306:LOBEN061:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-rare",
@@ -12175,7 +12175,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72842870:LOB063:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12210,11 +12210,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72842870:LOBE051:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12249,11 +12249,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72842870:LOBEN063:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12284,7 +12284,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22702055:LOB050:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12319,11 +12319,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22702055:LOBE039:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12358,11 +12358,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22702055:LOBEN050:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12393,7 +12393,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1784619:LOB069:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12428,11 +12428,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1784619:LOBE055:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12467,11 +12467,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1784619:LOBEN069:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12502,7 +12502,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39774685:LOB090:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -12537,11 +12537,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39774685:LOBE070:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -12576,11 +12576,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39774685:LOBEN090:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -12615,11 +12615,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15052462:LOB042:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -12654,11 +12654,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15052462:LOBE033:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -12693,11 +12693,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15052462:LOBEN042:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-short-print",
@@ -12732,11 +12732,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 56.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23424603:LOB047:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12771,11 +12771,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23424603:LOBE037:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12810,11 +12810,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23424603:LOBEN047:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12845,7 +12845,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36304921:LOB072:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12880,11 +12880,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36304921:LOBE058:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12919,11 +12919,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36304921:LOBEN072:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12954,7 +12954,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59197169:LOB051:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -12989,11 +12989,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59197169:LOBE040:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -13028,11 +13028,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59197169:LOBEN051:ygo-legend-of-blue-eyes-white-dragon-1j8bt4d:ygo-common",
@@ -13063,6 +13063,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]
