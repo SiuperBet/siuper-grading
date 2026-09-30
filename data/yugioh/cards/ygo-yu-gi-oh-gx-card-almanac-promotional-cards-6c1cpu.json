@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1699,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33695750:YDB1EN003:ygo-yu-gi-oh-gx-card-almanac-promotional-cards-6c1cpu:ygo-super-rare",
@@ -67,7 +67,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7200041:YDB1EN002:ygo-yu-gi-oh-gx-card-almanac-promotional-cards-6c1cpu:ygo-super-rare",
@@ -98,6 +98,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

@@ -1,6 +1,15 @@
 let currentPromise;
 async function loadCurrent(){
-  if(!currentPromise)currentPromise=fetch("./data/prices/current.json",{cache:"no-cache"}).then(r=>r.ok?r.json():[]).catch(()=>[]);
+  if(!currentPromise){
+    const request=fetch("./data/prices/current.json",{cache:"no-cache"})
+      .then(r=>{if(!r.ok)throw new Error("Prezzi non disponibili ("+r.status+")");return r.json()})
+      .catch(()=>{
+        // Non memorizzare i fallimenti: la chiamata successiva deve riprovare.
+        if(currentPromise===request)currentPromise=null;
+        return [];
+      });
+    currentPromise=request;
+  }
   return currentPromise;
 }
 function validNumber(v){const n=Number(v);return Number.isFinite(n)&&n>0?n:null}

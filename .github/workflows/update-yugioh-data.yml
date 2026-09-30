@@ -37,7 +37,7 @@ jobs:
         shell: bash
         run: |
           git restore --worktree data/validation-report.json 2>/dev/null || true
-          if git diff --quiet; then
+          if [ -z "$(git status --porcelain -- data/yugioh assets/yugioh)" ]; then
             echo "No changes"
             exit 0
           fi

@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40916023:SDFCEN021:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:60161788:SDFCEN006:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50321796:SDFCEN043:ygo-structure-deck-freezing-chains-jgjnw1:ygo-super-rare",
@@ -145,7 +145,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36975314:SDFCEN040:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -180,11 +180,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23950192:SDFCEN007:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -219,11 +219,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:41090784:SDFCEN014:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -258,11 +258,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59546528:SDFCEN013:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -297,11 +297,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82498947:SDFCEN009:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -336,11 +336,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70583986:SDFCEN042:ygo-structure-deck-freezing-chains-jgjnw1:ygo-ultra-rare",
@@ -375,11 +375,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46239604:SDFCEN022:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -414,11 +414,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54059040:SDFCEN037:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -453,11 +453,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50078509:SDFCEN036:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -492,11 +492,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:66853752:SDFCEN024:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -531,11 +531,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43582229:SDFCEN028:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -570,11 +570,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53921056:SDFCEN017:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -609,11 +609,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9056100:SDFCEN018:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -648,11 +648,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81275309:SDFCEN015:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -687,11 +687,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81825063:SDFCEN001:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -726,11 +726,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:68505803:SDFCEN019:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -765,11 +765,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4904812:SDFCEN020:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -804,11 +804,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65749035:SDFCEN044:ygo-structure-deck-freezing-chains-jgjnw1:ygo-super-rare",
@@ -839,7 +839,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23924608:SDFCEN039:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -874,11 +874,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70703416:SDFCEN004:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -913,11 +913,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64990807:SDFCEN029:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -952,11 +952,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:84206435:SDFCEN030:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -991,11 +991,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:88494899:SDFCEN016:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1030,11 +1030,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:68937720:SDFCEN038:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1069,11 +1069,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:10691144:SDFCEN031:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1108,11 +1108,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:13959634:SDFCEN025:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1147,11 +1147,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50088247:SDFCEN008:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1186,11 +1186,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18319762:SDFCEN002:ygo-structure-deck-freezing-chains-jgjnw1:ygo-ultra-rare",
@@ -1225,11 +1225,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1357146:SDFCEN023:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1264,11 +1264,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96947648:SDFCEN032:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1303,11 +1303,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90303176:SDFCEN026:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1342,11 +1342,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44308317:SDFCEN003:ygo-structure-deck-freezing-chains-jgjnw1:ygo-ultra-rare",
@@ -1381,11 +1381,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73061465:SDFCEN011:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1420,11 +1420,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50032342:SDFCEN012:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1459,11 +1459,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33057951:SDFCEN033:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1498,11 +1498,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:6075533:SDFCEN046:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1537,11 +1537,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 0.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:52687916:SDFCEN045:ygo-structure-deck-freezing-chains-jgjnw1:ygo-super-rare",
@@ -1572,7 +1572,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70980824:SDFCEN041:ygo-structure-deck-freezing-chains-jgjnw1:ygo-ultra-rare",
@@ -1607,11 +1607,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.9,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18482591:SDFCEN010:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1646,11 +1646,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 0.99,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51405049:SDFCEN034:ygo-structure-deck-freezing-chains-jgjnw1:ygo-common",
@@ -1685,11 +1685,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17197110:SDFCEN027:ygo-structure-deck-freezing-chains-jgjnw1:ygo-ultra-rare",
@@ -1724,11 +1724,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43256007:SDFCEN005:ygo-structure-deck-freezing-chains-jgjnw1:ygo-ultra-rare",
@@ -1763,10 +1763,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

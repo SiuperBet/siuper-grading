@@ -28,7 +28,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:300302001:SBTKENSP6:ygo-speed-duel-trials-of-the-kingdom-sneak-peek-participation-cards-avu7hd:ygo-common",
@@ -59,7 +59,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90876561:SBTKENSP2:ygo-speed-duel-trials-of-the-kingdom-sneak-peek-participation-cards-avu7hd:ygo-common",
@@ -90,7 +90,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:300302003:SBTKENSP8:ygo-speed-duel-trials-of-the-kingdom-sneak-peek-participation-cards-avu7hd:ygo-common",
@@ -121,7 +121,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17814387:SBTKENSP5:ygo-speed-duel-trials-of-the-kingdom-sneak-peek-participation-cards-avu7hd:ygo-common",
@@ -156,11 +156,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34016756:SBTKENSP4:ygo-speed-duel-trials-of-the-kingdom-sneak-peek-participation-cards-avu7hd:ygo-common",
@@ -195,11 +195,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:300302002:SBTKENSP7:ygo-speed-duel-trials-of-the-kingdom-sneak-peek-participation-cards-avu7hd:ygo-common",
@@ -230,7 +230,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33245030:SBTKENSP3:ygo-speed-duel-trials-of-the-kingdom-sneak-peek-participation-cards-avu7hd:ygo-common",
@@ -265,11 +265,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:300104002:SBTKENSP0:ygo-speed-duel-trials-of-the-kingdom-sneak-peek-participation-cards-avu7hd:ygo-ultra-rare",
@@ -304,11 +304,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:94119974:SBTKENSP1:ygo-speed-duel-trials-of-the-kingdom-sneak-peek-participation-cards-avu7hd:ygo-common",
@@ -343,10 +343,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

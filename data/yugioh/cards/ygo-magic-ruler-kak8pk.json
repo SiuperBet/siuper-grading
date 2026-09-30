@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95174353:MRLE010:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:14015067:MRL018:ygo-magic-ruler-kak8pk:ygo-common",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:14015067:MRLE018:ygo-magic-ruler-kak8pk:ygo-common",
@@ -149,11 +149,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40619825:MRL002:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -188,11 +188,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40619825:MRLE002:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -227,11 +227,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 34.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61528025:MRL078:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -266,11 +266,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61528025:MRLE078:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -305,11 +305,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32452818:MRLE103:ygo-magic-ruler-kak8pk:ygo-common",
@@ -344,11 +344,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:41426869:MRL051:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -383,11 +383,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:41426869:MRLE051:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -422,11 +422,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65169794:MRL003:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -461,11 +461,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65169794:MRLE003:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -500,11 +500,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.28,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53183600:MRL000:ygo-magic-ruler-kak8pk:ygo-secret-rare",
@@ -539,11 +539,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 204.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:53183600:MRLE000:ygo-magic-ruler-kak8pk:ygo-secret-rare",
@@ -578,11 +578,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 377.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:21340051:MRL089:ygo-magic-ruler-kak8pk:ygo-common",
@@ -617,11 +617,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:21340051:MRLE089:ygo-magic-ruler-kak8pk:ygo-common",
@@ -656,11 +656,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:20228463:MRL092:ygo-magic-ruler-kak8pk:ygo-common",
@@ -695,11 +695,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.41,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:20228463:MRLE092:ygo-magic-ruler-kak8pk:ygo-common",
@@ -734,11 +734,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.67,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:79323590:MRL046:ygo-magic-ruler-kak8pk:ygo-common",
@@ -773,11 +773,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.98,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:79323590:MRLE046:ygo-magic-ruler-kak8pk:ygo-common",
@@ -812,11 +812,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.41,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81380218:MRL037:ygo-magic-ruler-kak8pk:ygo-common",
@@ -851,11 +851,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81380218:MRLE037:ygo-magic-ruler-kak8pk:ygo-common",
@@ -890,11 +890,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 23.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43417563:MRL062:ygo-magic-ruler-kak8pk:ygo-common",
@@ -929,11 +929,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43417563:MRLE062:ygo-magic-ruler-kak8pk:ygo-common",
@@ -968,11 +968,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17375316:MRL038:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -1007,11 +1007,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17375316:MRLE038:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -1046,11 +1046,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91782219:MRL069:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1085,11 +1085,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91782219:MRLE069:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1124,11 +1124,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.99,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:12470447:MRL032:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -1163,11 +1163,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:12470447:MRLE032:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -1202,11 +1202,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34124316:MRL077:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -1241,11 +1241,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34124316:MRLE077:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -1280,11 +1280,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:35565537:MRL019:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1319,11 +1319,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:35565537:MRLE019:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1354,7 +1354,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59784896:MRL084:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1389,11 +1389,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59784896:MRLE084:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1428,11 +1428,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80168720:MRL040:ygo-magic-ruler-kak8pk:ygo-super-short-print",
@@ -1467,11 +1467,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80168720:MRLE040:ygo-magic-ruler-kak8pk:ygo-super-short-print",
@@ -1506,11 +1506,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44763025:MRL039:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -1545,11 +1545,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 35.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44763025:MRLE039:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -1584,11 +1584,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 28.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70681994:MRLE126:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -1623,11 +1623,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:42578427:MRL065:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1662,11 +1662,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.46,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:42578427:MRLE065:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1701,11 +1701,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:11324436:MRL008:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1740,11 +1740,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:11324436:MRLE008:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1779,11 +1779,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95051344:MRL060:ygo-magic-ruler-kak8pk:ygo-super-short-print",
@@ -1818,11 +1818,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95051344:MRLE060:ygo-magic-ruler-kak8pk:ygo-super-short-print",
@@ -1857,11 +1857,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17653779:MRL041:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -1896,11 +1896,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17653779:MRLE041:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -1935,11 +1935,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.32,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18591904:MRL035:ygo-magic-ruler-kak8pk:ygo-common",
@@ -1974,11 +1974,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18591904:MRLE035:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2013,11 +2013,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.9,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46534755:MRL014:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2052,11 +2052,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46534755:MRLE014:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2091,11 +2091,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45231177:MRLE111:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2131,11 +2131,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 44.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96890582:MRL082:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2170,11 +2170,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96890582:MRLE082:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2209,11 +2209,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.9,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:84834865:MRL091:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -2248,11 +2248,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:84834865:MRLE091:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -2287,11 +2287,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98818516:MRLE125:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2326,11 +2326,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1641882:MRLE113:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2365,11 +2365,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.75,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56594520:MRL096:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -2404,11 +2404,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56594520:MRLE096:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -2439,7 +2439,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95178994:MRL085:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -2474,11 +2474,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95178994:MRLE085:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -2513,11 +2513,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97017120:MRL079:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -2552,11 +2552,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97017120:MRLE079:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -2591,11 +2591,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:42703248:MRL048:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -2630,11 +2630,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:42703248:MRLE048:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -2669,11 +2669,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 37.99,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96981563:MRL022:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2708,11 +2708,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96981563:MRLE022:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2747,11 +2747,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16762927:MRL031:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -2786,11 +2786,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16762927:MRLE031:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -2825,11 +2825,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95744531:MRL016:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2864,11 +2864,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95744531:MRLE016:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2903,11 +2903,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:47879985:MRL013:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2942,11 +2942,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:47879985:MRLE013:ygo-magic-ruler-kak8pk:ygo-common",
@@ -2981,11 +2981,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80811661:MRL063:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3020,11 +3020,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80811661:MRLE063:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3059,11 +3059,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 16.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7089711:MRLE110:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3098,11 +3098,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.79,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54579801:MRL025:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3137,11 +3137,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54579801:MRLE025:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3176,11 +3176,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46130346:MRLE120:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3215,11 +3215,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81863068:MRL024:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -3254,11 +3254,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81863068:MRLE024:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -3293,11 +3293,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76184692:MRLE107:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3332,11 +3332,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38552107:MRL004:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3371,11 +3371,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38552107:MRLE004:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3410,11 +3410,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64047146:MRL054:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -3449,11 +3449,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64047146:MRLE054:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -3488,11 +3488,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15083728:MRL064:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3527,11 +3527,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15083728:MRLE064:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3566,11 +3566,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:30243636:MRL068:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3605,11 +3605,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:30243636:MRLE068:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3644,11 +3644,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 23.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:62397231:MRL075:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -3683,11 +3683,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:62397231:MRLE075:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -3722,11 +3722,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 17.97,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3056267:MRL026:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -3761,11 +3761,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3056267:MRLE026:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -3800,11 +3800,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90020065:MRL074:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -3839,11 +3839,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.69,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90020065:MRLE074:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -3878,11 +3878,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23289281:MRL083:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -3917,11 +3917,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23289281:MRLE083:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -3956,11 +3956,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.83,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54541900:MRLE121:ygo-magic-ruler-kak8pk:ygo-common",
@@ -3995,11 +3995,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.76,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:19406822:MRL095:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4034,11 +4034,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:19406822:MRLE095:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4073,11 +4073,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.66,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85705804:MRLE117:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4112,11 +4112,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.01,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:67284908:MRL055:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4151,11 +4151,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.54,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:67284908:MRLE055:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4190,11 +4190,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:94675535:MRLE122:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4229,11 +4229,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:93108297:MRL023:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4268,11 +4268,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.35,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:93108297:MRLE023:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4307,11 +4307,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81777047:MRL100:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -4346,11 +4346,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81777047:MRLE100:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -4381,7 +4381,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56342351:MRLE123:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4416,11 +4416,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.72,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:92731455:MRLE124:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4455,11 +4455,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64389297:MRL059:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4494,11 +4494,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.4,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64389297:MRLE059:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4533,11 +4533,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:93013676:MRL012:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -4572,11 +4572,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:93013676:MRLE012:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -4611,11 +4611,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:99597615:MRL005:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4650,11 +4650,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:99597615:MRLE005:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4689,11 +4689,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40374923:MRLE104:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4728,11 +4728,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:13723605:MRLE106:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4767,11 +4767,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38369349:MRL071:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -4806,11 +4806,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.23,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38369349:MRLE071:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -4845,11 +4845,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.73,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44287299:MRLE116:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4884,11 +4884,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34442949:MRL021:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4923,11 +4923,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34442949:MRLE021:ygo-magic-ruler-kak8pk:ygo-common",
@@ -4962,11 +4962,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22046459:MRL061:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -5001,11 +5001,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22046459:MRLE061:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -5040,11 +5040,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 22.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44656491:MRL102:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -5079,11 +5079,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:44656491:MRLE102:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -5118,11 +5118,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55998462:MRL007:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5157,11 +5157,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55998462:MRLE007:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5196,11 +5196,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.37,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32539892:MRL015:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5235,11 +5235,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:32539892:MRLE015:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5274,11 +5274,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:19384334:MRL098:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -5313,11 +5313,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:19384334:MRLE098:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -5352,11 +5352,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:57839750:MRL090:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -5391,11 +5391,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.92,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:57839750:MRLE090:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -5430,11 +5430,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.59,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50913601:MRLE119:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5469,11 +5469,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18161786:MRL101:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5508,11 +5508,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18161786:MRLE101:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5547,11 +5547,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83011278:MRL094:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -5587,11 +5587,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83011278:MRLE094:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -5627,11 +5627,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83464209:MRLE115:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5666,11 +5666,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.96,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:5318639:MRL047:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -5705,11 +5705,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.64,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:5318639:MRLE047:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -5744,11 +5744,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 26.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50930991:MRLE105:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5783,11 +5783,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 27.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22567609:MRL086:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -5822,11 +5822,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22567609:MRLE086:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -5861,11 +5861,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.47,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:74637266:MRL052:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5900,11 +5900,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.07,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:74637266:MRLE052:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5939,11 +5939,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33064647:MRLE127:ygo-magic-ruler-kak8pk:ygo-common",
@@ -5978,11 +5978,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.29,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:19523799:MRLE108:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6017,11 +6017,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.54,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:74191942:MRL049:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -6056,11 +6056,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:74191942:MRLE049:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -6095,11 +6095,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 19.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:21263083:MRLE109:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6134,11 +6134,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:20624263:MRL011:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6173,11 +6173,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.41,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:20624263:MRLE011:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6212,11 +6212,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36039163:MRL001:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6251,11 +6251,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36039163:MRLE001:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6290,11 +6290,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.42,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4849037:MRL067:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6329,11 +6329,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.54,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4849037:MRLE067:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6368,11 +6368,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38142739:MRLE114:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6407,11 +6407,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55144522:MRLE129:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -6446,11 +6446,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 25.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77027445:MRLE118:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6485,11 +6485,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7892180:MRL053:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6524,11 +6524,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:7892180:MRLE053:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6563,11 +6563,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73081602:MRL009:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6602,11 +6602,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73081602:MRLE009:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6641,11 +6641,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65570596:MRL030:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6680,11 +6680,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65570596:MRLE030:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6719,11 +6719,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64631466:MRL029:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -6758,11 +6758,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64631466:MRLE029:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -6793,7 +6793,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45778932:MRL099:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -6828,11 +6828,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.87,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45778932:MRLE099:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -6867,11 +6867,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.17,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70046172:MRL043:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -6906,11 +6906,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70046172:MRLE043:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -6945,11 +6945,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.85,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2964201:MRL070:ygo-magic-ruler-kak8pk:ygo-common",
@@ -6984,11 +6984,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2964201:MRLE070:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7023,11 +7023,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73051941:MRLE128:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7062,11 +7062,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23401839:MRL080:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -7102,11 +7102,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23401839:MRLE080:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -7142,11 +7142,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.63,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:66516792:MRL103:ygo-magic-ruler-kak8pk:ygo-secret-rare",
@@ -7181,11 +7181,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 18.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:66516792:MRLE130:ygo-magic-ruler-kak8pk:ygo-secret-rare",
@@ -7220,11 +7220,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 27.79,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95956346:MRL088:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -7259,11 +7259,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:95956346:MRLE088:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -7298,11 +7298,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.19,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3797883:MRL028:ygo-magic-ruler-kak8pk:ygo-super-short-print",
@@ -7337,11 +7337,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3797883:MRLE028:ygo-magic-ruler-kak8pk:ygo-super-short-print",
@@ -7376,11 +7376,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.81,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:596051:MRL050:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7415,11 +7415,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:596051:MRLE050:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7454,11 +7454,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45986603:MRL036:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -7493,11 +7493,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 16.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45986603:MRLE036:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -7532,11 +7532,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 34.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:57617178:MRL093:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7571,11 +7571,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:57617178:MRLE093:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7610,11 +7610,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.58,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:58551308:MRL087:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7649,11 +7649,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:58551308:MRLE087:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7684,7 +7684,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18807109:MRL006:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -7720,11 +7720,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 17.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18807109:MRLE006:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -7760,11 +7760,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 43.82,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15023985:MRL058:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7799,11 +7799,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.22,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15023985:MRLE058:ygo-magic-ruler-kak8pk:ygo-common",
@@ -7838,11 +7838,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43641473:MRL042:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -7877,11 +7877,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.55,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43641473:MRLE042:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -7916,11 +7916,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:42829885:MRL045:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -7955,11 +7955,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.5,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:42829885:MRLE045:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -7994,11 +7994,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 25.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16430187:MRL044:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8033,11 +8033,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16430187:MRLE044:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8072,11 +8072,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82003859:MRL034:ygo-magic-ruler-kak8pk:ygo-super-short-print",
@@ -8111,11 +8111,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.41,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82003859:MRLE034:ygo-magic-ruler-kak8pk:ygo-super-short-print",
@@ -8146,7 +8146,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65458948:MRL072:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -8181,11 +8181,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 15.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65458948:MRLE072:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -8220,11 +8220,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91842653:MRL073:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -8259,11 +8259,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 35.6,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91842653:MRLE073:ygo-magic-ruler-kak8pk:ygo-ultra-rare",
@@ -8298,11 +8298,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 118.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15259703:MRL076:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -8338,11 +8338,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 19.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15259703:MRLE076:ygo-magic-ruler-kak8pk:ygo-super-rare",
@@ -8378,11 +8378,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.78,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77827521:MRLE112:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8417,11 +8417,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 16.65,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76806714:MRL066:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8456,11 +8456,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76806714:MRLE066:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8495,11 +8495,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:29692206:MRL057:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8534,11 +8534,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:29692206:MRLE057:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8573,11 +8573,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56789759:MRL017:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8612,11 +8612,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:56789759:MRLE017:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8651,11 +8651,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:60806437:MRL081:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -8690,11 +8690,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:60806437:MRLE081:ygo-magic-ruler-kak8pk:ygo-rare",
@@ -8729,11 +8729,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82999629:MRL097:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -8768,11 +8768,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82999629:MRLE097:ygo-magic-ruler-kak8pk:ygo-short-print",
@@ -8803,7 +8803,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70368879:MRL033:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8838,11 +8838,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.84,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:70368879:MRLE033:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8877,11 +8877,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.65,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63162310:MRL056:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8916,11 +8916,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.39,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63162310:MRLE056:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8955,11 +8955,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72053645:MRL020:ygo-magic-ruler-kak8pk:ygo-common",
@@ -8994,11 +8994,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72053645:MRLE020:ygo-magic-ruler-kak8pk:ygo-common",
@@ -9033,11 +9033,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.88,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91996584:MRL027:ygo-magic-ruler-kak8pk:ygo-common",
@@ -9072,11 +9072,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.31,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91996584:MRLE027:ygo-magic-ruler-kak8pk:ygo-common",
@@ -9111,10 +9111,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

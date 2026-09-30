@@ -37,11 +37,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 31.34,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:300302021:EVSDENS01:ygo-event-pack-speed-duel-1v4a98f:ygo-super-rare",
@@ -76,11 +76,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.85,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91939608:EVSDEN002:ygo-event-pack-speed-duel-1v4a98f:ygo-common",
@@ -115,11 +115,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.72,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:33904024:EVSDEN003:ygo-event-pack-speed-duel-1v4a98f:ygo-common",
@@ -154,11 +154,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:126218:EVSDEN004:ygo-event-pack-speed-duel-1v4a98f:ygo-common",
@@ -193,11 +193,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 9.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59744639:EVSDEN005:ygo-event-pack-speed-duel-1v4a98f:ygo-common",
@@ -232,10 +232,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

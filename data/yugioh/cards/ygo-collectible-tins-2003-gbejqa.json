@@ -39,11 +39,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 28.27,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:78193831:BPT008:ygo-collectible-tins-2003-gbejqa:ygo-secret-rare",
@@ -79,11 +79,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 33.57,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46986414:BPT007:ygo-collectible-tins-2003-gbejqa:ygo-secret-rare",
@@ -126,11 +126,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 19.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:423705:BPT012:ygo-collectible-tins-2003-gbejqa:ygo-secret-rare",
@@ -165,11 +165,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.95,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77585513:BPT011:ygo-collectible-tins-2003-gbejqa:ygo-secret-rare",
@@ -205,11 +205,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 25.91,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91998119:BPT010:ygo-collectible-tins-2003-gbejqa:ygo-secret-rare",
@@ -246,10 +246,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

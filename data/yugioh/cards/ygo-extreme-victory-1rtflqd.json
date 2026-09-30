@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.3,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22386234:EXVCEN036:ygo-extreme-victory-1rtflqd:ygo-short-print",
@@ -67,7 +67,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:84914462:EXVCEN090:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -102,11 +102,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.43,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3072808:EXVCEN008:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -137,7 +137,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38562933:EXVCEN096:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -168,7 +168,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:49460512:EXVCEN009:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -199,7 +199,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:49460512:EXVCEN009:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -230,7 +230,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98884569:EXVCEN099:ygo-extreme-victory-1rtflqd:ygo-secret-rare",
@@ -261,7 +261,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:12986778:EXVCEN050:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -296,11 +296,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.05,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39531794:EXVCEN072:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -331,7 +331,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63676256:EXVCEN022:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -362,7 +362,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4081825:EXVCEN065:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -393,7 +393,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77087109:EXVCEN007:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -428,11 +428,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.2,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:10925955:EXVCEN059:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -467,11 +467,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.01,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65703851:EXVCEN076:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -502,7 +502,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:47013502:EXVCEN082:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -533,7 +533,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:61737116:EXVCEN028:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -568,11 +568,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.61,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72926163:EXVCEN093:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -603,7 +603,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72926163:EXVCEN093:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -634,7 +634,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:84653834:EXVCEN055:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -669,11 +669,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:99070951:EXVCEN023:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -708,11 +708,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.16,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40583194:EXVCEN006:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -747,11 +747,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.93,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:86997073:EXVCEN049:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -786,11 +786,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45178472:EXVCEN088:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -821,7 +821,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73285669:EXVCEN086:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -852,7 +852,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73285669:EXVCEN086:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -883,7 +883,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50893987:EXVCEN034:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -918,11 +918,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:9780364:EXVCEN087:ygo-extreme-victory-1rtflqd:ygo-secret-rare",
@@ -953,7 +953,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:25343017:EXVCEN027:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -984,7 +984,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96287685:EXVCEN035:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1019,11 +1019,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.26,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:96287685:EXVCEN035:ygo-extreme-victory-1rtflqd:ygo-short-print",
@@ -1054,7 +1054,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59771339:EXVCEN037:ygo-extreme-victory-1rtflqd:ygo-ghost-rare",
@@ -1085,7 +1085,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59771339:EXVCEN037:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -1116,7 +1116,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59771339:EXVCEN037:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -1147,7 +1147,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:78922939:EXVCEN001:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -1178,7 +1178,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2924048:EXVCEN074:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -1209,7 +1209,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24621460:EXVCEN030:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1244,11 +1244,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.15,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50615578:EXVCEN031:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1283,11 +1283,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:11125718:EXVCEN091:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -1318,7 +1318,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46272804:EXVCEN092:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1353,11 +1353,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:25165047:EXVCEN038:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -1388,7 +1388,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:25165047:EXVCEN038:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -1419,7 +1419,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64681263:EXVCEN079:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1454,11 +1454,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.21,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64681263:EXVCEN079:ygo-extreme-victory-1rtflqd:ygo-short-print",
@@ -1489,7 +1489,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73417207:EXVCEN083:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -1520,7 +1520,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:73417207:EXVCEN083:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -1551,7 +1551,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2137678:EXVCEN014:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -1582,7 +1582,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75733063:EXVCEN013:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1617,11 +1617,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39648965:EXVCEN012:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1656,11 +1656,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38522377:EXVCEN015:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -1691,7 +1691,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:31930787:EXVCEN094:ygo-extreme-victory-1rtflqd:ygo-secret-rare",
@@ -1722,7 +1722,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77864539:EXVCEN067:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1757,11 +1757,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:67328336:EXVCEN095:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -1792,7 +1792,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:41475424:EXVCEN066:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1827,11 +1827,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36565699:EXVCEN024:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1866,11 +1866,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76865611:EXVCEN010:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1905,11 +1905,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.14,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2250266:EXVCEN011:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -1944,11 +1944,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.94,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:14198496:EXVCEN005:ygo-extreme-victory-1rtflqd:ygo-secret-rare",
@@ -1979,7 +1979,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37349495:EXVCEN098:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -2010,7 +2010,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77700347:EXVCEN004:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -2041,7 +2041,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:79718768:EXVCEN061:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2076,11 +2076,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.33,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24221808:EXVCEN044:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -2111,7 +2111,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24221808:EXVCEN044:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -2142,7 +2142,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:78586116:EXVCEN064:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2177,11 +2177,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:46291010:EXVCEN085:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -2212,7 +2212,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:11047543:EXVCEN056:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -2243,7 +2243,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3146695:EXVCEN071:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2278,11 +2278,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:72563071:EXVCEN089:ygo-extreme-victory-1rtflqd:ygo-secret-rare",
@@ -2313,7 +2313,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:85775486:EXVCEN052:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2348,11 +2348,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:10028593:EXVCEN000:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -2383,7 +2383,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:41197012:EXVCEN063:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2418,11 +2418,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.62,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:87614611:EXVCEN046:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2457,11 +2457,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.44,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59593925:EXVCEN048:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2496,11 +2496,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23008320:EXVCEN047:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -2531,7 +2531,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:83831356:EXVCEN058:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2566,11 +2566,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.08,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38296564:EXVCEN078:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -2601,7 +2601,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:41705642:EXVCEN003:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -2632,7 +2632,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50215517:EXVCEN045:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2667,11 +2667,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.53,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97000273:EXVCEN032:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2706,11 +2706,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64550682:EXVCEN097:ygo-extreme-victory-1rtflqd:ygo-secret-rare",
@@ -2741,7 +2741,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1802450:EXVCEN077:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2776,11 +2776,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15103313:EXVCEN062:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2815,11 +2815,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15103313:EXVCEN062:ygo-extreme-victory-1rtflqd:ygo-short-print",
@@ -2850,7 +2850,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98358303:EXVCEN026:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -2885,11 +2885,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.12,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98126725:EXVCEN029:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -2920,7 +2920,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:47436247:EXVCEN057:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -2951,7 +2951,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:62950604:EXVCEN025:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -2982,7 +2982,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75525309:EXVCEN073:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3017,11 +3017,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.25,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:42314669:EXVCEN060:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -3052,7 +3052,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51447164:EXVCEN042:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -3083,7 +3083,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51447164:EXVCEN042:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -3114,7 +3114,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64898834:EXVCEN019:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3149,11 +3149,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.13,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64910482:EXVCEN016:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -3184,7 +3184,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97836203:EXVCEN043:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -3215,7 +3215,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97836203:EXVCEN043:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -3246,7 +3246,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37300735:EXVCEN018:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3281,11 +3281,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.49,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24943456:EXVCEN041:ygo-extreme-victory-1rtflqd:ygo-super-rare",
@@ -3316,7 +3316,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:62560742:EXVCEN039:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -3347,7 +3347,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36687247:EXVCEN021:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -3378,7 +3378,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1315120:EXVCEN017:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -3409,7 +3409,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:293542:EXVCEN020:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3444,11 +3444,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.41,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98558751:EXVCEN040:ygo-extreme-victory-1rtflqd:ygo-ultimate-rare",
@@ -3479,7 +3479,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98558751:EXVCEN040:ygo-extreme-victory-1rtflqd:ygo-ultra-rare",
@@ -3510,7 +3510,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40253382:EXVCEN069:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3545,11 +3545,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.48,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76641981:EXVCEN070:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3584,11 +3584,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:11264180:EXVCEN053:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3623,11 +3623,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.09,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3868277:EXVCEN068:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -3658,7 +3658,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:58258899:EXVCEN054:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3693,11 +3693,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.11,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59371387:EXVCEN051:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3732,11 +3732,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.04,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:10802915:EXVCEN084:ygo-extreme-victory-1rtflqd:ygo-secret-rare",
@@ -3772,11 +3772,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 60.24,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:23408872:EXVCEN033:ygo-extreme-victory-1rtflqd:ygo-rare",
@@ -3807,7 +3807,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38318146:EXVCEN075:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3842,11 +3842,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.06,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15310033:EXVCEN002:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3881,11 +3881,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36352429:EXVCEN081:ygo-extreme-victory-1rtflqd:ygo-secret-rare",
@@ -3916,7 +3916,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90075978:EXVCEN080:ygo-extreme-victory-1rtflqd:ygo-common",
@@ -3951,10 +3951,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.8,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

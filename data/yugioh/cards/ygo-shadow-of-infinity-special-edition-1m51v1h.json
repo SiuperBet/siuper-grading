@@ -33,11 +33,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.52,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:41356845:SOIENSE1:ygo-shadow-of-infinity-special-edition-1m51v1h:ygo-ultra-rare",
@@ -73,11 +73,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.74,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:48642904:SOIENSE4:ygo-shadow-of-infinity-special-edition-1m51v1h:ygo-secret-rare",
@@ -112,11 +112,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.86,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:48642904:SOIENSE4:ygo-shadow-of-infinity-special-edition-1m51v1h:ygo-ultra-rare",
@@ -151,11 +151,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.51,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34016756:SOIENSE2:ygo-shadow-of-infinity-special-edition-1m51v1h:ygo-secret-rare",
@@ -190,11 +190,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.7,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:34016756:SOIENSE2:ygo-shadow-of-infinity-special-edition-1m51v1h:ygo-ultra-rare",
@@ -229,11 +229,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.71,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59744639:SOIENSE3:ygo-shadow-of-infinity-special-edition-1m51v1h:ygo-secret-rare",
@@ -268,11 +268,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.38,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:59744639:SOIENSE3:ygo-shadow-of-infinity-special-edition-1m51v1h:ygo-ultra-rare",
@@ -307,10 +307,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.02,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

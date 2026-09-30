@@ -4,6 +4,17 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows:
+      - Update prices
+      - Update Pokemon data
+      - Update Yu-Gi-Oh data
+      - Update TCGCSV map
+      - Update Yu-Gi-Oh OCG metadata
+      - Update Yu-Gi-Oh OCG printings
+      - Backfill TCGCSV history
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -17,16 +28,29 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+      - run: npm run check:syntax
+      - run: npm test
+      - name: Build site
+        run: |
+          set -euo pipefail
+          rm -rf _site
+          mkdir _site
+          cp index.html manifest.webmanifest service-worker.js _site/
+          cp -R assets css data js _site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: .
+          path: _site
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4

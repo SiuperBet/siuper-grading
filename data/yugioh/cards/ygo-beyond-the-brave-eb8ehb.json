@@ -28,7 +28,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51420096:BETBEN025:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -59,7 +59,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:41458361:BETBEN049:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -90,7 +90,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:30068809:BETBEN063:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -121,7 +121,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:89913287:BETBEN041:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -152,7 +152,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1280391:BETBEN060:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -183,7 +183,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38331244:BETBEN009:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -214,7 +214,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4881365:BETBEN002:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -245,7 +245,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:101402093:BETBEN093:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -276,7 +276,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:101402090:BETBEN090:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -307,7 +307,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:12845564:BETBEN095:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -338,7 +338,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:101402094:BETBEN094:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -369,7 +369,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:101402091:BETBEN091:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -400,7 +400,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:101402092:BETBEN092:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -431,7 +431,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:48340269:BETBEN096:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -462,7 +462,38 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
+  },
+  {
+    "id": "yugioh:101402086:BETBEN086:ygo-beyond-the-brave-eb8ehb:ygo-common",
+    "cardId": "101402086",
+    "printingId": "yugioh:101402086:BETBEN086:ygo-beyond-the-brave-eb8ehb:ygo-common",
+    "game": "yugioh",
+    "name": "Archidux, the Squid Sorcerer",
+    "number": "BETB-EN086",
+    "collectionNumber": "BETB-EN086",
+    "setId": "ygo-beyond-the-brave-eb8ehb",
+    "setCode": "BETB-EN086",
+    "setName": "Beyond the Brave",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "",
+    "passcode": "101402086",
+    "type": "Link Monster",
+    "attribute": "WATER",
+    "level": null,
+    "rank": null,
+    "link": 2,
+    "atk": 1500,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/101402086.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/101402086.jpg",
+    "artworkIds": [
+      101402086
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37279096:BETBEN061:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -493,7 +524,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90728287:BETBEN077:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -524,7 +555,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:62368221:BETBEN019:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -555,7 +586,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:99753860:BETBEN020:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -586,7 +617,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36270527:BETBEN018:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -617,7 +648,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:36270527:BETBEN018:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -648,7 +679,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37839434:BETBEN075:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -679,7 +710,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:91444835:BETBEN074:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -710,7 +741,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64455720:BETBEN073:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -741,7 +772,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17020474:BETBEN039:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -772,7 +803,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2906939:BETBEN057:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -803,7 +834,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:43419178:BETBEN040:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -834,7 +865,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38391684:BETBEN058:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -865,7 +896,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:101402101:BETBEN081:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -896,7 +927,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:101402101:BETBEN081:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -927,7 +958,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:41570943:BETBEN046:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -958,7 +989,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75518330:BETBEN056:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -989,7 +1020,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38001022:BETBEN072:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1020,7 +1051,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39513225:BETBEN055:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -1051,7 +1082,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:99505609:BETBEN080:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1082,7 +1113,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97818130:BETBEN026:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -1113,7 +1144,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:97818130:BETBEN026:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -1144,7 +1175,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:30945251:BETBEN066:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1175,7 +1206,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65785782:BETBEN059:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -1206,7 +1237,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55363218:BETBEN034:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1237,7 +1268,38 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
+  },
+  {
+    "id": "yugioh:101402089:BETBEN089:ygo-beyond-the-brave-eb8ehb:ygo-common",
+    "cardId": "101402089",
+    "printingId": "yugioh:101402089:BETBEN089:ygo-beyond-the-brave-eb8ehb:ygo-common",
+    "game": "yugioh",
+    "name": "Chaospawn Bishop",
+    "number": "BETB-EN089",
+    "collectionNumber": "BETB-EN089",
+    "setId": "ygo-beyond-the-brave-eb8ehb",
+    "setCode": "BETB-EN089",
+    "setName": "Beyond the Brave",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "Chaos",
+    "passcode": "101402089",
+    "type": "Tuner Monster",
+    "attribute": "DARK",
+    "level": 4,
+    "rank": null,
+    "link": null,
+    "atk": 100,
+    "def": 1000,
+    "image": "./assets/yugioh/thumbs/101402089.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/101402089.jpg",
+    "artworkIds": [
+      101402089
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:19491080:BETBEN099:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -1268,7 +1330,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82692552:BETBEN029:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1299,7 +1361,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63111591:BETBEN079:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -1330,7 +1392,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:15185344:BETBEN045:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1361,7 +1423,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:79791695:BETBEN044:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -1392,7 +1454,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:79791695:BETBEN044:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -1423,7 +1485,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64233143:BETBEN076:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1454,7 +1516,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4663194:BETBEN062:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -1485,7 +1547,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40235813:BETBEN052:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -1516,7 +1578,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:25158975:BETBEN021:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -1547,7 +1609,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:25158975:BETBEN021:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -1578,7 +1640,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:62542673:BETBEN022:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -1609,7 +1671,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:54641720:BETBEN037:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -1640,7 +1702,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:98931282:BETBEN023:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1671,7 +1733,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50208444:BETBEN028:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -1702,7 +1764,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50208444:BETBEN028:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -1733,7 +1795,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:50208444:BETBEN028:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -1764,7 +1826,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82970905:BETBEN032:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1795,7 +1857,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76660178:BETBEN004:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1826,7 +1888,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65118318:BETBEN070:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1857,7 +1919,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:28968609:BETBEN033:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1888,7 +1950,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76548531:BETBEN007:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -1919,7 +1981,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76630812:BETBEN053:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1950,7 +2012,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:87395095:BETBEN088:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -1981,7 +2043,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77856460:BETBEN050:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2012,7 +2074,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2729965:BETBEN068:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -2043,7 +2105,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:29081251:BETBEN030:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2074,7 +2136,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:76334960:BETBEN067:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2105,7 +2167,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:80635735:BETBEN038:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2136,7 +2198,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:40275470:BETBEN003:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2167,7 +2229,38 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
+  },
+  {
+    "id": "yugioh:101402083:BETBEN083:ygo-beyond-the-brave-eb8ehb:ygo-common",
+    "cardId": "101402083",
+    "printingId": "yugioh:101402083:BETBEN083:ygo-beyond-the-brave-eb8ehb:ygo-common",
+    "game": "yugioh",
+    "name": "Just Flip a Coin",
+    "number": "BETB-EN083",
+    "collectionNumber": "BETB-EN083",
+    "setId": "ygo-beyond-the-brave-eb8ehb",
+    "setCode": "BETB-EN083",
+    "setName": "Beyond the Brave",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "",
+    "passcode": "101402083",
+    "type": "Trap Card",
+    "attribute": "",
+    "level": null,
+    "rank": null,
+    "link": null,
+    "atk": null,
+    "def": null,
+    "image": "./assets/yugioh/thumbs/101402083.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/101402083.jpg",
+    "artworkIds": [
+      101402083
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:101402085:BETBEN085:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2198,7 +2291,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:52123534:BETBEN084:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2229,7 +2322,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:65325949:BETBEN010:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2260,7 +2353,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:64603351:BETBEN013:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -2291,7 +2384,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:78579058:BETBEN047:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2322,7 +2415,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:92447211:BETBEN097:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2353,7 +2446,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:4063756:BETBEN048:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -2384,7 +2477,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:38114652:BETBEN012:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -2415,7 +2508,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:37092104:BETBEN015:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2446,7 +2539,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:55585856:BETBEN031:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2477,7 +2570,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:81758313:BETBEN035:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2508,7 +2601,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:16908882:BETBEN042:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -2539,7 +2632,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:42396591:BETBEN043:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2570,7 +2663,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:82370493:BETBEN100:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2601,7 +2694,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17242022:BETBEN036:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -2632,7 +2725,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:17242022:BETBEN036:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -2663,7 +2756,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:26116996:BETBEN078:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2694,7 +2787,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2606417:BETBEN071:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2725,7 +2818,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3441553:BETBEN065:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2756,7 +2849,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3064783:BETBEN005:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2787,7 +2880,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:63481713:BETBEN016:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2818,7 +2911,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:51307986:BETBEN087:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2849,7 +2942,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3129527:BETBEN054:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2880,7 +2973,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39123673:BETBEN069:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -2911,7 +3004,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77456448:BETBEN064:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2942,7 +3035,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:3841104:BETBEN051:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -2973,7 +3066,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77482666:BETBEN001:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -3004,7 +3097,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:77482666:BETBEN001:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -3035,7 +3128,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24203749:BETBEN027:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -3066,7 +3159,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24203749:BETBEN027:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -3097,7 +3190,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:24203749:BETBEN027:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -3128,7 +3221,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90875418:BETBEN017:ygo-beyond-the-brave-eb8ehb:ygo-secret-rare",
@@ -3159,7 +3252,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:2932235:BETBEN008:ygo-beyond-the-brave-eb8ehb:ygo-super-rare",
@@ -3190,7 +3283,38 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
+  },
+  {
+    "id": "yugioh:101402082:BETBEN082:ygo-beyond-the-brave-eb8ehb:ygo-common",
+    "cardId": "101402082",
+    "printingId": "yugioh:101402082:BETBEN082:ygo-beyond-the-brave-eb8ehb:ygo-common",
+    "game": "yugioh",
+    "name": "Tigress in Silent Repose",
+    "number": "BETB-EN082",
+    "collectionNumber": "BETB-EN082",
+    "setId": "ygo-beyond-the-brave-eb8ehb",
+    "setCode": "BETB-EN082",
+    "setName": "Beyond the Brave",
+    "rarity": "Common",
+    "edition": "",
+    "archetype": "",
+    "passcode": "101402082",
+    "type": "Effect Monster",
+    "attribute": "EARTH",
+    "level": 3,
+    "rank": null,
+    "link": null,
+    "atk": 1700,
+    "def": 200,
+    "image": "./assets/yugioh/thumbs/101402082.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/101402082.jpg",
+    "artworkIds": [
+      101402082
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:39053882:BETBEN006:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -3221,7 +3345,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22623509:BETBEN098:ygo-beyond-the-brave-eb8ehb:ygo-starlight-rare",
@@ -3252,7 +3376,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:22623509:BETBEN098:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -3283,7 +3407,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:90098000:BETBEN014:ygo-beyond-the-brave-eb8ehb:ygo-ultra-rare",
@@ -3314,7 +3438,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:1710647:BETBEN011:ygo-beyond-the-brave-eb8ehb:ygo-common",
@@ -3345,6 +3469,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]

@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.03,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:45425051:WC4001:ygo-yu-gi-oh-world-championship-tournament-2004-promotional-cards-r61rsi:ygo-prismatic-secret-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.77,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:18144507:WC4E003:ygo-yu-gi-oh-world-championship-tournament-2004-promotional-cards-r61rsi:ygo-prismatic-secret-rare",
@@ -111,11 +111,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 144.56,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:8131171:WC4E002:ygo-yu-gi-oh-world-championship-tournament-2004-promotional-cards-r61rsi:ygo-prismatic-secret-rare",
@@ -150,11 +150,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 36.68,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:78636495:WC4003:ygo-yu-gi-oh-world-championship-tournament-2004-promotional-cards-r61rsi:ygo-prismatic-secret-rare",
@@ -189,11 +189,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.45,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   },
   {
     "id": "yugioh:75347539:WC4E001:ygo-yu-gi-oh-world-championship-tournament-2004-promotional-cards-r61rsi:ygo-prismatic-secret-rare",
@@ -228,10 +228,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 173.36,
-      "timestamp": "2026-09-26T10:15:50.964Z",
+      "timestamp": "2026-09-30T06:10:11.453Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-26T10:15:50.964Z"
+    "updatedAt": "2026-09-30T06:10:11.453Z"
   }
 ]
