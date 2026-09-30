@@ -1,0 +1,12 @@
+{
+  "databaseVersion": 1,
+  "game": "yugioh",
+  "source": "YGOJSON v1",
+  "updatedAt": "2026-09-30T11:20:19.523Z",
+  "locale": "sc",
+  "catalogLanguage": "ocg-sc",
+  "sets": 152,
+  "printings": 12764,
+  "exactImages": 190,
+  "referenceImages": 12566
+}
