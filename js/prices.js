@@ -41,6 +41,16 @@ export async function getPricesForCard(card){
   for(const p of rows.concat(runtime)){const k=[p.source,p.currency,p.priceType,p.variant||"",p.condition||""].join("|");map.set(k,p)}
   return [...map.values()].filter(p=>validNumber(p.value)).sort((a,b)=>a.currency.localeCompare(b.currency)||a.source.localeCompare(b.source)||a.priceType.localeCompare(b.priceType));
 }
+// Tutti i prezzi osservati per un insieme di stampe (mappa printingId -> righe), per valutare la collezione.
+export async function pricesForPrintings(cards){
+  const current=await loadCurrent(),wanted=new Set((cards||[]).map(c=>c.printingId)),map=new Map();
+  for(const p of current){
+    if(!wanted.has(p.printingId)||!validNumber(p.value))continue;
+    if(!map.has(p.printingId))map.set(p.printingId,[]);
+    map.get(p.printingId).push(p);
+  }
+  return map;
+}
 export function reliability(price){
   if(price.priceType==="estimated_condition")return"BASSA";
   if(!price.timestamp)return price.confidence||"MEDIA";
