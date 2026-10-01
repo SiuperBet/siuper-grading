@@ -1,4 +1,4 @@
-export const APP_VERSION="0.3.1";
+export const APP_VERSION="0.4.0";
 export const DATABASE_VERSION=1;
 export const GRADING_ALGORITHM_VERSION="0.4.0";
 export const PRICE_ENGINE_VERSION="0.2.0";
@@ -10,6 +10,8 @@ export const SOURCES={
   yugioh:{name:"YGOPRODeck",base:"https://db.ygoprodeck.com/api/v7"}
 };
 
+// Coefficienti storici (scala a 5 livelli). La stima per condizione usa ora js/conditions.js
+// (CONDITION_COEFFICIENTS); questa costante resta solo per compatibilità.
 export const CONDITION_ESTIMATES={
   NM:[1,1],
   LP:[0.70,0.85],
