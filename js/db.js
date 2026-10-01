@@ -1,4 +1,5 @@
 import{DB_NAME,DB_SCHEMA_VERSION}from"./config.js";
+import{COPY_DATA_VERSION,migrateCopyRow}from"./copy-model.js";
 let dbPromise;
 function req(r){return new Promise((resolve,reject)=>{r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error)})}
 export function openDB(){
@@ -28,13 +29,46 @@ export async function cacheGet(key){const v=await get("catalogCache",key);if(!v|
 export async function cachePut(key,value,ttl=86400000){return put("catalogCache",{key,value,expiresAt:Date.now()+ttl,updatedAt:new Date().toISOString()})}
 export async function setting(key,fallback=null){return (await get("settings",key))?.value??fallback}
 export async function setSetting(key,value){return put("settings",{key,value})}
+
+const BACKUP_STORES=["ownedCopies","scans","grades","settings","priceSnapshots"];
+const PHOTO_FIELDS=["originalBlob","correctedBlob"];
+const BLOB_TYPE="blob-base64";
+
+function bytesToBase64(bytes){
+  let binary="";
+  for(let i=0;i<bytes.length;i+=0x8000)binary+=String.fromCharCode.apply(null,bytes.subarray(i,i+0x8000));
+  return btoa(binary);
+}
+export async function blobToBackup(blob){
+  return{__type:BLOB_TYPE,mime:blob.type||"application/octet-stream",data:bytesToBase64(new Uint8Array(await blob.arrayBuffer()))};
+}
+export function backupToBlob(value){
+  if(typeof Blob!=="undefined"&&value instanceof Blob)return value.size>0?value:null;
+  if(!value||value.__type!==BLOB_TYPE||typeof value.data!=="string"||!value.data)return null;
+  try{
+    const binary=atob(value.data),bytes=new Uint8Array(binary.length);
+    for(let i=0;i<binary.length;i++)bytes[i]=binary.charCodeAt(i);
+    const blob=new Blob([bytes],{type:typeof value.mime==="string"?value.mime:""});
+    return blob.size>0?blob:null;
+  }catch(e){return null}
+}
+async function scanToBackup(scan){
+  const out={...scan};
+  for(const field of PHOTO_FIELDS){
+    if(typeof Blob!=="undefined"&&scan[field] instanceof Blob)out[field]=await blobToBackup(scan[field]);
+    else delete out[field];
+  }
+  return out;
+}
 export async function exportBackup(){
-  return {schemaVersion:DB_SCHEMA_VERSION,exportedAt:new Date().toISOString(),ownedCopies:await getAll("ownedCopies"),scans:await getAll("scans"),grades:await getAll("grades"),settings:await getAll("settings"),priceSnapshots:await getAll("priceSnapshots")};
+  const scans=await getAll("scans");
+  // schemaVersion resta invariato (i backup vecchi si importano ancora); collectionDataVersion indica lo schema delle copie.
+  return {schemaVersion:DB_SCHEMA_VERSION,collectionDataVersion:COPY_DATA_VERSION,exportedAt:new Date().toISOString(),photoEncoding:"base64",ownedCopies:(await getAll("ownedCopies")).map(migrateCopyRow),scans:await Promise.all(scans.map(scanToBackup)),grades:await getAll("grades"),settings:await getAll("settings"),priceSnapshots:await getAll("priceSnapshots")};
 }
 export function validateBackup(payload){
   if(!payload||typeof payload!=="object")throw new Error("Backup non valido");
   if(payload.schemaVersion!==DB_SCHEMA_VERSION)throw new Error("Versione backup non compatibile");
-  for(const name of["ownedCopies","scans","grades","settings","priceSnapshots"]){
+  for(const name of BACKUP_STORES){
     if(payload[name]!=null&&!Array.isArray(payload[name]))throw new Error("Sezione "+name+" non valida");
   }
   for(const row of payload.ownedCopies||[]){if(!row||!row.id||!row.printingId||!row.game)throw new Error("Copia posseduta non valida")}
@@ -43,11 +77,45 @@ export function validateBackup(payload){
   for(const row of payload.settings||[]){if(!row||typeof row.key!=="string")throw new Error("Impostazione non valida")}
   return true;
 }
-export async function importBackup(payload){
+// Valida e decodifica il backup prima di aprire la transazione: le transazioni IndexedDB
+// si chiudono da sole se nel mezzo si attende qualcosa che non sia una richiesta IndexedDB.
+export function prepareBackupImport(payload){
   validateBackup(payload);
-  for(const name of["ownedCopies","scans","grades","settings","priceSnapshots"]){
-    const rows=payload[name]||[];
-    await clear(name);
-    for(const row of rows)await put(name,row);
+  const data={};
+  for(const name of BACKUP_STORES)data[name]=payload[name]||[];
+  // Le copie dei backup vecchi vengono portate allo schema corrente (condizione per singola copia).
+  data.ownedCopies=data.ownedCopies.map(migrateCopyRow);
+  const scans=[];
+  for(const row of data.scans){
+    const scan={...row};
+    for(const field of PHOTO_FIELDS){
+      const blob=backupToBlob(row[field]);
+      if(blob)scan[field]=blob;else delete scan[field];
+    }
+    if(scan.originalBlob||scan.correctedBlob)scans.push(scan);
   }
+  data.scans=scans;
+  return{data,replaceScans:scans.length>0,scansInBackup:(payload.scans||[]).length,validScans:scans.length};
+}
+export async function importBackup(payload){
+  const prepared=prepareBackupImport(payload),{data,replaceScans}=prepared;
+  const names=BACKUP_STORES.filter(name=>name!=="scans"||replaceScans);
+  const db=await openDB();
+  await new Promise((resolve,reject)=>{
+    const tx=db.transaction(names,"readwrite");
+    tx.oncomplete=()=>resolve();
+    tx.onerror=()=>reject(tx.error||new Error("Import backup non riuscito"));
+    tx.onabort=()=>reject(tx.error||new Error("Import backup annullato"));
+    try{
+      for(const name of names){
+        const objectStore=tx.objectStore(name);
+        objectStore.clear();
+        for(const row of data[name])objectStore.put(row);
+      }
+    }catch(e){
+      try{tx.abort()}catch(err){}
+      reject(e);
+    }
+  });
+  return{scansReplaced:replaceScans,scansInBackup:prepared.scansInBackup,validScans:prepared.validScans};
 }
