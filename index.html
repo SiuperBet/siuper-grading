@@ -7,7 +7,7 @@
   <meta name="description" content="Siuper Grading - catalogo, collezione, scanner e grading fotografico TCG">
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./css/app.css?v=0.3.1">
+  <link rel="stylesheet" href="./css/app.css?v=0.4.0">
   <title>Siuper Grading</title>
 </head>
 <body>
@@ -20,10 +20,10 @@
       <div class="hero"><div class="eyebrow">TCG • LOCAL FIRST • 0 €</div><h1>Le tue carte, dal riconoscimento alla collezione.</h1><p>Nessun account obbligatorio. I dati personali restano sul dispositivo.</p></div>
       <div class="game-switch"><button class="game-btn active" data-game="pokemon">POKÉMON</button><button class="game-btn" data-game="yugioh">YU-GI-OH!</button></div>
       <div class="quick-grid">
-        <button class="quick-card" data-go="scanner"><span>📷</span><b>Scanner / Grading</b><small>Fotocamera, bordi, OCR e analisi</small></button>
+        <button class="quick-card" data-go="scanner"><span>📷</span><b>Scanner / Grading</b><small>Fotocamera o galleria, bordi, OCR e analisi</small></button>
         <button class="quick-card" data-go="search"><span>🔎</span><b>Cerca carte</b><small>Nome, numero o set code</small></button>
         <button class="quick-card" data-go="album"><span>🗂️</span><b>Album / Espansioni</b><small>Master set e progresso</small></button>
-        <button class="quick-card" data-go="collection"><span>⭐</span><b>La mia collezione</b><small>Copie, condizioni e note</small></button>
+        <button class="quick-card" data-go="collection"><span>⭐</span><b>La mia collezione</b><small>Copie, condizioni e valore</small></button>
       </div>
     </section>
     <section id="view-search" class="view">
@@ -35,7 +35,7 @@
         <select id="searchOwned"><option value="all">Tutte</option><option value="owned">Ce l'ho</option><option value="missing">Mi manca</option></select>
         <input id="searchSet" placeholder="Espansione / set">
         <input id="searchRarity" placeholder="Rarità">
-        <select id="searchCondition"><option value="all">Qualsiasi condizione</option><option>NM</option><option>LP</option><option>MP</option><option>HP</option><option>DAMAGED</option></select>
+        <select id="searchCondition"><option value="all">Qualsiasi condizione</option></select>
         <select id="searchCurrency"><option value="EUR">Prezzi EUR</option><option value="USD">Prezzi USD</option></select>
         <select id="searchSort">
           <option value="relevance">Pertinenza</option>
@@ -56,7 +56,7 @@
           <input id="customCode" placeholder="Numero o codice stampa *">
           <input id="customRarity" placeholder="Rarità">
           <input id="customVariant" placeholder="Variante: normal, holo, reverse…">
-          <select id="customCondition"><option>NM</option><option>LP</option><option>MP</option><option>HP</option><option>DAMAGED</option></select>
+          <select id="customCondition" aria-label="Condizione della copia"></select>
           <input id="customImageUrl" type="url" placeholder="URL immagine esatta (opzionale)">
           <textarea id="customNotes" placeholder="Note"></textarea>
         </div>
@@ -74,15 +74,32 @@
     </section>
     <section id="view-collection" class="view">
       <div class="section-head"><div><small>LOCAL FIRST</small><h2>La mia collezione</h2></div><button id="exportBtn" class="ghost">Backup</button></div>
-      <div class="stats" id="collectionStats"></div><div id="collectionList" class="card-list"></div>
+      <div class="stats" id="collectionStats"></div>
+      <div id="collectionSummary" class="summary-card"></div>
+      <details class="settings-card collection-filter-card" id="collectionFilters" open>
+        <summary>Filtri e ordinamento</summary>
+        <div class="filters collection-filters">
+          <select id="colGame" aria-label="Gioco"><option value="all">Tutti i giochi</option><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh!</option></select>
+          <select id="colCondition" aria-label="Condizione"><option value="all">Qualsiasi condizione</option></select>
+          <select id="colGraded" aria-label="Grading"><option value="all">Gradate e non gradate</option><option value="graded">Solo gradate</option><option value="ungraded">Solo non gradate</option></select>
+          <select id="colLanguage" aria-label="Lingua"><option value="all">Tutte le lingue</option><option value="it">Italiano</option><option value="en">English</option><option value="ja">日本語 / JP</option><option value="zh-tw">中文繁體</option><option value="zh-cn">中文简体</option><option value="tcg">Yu-Gi-Oh! TCG</option><option value="ocg-jp">OCG JP</option><option value="ocg-sc">OCG 简中</option><option value="ocg-tc">OCG 繁中</option></select>
+          <input id="colSet" placeholder="Espansione / set">
+          <input id="colVariant" placeholder="Variante">
+          <select id="colSort" aria-label="Ordinamento"><option value="added-desc">Inserimento: più recenti</option><option value="added-asc">Inserimento: più vecchie</option><option value="value-desc">Valore ↓</option><option value="value-asc">Valore ↑</option><option value="condition-best">Condizione: migliore prima</option><option value="condition-worst">Condizione: peggiore prima</option><option value="name-asc">Nome A-Z</option><option value="name-desc">Nome Z-A</option><option value="number-asc">Numero ↑</option><option value="number-desc">Numero ↓</option><option value="grade-desc">Grading ↓</option><option value="grade-asc">Grading ↑</option></select>
+          <select id="colCurrency" aria-label="Valuta"><option value="EUR">Valori in EUR</option><option value="USD">Valori in USD</option></select>
+        </div>
+      </details>
+      <div id="collectionList" class="card-list"></div>
     </section>
     <section id="view-scanner" class="view">
-      <div class="section-head"><div><small>FOTOCAMERA</small><h2>Scanner / Grading</h2></div><div class="scanner-actions compact"><button id="newScanBtn" class="ghost">Nuova carta</button><button id="stopCameraBtn" class="ghost">Chiudi camera</button></div></div>
+      <div class="section-head"><div><small>FOTOCAMERA O GALLERIA</small><h2>Scanner / Grading</h2></div><div class="scanner-actions compact"><button id="newScanBtn" class="ghost">Nuova carta</button><button id="stopCameraBtn" class="ghost">Chiudi camera</button></div></div>
       <div id="scannerRoot">
-        <div class="notice scanner-guide"><b>Per un grading più affidabile:</b> togli sleeve/toploader, usa uno sfondo opaco e contrastante, luce diffusa senza riflessi, tieni il telefono parallelo alla carta e acquisisci fronte + retro. Se i 4 angoli non coincidono, correggili manualmente prima di continuare.</div>
-        <div class="scanner-stage" id="cameraStage"><video id="cameraVideo" playsinline muted></video><canvas id="analysisCanvas" hidden></canvas><div class="card-guide"></div><div id="scanQuality" class="scan-quality">Camera non avviata</div></div>
-        <div class="filters scanner-filters"><select id="scannerGame"><option value="all">Gioco: rilevamento automatico</option><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh!</option></select><select id="scannerLanguage"><option value="auto">Lingua: automatica</option><option value="it">Pokémon IT</option><option value="en">Pokémon EN</option><option value="ja">Pokémon JP</option><option value="zh-tw">Pokémon 中文繁體</option><option value="zh-cn">Pokémon 中文简体</option><option value="tcg">Yu-Gi-Oh! TCG</option><option value="ocg-jp">Yu-Gi-Oh! OCG JP</option><option value="ocg-sc">Yu-Gi-Oh! OCG 简中</option><option value="ocg-tc">Yu-Gi-Oh! OCG 繁中</option></select></div><div class="scanner-actions"><button id="startCameraBtn" class="primary">Apri fotocamera</button><button id="captureBtn" disabled>Scatto manuale</button><label class="file-btn">Carica foto<input id="photoFile" type="file" accept="image/*" capture="environment"></label></div>
+        <div class="notice scanner-guide"><b>Per un grading più affidabile:</b> togli sleeve/toploader, usa uno sfondo opaco e contrastante, luce diffusa senza riflessi, tieni il telefono parallelo alla carta e acquisisci fronte + retro. Quando il riquadro diventa <b>verde</b> la carta è posizionata bene: non muoverla. Se i 4 angoli non coincidono, correggili manualmente prima di continuare.</div>
+        <div class="scanner-stage" id="cameraStage"><video id="cameraVideo" playsinline muted></video><canvas id="analysisCanvas" hidden></canvas><div class="card-guide"></div><div id="scanHint" class="scan-hint" aria-live="polite" hidden></div><div id="scanQuality" class="scan-quality">Camera non avviata</div></div>
+        <div class="filters scanner-filters"><select id="scannerGame"><option value="all">Gioco: rilevamento automatico</option><option value="pokemon">Pokémon</option><option value="yugioh">Yu-Gi-Oh!</option></select><select id="scannerLanguage"><option value="auto">Lingua: automatica</option><option value="it">Pokémon IT</option><option value="en">Pokémon EN</option><option value="ja">Pokémon JP</option><option value="zh-tw">Pokémon 中文繁體</option><option value="zh-cn">Pokémon 中文简体</option><option value="tcg">Yu-Gi-Oh! TCG</option><option value="ocg-jp">Yu-Gi-Oh! OCG JP</option><option value="ocg-sc">Yu-Gi-Oh! OCG 简中</option><option value="ocg-tc">Yu-Gi-Oh! OCG 繁中</option></select></div>
         <div class="capture-mode"><b>Lato:</b><button id="sideFrontBtn" class="active">FRONTE</button><button id="sideBackBtn">RETRO</button><span id="captureStatus">fronte non acquisito • retro opzionale</span></div>
+        <div class="scanner-actions"><button id="startCameraBtn" class="primary">📷 Fotocamera live</button><button id="captureBtn" disabled>Scatto manuale</button><label class="file-btn">🖼️ Carica dalla galleria<input id="photoFile" type="file" accept="image/jpeg,image/png,image/webp,.jpg,.jpeg,.png,.webp"></label><label class="file-btn">📸 Scatta con l'app Foto<input id="photoCapture" type="file" accept="image/jpeg,image/png,image/webp,image/*" capture="environment"></label></div>
+        <small class="upload-hint">Scegli prima FRONTE o RETRO, poi la fotografia: formati JPG, JPEG, PNG e WEBP. La foto segue lo stesso flusso della fotocamera (bordi, raddrizzamento, riconoscimento, grading).</small>
         <div id="borderEditor" class="editor" hidden>
           <h3>Correggi i 4 angoli</h3><p>La foto originale resta intatta. Trascina i punti; se l'automazione fallisce puoi correggerli subito.</p>
           <canvas id="editorCanvas"></canvas><label class="zoom-row">Zoom <input id="editorZoom" type="range" min="1" max="3" step=".05" value="1"></label>
@@ -107,6 +124,6 @@
   <dialog id="cardDialog"><button class="dialog-close" data-close>×</button><div id="cardDialogBody"></div></dialog>
   <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js" defer></script>
   <script async src="https://docs.opencv.org/4.x/opencv.js"></script>
-  <script type="module" src="./js/app.js?v=0.3.1"></script>
+  <script type="module" src="./js/app.js?v=0.4.0"></script>
 </body>
 </html>

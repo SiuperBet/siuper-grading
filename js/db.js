@@ -1,4 +1,5 @@
 import{DB_NAME,DB_SCHEMA_VERSION}from"./config.js";
+import{COPY_DATA_VERSION,migrateCopyRow}from"./copy-model.js";
 let dbPromise;
 function req(r){return new Promise((resolve,reject)=>{r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error)})}
 export function openDB(){
@@ -61,7 +62,8 @@ async function scanToBackup(scan){
 }
 export async function exportBackup(){
   const scans=await getAll("scans");
-  return {schemaVersion:DB_SCHEMA_VERSION,exportedAt:new Date().toISOString(),photoEncoding:"base64",ownedCopies:await getAll("ownedCopies"),scans:await Promise.all(scans.map(scanToBackup)),grades:await getAll("grades"),settings:await getAll("settings"),priceSnapshots:await getAll("priceSnapshots")};
+  // schemaVersion resta invariato (i backup vecchi si importano ancora); collectionDataVersion indica lo schema delle copie.
+  return {schemaVersion:DB_SCHEMA_VERSION,collectionDataVersion:COPY_DATA_VERSION,exportedAt:new Date().toISOString(),photoEncoding:"base64",ownedCopies:(await getAll("ownedCopies")).map(migrateCopyRow),scans:await Promise.all(scans.map(scanToBackup)),grades:await getAll("grades"),settings:await getAll("settings"),priceSnapshots:await getAll("priceSnapshots")};
 }
 export function validateBackup(payload){
   if(!payload||typeof payload!=="object")throw new Error("Backup non valido");
@@ -81,6 +83,8 @@ export function prepareBackupImport(payload){
   validateBackup(payload);
   const data={};
   for(const name of BACKUP_STORES)data[name]=payload[name]||[];
+  // Le copie dei backup vecchi vengono portate allo schema corrente (condizione per singola copia).
+  data.ownedCopies=data.ownedCopies.map(migrateCopyRow);
   const scans=[];
   for(const row of data.scans){
     const scan={...row};
