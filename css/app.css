@@ -27,3 +27,40 @@
 
 .scanner-actions.compact{margin:0;justify-content:flex-end}.scanner-filters{grid-template-columns:repeat(2,minmax(0,1fr))}.defect-review{margin:10px 0;border:1px solid var(--line);border-radius:14px;background:var(--panel);padding:10px}.defect-review summary{cursor:pointer;font-weight:800}.defect-review p{font-size:12px;color:var(--muted);line-height:1.4}.defect-review label{display:flex;align-items:flex-start;gap:9px;padding:7px 2px;font-size:13px}.defect-review input{margin-top:2px}.grade-status{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:5px 9px;font-size:11px;font-weight:900;letter-spacing:.08em}.grade-status.complete{color:#86efac;border-color:#166534}.grade-status.assisted{color:#fde68a;border-color:#854d0e}.grade-status.provisional{color:#cbd5e1}.candidate-card{display:grid;grid-template-columns:54px minmax(0,1fr);gap:10px;align-items:center;margin:8px 0}.candidate-card img{width:54px;aspect-ratio:2.5/3.5;object-fit:cover;border-radius:7px;background:#0f172a}.candidate-card .img-placeholder{width:54px}.candidate-list{display:grid;gap:7px;margin-top:8px}.candidate-list button{text-align:left;padding:9px}
 @media(max-width:520px){.scanner-filters{grid-template-columns:1fr}.section-head>.scanner-actions.compact{display:grid;gap:6px}.section-head>.scanner-actions.compact button{padding:7px 9px}}
+
+/* Scanner: riquadro verde quando la carta è posizionata correttamente + suggerimento live */
+.card-guide{transition:border-color .2s ease,box-shadow .2s ease}
+.card-guide.ready{border-color:#22c55e;box-shadow:0 0 0 999px rgba(0,0,0,.22),0 0 0 3px rgba(34,197,94,.55),0 0 28px 6px rgba(34,197,94,.6)}
+.scan-hint{position:absolute;left:12px;right:12px;top:12px;padding:9px 12px;border-radius:12px;background:rgba(2,6,23,.84);border:1px solid rgba(255,255,255,.16);font-weight:800;font-size:14px;line-height:1.3;text-align:center;pointer-events:none}
+.scan-hint.ready{background:rgba(22,101,52,.94);border-color:#22c55e;color:#dcfce7}
+.scan-hint[hidden]{display:none}
+.upload-hint{display:block;color:var(--muted);font-size:12px;line-height:1.4;margin:2px 0 10px}
+.condition-desc{display:block;color:var(--muted);font-size:12px;line-height:1.35;margin-top:4px}
+
+/* Collezione: riepilogo economico, filtri, condizioni e valore per copia */
+.summary-card{display:grid;gap:10px;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:14px;margin-bottom:12px}
+.summary-total{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}
+.summary-total b{font-size:26px}.summary-total small{color:var(--muted)}
+.summary-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.summary-grid .stat{padding:10px}.summary-grid .stat b{font-size:17px}
+.summary-card details{border:1px solid var(--line);border-radius:12px;padding:8px 10px;background:var(--panel2)}.summary-card summary{cursor:pointer;font-weight:800;font-size:13px}
+.collection-filter-card summary{cursor:pointer;font-weight:800}
+.collection-filters{grid-template-columns:repeat(2,minmax(0,1fr));margin:0}
+.collection-filters input{min-width:0;border:1px solid var(--line);background:var(--panel);color:var(--text);padding:10px;border-radius:12px}
+.cond-badge{display:inline-flex;align-items:center;gap:4px;border:1px solid #3b4a68;padding:3px 8px;border-radius:99px;font-size:10px;font-weight:800;margin:5px 4px 0 0;color:#e2e8f0}
+.cond-badge.warn{border-color:#854d0e;color:#fde68a}
+.cond-badge.grade{border-color:#6d28d9;color:#ddd6fe}
+.cond-badge.kind-exact{border-color:#166534;color:#bbf7d0}
+.cond-badge.kind-nearby{border-color:#0e7490;color:#a5f3fc}
+.cond-badge.kind-estimated{border-color:#854d0e;color:#fde68a}
+.cond-badge.kind-unrated,.cond-badge.kind-none{border-color:#475569;color:#cbd5e1}
+.copy-facts{display:grid;gap:2px;font-size:12px;margin:2px 0 4px}
+.copy-facts .metric{padding:5px 0}
+.copy-facts .metric span{color:var(--muted)}
+.copy-editor details{border:1px solid var(--line);border-radius:10px;padding:6px 9px;background:#0b1220}.copy-editor summary{cursor:pointer;font-size:12px;color:var(--muted)}
+.copy-editor .value-note{font-size:11px;color:var(--muted);line-height:1.35}
+.add-copy-box{display:grid;gap:8px;margin:10px 0;padding:12px;border:1px solid var(--line);background:var(--panel2);border-radius:14px}
+.add-copy-box label{display:grid;grid-template-columns:minmax(88px,.7fr) 1.3fr;align-items:center;gap:8px;font-size:12px;color:var(--muted)}
+.add-copy-box input,.add-copy-box select,.add-copy-box textarea{width:100%;border:1px solid var(--line);background:#0b1220;color:var(--text);border-radius:10px;padding:9px}
+.add-copy-box .condition-desc{grid-column:1/-1}
+.add-copy-box .form-error{color:#fecaca;font-size:12px}
