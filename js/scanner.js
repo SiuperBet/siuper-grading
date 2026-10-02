@@ -2,12 +2,17 @@ import{setting,setSetting,put}from"./db.js";
 import{recognizeCard}from"./recognition.js";
 import{analyzeCanvas,combineAnalyses,applyInspection,gradeability,gradingStatus,saveGrade,professionalInterval,drawGradingOverlay}from"./grading.js";
 import{GRADING_CONFIG}from"./grading-config.js";
-import{CONDITION_ESTIMATES}from"./config.js";
+import{CONDITIONS,UNSPECIFIED,conditionInfo,conditionLabel,conditionName,conditionCoefficient,suggestCondition}from"./conditions.js";
 import{getPricesForCard,reliability}from"./prices.js";
 import{addCopy}from"./collection.js";
 import{variantKeys}from"./mastersets.js";
 
-const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,originalBlob:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,prevQuadNorm:null,stableFrames:0,lastQuality:null,borderConfidence:0,detectedValid:false,captureBorderConfidence:0,manualCorners:false,captures:{front:null,back:null},recognized:null,recognitionRun:0,gradingRun:0,onCardIdentified:null};
+// Quanti frame consecutivi validi servono perché il riquadro diventi verde, quanti per l'auto-scatto
+// e quanti frame non validi consecutivi servono per togliere il verde (isteresi: evita lo sfarfallio).
+const READY_FRAMES=3,AUTO_CAPTURE_FRAMES=5,LOSE_READY_FRAMES=2,TICK_MS=400;
+const MAX_UPLOAD_SIDE=2400;
+
+const state={stream:null,timer:null,busy:false,currentSide:"front",original:null,originalBlob:null,corners:null,detectedCorners:null,zoom:1,panX:0,panY:0,drag:null,prevThumb:null,prevQuadNorm:null,validStreak:0,invalidStreak:0,ready:false,lastQuality:null,borderConfidence:0,detectedValid:false,captureBorderConfidence:0,manualCorners:false,captures:{front:null,back:null},recognized:null,recognitionRun:0,gradingRun:0,onCardIdentified:null};
 const $=s=>document.querySelector(s);
 function clamp(v,a,b){return Math.max(a,Math.min(b,v))}
 function esc(v=""){return String(v).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
@@ -24,6 +29,7 @@ function selectedGame(){
 function cardThumb(card){const url=card&&(card.image||card.imageHigh||(card.imageCandidates||[]).map(x=>x.low||x.high).find(Boolean));return url?'<img src="'+esc(url)+'" alt="">':'<div class="img-placeholder"><span>—</span></div>'}
 function readInspection(){const out={};document.querySelectorAll("[data-manual-defect]").forEach(x=>{if(x.checked)out[x.dataset.manualDefect]=true});return out}
 function resetInspection(){document.querySelectorAll("[data-manual-defect]").forEach(x=>x.checked=false)}
+function sideLabel(side){return side==="front"?"FRONTE":"RETRO"}
 
 function frameQuality(canvas){
   const ctx=canvas.getContext("2d",{willReadFrequently:true}),im=ctx.getImageData(0,0,canvas.width,canvas.height),d=im.data,w=canvas.width,h=canvas.height;
@@ -108,6 +114,51 @@ function validateCorners(img,pts){
   if(q.some(p=>p.x<0||p.y<0||p.x>img.width||p.y>img.height))return{ok:false,message:"Un punto è fuori dall'immagine."};
   return{ok:true,points:q,aspect,areaRatio:ratio,cardWidth:Math.round(w),cardHeight:Math.round(h)};
 }
+
+// Posizione del riquadro guida (.card-guide) nelle coordinate normalizzate [0,1] del frame video,
+// tenendo conto del ritaglio "cover" con cui il video riempie lo stage.
+function guideRectNorm(){
+  const stage=$("#cameraStage"),video=$("#cameraVideo"),guide=document.querySelector(".card-guide");
+  if(!stage||!video||!guide||!video.videoWidth||!video.videoHeight)return null;
+  const s=stage.getBoundingClientRect(),g=guide.getBoundingClientRect(),W=s.width,H=s.height,vw=video.videoWidth,vh=video.videoHeight;
+  if(!W||!H)return null;
+  const scale=Math.max(W/vw,H/vh),dw=vw*scale,dh=vh*scale,offX=(W-dw)/2,offY=(H-dh)/2;
+  return{x:(g.left-s.left-offX)/dw,y:(g.top-s.top-offY)/dh,w:g.width/dw,h:g.height/dh};
+}
+// Valuta la qualità reale dell'inquadratura. Restituisce l'elenco dei problemi (vuoto = carta posizionata
+// correttamente), in ordine di importanza: il primo è il suggerimento da mostrare all'utente.
+function evaluatePlacement(quad,quality,movement,guide,size){
+  if(!quad)return["Carta non rilevata: inquadra tutta la carta su uno sfondo contrastante"];
+  const hints=[],p=quad.points;
+  if(quad.clipped)hints.push("Carta non completamente visibile");
+  if(!(quad.aspect>.56&&quad.aspect<.82)||quad.confidence<62)hints.push("Bordi non affidabili: migliora sfondo e luce");
+  const top=dist(p[0],p[1]),bottom=dist(p[3],p[2]),left=dist(p[0],p[3]),right=dist(p[1],p[2]);
+  if(top+bottom>(left+right)*1.12)hints.push("Tieni la carta in verticale");
+  if(guide){
+    const n=p.map(pt=>({x:pt.x/size.w,y:pt.y/size.h})),ratio=polygonArea(n)/(guide.w*guide.h);
+    let sizeHint=false;
+    if(ratio<.78){hints.push("Avvicina la carta");sizeHint=true}else if(ratio>1.18){hints.push("Allontana la carta");sizeHint=true}
+    const cx=n.reduce((a,pt)=>a+pt.x,0)/4,cy=n.reduce((a,pt)=>a+pt.y,0)/4,dx=(cx-(guide.x+guide.w/2))/guide.w,dy=(cy-(guide.y+guide.h/2))/guide.h;
+    if(dx>.10)hints.push("Sposta la carta a sinistra");else if(dx<-.10)hints.push("Sposta la carta a destra");
+    if(dy>.10)hints.push("Sposta la carta in alto");else if(dy<-.10)hints.push("Sposta la carta in basso");
+    const xs=n.map(pt=>pt.x),ys=n.map(pt=>pt.y);
+    if(!sizeHint&&(Math.min(...xs)<guide.x-.10*guide.w||Math.max(...xs)>guide.x+guide.w*1.10||Math.min(...ys)<guide.y-.10*guide.h||Math.max(...ys)>guide.y+guide.h*1.10))hints.push("Carta non completamente dentro il riquadro");
+  }
+  const angle=(Math.atan2(p[1].y-p[0].y,p[1].x-p[0].x)+Math.atan2(p[2].y-p[3].y,p[2].x-p[3].x))/2*180/Math.PI;
+  if(Math.abs(angle)>6)hints.push("Raddrizza la carta");
+  if(Math.min(top,bottom)/Math.max(top,bottom)<.90||Math.min(left,right)/Math.max(left,right)<.90)hints.push("Riduci l'inclinazione");
+  if(quality.brightness<=48)hints.push("Illuminazione insufficiente");
+  if(quality.brightness>=218)hints.push("Troppa luce");
+  if(quality.blur<=45)hints.push("Immagine troppo sfocata");
+  if(quality.glare>=.075)hints.push("Troppo riflesso");
+  if(quality.motion>=8.5||movement>=.032)hints.push("Tieni fermo");
+  return hints;
+}
+function setGuideState(ready,hint){
+  const guide=document.querySelector(".card-guide"),box=$("#scanHint");
+  if(guide){guide.classList.toggle("ready",ready);guide.dataset.state=ready?"ready":"searching"}
+  if(box){box.textContent=hint||"";box.classList.toggle("ready",ready);box.hidden=!hint}
+}
 async function analysisTick(){
   if(!state.stream||state.busy)return;
   const video=$("#cameraVideo");if(video.readyState<2){state.timer=setTimeout(analysisTick,500);return}
@@ -115,29 +166,24 @@ async function analysisTick(){
   const q=frameQuality(c);state.lastQuality=q;
   const quad=detectQuadCV(c),shapeOk=isUsableQuad(quad,62);
   state.borderConfidence=quad?quad.confidence:0;state.detectedValid=shapeOk;
-  if(shapeOk)state.detectedCorners=quad.points.map(p=>({x:p.x/w,y:p.y/h}));else state.detectedCorners=null
-  let quadStable=false;
+  if(shapeOk)state.detectedCorners=quad.points.map(p=>({x:p.x/w,y:p.y/h}));else state.detectedCorners=null;
+  let movement=1;
   if(shapeOk){
     const norm=quad.points.map(p=>({x:p.x/w,y:p.y/h}));
-    if(state.prevQuadNorm){const movement=avgQuadMovement(norm,state.prevQuadNorm);quadStable=movement<.032}
+    if(state.prevQuadNorm)movement=avgQuadMovement(norm,state.prevQuadNorm);
     state.prevQuadNorm=norm;
   }else state.prevQuadNorm=null;
-  if(q.good&&shapeOk&&quadStable)state.stableFrames++;else state.stableFrames=0;
-  const hints=[];
-  if(!quad)hints.push("carta/bordi non rilevati");
-  else{
-    if(quad.confidence<62)hints.push("bordi incerti: correggi i 4 punti");
-    if(quad.areaRatio<=.16)hints.push("avvicina la carta");
-    if(quad.areaRatio>=.88)hints.push("allontana la carta");
-    if(quad.aspect<=.54||quad.aspect>=.84)hints.push("proporzioni/bordi da correggere");
-    if(quad.clipped)hints.push("carta tagliata dall'inquadratura");
-  }
-  if(q.brightness<=48)hints.push("più luce");if(q.brightness>=218)hints.push("troppa luce");if(q.blur<=45)hints.push("immagine poco nitida");if(q.glare>=.075)hints.push("riflessi");if(q.motion>=8.5)hints.push("tieni fermo");
-  $("#scanQuality").textContent=hints.length?hints.join(" • "):"Pronto • 4 bordi validi • nitida • stabile";
+  const hints=evaluatePlacement(quad,q,movement,guideRectNorm(),{w,h}),valid=shapeOk&&hints.length===0;
+  // Isteresi temporale: verde solo dopo alcuni frame validi consecutivi, e non si perde per un singolo frame cattivo.
+  if(valid){state.validStreak++;state.invalidStreak=0;if(state.validStreak>=READY_FRAMES)state.ready=true}
+  else{state.invalidStreak++;if(state.invalidStreak>=LOSE_READY_FRAMES){state.ready=false;state.validStreak=0}}
   const auto=await setting("autoCapture",true);
+  const readyHint=auto?"Carta posizionata correttamente – non muovere":"Carta posizionata correttamente – premi scatto";
+  setGuideState(state.ready,state.ready?readyHint:(hints[0]||"Inquadra la carta"));
+  $("#scanQuality").textContent=state.ready?"Pronto • 4 bordi validi • nitida • stabile":(hints.length?hints.join(" • "):"Sto verificando la posizione…");
   const editorOpen=$("#borderEditor")&&!$("#borderEditor").hidden;
-  if(auto&&!editorOpen&&!state.captures[state.currentSide]&&state.stableFrames>=3){state.stableFrames=0;await captureFromVideo(true)}
-  state.timer=setTimeout(analysisTick,520);
+  if(auto&&!editorOpen&&!state.captures[state.currentSide]&&state.ready&&state.validStreak>=AUTO_CAPTURE_FRAMES){state.validStreak=0;state.invalidStreak=0;state.ready=false;setGuideState(false,"");await captureFromVideo(true)}
+  state.timer=setTimeout(analysisTick,TICK_MS);
 }
 
 export async function startCamera(){
@@ -150,6 +196,7 @@ export async function startCamera(){
 export function stopCamera(){
   if(state.timer)clearTimeout(state.timer);state.timer=null;
   if(state.stream){state.stream.getTracks().forEach(t=>t.stop());state.stream=null}
+  state.validStreak=0;state.invalidStreak=0;state.ready=false;state.prevQuadNorm=null;setGuideState(false,"");
   const v=$("#cameraVideo");if(v)v.srcObject=null;const b=$("#captureBtn");if(b)b.disabled=true;
 }
 async function captureFromVideo(auto=false){
@@ -158,8 +205,34 @@ async function captureFromVideo(auto=false){
     const v=$("#cameraVideo"),scale=Math.min(1,1600/v.videoWidth),c=document.createElement("canvas");c.width=Math.round(v.videoWidth*scale);c.height=Math.round(v.videoHeight*scale);c.getContext("2d").drawImage(v,0,0,c.width,c.height);
     const blob=await canvasBlob(c);const img=await imageFromBlob(blob),fullQuad=detectQuadCV(c);
     let corners,confidence=0;if(isUsableQuad(fullQuad,66)){corners=fullQuad.points;confidence=fullQuad.confidence}else if(state.detectedValid&&state.detectedCorners&&state.borderConfidence>=66){corners=state.detectedCorners.map(p=>({x:p.x*img.width,y:p.y*img.height}));confidence=state.borderConfidence}else corners=defaultCorners(img);
+    state.validStreak=0;state.invalidStreak=0;state.ready=false;
     openEditor(img,corners,blob,auto,confidence);
   }finally{state.busy=false}
+}
+
+// Caricamento da galleria/dispositivo: stessa pipeline della fotocamera (editor 4 angoli -> raddrizzamento
+// -> riconoscimento -> grading). L'immagine viene letta, orientata correttamente (EXIF) e ridotta a un
+// massimo ragionevole prima di entrare nel flusso, così il peso resta contenuto anche per foto da 12+ MP.
+function uploadError(err){return err&&err.message?err.message:"il file non è un'immagine leggibile (usa JPG, PNG o WEBP)"}
+async function prepareUploadedImage(file){
+  const name=String(file.name||"").toLowerCase(),type=String(file.type||"").toLowerCase();
+  if(/\.(heic|heif)$/.test(name)||/^image\/hei[cf]/.test(type))throw new Error("formato HEIC/HEIF non supportato: scegli una foto JPG, PNG o WEBP (su iPhone: Impostazioni > Fotocamera > Formati > Più compatibile)");
+  if(type&&!/^image\/(jpeg|png|webp)$/.test(type)&&!/\.(jpe?g|png|webp)$/.test(name))throw new Error("formato non supportato: usa JPG, JPEG, PNG o WEBP");
+  const source=await imageFromBlob(file),scale=Math.min(1,MAX_UPLOAD_SIDE/Math.max(source.width,source.height));
+  const canvas=document.createElement("canvas");canvas.width=Math.max(1,Math.round(source.width*scale));canvas.height=Math.max(1,Math.round(source.height*scale));
+  canvas.getContext("2d").drawImage(source,0,0,canvas.width,canvas.height);
+  const blob=await canvasBlob(canvas,"image/jpeg",.92);if(!blob)throw new Error("impossibile elaborare l'immagine");
+  return{img:await imageFromBlob(blob),blob};
+}
+async function handlePhotoInput(input){
+  const file=input.files&&input.files[0];if(!file)return;
+  try{
+    $("#scanQuality").textContent="Caricamento della foto in corso…";
+    const prepared=await prepareUploadedImage(file),q=detectImageQuad(prepared.img,64);
+    openEditor(prepared.img,q?q.points:defaultCorners(prepared.img),prepared.blob,false,q?q.confidence:0);
+    $("#scanQuality").textContent="Foto caricata come "+sideLabel(state.currentSide)+". "+$("#scanQuality").textContent;
+  }catch(err){$("#scanQuality").textContent="Impossibile leggere la foto: "+uploadError(err)}
+  finally{try{input.value=""}catch(e){}}
 }
 function viewTransform(){
   const c=$("#editorCanvas"),img=state.original,base=Math.min(c.width/img.width,c.height/img.height),scale=base*state.zoom;
@@ -217,7 +290,7 @@ function renderCurrentSide(){
   const out=$("#correctedCanvas");out.width=cap.canvas.width;out.height=cap.canvas.height;out.getContext("2d").drawImage(cap.canvas,0,0);
 }
 function updateCaptureStatus(){
-  $("#captureStatus").textContent=(state.captures.front?"fronte ✓":"fronte non acquisito")+" • "+(state.captures.back?"retro ✓":"retro opzionale");
+  $("#captureStatus").textContent=(state.captures.front?"fronte ✓":"fronte non acquisito")+" • "+(state.captures.back?"retro ✓":"retro opzionale (senza retro la confidence resta ridotta)");
 }
 function selectSide(side){
   if($("#borderEditor")&&!$("#borderEditor").hidden){$("#scanQuality").textContent="Conferma o annulla la foto corrente prima di cambiare lato.";return}
@@ -245,27 +318,23 @@ async function doRecognition(){
   }catch(e){if(run===state.recognitionRun){state.recognized=null;root.innerHTML='<div class="notice">OCR non riuscito: '+esc(e.message)+' Puoi sempre usare la ricerca manuale.</div>'}}
   finally{if(run===state.recognitionRun){button.disabled=false;button.textContent="Riconosci carta"}}
 }
-function conditionFromGrade(grade){
-  if(grade>=8.5)return"NM";
-  if(grade>=7)return"LP";
-  if(grade>=5)return"MP";
-  if(grade>=3)return"HP";
-  return"DAMAGED";
-}
 function pricePriority(type){return({market:1,trend:2,mid:3,set_price:4,low:5,average:6,high:7,direct_low:8})[type]||99}
-async function gradingValueHtml(card,grade){
+async function gradingValueHtml(card,suggestion){
   if(!card)return'<div class="notice">Carta non identificata: impossibile associare un valore alla stampa.</div>';
   const prices=await getPricesForCard(card);
   if(!prices.length)return'<div class="notice">Prezzo non disponibile per questa stampa. Dati insufficienti per stimare il valore da carta gradata.</div>';
-  const condition=conditionFromGrade(grade),range=CONDITION_ESTIMATES[condition]||[1,1],byCurrency=new Map();
+  const coeff=suggestion?conditionCoefficient(suggestion.code):null,range=coeff?[coeff.low,coeff.high]:[1,1],conditionText=suggestion?conditionName(suggestion.code):"",byCurrency=new Map();
   for(const p of prices){if(!byCurrency.has(p.currency))byCurrency.set(p.currency,[]);byCurrency.get(p.currency).push(p)}
   const blocks=[];
   for(const [currency,rows] of byCurrency){
     rows.sort((a,b)=>pricePriority(a.priceType)-pricePriority(b.priceType));
     const p=rows[0],lo=Number(p.value)*range[0],hi=Number(p.value)*range[1];
-    blocks.push('<div class="analysis-box"><b>Valore Raw osservato • '+p.source+' '+p.priceType+'</b><div>'+currency+' '+Number(p.value).toFixed(2)+' • '+(p.variant||"variante non specificata")+'</div><small>Affidabilità '+reliability(p)+' • '+(p.timestamp||"data non fornita")+'</small><div class="metric"><span>STIMA PER CONDIZIONE '+condition+'</span><b>'+(lo===hi?currency+' '+lo.toFixed(2):currency+' '+lo.toFixed(2)+'–'+hi.toFixed(2))+'</b></div><small>Stima derivata dall’intervallo configurato, non prezzo osservato per condizione.</small></div>');
+    blocks.push('<div class="analysis-box"><b>Valore di riferimento osservato • '+esc(p.source)+' '+esc(p.priceType)+'</b><div>'+esc(currency)+' '+Number(p.value).toFixed(2)+' • '+esc(p.variant||"variante non specificata")+'</div><small>Affidabilità '+reliability(p)+' • '+esc(p.timestamp||"data non fornita")+'</small>'+(suggestion?'<div class="metric"><span>STIMA per condizione '+esc(conditionText)+'</span><b>'+(lo===hi?currency+' '+lo.toFixed(2):currency+' '+lo.toFixed(2)+'–'+hi.toFixed(2))+'</b></div><small>Stima tramite coefficiente di condizione configurabile, non un prezzo osservato per quella condizione.</small>':'')+'</div>');
   }
   return blocks.join("")+'<div class="notice">Dati insufficienti per stimare il valore da carta gradata certificata. Non viene applicato alcun moltiplicatore PSA/CGC/BGS.</div>';
+}
+function conditionOptions(selected){
+  return CONDITIONS.map(c=>'<option value="'+c.code+'"'+(selected===c.code?" selected":"")+'>'+esc(c.label)+'</option>').join("")+'<option value="'+UNSPECIFIED.code+'"'+(selected===UNSPECIFIED.code?" selected":"")+'>'+esc(UNSPECIFIED.label)+'</option>';
 }
 async function doGrading(){
   const front=state.captures.front;if(!front){$("#gradingResult").innerHTML='<div class="notice">Per il grading serve almeno il fronte.</div>';return}
@@ -282,18 +351,29 @@ async function doGrading(){
     const frontCenter='FRONT L/R '+fa.centering.lr[0]+'/'+fa.centering.lr[1]+' • T/B '+fa.centering.tb[0]+'/'+fa.centering.tb[1]+' • segnale '+Math.round(fa.centering.reliability*100)+'%',backCenter=ba?'BACK L/R '+ba.centering.lr[0]+'/'+ba.centering.lr[1]+' • T/B '+ba.centering.tb[0]+'/'+ba.centering.tb[1]+' • segnale '+Math.round(ba.centering.reliability*100)+'%':"";
     const rejectedBackHtml=backRejected?'<div class="notice">Il retro acquisito è stato escluso: '+backGate.blockers.map(esc).join(" • ")+'. Il voto resta provvisorio sul solo fronte.</div>':"";
     const defectHtml=defects.length?'<div class="notice"><b>Difetti e segnali rilevati</b><br>'+defects.map(d=>esc(d.message)).join("<br>")+'</div>':"",qualityWarnings=[...(fa.quality.warnings||[]),...(ba&&ba.quality.warnings||[])],qualityHtml=qualityWarnings.length?'<div class="notice">Qualità foto: '+[...new Set(qualityWarnings)].map(esc).join(" • ")+'. Il risultato ha confidenza ridotta.</div>':"",capHtml=appliedCap!=null?'<div class="notice">Grade cap applicato: massimo '+appliedCap.toFixed(1)+'.</div>':"";
-    const valueHtml=await gradingValueHtml(state.recognized,cappedFinal);if(run!==state.gradingRun)return;const gradeVariants=state.recognized?variantKeys(state.recognized).filter(v=>v!=="base"):[],gradeVariantHtml=gradeVariants.length?'<label>Variante <select id="gradedVariant">'+gradeVariants.map(v=>'<option value="'+esc(v)+'">'+esc(v)+'</option>').join("")+'</select></label>':"";
-    root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><p class="grade-status '+status.code+'">'+status.label+'</p><p>'+esc(status.message)+'</p><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+rejectedBackHtml+qualityHtml+defectHtml+capHtml+'<p class="confidence">Confidence: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>'+valueHtml+(state.recognized?gradeVariantHtml+'<button id="addGradedCard" class="primary">Aggiungi alla collezione</button>':"");
-    const addGraded=$("#addGradedCard");if(addGraded)addGraded.onclick=async()=>{const v=$("#gradedVariant");await addCopy(state.recognized,{condition:conditionFromGrade(cappedFinal),variant:v?v.value:"",notes:"Aggiunta da grading "+saved.gradingAlgorithmVersion});addGraded.disabled=true;addGraded.textContent="✓ Aggiunta alla collezione"};
+    // Condizione commerciale: solo un suggerimento ricavato dal grading, separato dal voto numerico e dalla sua confidence.
+    const suggestion=suggestCondition({finalGrade:cappedFinal,confidence,appliedCap,defects});
+    const valueHtml=await gradingValueHtml(state.recognized,suggestion);if(run!==state.gradingRun)return;const gradeVariants=state.recognized?variantKeys(state.recognized).filter(v=>v!=="base"):[],gradeVariantHtml=gradeVariants.length?'<label>Variante <select id="gradedVariant">'+gradeVariants.map(v=>'<option value="'+esc(v)+'">'+esc(v)+'</option>').join("")+'</select></label>':"";
+    const conditionHtml='<div class="analysis-box"><h3>Condizione della copia</h3>'+(suggestion?'<p><b>Condizione stimata: '+esc(conditionName(suggestion.code))+' – confidence '+suggestion.confidence+'%</b></p>':'')+'<p class="notice">Il voto ('+cappedFinal.toFixed(1)+'/10) e la condizione commerciale sono cose diverse. Questa è solo una proposta: puoi cambiarla prima di aggiungere la carta alla collezione.</p>'+(state.recognized?'<label>Condizione che salvo per questa copia <select id="gradedCondition">'+conditionOptions(suggestion?suggestion.code:"")+'</select></label><small id="gradedConditionDesc" class="condition-desc">'+esc(suggestion?conditionInfo(suggestion.code).description:"")+'</small>':'<small>Identifica la carta per poterla aggiungere alla collezione.</small>')+'</div>';
+    root.innerHTML='<div class="analysis-box"><h3>NOSTRO GRADING</h3><p class="grade-status '+status.code+'">'+status.label+'</p><p>'+esc(status.message)+'</p><div class="metric"><span>Centering</span><b>'+center.toFixed(1)+'</b></div><div class="metric"><span>Corners</span><b>'+corners.toFixed(1)+'</b></div><div class="metric"><span>Edges</span><b>'+edges.toFixed(1)+'</b></div><div class="metric"><span>Surface</span><b>'+surface.toFixed(1)+'</b></div><div class="metric"><span>Final Grade</span><b>'+cappedFinal.toFixed(1)+'/10</b></div><p>'+frontCenter+(backCenter?'<br>'+backCenter:"")+'</p>'+rejectedBackHtml+qualityHtml+defectHtml+capHtml+'<p class="confidence">Confidence grading: '+confidence+'%'+(ba?" • fronte + retro":" • solo fronte: analisi meno completa, confidence ridotta")+'</p><div class="notice">'+(interval?("Intervallo fotografico indicativo: "+interval[0]+"–"+interval[1]+". "):"Confidence insufficiente per proporre un intervallo. ")+GRADING_CONFIG.professionalDisclaimer+'</div><small>Risultato salvato • '+saved.gradingAlgorithmVersion+'</small></div>'+conditionHtml+valueHtml+(state.recognized?gradeVariantHtml+'<button id="addGradedCard" class="primary">Aggiungi alla collezione</button><div id="addGradedStatus"></div>':"");
+    const conditionSelect=$("#gradedCondition");if(conditionSelect)conditionSelect.onchange=()=>{const d=$("#gradedConditionDesc");if(d)d.textContent=conditionInfo(conditionSelect.value).description};
+    const addGraded=$("#addGradedCard");if(addGraded)addGraded.onclick=async()=>{
+      const v=$("#gradedVariant"),sel=$("#gradedCondition"),status=$("#addGradedStatus");
+      try{
+        await addCopy(state.recognized,{condition:sel?sel.value:UNSPECIFIED.code,conditionSuggestion:suggestion?{code:suggestion.code,confidence:suggestion.confidence}:null,gradingId:saved.id||null,gradeValue:cappedFinal,gradeConfidence:confidence,variant:v?v.value:"",notes:"Aggiunta da grading "+saved.gradingAlgorithmVersion});
+        addGraded.disabled=true;addGraded.textContent="✓ Aggiunta alla collezione ("+conditionLabel(sel?sel.value:UNSPECIFIED.code)+")";
+      }catch(err){if(status)status.innerHTML='<div class="notice">'+esc(err.message)+'</div>'}
+    };
   }catch(e){root.innerHTML='<div class="notice">Analisi non riuscita: '+esc(e.message)+'</div>'}
   finally{if(run===state.gradingRun){button.disabled=false;button.textContent="Analizza grading"}}
 }
 export function getScannerState(){return state}
 export function setRecognizedCard(card){state.recognized=card;const root=document.querySelector("#recognitionResult");if(root&&card)root.innerHTML='<div class="analysis-box"><h3>Identificazione corretta manualmente</h3><div class="candidate-card">'+cardThumb(card)+'<div><b>'+esc(card.name)+'</b><div>'+esc(card.collectionNumber||"—")+' • '+esc(card.setName||card.setCode||"")+'</div></div></div><p class="confidence">Selezione manuale confermata.</p></div>'}
 export function resetScannerSession(){
-  state.recognitionRun++;state.gradingRun++;state.currentSide="front";state.original=null;state.originalBlob=null;state.corners=null;state.detectedCorners=null;state.prevThumb=null;state.prevQuadNorm=null;state.stableFrames=0;state.lastQuality=null;state.borderConfidence=0;state.detectedValid=false;state.captureBorderConfidence=0;state.manualCorners=false;state.captures={front:null,back:null};state.recognized=null;
+  state.recognitionRun++;state.gradingRun++;state.currentSide="front";state.original=null;state.originalBlob=null;state.corners=null;state.detectedCorners=null;state.prevThumb=null;state.prevQuadNorm=null;state.validStreak=0;state.invalidStreak=0;state.ready=false;state.lastQuality=null;state.borderConfidence=0;state.detectedValid=false;state.captureBorderConfidence=0;state.manualCorners=false;state.captures={front:null,back:null};state.recognized=null;
+  setGuideState(false,"");
   $("#sideFrontBtn")?.classList.add("active");$("#sideBackBtn")?.classList.remove("active");if($("#borderEditor"))$("#borderEditor").hidden=true;if($("#correctedPanel"))$("#correctedPanel").hidden=true;if($("#gradingOverlays"))$("#gradingOverlays").hidden=true;
-  if($("#recognitionResult"))$("#recognitionResult").innerHTML="";if($("#gradingResult"))$("#gradingResult").innerHTML="";if($("#photoFile"))$("#photoFile").value="";if($("#ocrBtn")){ $("#ocrBtn").disabled=false;$("#ocrBtn").textContent="Riconosci carta" }if($("#gradeBtn")){ $("#gradeBtn").disabled=false;$("#gradeBtn").textContent="Analizza grading" }resetInspection();updateCaptureStatus();
+  if($("#recognitionResult"))$("#recognitionResult").innerHTML="";if($("#gradingResult"))$("#gradingResult").innerHTML="";if($("#photoFile"))$("#photoFile").value="";if($("#photoCapture"))$("#photoCapture").value="";if($("#ocrBtn")){ $("#ocrBtn").disabled=false;$("#ocrBtn").textContent="Riconosci carta" }if($("#gradeBtn")){ $("#gradeBtn").disabled=false;$("#gradeBtn").textContent="Analizza grading" }resetInspection();updateCaptureStatus();
   if($("#scanQuality"))$("#scanQuality").textContent=state.stream?"Nuova carta: inquadra il fronte.":"Nuova carta pronta. Apri la fotocamera o carica il fronte.";
 }
 
@@ -301,7 +381,10 @@ export function initScanner(options={}){
   state.onCardIdentified=options.onCardIdentified||null;
   $("#startCameraBtn").onclick=()=>startCamera().catch(()=>{});
   $("#stopCameraBtn").onclick=stopCamera;$("#newScanBtn").onclick=resetScannerSession;$("#captureBtn").onclick=()=>captureFromVideo(false);
-  $("#photoFile").onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;try{const img=await imageFromBlob(f),q=detectImageQuad(img,64);openEditor(img,q?q.points:defaultCorners(img),f,false,q?q.confidence:0)}catch(err){$("#scanQuality").textContent="Impossibile leggere la foto: "+err.message}};
+  // Galleria/dispositivo (senza "capture", altrimenti il telefono apre solo la fotocamera) e foto con l'app fotocamera.
+  const gallery=$("#photoFile"),nativeCamera=$("#photoCapture");
+  if(gallery)gallery.onchange=e=>handlePhotoInput(e.target);
+  if(nativeCamera)nativeCamera.onchange=e=>handlePhotoInput(e.target);
   $("#editorZoom").oninput=e=>{state.zoom=Number(e.target.value);drawEditor()};
   $("#resetCornersBtn").onclick=()=>{const q=detectImageQuad(state.original,60);state.corners=q?q.points:defaultCorners(state.original);state.captureBorderConfidence=q?q.confidence:0;state.manualCorners=false;state.zoom=1;state.panX=0;state.panY=0;$("#editorZoom").value="1";drawEditor()};
   $("#cancelEditBtn").onclick=cancelEditor;$("#confirmCornersBtn").onclick=confirmCorners;$("#sideFrontBtn").onclick=()=>selectSide("front");$("#sideBackBtn").onclick=()=>selectSide("back");
