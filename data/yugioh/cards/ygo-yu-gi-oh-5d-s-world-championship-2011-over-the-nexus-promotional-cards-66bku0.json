@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 19.08,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:99000151:WC11EN001:ygo-yu-gi-oh-5d-s-world-championship-2011-over-the-nexus-promotional-cards-66bku0:ygo-ultra-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.46,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:36405256:WC11EN002:ygo-yu-gi-oh-5d-s-world-championship-2011-over-the-nexus-promotional-cards-66bku0:ygo-super-rare",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.53,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:36405256:WC11EN002:ygo-yu-gi-oh-5d-s-world-championship-2011-over-the-nexus-promotional-cards-66bku0:ygo-ultra-rare",
@@ -149,11 +149,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.46,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:62499965:WC11EN003:ygo-yu-gi-oh-5d-s-world-championship-2011-over-the-nexus-promotional-cards-66bku0:ygo-super-rare",
@@ -188,11 +188,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 12.26,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:62499965:WC11EN003:ygo-yu-gi-oh-5d-s-world-championship-2011-over-the-nexus-promotional-cards-66bku0:ygo-ultra-rare",
@@ -227,10 +227,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.5,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   }
 ]

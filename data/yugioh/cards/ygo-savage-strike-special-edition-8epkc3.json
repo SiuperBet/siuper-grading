@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 0.84,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:51011872:SASTENSE3:ygo-savage-strike-special-edition-8epkc3:ygo-super-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.47,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:12213463:SASTENSE4:ygo-savage-strike-special-edition-8epkc3:ygo-super-rare",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.07,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:72700231:SASTENSE2:ygo-savage-strike-special-edition-8epkc3:ygo-super-rare",
@@ -149,10 +149,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.92,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   }
 ]

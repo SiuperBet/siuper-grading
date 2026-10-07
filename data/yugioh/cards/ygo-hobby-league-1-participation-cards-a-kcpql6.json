@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 34.9,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:99510761:HL1EN001:ygo-hobby-league-1-participation-cards-a-kcpql6:ygo-common",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.63,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   }
 ]

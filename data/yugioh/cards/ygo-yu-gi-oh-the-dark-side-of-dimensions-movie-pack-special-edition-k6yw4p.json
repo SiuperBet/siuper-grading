@@ -39,11 +39,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 83.11,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:46986414:MVP1ENSE3:ygo-yu-gi-oh-the-dark-side-of-dimensions-movie-pack-special-edition-k6yw4p:ygo-ultra-rare",
@@ -86,11 +86,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.11,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:20137754:MVP1ENSE1:ygo-yu-gi-oh-the-dark-side-of-dimensions-movie-pack-special-edition-k6yw4p:ygo-ultra-rare",
@@ -125,11 +125,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.12,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:77363314:MVP1ENSE2:ygo-yu-gi-oh-the-dark-side-of-dimensions-movie-pack-special-edition-k6yw4p:ygo-ultra-rare",
@@ -164,10 +164,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.87,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   }
 ]

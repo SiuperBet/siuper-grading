@@ -39,11 +39,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 282.08,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:78193831:YAP1EN006:ygo-anniversary-pack-zjas46:ygo-ultra-rare",
@@ -79,11 +79,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 58.37,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:91152256:YAP1EN004:ygo-anniversary-pack-zjas46:ygo-ultra-rare",
@@ -120,11 +120,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 42.36,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:31122090:YAP1EN005:ygo-anniversary-pack-zjas46:ygo-ultra-rare",
@@ -160,11 +160,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 20.7,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:77585513:YAP1EN007:ygo-anniversary-pack-zjas46:ygo-ultra-rare",
@@ -200,11 +200,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 74.32,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:74677422:YAP1EN002:ygo-anniversary-pack-zjas46:ygo-ultra-rare",
@@ -244,11 +244,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 89.05,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:27416701:YAP1EN008:ygo-anniversary-pack-zjas46:ygo-ultra-rare",
@@ -283,11 +283,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 72.1,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:70781052:YAP1EN003:ygo-anniversary-pack-zjas46:ygo-ultra-rare",
@@ -325,10 +325,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 44.99,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   }
 ]

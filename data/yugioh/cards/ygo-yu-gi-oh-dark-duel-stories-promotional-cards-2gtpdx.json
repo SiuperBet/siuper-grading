@@ -33,11 +33,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.47,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:89631139:DDS001:ygo-yu-gi-oh-dark-duel-stories-promotional-cards-2gtpdx:ygo-prismatic-secret-rare",
@@ -79,11 +79,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1647.85,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:46986414:DDS002:ygo-yu-gi-oh-dark-duel-stories-promotional-cards-2gtpdx:ygo-prismatic-secret-rare",
@@ -126,11 +126,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 797.61,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:33396948:DDS003:ygo-yu-gi-oh-dark-duel-stories-promotional-cards-2gtpdx:ygo-prismatic-secret-rare",
@@ -165,11 +165,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 775.93,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:32268901:DDS006:ygo-yu-gi-oh-dark-duel-stories-promotional-cards-2gtpdx:ygo-prismatic-secret-rare",
@@ -204,11 +204,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.77,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:6740720:DDS004:ygo-yu-gi-oh-dark-duel-stories-promotional-cards-2gtpdx:ygo-prismatic-secret-rare",
@@ -243,10 +243,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 13.74,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   }
 ]

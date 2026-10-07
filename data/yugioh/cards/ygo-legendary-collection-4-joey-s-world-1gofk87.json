@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.03,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:86308219:LC04EN002:ygo-legendary-collection-4-joey-s-world-1gofk87:ygo-ultra-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.46,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:73915052:LC04EN004:ygo-legendary-collection-4-joey-s-world-1gofk87:ygo-ultra-rare",
@@ -113,11 +113,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.62,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:73915052:LC04EN005:ygo-legendary-collection-4-joey-s-world-1gofk87:ygo-ultra-rare",
@@ -155,11 +155,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.37,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:73915052:LC04EN006:ygo-legendary-collection-4-joey-s-world-1gofk87:ygo-ultra-rare",
@@ -197,11 +197,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 24.69,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   },
   {
     "id": "yugioh:73915052:LC04EN007:ygo-legendary-collection-4-joey-s-world-1gofk87:ygo-ultra-rare",
@@ -239,10 +239,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.19,
-      "timestamp": "2026-09-30T10:00:35.091Z",
+      "timestamp": "2026-10-07T10:34:59.729Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-09-30T10:00:35.091Z"
+    "updatedAt": "2026-10-07T10:34:59.729Z"
   }
 ]
