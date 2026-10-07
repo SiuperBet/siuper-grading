@@ -1,9 +1,9 @@
 {
   "version": 1,
   "source": "YGOCDB",
-  "updatedAt": "2026-09-26T16:40:22.027Z",
-  "md5": "\"4ccbfbdd77bca4d9762bb0efeae6ea3e\"",
-  "cards": 14325,
+  "updatedAt": "2026-10-07T11:44:33.682Z",
+  "md5": "\"082fc1aa0c883506eb147377372eeaed\"",
+  "cards": 14342,
   "aliases": {
     "483": {
       "cid": 21470,
@@ -2183,7 +2183,7 @@
       "zhName": "雷盟-梯级先导",
       "scName": "雷盟－先导云步",
       "cnocgName": "雷盟-领步",
-      "masterDuelName": "雷盟－先导云步",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -2417,7 +2417,7 @@
       "zhName": "猛毒蝮",
       "scName": "剧毒蝮蛇",
       "cnocgName": "猛毒蝮",
-      "masterDuelName": "剧毒蝮蛇",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -4715,7 +4715,7 @@
       "zhName": "三幻魔的霹雳",
       "scName": "三幻魔之霹雳",
       "cnocgName": "三幻魔的霹雳",
-      "masterDuelName": "三幻魔之霹雳",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -4826,7 +4826,7 @@
     },
     "1280391": {
       "cid": 23382,
-      "enName": "",
+      "enName": "Advent of Atlantis",
       "jpName": "顕現する伝説の都",
       "jpRuby": "アトランティス・アドベント",
       "zhName": "显现的传说之都",
@@ -4838,7 +4838,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -6245,7 +6248,7 @@
     },
     "1710647": {
       "cid": 23333,
-      "enName": "",
+      "enName": "Yoa the Plague Ashtra",
       "jpName": "疫神の依鬼 ヨア",
       "jpRuby": "えきじんのアシュトラ　ヨア",
       "zhName": "疫神之依鬼 夜亚",
@@ -6257,7 +6260,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -8528,7 +8534,7 @@
       "zhName": "混沌礼帽",
       "scName": "混沌礼帽",
       "cnocgName": "混沌礼帽",
-      "masterDuelName": "混沌礼帽",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -8967,7 +8973,7 @@
       "jpName": "スカルビショップ",
       "jpRuby": "スカルビショップ",
       "zhName": "骷髅祭司",
-      "scName": "",
+      "scName": "骷髅主教",
       "cnocgName": "骷髅祭司",
       "masterDuelName": "骷髅主教",
       "release": {
@@ -8979,7 +8985,10 @@
           "date": "2002-06-26",
           "pack": "METAL RAIDERS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "2507443": {
@@ -9308,7 +9317,7 @@
     },
     "2606417": {
       "cid": 23393,
-      "enName": "",
+      "enName": "Reversal Box",
       "jpName": "大逆転BOX",
       "jpRuby": "リバーサルボックス",
       "zhName": "大逆转箱",
@@ -9320,7 +9329,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -9647,7 +9659,7 @@
     },
     "2729965": {
       "cid": 23390,
-      "enName": "",
+      "enName": "Hey, Space Trunade!",
       "jpName": "宇宙的ハリケーン",
       "jpRuby": "うちゅうてきハリケーン",
       "zhName": "宇宙性飓风",
@@ -9659,7 +9671,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -10259,7 +10274,7 @@
     },
     "2906939": {
       "cid": 23379,
-      "enName": "",
+      "enName": "Ashtrashen - Gate to the Worlds Beyond",
       "jpName": "艮神鬼門 三千世界",
       "jpRuby": "アシュトラーシェン　さんぜんせかい",
       "zhName": "艮神鬼门 三千世界",
@@ -10271,7 +10286,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -10349,7 +10367,7 @@
     },
     "2932235": {
       "cid": 23330,
-      "enName": "",
+      "enName": "Thousand Umbral Horror",
       "jpName": "サウザンド・アンブラル",
       "jpRuby": "サウザンド・アンブラル",
       "zhName": "上千阴影",
@@ -10361,7 +10379,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -10859,7 +10880,7 @@
     },
     "3064783": {
       "cid": 23327,
-      "enName": "",
+      "enName": "Shining Umbral Horror",
       "jpName": "シャイニング・アンブラル",
       "jpRuby": "シャイニング・アンブラル",
       "zhName": "闪光阴影",
@@ -10871,7 +10892,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -11219,7 +11243,7 @@
     },
     "3129527": {
       "cid": 23376,
-      "enName": "",
+      "enName": "Sleepy Scapegoats",
       "jpName": "眠れる羊 スケープ・ゴート",
       "jpRuby": "ねむれるひつじ　スケープ・ゴート",
       "zhName": "睡羊 替罪羊",
@@ -11231,7 +11255,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -11378,7 +11405,7 @@
       "zhName": "骄傲与灵魂之究极龙",
       "scName": "骄傲与灵魂之究极龙",
       "cnocgName": "骄傲与灵魂之究极龙",
-      "masterDuelName": "骄傲与灵魂之究极龙",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2024-07-27",
@@ -12242,7 +12269,7 @@
     },
     "3441553": {
       "cid": 23387,
-      "enName": "",
+      "enName": "Sacred Beasts Skyfall",
       "jpName": "三幻魔の天壊",
       "jpRuby": "さんげんまのてんかい",
       "zhName": "三幻魔的天坏",
@@ -12254,7 +12281,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -13685,7 +13715,7 @@
     },
     "3841104": {
       "cid": 23373,
-      "enName": "",
+      "enName": "Stratiae the Stratasmasher Dino",
       "jpName": "解層竜ストラティアエ",
       "jpRuby": "かいそうりゅうストラティアエ",
       "zhName": "解层龙 分层友谊丹波巨龙",
@@ -13697,7 +13727,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -14369,7 +14402,7 @@
     },
     "4063756": {
       "cid": 23370,
-      "enName": "",
+      "enName": "Mediclius the Extraordinary Power Patron",
       "jpName": "幻獄神メディクリウス",
       "jpRuby": "げんごくしんメディクリウス",
       "zhName": "幻狱神 米底丘利乌斯",
@@ -14381,7 +14414,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -16046,7 +16082,7 @@
       "zhName": "治安战警队 莫名者",
       "scName": "超元特防队 诡义",
       "cnocgName": "治安战警队 迷惑者",
-      "masterDuelName": "超元特防队 诡义",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -16178,7 +16214,7 @@
     },
     "4663194": {
       "cid": 23384,
-      "enName": "",
+      "enName": "Dark City at Midnight",
       "jpName": "幽獄の時計都市－ダーク・シティ",
       "jpRuby": "ゆうごくのとけいとし－ダーク・シティ",
       "zhName": "幽狱之时计都市-暗黑都市",
@@ -16190,7 +16226,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -16832,7 +16871,7 @@
     },
     "4881365": {
       "cid": 23324,
-      "enName": "",
+      "enName": "Alligator's Dragon Knight",
       "jpName": "ワイバーンの竜騎士",
       "jpRuby": "ワイバーンのりゅうきし",
       "zhName": "翼龙龙骑士",
@@ -16844,7 +16883,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -17339,7 +17381,7 @@
       "zhName": "守护神 艾克佐迪亚",
       "scName": "",
       "cnocgName": "守护神 艾库佐迪亚",
-      "masterDuelName": "守护神 艾克佐迪亚",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -18086,7 +18128,7 @@
       "zhName": "动点的心慌灵摆",
       "scName": "灵摆动点P",
       "cnocgName": "灵摆动点P",
-      "masterDuelName": "灵摆动点P",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -20183,7 +20225,7 @@
       "zhName": "童话动物神仙教母·魔魅妈咪",
       "scName": "梅尔菲教母・玛咪",
       "cnocgName": "奇妙毛毛兽教母妈咪",
-      "masterDuelName": "梅尔菲教母・玛咪",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -22149,7 +22191,7 @@
       "jpName": "CNo.6 先史遺産カオス・アトランタル",
       "jpRuby": "カオスナンバーズ６　オーパーツカオス・アトランタル",
       "zhName": "混沌No.6 先史遗产 混沌大西洲巨人",
-      "scName": "",
+      "scName": "混沌编号6 先史遗产 混沌亚特兰塔",
       "cnocgName": "CNo.6 先史遗产 混沌大西洲巨人",
       "masterDuelName": "混沌编号6 先史遗产 混沌大西洲巨人",
       "release": {
@@ -22161,7 +22203,10 @@
           "date": "2014-03-28",
           "pack": "PREMIUM GOLD"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "6390406": {
@@ -22827,7 +22872,7 @@
       "jpName": "霧の王",
       "jpRuby": "キングミスト",
       "zhName": "雾之王",
-      "scName": "",
+      "scName": "雾之王",
       "cnocgName": "雾之王",
       "masterDuelName": "雾之王",
       "release": {
@@ -22839,7 +22884,10 @@
           "date": "2008-05-13",
           "pack": "LIGHT OF DESTRUCTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "6616912": {
@@ -24410,7 +24458,7 @@
       "zhName": "诱饵人偶",
       "scName": "",
       "cnocgName": "诱饵人偶",
-      "masterDuelName": "诱饵娃娃",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2001-07-12",
@@ -25191,7 +25239,7 @@
       "jpName": "葬嶺異解△ヴェルヘイム",
       "jpRuby": "ソウレイイカイヴェルヘイム",
       "zhName": "葬岭异解△危尔海姆",
-      "scName": "",
+      "scName": "葬岭异解△危尔海姆",
       "cnocgName": "葬岭异解△威尔海姆",
       "masterDuelName": "",
       "release": {
@@ -25200,7 +25248,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "7436169": {
@@ -25844,7 +25895,7 @@
       "zhName": "禅那之追傩仪姬",
       "scName": "禅那乃追傩戏姬",
       "cnocgName": "善名的追傩戏姬",
-      "masterDuelName": "禅那乃追傩戏姬",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -28761,7 +28812,7 @@
       "jpName": "碧ノ異解△トゥオネラ",
       "jpRuby": "アオノイカイトゥオネラ",
       "zhName": "碧之异解△屠奥内拉",
-      "scName": "",
+      "scName": "碧之异解△屠奥内拉",
       "cnocgName": "碧之异解△图奥内拉",
       "masterDuelName": "",
       "release": {
@@ -28770,7 +28821,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "8540986": {
@@ -29796,7 +29850,7 @@
       "jpName": "外神ナイアルラ",
       "jpRuby": "ガイシンナイアルラ",
       "zhName": "外神 奈亚拉",
-      "scName": "",
+      "scName": "外神奈亚拉",
       "cnocgName": "外神 奈亚拉",
       "masterDuelName": "外神 奈亚拉",
       "release": {
@@ -29808,7 +29862,10 @@
           "date": "2018-08-17",
           "pack": "SHADOWS IN VALHALLA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "8814959": {
@@ -31014,7 +31071,7 @@
       "jpName": "No.6 先史遺産アトランタル",
       "jpRuby": "ナンバーズ６ オーパーツアトランタル",
       "zhName": "No.6 先史遗产 大西洲巨人",
-      "scName": "",
+      "scName": "编号6 先史遗产 亚特兰塔",
       "cnocgName": "No.6 先史遗产 大西洲巨人",
       "masterDuelName": "编号6 先史遗产 大西洲巨人",
       "release": {
@@ -31026,7 +31083,10 @@
           "date": "2012-08-28",
           "pack": "RETURN OF THE DUELIST"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "9175957": {
@@ -31713,7 +31773,7 @@
       "jpName": "レイズ・ムーンの煌めき",
       "jpRuby": "レイズ・ムーンのきらめき",
       "zhName": "盈彩月夜之辉煌",
-      "scName": "",
+      "scName": "盈彩月夜之辉煌",
       "cnocgName": "升月的辉煌",
       "masterDuelName": "",
       "release": {
@@ -31722,7 +31782,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "9365703": {
@@ -32094,7 +32157,7 @@
       "jpName": "レイズ・ムーンの望 スクイーズ－ジャックポット",
       "jpRuby": "レイズ・ムーンののぞみ　スクイーズ－ジャックポット",
       "zhName": "盈彩月夜之望 斯奎兹-千金大奖",
-      "scName": "",
+      "scName": "盈彩月夜之望 斯奎兹－千金大奖",
       "cnocgName": "升月之望 斯龟兹-头奖",
       "masterDuelName": "盈彩月夜之望 斯奎兹－千金大奖",
       "release": {
@@ -32103,7 +32166,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "9485511": {
@@ -32432,7 +32498,7 @@
       "zhName": "我我我的脱出剧",
       "scName": "我我我逃脱剧",
       "cnocgName": "我我我的脱出剧",
-      "masterDuelName": "我我我逃脱剧",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -33066,7 +33132,7 @@
       "jpName": "光帰の旅－『セネト』",
       "jpRuby": "こうきのたび－『セネト』",
       "zhName": "归光之旅-『塞尼特』",
-      "scName": "",
+      "scName": "归光之旅－『塞尼特』",
       "cnocgName": "光归之旅-『塞尼特』",
       "masterDuelName": "",
       "release": {
@@ -33075,7 +33141,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "9763474": {
@@ -33927,7 +33996,7 @@
       "jpName": "セネトの啓示者－アメンホテプ",
       "jpRuby": "セネトのけいじしゃ－アメンホテプ",
       "zhName": "塞尼特的启示者-阿蒙霍特普",
-      "scName": "",
+      "scName": "塞尼特的启示者－阿蒙霍特普",
       "cnocgName": "塞尼特的启示者-阿蒙霍特普",
       "masterDuelName": "",
       "release": {
@@ -33936,7 +34005,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "10012614": {
@@ -34997,7 +35069,7 @@
       "zhName": "护石的作庭",
       "scName": "护石庭园",
       "cnocgName": "护石的作庭",
-      "masterDuelName": "护石庭园",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -35624,7 +35696,7 @@
       "zhName": "呜呼的落穴",
       "scName": "呜呼落穴",
       "cnocgName": "呜呼之落穴",
-      "masterDuelName": "呜呼落穴",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -35913,7 +35985,7 @@
       "jpName": "レイズ・ムーンの灯 クルーシェ",
       "jpRuby": "レイズ・ムーンのあかり　クルーシェ",
       "zhName": "盈彩月夜之灯 库露雪",
-      "scName": "",
+      "scName": "盈彩月夜之灯 库露雪",
       "cnocgName": "升月之灯 库露雪",
       "masterDuelName": "",
       "release": {
@@ -35922,7 +35994,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "10612222": {
@@ -36906,7 +36981,7 @@
       "jpName": "セネトメス・ネクベト",
       "jpRuby": "セネトメス・ネクベト",
       "zhName": "塞尼特摩斯·尼库贝特",
-      "scName": "",
+      "scName": "塞尼特摩斯・尼库贝特",
       "cnocgName": "塞尼特之嗣·涅赫贝特",
       "masterDuelName": "",
       "release": {
@@ -36915,7 +36990,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "10920352": {
@@ -37016,7 +37094,7 @@
       "zhName": "异宇宙军神",
       "scName": "异宇宙战煌",
       "cnocgName": "异宇宙战煌",
-      "masterDuelName": "异宇宙战煌",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2025-04-12",
@@ -37289,7 +37367,7 @@
       "zhName": "死地误算守护",
       "scName": "死地误算守护",
       "cnocgName": "死地误算守护",
-      "masterDuelName": "死地误算守护",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2025-10-25",
@@ -38265,7 +38343,7 @@
       "jpName": "レイズ・ムーンの雅 キャロル",
       "jpRuby": "レイズ・ムーンのみやび　キャロル",
       "zhName": "盈彩月夜之雅 卡萝尔",
-      "scName": "",
+      "scName": "盈彩月夜之雅 卡萝尔",
       "cnocgName": "升月之雅 卡萝尔",
       "masterDuelName": "",
       "release": {
@@ -38274,7 +38352,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "11335209": {
@@ -38891,7 +38972,7 @@
       "zhName": "元素英雄 天空新宇侠",
       "scName": "",
       "cnocgName": "E·HERO 风之新生人",
-      "masterDuelName": "元素－英雄 天空新宇侠",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2006-11-16",
@@ -39254,7 +39335,7 @@
       "zhName": "治安战警队多世界排序",
       "scName": "超元特防队 理序世界",
       "cnocgName": "治安战警队 理序世界",
-      "masterDuelName": "超元特防队 理序世界",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -40259,7 +40340,7 @@
       "zhName": "电磁干扰雷盟兵",
       "scName": "艾米・雷盟",
       "cnocgName": "微笑爱咪·雷盟",
-      "masterDuelName": "艾米・雷盟",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -42441,7 +42522,7 @@
       "jpName": "光器の瀑布",
       "jpRuby": "セネト・カタラクト",
       "zhName": "光器之瀑布",
-      "scName": "",
+      "scName": "塞尼特・光器之瀑布",
       "cnocgName": "塞尼特·光器之瀑布",
       "masterDuelName": "",
       "release": {
@@ -42450,7 +42531,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "12571621": {
@@ -50567,7 +50651,7 @@
     },
     "15185344": {
       "cid": 23367,
-      "enName": "",
+      "enName": "Crowned Siclavee",
       "jpName": "燦冠乗騎シックラヴィー",
       "jpRuby": "さんかんじょうきシックラヴィー",
       "zhName": "灿冠乘骑 经典三冠海人马",
@@ -50579,7 +50663,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -52800,7 +52887,7 @@
       "jpName": "ポルターガイスト",
       "jpRuby": "ポルターガイスト",
       "zhName": "喧闹的邪恶灵",
-      "scName": "",
+      "scName": "骚灵",
       "cnocgName": "骚灵",
       "masterDuelName": "骚动邪灵",
       "release": {
@@ -52812,7 +52899,10 @@
           "date": "2003-03-01",
           "pack": "LABYRINTH OF NIGHTMARE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "15871676": {
@@ -53978,7 +54068,7 @@
       "zhName": "方解黑骑士",
       "scName": "",
       "cnocgName": "闪灵水晶萨满骑士",
-      "masterDuelName": "",
+      "masterDuelName": "魔解骑士 通灵晶簇",
       "release": {
         "jp": null,
         "en": {
@@ -56045,7 +56135,7 @@
     },
     "16908882": {
       "cid": 23364,
-      "enName": "",
+      "enName": "Number 104: Masquerade V",
       "jpName": "No.104 仮面魔踏士シャイニングV",
       "jpRuby": "ナンバーズ１０４　マスカレード・マジシャンシャイニングヴェイン",
       "zhName": "No.104 假面魔蹈士 闪光V枉然",
@@ -56057,7 +56147,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -56606,7 +56699,7 @@
     },
     "17020474": {
       "cid": 23361,
-      "enName": "",
+      "enName": "Ashtraja Susanoo",
       "jpName": "鬼神 朱沙之王",
       "jpRuby": "アシュトラージャ　スサノオ",
       "zhName": "鬼神 朱沙之王",
@@ -56618,7 +56711,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -57392,7 +57488,7 @@
     },
     "17242022": {
       "cid": 23358,
-      "enName": "",
+      "enName": "Red-Eyes Black Dragon Exceed",
       "jpName": "真紅眼の超越黒竜",
       "jpRuby": "レッドアイズ・ブラックドラゴン・エクシード",
       "zhName": "真红眼超越黑龙",
@@ -57404,7 +57500,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -61391,7 +61490,7 @@
       "zhName": "真红眼亚黑龙",
       "scName": "",
       "cnocgName": "真红眼亚黑龙",
-      "masterDuelName": "真红眼亚黑龙",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -61742,7 +61841,7 @@
       "zhName": "灰色铺叠者",
       "scName": "灰层",
       "cnocgName": "灰层",
-      "masterDuelName": "灰层",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -62075,7 +62174,7 @@
       "zhName": "系星之雷后",
       "scName": "牵星之雷后",
       "cnocgName": "牵星之雷后",
-      "masterDuelName": "牵星之雷后",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -62300,7 +62399,7 @@
       "zhName": "六芒星之咒缚",
       "scName": "",
       "cnocgName": "六芒星的咒缚",
-      "masterDuelName": "六芒星之咒缚",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2000-04-20",
@@ -64682,7 +64781,7 @@
     },
     "19491080": {
       "cid": 22920,
-      "enName": "",
+      "enName": "Clown Crew Cappello",
       "jpName": "道化の一座 ハット",
       "jpRuby": "クラウン・クラン　ハット",
       "zhName": "道化一座 帽隐士小丑",
@@ -64694,7 +64793,10 @@
           "date": "2026-07-03",
           "pack": "遊戯王OCGストラクチャーズ 第12巻 付録カード"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -65559,7 +65661,7 @@
       "jpName": "干ばつの結界像",
       "jpRuby": "かんばつのけっかいぞう",
       "zhName": "干旱之结界像",
-      "scName": "",
+      "scName": "干旱之结界像",
       "cnocgName": "干旱的结界像",
       "masterDuelName": "干旱之结界像",
       "release": {
@@ -65571,7 +65673,10 @@
           "date": "2006-11-15",
           "pack": "CYBERDARK IMPACT"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "19743887": {
@@ -66074,7 +66179,7 @@
       "zhName": "治安战警队 天鹅侠",
       "scName": "超元特防队 征义",
       "cnocgName": "治安战警队 天鹅座",
-      "masterDuelName": "超元特防队 征义",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -74634,7 +74739,7 @@
       "jpName": "リロード",
       "jpRuby": "リロード",
       "zhName": "上膛",
-      "scName": "",
+      "scName": "再填充",
       "cnocgName": "上弹",
       "masterDuelName": "上膛",
       "release": {
@@ -74646,7 +74751,10 @@
           "date": "2004-03-01",
           "pack": "INVASION OF CHAOS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "22593417": {
@@ -74738,7 +74846,7 @@
     },
     "22623509": {
       "cid": 22499,
-      "enName": "",
+      "enName": "Verre, the Maid of Endymion",
       "jpName": "エンディミオンの侍女ヴェール",
       "jpRuby": "エンディミオンのじじょヴェール",
       "zhName": "恩底弥翁的侍女 玻璃",
@@ -74750,7 +74858,10 @@
           "date": "2026-01-05",
           "pack": "遊戯王OCGストーリーズ 第6巻 付録カード"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-01-31",
           "pack": "万象包 －义战风华－"
@@ -75044,7 +75155,7 @@
       "zhName": "三幻魔的操世者",
       "scName": "三幻魔操世者",
       "cnocgName": "三幻魔的操世者",
-      "masterDuelName": "三幻魔操世者",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -75788,7 +75899,7 @@
       "zhName": "浪涌雷盟兵",
       "scName": "萨吉・雷盟",
       "cnocgName": "汹涌沙姬·雷盟",
-      "masterDuelName": "萨吉・雷盟",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -77819,7 +77930,7 @@
       "zhName": "雷盟-回击",
       "scName": "雷盟－回击电冲",
       "cnocgName": "雷盟-回击",
-      "masterDuelName": "雷盟－回击电冲",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -79034,7 +79145,7 @@
       "zhName": "劫火之三幻魔-神炎皇 乌利亚",
       "scName": "劫火之三幻魔－神炎皇乌利亚",
       "cnocgName": "劫火之三幻魔-神炎皇 乌利亚",
-      "masterDuelName": "劫火之三幻魔－神炎皇乌利亚",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -79961,7 +80072,7 @@
       "zhName": "混沌之魔王-骸骨恶魔",
       "scName": "混沌之魔王－骷髅恶魔",
       "cnocgName": "混沌的魔王 骸骨恶魔",
-      "masterDuelName": "混沌之魔王－骷髅恶魔",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -80057,7 +80168,7 @@
       "zhName": "二重魔法",
       "scName": "",
       "cnocgName": "二重魔法",
-      "masterDuelName": "二重魔法",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2002-09-19",
@@ -80450,7 +80561,7 @@
     },
     "24203749": {
       "cid": 23349,
-      "enName": "",
+      "enName": "The Great Gallant Bandit",
       "jpName": "天下独歩の大義賊",
       "jpRuby": "てんかどっぽのだいぎぞく",
       "zhName": "天下独步之大义贼",
@@ -80462,7 +80573,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -81368,7 +81482,7 @@
       "zhName": "朽坏的祭仪要录",
       "scName": "腐朽的祭仪要录",
       "cnocgName": "破旧的祭仪要录",
-      "masterDuelName": "腐朽的祭仪要录",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -82325,7 +82439,7 @@
       "zhName": "两颗心灵",
       "scName": "双心切换",
       "cnocgName": "两颗心",
-      "masterDuelName": "双心切换",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -82757,7 +82871,7 @@
     },
     "24925387": {
       "cid": 23346,
-      "enName": "",
+      "enName": "Adamancipator Conductor",
       "jpName": "魔救の調律者",
       "jpRuby": "アダマシア・コンダクター",
       "zhName": "魔救之调律者",
@@ -82769,7 +82883,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -83207,7 +83324,7 @@
     },
     "25158975": {
       "cid": 23343,
-      "enName": "",
+      "enName": "Destiny HERO - Destro-Dogma",
       "jpName": "D-HERO デスドグマガイ",
       "jpRuby": "デステニーヒーロー　デスドグマガイ",
       "zhName": "命运英雄 死亡教义人",
@@ -83219,7 +83336,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -85013,7 +85133,7 @@
       "zhName": "童话动物木头人游戏",
       "scName": "梅尔菲摔倒倒",
       "cnocgName": "奇妙毛毛兽跌倒了",
-      "masterDuelName": "梅尔菲摔倒倒",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -86349,7 +86469,7 @@
       "jpName": "墓守の監視者",
       "jpRuby": "はかもりのかんししゃ",
       "zhName": "守墓的监视者",
-      "scName": "",
+      "scName": "守墓的监视者",
       "cnocgName": "守墓的监视者",
       "masterDuelName": "守墓的监视者",
       "release": {
@@ -86361,7 +86481,10 @@
           "date": "2003-07-18",
           "pack": "PHARAONIC GUARDIAN"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "26096328": {
@@ -86411,7 +86534,7 @@
     },
     "26116996": {
       "cid": 23400,
-      "enName": "",
+      "enName": "Revenge of the Paper Dolls",
       "jpName": "祟リ紙ノ報イ",
       "jpRuby": "タタリガミノムクイ",
       "zhName": "祟纸报应",
@@ -86423,7 +86546,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -90401,7 +90527,7 @@
       "zhName": "柴战士 太郎",
       "scName": "",
       "cnocgName": "柴戦士 太郎",
-      "masterDuelName": "柴战士太郎",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2008-12-20",
@@ -95300,7 +95426,7 @@
     },
     "28968609": {
       "cid": 23355,
-      "enName": "",
+      "enName": "Garbage Golem",
       "jpName": "ガーベージ・ゴーレム",
       "jpRuby": "ガーベージ・ゴーレム",
       "zhName": "垃圾石人",
@@ -95312,7 +95438,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -95543,7 +95672,7 @@
     },
     "29081251": {
       "cid": 23352,
-      "enName": "",
+      "enName": "Hubrow, Founder of the Ominous Observers",
       "jpName": "死相の冥鑑ヒュブロ",
       "jpRuby": "しそうのみょうかんヒュブロ",
       "zhName": "死相之冥鉴 许布洛",
@@ -95555,7 +95684,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -98828,7 +98960,7 @@
     },
     "30068809": {
       "cid": 23385,
-      "enName": "",
+      "enName": "Adamancipator Mates",
       "jpName": "魔救の合縁",
       "jpRuby": "アダマシア・メイト",
       "zhName": "魔救之合缘",
@@ -98840,7 +98972,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -101975,7 +102110,7 @@
     },
     "30945251": {
       "cid": 23388,
-      "enName": "",
+      "enName": "Blitzclique Overvolt",
       "jpName": "雷盟－オーバーボルテージ",
       "jpRuby": "ブリッツクリーク－オーバーボルテージ",
       "zhName": "雷盟-过电压",
@@ -101987,7 +102122,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -103889,7 +104027,7 @@
       "zhName": "共鸣的振动",
       "scName": "",
       "cnocgName": "共鸣的振动",
-      "masterDuelName": "共鸣振动",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2015-02-14",
@@ -105719,7 +105857,7 @@
       "zhName": "无现坏收 获无玩家",
       "scName": "无现坏收 无之获取者",
       "cnocgName": "无现坏收 无之获取者",
-      "masterDuelName": "无现坏收 无之获取者",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -110984,7 +111122,7 @@
       "zhName": "光与暗的仪式",
       "scName": "光与暗的仪式",
       "cnocgName": "光与暗的仪式",
-      "masterDuelName": "光与暗的仪式",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -111300,7 +111438,7 @@
       "jpName": "異解△領域－ヴァルヴォルス",
       "jpRuby": "イカイリョウイキ－ヴァルヴォルス",
       "zhName": "异解△领域-瓦尔涡罗斯",
-      "scName": "",
+      "scName": "异解△领域－瓦尔涡罗斯",
       "cnocgName": "异解△领域-瓦尔沃尔斯",
       "masterDuelName": "",
       "release": {
@@ -111309,7 +111447,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "33725002": {
@@ -111780,7 +111921,7 @@
       "jpName": "狂嵐異解△プルートニオン",
       "jpRuby": "キョウランイカイプルートニオン",
       "zhName": "狂岚异解△普戮托尼翁",
-      "scName": "",
+      "scName": "狂岚异解△普戮托尼翁",
       "cnocgName": "狂岚异解△普路同之域",
       "masterDuelName": "",
       "release": {
@@ -111789,7 +111930,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "33823832": {
@@ -114702,7 +114846,7 @@
       "jpName": "緋ノ異解△ナラカ",
       "jpRuby": "アケノイカイナラカ",
       "zhName": "绯之异解△奈落迦",
-      "scName": "",
+      "scName": "绯之异解△奈落迦",
       "cnocgName": "绯之异解△那落迦",
       "masterDuelName": "",
       "release": {
@@ -114711,7 +114855,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "34646691": {
@@ -118218,7 +118365,7 @@
       "jpName": "虚ノ異解△ゲヘナ",
       "jpRuby": "ウツロノイカイゲヘナ",
       "zhName": "虚之异解△盖赫纳",
-      "scName": "",
+      "scName": "虚之异解△盖赫纳",
       "cnocgName": "虚之异解△革赫纳",
       "masterDuelName": "",
       "release": {
@@ -118227,7 +118374,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "35762283": {
@@ -118973,7 +119123,7 @@
       "zhName": "永远的牵绊",
       "scName": "永远之绊",
       "cnocgName": "永远的牵绊",
-      "masterDuelName": "永远之绊",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -119855,7 +120005,7 @@
     },
     "36270527": {
       "cid": 23340,
-      "enName": "",
+      "enName": "Ars Magna the Finite and the Infinite",
       "jpName": "無限と有限のアルス＝マグナ",
       "jpRuby": "むげんとゆうげんのアルス＝マグナ",
       "zhName": "无限与有限之无垢大艺术",
@@ -119867,7 +120017,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -122573,7 +122726,7 @@
     },
     "37092104": {
       "cid": 23337,
-      "enName": "",
+      "enName": "Monster Arms of Atlantis",
       "jpName": "アトランティスの怪腕",
       "jpRuby": "アトランティスのかいわん",
       "zhName": "亚特兰蒂斯的怪腕",
@@ -122585,7 +122738,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -123179,7 +123335,7 @@
     },
     "37279096": {
       "cid": 23383,
-      "enName": "",
+      "enName": "Ars Magna \"Citrinitas\"",
       "jpName": "無垢なる芸術－「黄昏の変幻」",
       "jpRuby": "アルス＝マグナ－「キトリニタス」",
       "zhName": "无垢大艺术-「黄昏之变幻」",
@@ -123191,7 +123347,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -124556,7 +124715,7 @@
       "zhName": "天空城塞 库仑城寨",
       "scName": "天空城塞 库龙",
       "cnocgName": "天空城塞 库仑玖龙城",
-      "masterDuelName": "天空城塞 库龙",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -125255,7 +125414,7 @@
     },
     "37839434": {
       "cid": 23397,
-      "enName": "",
+      "enName": "Ashtra's Domain",
       "jpName": "剣鬼の神域",
       "jpRuby": "アシュトラのしんいき",
       "zhName": "剑鬼之神域",
@@ -125267,7 +125426,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -125657,7 +125819,7 @@
     },
     "38001022": {
       "cid": 23394,
-      "enName": "",
+      "enName": "Barian's Seal",
       "jpName": "バリアンズ・シール",
       "jpRuby": "バリアンズ・シール",
       "zhName": "异晶人的纹徽",
@@ -125669,7 +125831,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -126035,7 +126200,7 @@
     },
     "38114652": {
       "cid": 23334,
-      "enName": "",
+      "enName": "Mikumari the Banisher Ashtra",
       "jpName": "封神の剣鬼 ミクマリ",
       "jpRuby": "ふうじんのアシュトラ　ミクマリ",
       "zhName": "封神之剑鬼 水子守",
@@ -126047,7 +126212,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -126731,7 +126899,7 @@
     },
     "38331244": {
       "cid": 23331,
-      "enName": "",
+      "enName": "Akasuna the Battle Ashtra",
       "jpName": "金神の戦鬼 アカスナ",
       "jpRuby": "こんじんのアシュトラ　アカスナ",
       "zhName": "金神之战鬼 朱沙",
@@ -126743,7 +126911,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -126986,7 +127157,7 @@
     },
     "38391684": {
       "cid": 23380,
-      "enName": "",
+      "enName": "Atlantis, City of the Sea Dragon",
       "jpName": "竜都アトランティス",
       "jpRuby": "りゅうとアトランティス",
       "zhName": "龙都 亚特兰蒂斯",
@@ -126998,7 +127169,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -128165,7 +128339,7 @@
       "zhName": "谜题",
       "scName": "",
       "cnocgName": "谜题",
-      "masterDuelName": "谜题",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2002-05-16",
@@ -128366,7 +128540,7 @@
       "zhName": "三幻魔解放",
       "scName": "三幻魔解放",
       "cnocgName": "三幻魔解放",
-      "masterDuelName": "三幻魔解放",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -129335,7 +129509,7 @@
     },
     "39053882": {
       "cid": 23328,
-      "enName": "",
+      "enName": "V Umbral Horror",
       "jpName": "Vアンブラル",
       "jpRuby": "ブイアンブラル",
       "zhName": "V阴影",
@@ -129347,7 +129521,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -129557,7 +129734,7 @@
     },
     "39123673": {
       "cid": 23391,
-      "enName": "",
+      "enName": "Spell Power Attainment",
       "jpName": "魔力到達",
       "jpRuby": "まりょくとうたつ",
       "zhName": "魔力到达",
@@ -129569,7 +129746,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -130709,7 +130889,7 @@
     },
     "39513225": {
       "cid": 23377,
-      "enName": "",
+      "enName": "Barian's Seventh Untopia",
       "jpName": "七皇の冀望郷",
       "jpRuby": "セブンス・バリアンズ",
       "zhName": "七皇的冀望乡",
@@ -130721,7 +130901,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -133172,7 +133355,7 @@
     },
     "40235813": {
       "cid": 23374,
-      "enName": "",
+      "enName": "Dark Time Wizard",
       "jpName": "時の黒魔術師",
       "jpRuby": "ときのくろまじゅつし",
       "zhName": "时间黑魔术师",
@@ -133184,7 +133367,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-03",
+          "pack": "BEYOND THE BRAVE Core Booster Premiere!"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -133325,7 +133511,7 @@
     },
     "40275470": {
       "cid": 23325,
-      "enName": "",
+      "enName": "Jinzo - Energy Shocker",
       "jpName": "人造人間－サイコ・エナジー・ショッカー",
       "jpRuby": "じんぞうにんげん－サイコ・エナジー・ショッカー",
       "zhName": "人造人-念力能量震慑者",
@@ -133337,7 +133523,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -136002,7 +136191,7 @@
       "jpName": "CX 風紀大宮司サイモン",
       "jpRuby": "カオスエクシーズ　ふうきだいぐうじサイモン",
       "zhName": "混沌超量 风纪大宫司 祭文",
-      "scName": "",
+      "scName": "混沌超量 风纪大宫司 祭文",
       "cnocgName": "CX风纪大宫司 祭文",
       "masterDuelName": "混沌超量 风纪大宫司祭文",
       "release": {
@@ -136014,7 +136203,10 @@
           "date": "2013-07-12",
           "pack": "NUMBER HUNTERS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "41158734": {
@@ -137261,7 +137453,7 @@
     },
     "41458361": {
       "cid": 23371,
-      "enName": "",
+      "enName": "Adamancipator Luminous",
       "jpName": "魔救の輝跡",
       "jpRuby": "アダマシア・ルミナス",
       "zhName": "魔救之辉迹",
@@ -137273,7 +137465,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -137702,7 +137897,7 @@
     },
     "41570943": {
       "cid": 23368,
-      "enName": "",
+      "enName": "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
       "jpName": "蒼海竜神－ネオダイダロス・レイジ",
       "jpRuby": "そうかいりゅうしん－ネオダイダロス・レイジ",
       "zhName": "苍海龙神-尼奥泰达路斯·怒",
@@ -137714,7 +137909,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -138815,7 +139013,7 @@
       "zhName": "守护神官 玛娜",
       "scName": "",
       "cnocgName": "守护神官 玛娜",
-      "masterDuelName": "守护神官 玛娜",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -139742,7 +139940,7 @@
       "zhName": "战场的惨剧",
       "scName": "",
       "cnocgName": "战场的惨剧",
-      "masterDuelName": "战场的惨剧",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2021-12-18",
@@ -139782,7 +139980,7 @@
       "jpName": "運命の盤上",
       "jpRuby": "うんめいのステージ",
       "zhName": "命运之盘上",
-      "scName": "",
+      "scName": "命运的盘面",
       "cnocgName": "命运的盘上",
       "masterDuelName": "",
       "release": {
@@ -139791,7 +139989,10 @@
           "pack": "Vジャンプ 2026年 7月号 付録カード"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "42233477": {
@@ -140315,7 +140516,7 @@
     },
     "42396591": {
       "cid": 23365,
-      "enName": "",
+      "enName": "Number C104: Umbral Horror Masquerade Victory",
       "jpName": "CNo.104 仮面魔踏士アンブラル・ヴィクトリー",
       "jpRuby": "カオスナンバーズ１０４　マスカレード・マジシャンアンブラル・ヴィクトリー",
       "zhName": "混沌No.104 假面魔蹈士 阴影·胜影",
@@ -140327,7 +140528,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -141470,7 +141674,7 @@
       "zhName": "召唤电击",
       "scName": "召唤冲击",
       "cnocgName": "召唤冲击",
-      "masterDuelName": "召唤冲击",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -142841,7 +143045,7 @@
       "zhName": "青眼究极亚龙",
       "scName": "",
       "cnocgName": "蓝眼究极亚龙",
-      "masterDuelName": "青眼究极亚龙",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -143579,7 +143783,7 @@
     },
     "43419178": {
       "cid": 23362,
-      "enName": "",
+      "enName": "Ashtraya Mikumari-no-Mikoto",
       "jpName": "鬼神 水子守命",
       "jpRuby": "アシュトラーヤ　ミクマリノミコト",
       "zhName": "鬼神 水子守命",
@@ -143591,7 +143795,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -146411,7 +146618,7 @@
       "zhName": "洗脑者",
       "scName": "大脑控制者",
       "cnocgName": "洗脑者",
-      "masterDuelName": "大脑控制者",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2025-01-25",
@@ -147788,7 +147995,7 @@
       "zhName": "假初之幻脸师",
       "scName": "假形幻脸师",
       "cnocgName": "假形幻脸师",
-      "masterDuelName": "假形幻脸师",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -147905,7 +148112,7 @@
       "zhName": "纠罪巧γ'-欺瞒“exapatisIA”",
       "scName": "纠罪巧γ’－欺瞒“exapatisIA”",
       "cnocgName": "纠罪巧γ’-欺瞒「exapatisIA」",
-      "masterDuelName": "纠罪巧γ’－欺瞒“tromarIA”",
+      "masterDuelName": "纠罪巧γ’－欺瞒“exapatisIA”",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -149526,7 +149733,7 @@
       "jpName": "光器還魂の儀",
       "jpRuby": "アム・ドゥアセネト",
       "zhName": "光器还魂之仪",
-      "scName": "",
+      "scName": "塞尼特・光器还魂之仪",
       "cnocgName": "塞尼特·光器还魂之仪",
       "masterDuelName": "",
       "release": {
@@ -149535,7 +149742,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "45154513": {
@@ -151811,7 +152021,7 @@
       "zhName": "新帝王翔风龙",
       "scName": "",
       "cnocgName": "新帝王滑翔龙",
-      "masterDuelName": "新帝王翔风龙",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -153324,7 +153534,7 @@
       "jpName": "光帰葬魂の儀",
       "jpRuby": "ペレセネト・エム・ヘル",
       "zhName": "归光葬魂之仪",
-      "scName": "",
+      "scName": "塞尼特・归光葬魂之仪",
       "cnocgName": "塞尼特·光归葬魂之仪",
       "masterDuelName": "",
       "release": {
@@ -153333,7 +153543,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "46290741": {
@@ -155249,7 +155462,7 @@
       "zhName": "童话动物·小兔子家族",
       "scName": "梅尔菲・拉比好朋友",
       "cnocgName": "奇妙毛毛兽 小兔子组",
-      "masterDuelName": "梅尔菲・拉比好朋友",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -155358,7 +155571,7 @@
       "jpName": "レイズ・ムーンの星々",
       "jpRuby": "レイズ・ムーンのほしぼし",
       "zhName": "盈彩月夜之群星",
-      "scName": "",
+      "scName": "盈彩月夜之群星",
       "cnocgName": "升月的群星",
       "masterDuelName": "",
       "release": {
@@ -155367,7 +155580,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "46984349": {
@@ -155376,7 +155592,7 @@
       "jpName": "救魔の奇石",
       "jpRuby": "きゅうまのきせき",
       "zhName": "救魔之奇石",
-      "scName": "",
+      "scName": "救魔之奇石",
       "cnocgName": "救魔的奇石",
       "masterDuelName": "救魔的奇石",
       "release": {
@@ -155388,7 +155604,10 @@
           "date": "2019-07-27",
           "pack": "RISING RAMPAGE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "46985799": {
@@ -155832,7 +156051,7 @@
       "jpName": "セネトナクト・スフィンクス",
       "jpRuby": "セネトナクト・スフィンクス",
       "zhName": "塞尼特纳赫特·斯芬克斯",
-      "scName": "",
+      "scName": "塞尼特纳赫特・斯芬克斯",
       "cnocgName": "塞尼特胜利者·斯芬克斯",
       "masterDuelName": "塞尼特纳赫特・斯芬克斯",
       "release": {
@@ -155841,7 +156060,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "47106439": {
@@ -157196,7 +157418,7 @@
       "zhName": "异宇宙龙",
       "scName": "",
       "cnocgName": "异宇宙龙",
-      "masterDuelName": "Anotherverse Dragon",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2023-03-01",
@@ -157461,7 +157683,7 @@
       "jpName": "レイズ・ムーンの朔 スクイーズ",
       "jpRuby": "レイズ・ムーンのはじめ　スクイーズ",
       "zhName": "盈彩月夜之朔 斯奎兹",
-      "scName": "",
+      "scName": "盈彩月夜之朔 斯奎兹",
       "cnocgName": "升月之朔 斯龟兹",
       "masterDuelName": "",
       "release": {
@@ -157470,7 +157692,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "47606319": {
@@ -158142,7 +158367,7 @@
       "jpName": "レイズ・ムーンの翼 ラピ",
       "jpRuby": "レイズ・ムーンのつばさ　ラピ",
       "zhName": "盈彩月夜之翼 菈碧",
-      "scName": "",
+      "scName": "盈彩月夜之翼 菈碧",
       "cnocgName": "升月之翼 拉比",
       "masterDuelName": "",
       "release": {
@@ -158151,7 +158376,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "47829960": {
@@ -158432,7 +158660,7 @@
       "zhName": "车道限制",
       "scName": "车道管制",
       "cnocgName": "车道管制",
-      "masterDuelName": "车道管制",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -161592,7 +161820,7 @@
       "jpName": "光器の降雷",
       "jpRuby": "セネト・サンダーフォール",
       "zhName": "光器之降雷",
-      "scName": "",
+      "scName": "塞尼特・光器之降雷",
       "cnocgName": "塞尼特·光器之降雷",
       "masterDuelName": "",
       "release": {
@@ -161601,7 +161829,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "48948935": {
@@ -161865,7 +162096,7 @@
       "jpName": "禁断のトラペゾヘドロン",
       "jpRuby": "きんだんのトラペゾヘドロン",
       "zhName": "禁断的偏方面体",
-      "scName": "",
+      "scName": "禁断的偏方三八面体",
       "cnocgName": "禁断的偏方三八面体",
       "masterDuelName": "禁断的偏方三八面体",
       "release": {
@@ -161877,7 +162108,10 @@
           "date": "2018-08-17",
           "pack": "SHADOWS IN VALHALLA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "49036338": {
@@ -164831,7 +165065,7 @@
       "zhName": "精灵圣贤者",
       "scName": "精灵圣贤者",
       "cnocgName": "精灵圣贤者",
-      "masterDuelName": "精灵圣贤者",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -165104,7 +165338,7 @@
       "zhName": "三幻魔合杀",
       "scName": "三幻魔合杀",
       "cnocgName": "三幻魔合杀",
-      "masterDuelName": "三幻魔合杀",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -165275,7 +165509,7 @@
     },
     "50208444": {
       "cid": 23350,
-      "enName": "",
+      "enName": "Elemental Saga Doriado",
       "jpName": "精霊世妃 ドリアード",
       "jpRuby": "エレメンタルサーガ　ドリアード",
       "zhName": "精灵世妃 树精",
@@ -165287,7 +165521,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -165392,7 +165629,7 @@
       "zhName": "罪祸之三幻魔-降雷皇 哈蒙",
       "scName": "罪祸之三幻魔－降雷皇哈蒙",
       "cnocgName": "罪祸之三幻魔-降雷皇 哈蒙",
-      "masterDuelName": "罪祸之三幻魔－降雷皇哈蒙",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -169073,7 +169310,7 @@
     },
     "51420096": {
       "cid": 23347,
-      "enName": "",
+      "enName": "Adamancipator Crystal - Tiamite",
       "jpName": "魔救の奇石－ティアマイト",
       "jpRuby": "アダマシア・クリスタ－ティアマイト",
       "zhName": "魔救之奇石-提亚玛特晶石",
@@ -169085,7 +169322,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -170663,7 +170903,7 @@
       "zhName": "超电导闪辉 等离子爆破",
       "scName": "超电导闪辉 等离子风暴",
       "cnocgName": "超电导闪辉 等离子爆破",
-      "masterDuelName": "超电导闪辉 等离子风暴",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -180107,7 +180347,7 @@
     },
     "54641720": {
       "cid": 23359,
-      "enName": "",
+      "enName": "Destiny HERO - Dreadnought Master",
       "jpName": "D-HERO ドレッドノートガイ",
       "jpRuby": "デステニーヒーロー　ドレッドノートガイ",
       "zhName": "命运英雄 无惧人",
@@ -180119,7 +180359,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -181986,7 +182229,7 @@
       "jpName": "暴君の自暴自棄",
       "jpRuby": "ぼうくんのじぼうじき",
       "zhName": "暴君的自暴自弃",
-      "scName": "",
+      "scName": "暴君的自暴自弃",
       "cnocgName": "暴君的自暴自弃",
       "masterDuelName": "暴君的自暴自弃",
       "release": {
@@ -181998,7 +182241,10 @@
           "date": "2011-11-15",
           "pack": "PHOTON SHOCKWAVE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "55272555": {
@@ -182456,7 +182702,7 @@
     },
     "55363218": {
       "cid": 23356,
-      "enName": "",
+      "enName": "Cartoon Shade",
       "jpName": "カートゥーン・シェード",
       "jpRuby": "カートゥーン・シェード",
       "zhName": "阴暗漫画卡通",
@@ -182468,7 +182714,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -183188,7 +183437,7 @@
     },
     "55585856": {
       "cid": 23353,
-      "enName": "",
+      "enName": "Ms. Tick Call",
       "jpName": "ミズティックコール",
       "jpRuby": "ミズティックコール",
       "zhName": "秘召水巫女士",
@@ -183200,7 +183449,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -191072,7 +191324,7 @@
       "zhName": "心跳童话动物时间",
       "scName": "扑通通梅尔菲时间",
       "cnocgName": "心动奇妙毛毛兽时间",
-      "masterDuelName": "扑通通梅尔菲时间",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -191330,7 +191582,7 @@
       "zhName": "魔族的咖喱",
       "scName": "",
       "cnocgName": "魔人的咖哩",
-      "masterDuelName": "梦幻的咖喱",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "1999-03-06",
@@ -194072,7 +194324,7 @@
       "zhName": "裂纹雷盟兵",
       "scName": "克拉克・雷盟",
       "cnocgName": "炸雷克拉克·雷盟",
-      "masterDuelName": "克拉克・雷盟",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -194141,7 +194393,7 @@
       "zhName": "超究极魔导龙王",
       "scName": "超究极魔导龙王",
       "cnocgName": "超究极魔导龙王",
-      "masterDuelName": "超究极魔导龙王",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2025-01-25",
@@ -194876,7 +195128,7 @@
       "zhName": "三幻魔的殉教者",
       "scName": "三幻魔殉教者",
       "cnocgName": "三幻魔的殉教者",
-      "masterDuelName": "三幻魔殉教者",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -197396,7 +197648,7 @@
       "zhName": "雷盟-交流发电机",
       "scName": "雷盟－交电夹击",
       "cnocgName": "雷盟-交电",
-      "masterDuelName": "雷盟－交电夹击",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -199289,7 +199541,7 @@
       "zhName": "凭依共鸣-薇茵",
       "scName": "凭依共鸣－薇茵",
       "cnocgName": "凭依共鸣-薇茵",
-      "masterDuelName": "",
+      "masterDuelName": "凭依共鸣－薇茵",
       "release": {
         "jp": {
           "date": "2026-02-20",
@@ -199533,7 +199785,7 @@
       "jpName": "暗黒界の番兵 レンジ",
       "jpRuby": "あんこくかいのばんぺい　レンジ",
       "zhName": "暗黑界的番兵 兰治",
-      "scName": "",
+      "scName": "暗黑界之卫兵 橙雷吉",
       "cnocgName": "暗黑界的卫兵 橘",
       "masterDuelName": "暗黑界之番兵 橙黄",
       "release": {
@@ -199545,7 +199797,10 @@
           "date": "2007-08-15",
           "pack": "TACTICAL EVOLUTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "60619435": {
@@ -200160,7 +200415,7 @@
       "jpName": "虚蝕異解△ジャハンナム",
       "jpRuby": "キョショクイカイジャハンナム",
       "zhName": "虚蚀异解△灾罕纳姆",
-      "scName": "",
+      "scName": "虚蚀异解△灾罕纳姆",
       "cnocgName": "虚蚀异解△哲罕南",
       "masterDuelName": "虚蚀异解△灾罕纳姆",
       "release": {
@@ -200169,7 +200424,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "60822251": {
@@ -200931,7 +201189,7 @@
       "jpName": "天霆異解△ヨミ",
       "jpRuby": "テンテイイカイヨミ",
       "zhName": "天霆异解△幽谜",
-      "scName": "",
+      "scName": "天霆异解△幽谜",
       "cnocgName": "天霆异解△黄泉",
       "masterDuelName": "",
       "release": {
@@ -200940,7 +201198,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "61044390": {
@@ -204911,7 +205172,7 @@
     },
     "62368221": {
       "cid": 23341,
-      "enName": "",
+      "enName": "Ars Magna the Corruption and the Purification",
       "jpName": "浄化と腐敗のアルス＝マグナ",
       "jpRuby": "じょうかとふはいのアルス＝マグナ",
       "zhName": "净化与腐败之无垢大艺术",
@@ -204923,7 +205184,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -205568,7 +205832,7 @@
     },
     "62542673": {
       "cid": 23344,
-      "enName": "",
+      "enName": "Destiny HERO - Doom Overlord",
       "jpName": "D-HERO デビルロードガイ",
       "jpRuby": "デステニーヒーロー　デビルロードガイ",
       "zhName": "命运英雄 恶魔主宰人",
@@ -205580,7 +205844,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -206708,7 +206975,7 @@
       "zhName": "天变地异",
       "scName": "",
       "cnocgName": "天变地异",
-      "masterDuelName": "天变地异",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2001-11-29",
@@ -207281,7 +207548,7 @@
     },
     "63111591": {
       "cid": 23401,
-      "enName": "",
+      "enName": "Crow, the Carrion Cutpurse",
       "jpName": "躯売りのカラス",
       "jpRuby": "むくろうりのカラス",
       "zhName": "卖骸乌鸦",
@@ -207293,7 +207560,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -208382,7 +208652,7 @@
     },
     "63481713": {
       "cid": 23338,
-      "enName": "",
+      "enName": "Siren Vortex of Atlantis",
       "jpName": "アトランティスの妖渦",
       "jpRuby": "アトランティスのようか",
       "zhName": "亚特兰蒂斯的妖涡",
@@ -208394,7 +208664,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -210137,7 +210410,7 @@
       "zhName": "雷盟-可断开式",
       "scName": "雷盟－断离粉碎",
       "cnocgName": "雷盟-突围",
-      "masterDuelName": "雷盟－断离粉碎",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -210647,7 +210920,7 @@
     },
     "64233143": {
       "cid": 23398,
-      "enName": "",
+      "enName": "Daedalus Maelstrom",
       "jpName": "海竜神の大渦",
       "jpRuby": "ダイダロス・メイルストローム",
       "zhName": "海龙神的大涡",
@@ -210659,7 +210932,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -211361,7 +211637,7 @@
     },
     "64455720": {
       "cid": 23395,
-      "enName": "",
+      "enName": "Ashtra's Web",
       "jpName": "色鬼の蟲毒",
       "jpRuby": "アシュトラのこどく",
       "zhName": "色鬼之虫毒",
@@ -211373,7 +211649,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -211808,7 +212087,7 @@
     },
     "64603351": {
       "cid": 23335,
-      "enName": "",
+      "enName": "Levia-Dragon of Atlantis - Daedalus",
       "jpName": "アトランティスの竜神－ダイダロス",
       "jpRuby": "アトランティスのりゅうしん－ダイダロス",
       "zhName": "亚特兰蒂斯的龙神-泰达路斯",
@@ -211820,7 +212099,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -211880,7 +212162,7 @@
       "zhName": "黑智天至 伊里斯斐尔",
       "scName": "黑智天至 伊莉丝菲尔",
       "cnocgName": "黑智天至 伊利斯菲尔",
-      "masterDuelName": "黑智天至 伊莉丝菲尔",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -213302,7 +213584,7 @@
     },
     "65118318": {
       "cid": 23392,
-      "enName": "",
+      "enName": "Foolish Graverobber",
       "jpName": "おろかな墓荒らし",
       "jpRuby": "おろかなはかあらし",
       "zhName": "愚蠢的盗墓者",
@@ -213314,7 +213596,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -213582,7 +213867,7 @@
       "jpName": "異解△審判",
       "jpRuby": "イカイシンパン",
       "zhName": "异解△审判",
-      "scName": "",
+      "scName": "异解△审判",
       "cnocgName": "异解△审判",
       "masterDuelName": "",
       "release": {
@@ -213591,7 +213876,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "65195959": {
@@ -214019,7 +214307,7 @@
     },
     "65325949": {
       "cid": 23332,
-      "enName": "",
+      "enName": "Kuzuha the Hex Ashtra",
       "jpName": "蠱神の色鬼 クズハ",
       "jpRuby": "こじんのアシュトラ　クズハ",
       "zhName": "蛊神之色鬼 国栖八",
@@ -214031,7 +214319,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -215513,7 +215804,7 @@
     },
     "65785782": {
       "cid": 23381,
-      "enName": "",
+      "enName": "Call of Atlantis",
       "jpName": "呼応する伝説の都",
       "jpRuby": "アトランティス・コール",
       "zhName": "呼应的传说之都",
@@ -215525,7 +215816,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -215741,7 +216035,7 @@
       "zhName": "三幻魔的失乐园",
       "scName": "三幻魔之失乐园",
       "cnocgName": "三幻魔的失乐园",
-      "masterDuelName": "三幻魔之失乐园",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -219000,7 +219294,7 @@
       "jpName": "コアキメイル・ウォール",
       "jpRuby": "コアキメイル・ウォール",
       "zhName": "核成墙人",
-      "scName": "",
+      "scName": "核成・墙壁",
       "cnocgName": "核成壁",
       "masterDuelName": "核成壁",
       "release": {
@@ -219012,7 +219306,10 @@
           "date": "2010-11-16",
           "pack": "STARSTRIKE BLAST"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "66818682": {
@@ -220214,7 +220511,7 @@
       "zhName": "治安战警队 黑夜杀戮者",
       "scName": "超元特防队 暗夜屠杀者",
       "cnocgName": "治安战警队 暗夜抹杀者",
-      "masterDuelName": "超元特防队 暗夜屠杀者",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -228497,7 +228794,7 @@
       "zhName": "灵魂消灭",
       "scName": "",
       "cnocgName": "灵魂消灭",
-      "masterDuelName": "灵魂消灭",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2001-07-12",
@@ -231972,7 +232269,7 @@
       "jpName": "古神ハストール",
       "jpRuby": "コシンハストール",
       "zhName": "古神 哈斯塔",
-      "scName": "",
+      "scName": "古神哈斯托尔",
       "cnocgName": "古神 哈斯塔",
       "masterDuelName": "古神哈斯塔",
       "release": {
@@ -231984,7 +232281,10 @@
           "date": "2015-09-18",
           "pack": "2015 MEGA-TINS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "70914287": {
@@ -232749,7 +233049,7 @@
       "jpName": "天ノ異解△シェオル",
       "jpRuby": "ソラノイカイシェオル",
       "zhName": "天之异解△邪奥尔",
-      "scName": "",
+      "scName": "天之异解△邪奥尔",
       "cnocgName": "天之异解△示俄勒",
       "masterDuelName": "",
       "release": {
@@ -232758,7 +233058,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "71159974": {
@@ -233060,7 +233363,7 @@
       "zhName": "薄明之魔 勒莱耶光蜃",
       "scName": "薄明之魔 雷拉曙",
       "cnocgName": "薄明之魔 雷拉曙",
-      "masterDuelName": "薄明之魔 雷拉曙",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -233195,7 +233498,7 @@
       "zhName": "2选1",
       "scName": "二选一",
       "cnocgName": "二选一",
-      "masterDuelName": "二选一",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -236301,7 +236604,7 @@
       "jpName": "光帰への契り",
       "jpRuby": "セネト・ペル・アーク",
       "zhName": "归光之契",
-      "scName": "",
+      "scName": "塞尼特・归光之契",
       "cnocgName": "塞尼特·光归之契",
       "masterDuelName": "",
       "release": {
@@ -236310,7 +236613,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "72283691": {
@@ -238284,7 +238590,7 @@
       "jpName": "ソウル・ハンター",
       "jpRuby": "ソウル・ハンター",
       "zhName": "狩魂魔人",
-      "scName": "",
+      "scName": "灵魂猎手",
       "cnocgName": "灵魂猎手",
       "masterDuelName": "灵魂猎人",
       "release": {
@@ -238296,7 +238602,10 @@
           "date": "2015-06-05",
           "pack": "ASTRAL PACK SEVEN"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "72880377": {
@@ -238686,7 +238995,7 @@
       "jpName": "眠らない街の『レイズ・ムーン』",
       "jpRuby": "ねむらないまちの『レイズ・ムーン』",
       "zhName": "未眠之城的『盈彩月夜』",
-      "scName": "",
+      "scName": "未眠之城的『盈彩月夜』",
       "cnocgName": "不眠城的『升月』",
       "masterDuelName": "",
       "release": {
@@ -238695,7 +239004,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "72989439": {
@@ -239037,7 +239349,7 @@
       "jpName": "レイズ・ムーンの天 シエロ－ノーモアベット",
       "jpRuby": "レイズ・ムーンのよぞら　シエロ－ノーモアベット",
       "zhName": "盈彩月夜之天 西艾萝-一掷乾坤",
-      "scName": "",
+      "scName": "盈彩月夜之天 西艾萝－一掷乾坤",
       "cnocgName": "升月之天 西耶罗-停止下注",
       "masterDuelName": "盈彩月夜之天 西艾萝－一掷乾坤",
       "release": {
@@ -239046,7 +239358,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "73104892": {
@@ -240420,7 +240735,7 @@
       "jpName": "タウセネト・アジャト",
       "jpRuby": "タウセネト・アジャト",
       "zhName": "塔乌塞尼特·阿贾特",
-      "scName": "",
+      "scName": "塔乌塞尼特・阿贾特",
       "cnocgName": "冥土塞尼特·阿贾特",
       "masterDuelName": "",
       "release": {
@@ -240429,7 +240744,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "73490417": {
@@ -240461,7 +240779,7 @@
       "zhName": "我我我幻术",
       "scName": "我我我幻象",
       "cnocgName": "我我我幻想",
-      "masterDuelName": "我我我幻象",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -240731,7 +241049,7 @@
       "zhName": "杆位",
       "scName": "",
       "cnocgName": "杆位",
-      "masterDuelName": "杆位",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2004-11-25",
@@ -242778,7 +243096,7 @@
       "jpName": "レイズ・ムーンの刃 シェーナ",
       "jpRuby": "レイズ・ムーンのやいば　シェーナ",
       "zhName": "盈彩月夜之刃 希耶娜",
-      "scName": "",
+      "scName": "盈彩月夜之刃 希耶娜",
       "cnocgName": "升月之刃 雪娜",
       "masterDuelName": "",
       "release": {
@@ -242787,7 +243105,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "74213995": {
@@ -246869,7 +247190,7 @@
     },
     "75518330": {
       "cid": 23378,
-      "enName": "",
+      "enName": "Barian's Hope",
       "jpName": "バリアンズ・ホープ",
       "jpRuby": "バリアンズ・ホープ",
       "zhName": "异晶人的希望",
@@ -246881,7 +247202,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -248070,7 +248394,7 @@
       "jpName": "レイズ・ムーンの帳 シエロ",
       "jpRuby": "レイズ・ムーンのとばり　シエロ",
       "zhName": "盈彩月夜之帐 西艾萝",
-      "scName": "",
+      "scName": "盈彩月夜之帐 西艾萝",
       "cnocgName": "升月之帐 西耶罗",
       "masterDuelName": "",
       "release": {
@@ -248079,7 +248403,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "75937826": {
@@ -248252,7 +248579,7 @@
       "zhName": "混沌之魔术箱",
       "scName": "混沌魔术箱",
       "cnocgName": "混沌魔术箱",
-      "masterDuelName": "混沌魔术箱",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -249233,19 +249560,22 @@
     },
     "76334960": {
       "cid": 23389,
-      "enName": "",
+      "enName": "Invocation - \"Grail\"",
       "jpName": "召喚魔術－「杯」",
       "jpRuby": "しょうかんまじゅつ－「さかずき」",
       "zhName": "召唤魔术-「杯」",
       "scName": "召唤魔术－“杯”",
       "cnocgName": "召唤魔术-「杯」",
-      "masterDuelName": "",
+      "masterDuelName": "召唤魔术－“杯”",
       "release": {
         "jp": {
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -249902,7 +250232,7 @@
     },
     "76548531": {
       "cid": 23329,
-      "enName": "",
+      "enName": "Gorgonic Umbral Horror",
       "jpName": "ゴルゴニック・アンブラル",
       "jpRuby": "ゴルゴニック・アンブラル",
       "zhName": "蛇头阴影",
@@ -249914,7 +250244,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -249927,7 +250260,7 @@
       "jpName": "D・D・D",
       "jpRuby": "ディファレント・ディメンション・ダービー",
       "zhName": "异次元赛马",
-      "scName": "",
+      "scName": "异次元赛马",
       "cnocgName": "异次元赛马",
       "masterDuelName": "异次元赛马",
       "release": {
@@ -249939,7 +250272,10 @@
           "date": "2021-08-13",
           "pack": "DAWN OF MAJESTY"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "76573247": {
@@ -250124,7 +250460,7 @@
     },
     "76630812": {
       "cid": 23375,
-      "enName": "",
+      "enName": "Graceful & Skull Dice",
       "jpName": "天使と悪魔のサイコロ",
       "jpRuby": "てんしとあくまのサイコロ",
       "zhName": "天使与恶魔的骰子",
@@ -250136,7 +250472,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -250259,7 +250598,7 @@
     },
     "76660178": {
       "cid": 23326,
-      "enName": "",
+      "enName": "Fisherman of Legend",
       "jpName": "大海の伝説－フィッシャーマン",
       "jpRuby": "たいかいのでんせつ－フィッシャーマン",
       "zhName": "大海的传说-渔人",
@@ -250271,7 +250610,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -251936,7 +252278,7 @@
       "zhName": "暗翳之信仰者",
       "scName": "暗翳之信仰者 朦胧裘德",
       "cnocgName": "暗翳的信仰者",
-      "masterDuelName": "",
+      "masterDuelName": "暗翳之信仰者 朦胧裘德",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -252656,7 +252998,7 @@
     },
     "77456448": {
       "cid": 23386,
-      "enName": "",
+      "enName": "Spell Shattering Sword",
       "jpName": "魔法効果の剣",
       "jpRuby": "まほうこうかのつるぎ",
       "zhName": "魔法效果之剑",
@@ -252668,7 +253010,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -252722,7 +253067,7 @@
     },
     "77482666": {
       "cid": 23323,
-      "enName": "",
+      "enName": "Swiftwind Panther Warrior",
       "jpName": "疾風の豹戦士パンサーウォリアー",
       "jpRuby": "しっぷうのひょうせんしパンサーウォリアー",
       "zhName": "疾风之豹战士",
@@ -252734,7 +253079,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -254063,7 +254411,7 @@
     },
     "77856460": {
       "cid": 23372,
-      "enName": "",
+      "enName": "Helping Robo for Underwater Combat",
       "jpName": "海中戦型お手伝いロボ",
       "jpRuby": "かいちゅうせんがたおてつだいロボ",
       "zhName": "海中战型援助机器人",
@@ -254075,7 +254423,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -255992,7 +256343,7 @@
     },
     "78579058": {
       "cid": 23369,
-      "enName": "",
+      "enName": "Levia-Dragoon - Daedalus",
       "jpName": "真海竜騎－ダイダロス",
       "jpRuby": "リバイアドラグーン－ダイダロス",
       "zhName": "真海龙骑-泰达路斯",
@@ -256004,7 +256355,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -258746,7 +259100,7 @@
       "zhName": "兴奋心跳童话动物家族",
       "scName": "怦然期待的梅尔菲们",
       "cnocgName": "兴奋心动的奇妙毛毛兽们",
-      "masterDuelName": "怦然期待的梅尔菲们",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -258929,7 +259283,7 @@
       "zhName": "黑混沌之魔术师·黑混沌极魔导",
       "scName": "",
       "cnocgName": "极限黑混沌魔术师",
-      "masterDuelName": "黑混沌之魔导・极限",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -259457,7 +259811,7 @@
     },
     "79791695": {
       "cid": 23366,
-      "enName": "",
+      "enName": "CXyz Hope Chaos Barian Dragon",
       "jpName": "CX 冀望皇龍カオス・バリアン・ドラゴン",
       "jpRuby": "カオスエクシーズ　きぼうおうりゅうカオス・バリアン・ドラゴン",
       "zhName": "混沌超量 冀望皇龙 混沌异晶龙",
@@ -259469,7 +259823,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -262418,19 +262775,22 @@
     },
     "80635735": {
       "cid": 23360,
-      "enName": "",
+      "enName": "Invoked De Anima",
       "jpName": "召喚獣ディー・アニマ",
       "jpRuby": "しょうかんじゅうディー・アニマ",
       "zhName": "召唤兽 迪·阿尼玛",
       "scName": "召唤兽 迪・阿尼玛",
       "cnocgName": "召唤兽 迪·阿尼玛",
-      "masterDuelName": "",
+      "masterDuelName": "召唤兽 迪・阿尼玛",
       "release": {
         "jp": {
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -266075,7 +266435,7 @@
     },
     "81758313": {
       "cid": 23357,
-      "enName": "",
+      "enName": "Myriaday Dragon",
       "jpName": "一日万倍龍",
       "jpRuby": "ミリアデイ・ドラゴン",
       "zhName": "一日万倍龙",
@@ -266087,7 +266447,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -268020,7 +268383,7 @@
       "jpName": "プレゼント交換",
       "jpRuby": "プレゼントこうかん",
       "zhName": "礼物交换",
-      "scName": "",
+      "scName": "礼物交换",
       "cnocgName": "礼物交换",
       "masterDuelName": "礼物交换",
       "release": {
@@ -268032,7 +268395,10 @@
           "date": "2017-05-05",
           "pack": "MAXIMUM CRISIS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "82260502": {
@@ -268472,7 +268838,7 @@
     },
     "82370493": {
       "cid": 22922,
-      "enName": "",
+      "enName": "Predaplant Daredevil",
       "jpName": "捕食植物デェアデビル",
       "jpRuby": "プレデター・プランツデェアデビル",
       "zhName": "捕食植物 魔爪花蛮勇鬼",
@@ -268484,7 +268850,10 @@
           "date": "2026-03-19",
           "pack": "公式カードカタログ ザ・ヴァリュアブル・ブックEX6 付録カード"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-05-16",
           "pack": "混沌原初"
@@ -269297,7 +269666,7 @@
     },
     "82692552": {
       "cid": 23351,
-      "enName": "",
+      "enName": "Coralianectes, the Luminous Cradle Dragon",
       "jpName": "耀爛竜コラリアネクテス",
       "jpRuby": "ようらんりゅうコラリアネクテス",
       "zhName": "耀烂龙 珊瑚泳龙",
@@ -269309,7 +269678,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -270152,7 +270524,7 @@
     },
     "82970905": {
       "cid": 23354,
-      "enName": "",
+      "enName": "Father Grizzly",
       "jpName": "グリズリーファザー",
       "jpRuby": "グリズリーファザー",
       "zhName": "父灰熊",
@@ -270164,7 +270536,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -271427,7 +271802,7 @@
       "zhName": "穿透时空的溯光",
       "scName": "溯时的穿光",
       "cnocgName": "贯穿时空的溯光",
-      "masterDuelName": "溯时的穿光",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -274685,7 +275060,7 @@
       "zhName": "晶粒雷盟兵",
       "scName": "格瑞恩・雷盟",
       "cnocgName": "绿纹格莱恩·雷盟",
-      "masterDuelName": "格瑞恩・雷盟",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -275163,7 +275538,7 @@
       "jpName": "セネトの啓示者－ネフェルタリ",
       "jpRuby": "セネトのけいじしゃ－ネフェルタリ",
       "zhName": "塞尼特的启示者-奈菲尔塔利",
-      "scName": "",
+      "scName": "塞尼特的启示者－奈菲尔塔利",
       "cnocgName": "塞尼特的启示者-奈费尔塔利",
       "masterDuelName": "塞尼特的启示者－奈菲尔塔利",
       "release": {
@@ -275172,7 +275547,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "84521924": {
@@ -280220,7 +280598,7 @@
       "zhName": "三幻魔的神渊",
       "scName": "三幻魔之神渊",
       "cnocgName": "三幻魔的神渊",
-      "masterDuelName": "三幻魔之神渊",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -290948,7 +291326,7 @@
     },
     "89813287": {
       "cid": 23363,
-      "enName": "",
+      "enName": "Adamancipator Risen - Tiamite",
       "jpName": "魔救の奇跡－ティアマイト",
       "jpRuby": "アダマシア・ライズ－ティアマイト",
       "zhName": "魔救之奇迹-提亚玛特晶石",
@@ -290960,7 +291338,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -291737,7 +292118,7 @@
       "zhName": "四天之龙 暗叛逆超量龙",
       "scName": "四天之龙 暗反叛超量龙",
       "cnocgName": "四天之龙 暗反叛多维龙",
-      "masterDuelName": "",
+      "masterDuelName": "四天之龙 暗反叛超量龙",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -291752,7 +292133,7 @@
     },
     "90098000": {
       "cid": 23336,
-      "enName": "",
+      "enName": "Warchief of Atlantis",
       "jpName": "アトランティスの戦将",
       "jpRuby": "アトランティスのせんしょう",
       "zhName": "亚特兰蒂斯的战将",
@@ -291764,7 +292145,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -293807,7 +294191,7 @@
     },
     "90728287": {
       "cid": 23399,
-      "enName": "",
+      "enName": "Ars Magna \"Philosophorum\"",
       "jpName": "無垢なる芸術－「幻創の賢者」",
       "jpRuby": "アルス＝マグナ－「フィロソフィルム」",
       "zhName": "无垢大艺术-「幻创之贤者」",
@@ -293819,7 +294203,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -294212,7 +294599,7 @@
     },
     "90875418": {
       "cid": 23339,
-      "enName": "",
+      "enName": "Theorealized Medius",
       "jpName": "予幻使 メディウス",
       "jpRuby": "テオリアライズ　メディウス",
       "zhName": "预幻使 米底乌斯",
@@ -294224,7 +294611,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -295937,7 +296327,7 @@
     },
     "91444835": {
       "cid": 23396,
-      "enName": "",
+      "enName": "Ashtra's Howl",
       "jpName": "依鬼の呪咆",
       "jpRuby": "アシュトラのじゅほう",
       "zhName": "依鬼之咒咆",
@@ -295949,7 +296339,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -299156,7 +299549,7 @@
     },
     "92447211": {
       "cid": 8767,
-      "enName": "",
+      "enName": "Long-Tailed Black Horse",
       "jpName": "尾長黒馬",
       "jpRuby": "おながこくば",
       "zhName": "尾长黑马",
@@ -299168,7 +299561,10 @@
           "date": "2026-03-19",
           "pack": "Vジャンプ 定期購読特典 2026年 春"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": null
       }
     },
@@ -311271,7 +311667,7 @@
       "jpName": "異解△福音",
       "jpRuby": "イカイフクイン",
       "zhName": "异解△福音",
-      "scName": "",
+      "scName": "异解△福音",
       "cnocgName": "异解△福音",
       "masterDuelName": "",
       "release": {
@@ -311280,7 +311676,10 @@
           "pack": "デッキビルドパック - グロリアス・ヴィクターズ -"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-10-03",
+          "pack": "牌组构筑包 荣光胜利者"
+        }
       }
     },
     "96214561": {
@@ -311654,7 +312053,7 @@
       "zhName": "无穷之三幻魔-幻魔皇 拉比艾尔",
       "scName": "无穷之三幻魔－幻魔皇拉比艾尔",
       "cnocgName": "无穷之三幻魔-幻魔皇 拉维尔",
-      "masterDuelName": "无穷之三幻魔－幻魔皇拉比艾尔",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -314900,7 +315299,7 @@
       "zhName": "栗球兽卫",
       "scName": "咕里佛",
       "cnocgName": "狮鹫栗子",
-      "masterDuelName": "咕里佛",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -316145,7 +316544,7 @@
     },
     "97818130": {
       "cid": 23348,
-      "enName": "",
+      "enName": "Black Skull Dragon, the Archfiend of Unity",
       "jpName": "結束の悪魔竜ブラック・デーモンズ・ドラゴン",
       "jpRuby": "けっそくのあくまりゅうブラック・デーモンズ・ドラゴン",
       "zhName": "团结的恶魔龙 暗黑魔龙",
@@ -316157,7 +316556,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -318650,7 +319052,7 @@
       "zhName": "超魔剑士 黑混沌",
       "scName": "超魔剑士 黑暗混沌",
       "cnocgName": "超魔剑士 黑混沌",
-      "masterDuelName": "超魔剑士 黑暗混沌",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -319454,7 +319856,7 @@
     },
     "98931282": {
       "cid": 23345,
-      "enName": "",
+      "enName": "Destiny HERO - Dreadnought Servant",
       "jpName": "D-HERO ドレッドノートサーヴァント",
       "jpRuby": "デステニーヒーロー　ドレッドノートサーヴァント",
       "zhName": "命运英雄 无惧从者",
@@ -319466,7 +319868,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -320393,7 +320798,7 @@
       "zhName": "治安战警队原点",
       "scName": "超元特防队 本源",
       "cnocgName": "治安战警队本源",
-      "masterDuelName": "超元特防队 本源",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -320459,7 +320864,7 @@
       "zhName": "团结与牵绊之超魔导剑士",
       "scName": "团结与羁绊的超魔导剑士",
       "cnocgName": "团结与牵绊之超魔导剑士",
-      "masterDuelName": "团结与羁绊的超魔导剑士",
+      "masterDuelName": "",
       "release": {
         "jp": {
           "date": "2024-10-26",
@@ -321275,7 +321680,7 @@
     },
     "99505609": {
       "cid": 23402,
-      "enName": "",
+      "enName": "Bingo!",
       "jpName": "ビンゴカード",
       "jpRuby": "ビンゴカード",
       "zhName": "宾果卡",
@@ -321287,7 +321692,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -322026,7 +322434,7 @@
       "jpName": "暗闇を吸い込むマジック・ミラー",
       "jpRuby": "くらやみをすいこむマジック・ミラー",
       "zhName": "吸入暗阴的魔镜",
-      "scName": "",
+      "scName": "吸收黑暗之魔镜",
       "cnocgName": "吸收阴暗的魔法镜",
       "masterDuelName": "黑暗吸收魔镜",
       "release": {
@@ -322038,7 +322446,10 @@
           "date": "2007-11-14",
           "pack": "GLADIATOR'S ASSAULT"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-10-01",
+          "pack": "参赛包 2026 Vol.3"
+        }
       }
     },
     "99742859": {
@@ -322136,7 +322547,7 @@
     },
     "99753860": {
       "cid": 23342,
-      "enName": "",
+      "enName": "Ars Magna the Division and the Union",
       "jpName": "結合と乖離のアルス＝マグナ",
       "jpRuby": "けつごうとかいりのアルス＝マグナ",
       "zhName": "结合与乖离之无垢大艺术",
@@ -322148,7 +322559,10 @@
           "date": "2026-07-18",
           "pack": "ビヨンド・ザ・ブレイブ [BEYOND THE BRAVE]"
         },
-        "en": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": {
           "date": "2026-08-15",
           "pack": "勇无止尽"
@@ -322749,6 +323163,24 @@
         }
       }
     },
+    "100262301": {
+      "cid": 23902,
+      "enName": "",
+      "jpName": "ウルトゥムの魔竜王",
+      "jpRuby": "ウルトゥムのまりゅうおう",
+      "zhName": "乌尔素姆之魔龙王",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-01",
+          "pack": "トーナメントパック 2026 Vol.3"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "100268001": {
       "cid": 23565,
       "enName": "",
@@ -323196,6 +323628,294 @@
           "pack": "ORIGINAL ARTWORK COLLECTION"
         },
         "en": null,
+        "sc": null
+      }
+    },
+    "101306082": {
+      "cid": 23514,
+      "enName": "Tigress in Silent Repose",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "静寂猛虎",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306083": {
+      "cid": 23515,
+      "enName": "Just Flip a Coin",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "听天投命",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306084": {
+      "cid": 23516,
+      "enName": "Kumenyo, the Nine-Hued Deer",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "九色鹿 九面妖",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306085": {
+      "cid": 23517,
+      "enName": "Kerolia the Frolicsome",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "贪玩的呱呱公主",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306086": {
+      "cid": 23518,
+      "enName": "Archidux, the Squid Sorcerer",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "魔道乌贼 大王",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306087": {
+      "cid": 23519,
+      "enName": "Skyborne Blue Cularsaw",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "飞临的蓝锯手",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306088": {
+      "cid": 23520,
+      "enName": "Half Slice of Nickeline",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "红砷镍半身矿",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306089": {
+      "cid": 23521,
+      "enName": "Chaospawn Bishop",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "混沌诞生主教",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306090": {
+      "cid": 23522,
+      "enName": "Angelechy Castellan",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "城主之具象天使",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306091": {
+      "cid": 23523,
+      "enName": "Angelechy Seneschal",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的元帅",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306092": {
+      "cid": 23524,
+      "enName": "Angelechy Strategy Score",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的战略分值",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306093": {
+      "cid": 23525,
+      "enName": "Angelechy Brilliant Move",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的精妙一手",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306094": {
+      "cid": 23526,
+      "enName": "Angelechy Opposition",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的对峙格位",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306095": {
+      "cid": 23527,
+      "enName": "Angelechy Endgame Problem",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的终局之问",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306096": {
+      "cid": 23528,
+      "enName": "Angelechy Verdict",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使之裁",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
+    "101306281": {
+      "cid": 23513,
+      "enName": "Audhumla, Progenitor of the Frozen Expanse",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "冰原之始祖 欧德姆布拉",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
         "sc": null
       }
     }
