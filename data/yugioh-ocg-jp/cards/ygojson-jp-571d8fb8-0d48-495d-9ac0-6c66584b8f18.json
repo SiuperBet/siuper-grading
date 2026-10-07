@@ -33,7 +33,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "d5d01085-fa2d-4168-a855-829c101577e9",
     "sourceSetId": "571d8fb8-0d48-495d-9ac0-6c66584b8f18",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:03529352-1e3c-48f8-8583-e25f5c685444:unlimited",
@@ -69,7 +69,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "03529352-1e3c-48f8-8583-e25f5c685444",
     "sourceSetId": "571d8fb8-0d48-495d-9ac0-6c66584b8f18",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:2f1fdea1-f651-468b-a542-b166cbb030ae:unlimited",
@@ -105,7 +105,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "2f1fdea1-f651-468b-a542-b166cbb030ae",
     "sourceSetId": "571d8fb8-0d48-495d-9ac0-6c66584b8f18",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:edd51b6e-8d19-4ff2-9ad1-e7aad31dbb3a:unlimited",
@@ -141,7 +141,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "edd51b6e-8d19-4ff2-9ad1-e7aad31dbb3a",
     "sourceSetId": "571d8fb8-0d48-495d-9ac0-6c66584b8f18",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:affdab3b-98ff-4ccc-8811-2e147ca184b9:unlimited",
@@ -177,7 +177,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "affdab3b-98ff-4ccc-8811-2e147ca184b9",
     "sourceSetId": "571d8fb8-0d48-495d-9ac0-6c66584b8f18",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:4bc70bb2-fb03-4492-841a-43de82c4d464:unlimited",
@@ -213,6 +213,6 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "4bc70bb2-fb03-4492-841a-43de82c4d464",
     "sourceSetId": "571d8fb8-0d48-495d-9ac0-6c66584b8f18",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   }
 ]

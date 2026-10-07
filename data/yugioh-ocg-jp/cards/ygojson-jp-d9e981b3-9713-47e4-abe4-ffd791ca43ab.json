@@ -33,7 +33,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "7e034514-f481-42f7-915a-a6b7f93c6bff",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:47ffe3e1-5dd9-4a9e-bf7d-7af7a92a96b7:unlimited",
@@ -69,7 +69,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "47ffe3e1-5dd9-4a9e-bf7d-7af7a92a96b7",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:8dda8607-d855-40f2-afcb-b754e98e5da1:unlimited",
@@ -105,7 +105,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "8dda8607-d855-40f2-afcb-b754e98e5da1",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:8029de2c-6703-49c8-a76f-7a997d72f086:unlimited",
@@ -141,7 +141,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "8029de2c-6703-49c8-a76f-7a997d72f086",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:b43b8af8-bf0b-448c-8e06-38ce4e881dc8:unlimited",
@@ -177,7 +177,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "b43b8af8-bf0b-448c-8e06-38ce4e881dc8",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:dad2ed38-c571-496a-a8fa-f459590239e6:unlimited",
@@ -213,7 +213,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "dad2ed38-c571-496a-a8fa-f459590239e6",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:d3786059-97a2-4e96-b324-8ba093b273a6:unlimited",
@@ -249,7 +249,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "d3786059-97a2-4e96-b324-8ba093b273a6",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:bbaf473a-2775-4d84-a9eb-99d05007e238:unlimited",
@@ -285,7 +285,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "bbaf473a-2775-4d84-a9eb-99d05007e238",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:252595e0-80cd-4b65-9584-2637c6782339:unlimited",
@@ -321,7 +321,7 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "252595e0-80cd-4b65-9584-2637c6782339",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   },
   {
     "id": "yugioh-ocg:jp:7310d086-f58d-4f4a-a884-f0788c7c307d:unlimited",
@@ -357,6 +357,6 @@
     "sourceId": "ygojson-v1",
     "sourcePrintingId": "7310d086-f58d-4f4a-a884-f0788c7c307d",
     "sourceSetId": "d9e981b3-9713-47e4-abe4-ffd791ca43ab",
-    "updatedAt": "2026-09-30T11:20:19.523Z"
+    "updatedAt": "2026-10-07T11:58:47.184Z"
   }
 ]
