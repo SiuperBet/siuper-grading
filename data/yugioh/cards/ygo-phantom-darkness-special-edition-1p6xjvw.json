@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.06,
-      "timestamp": "2026-10-07T10:34:59.729Z",
+      "timestamp": "2026-10-14T09:02:02.985Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-07T10:34:59.729Z"
+    "updatedAt": "2026-10-14T09:02:02.985Z"
   },
   {
     "id": "yugioh:11508758:PTDNENSE1:ygo-phantom-darkness-special-edition-1p6xjvw:ygo-super-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.66,
-      "timestamp": "2026-10-07T10:34:59.729Z",
+      "timestamp": "2026-10-14T09:02:02.985Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-07T10:34:59.729Z"
+    "updatedAt": "2026-10-14T09:02:02.985Z"
   }
 ]
