@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T14:23:18.116Z",
+  "generatedAt": "2026-10-18T12:12:12.908Z",
   "catalogs": [
     {
       "name": "pokemon-it",
-      "updatedAt": "2026-10-06T10:18:00.031Z",
+      "updatedAt": "2026-10-13T10:36:20.016Z",
       "sets": 193,
       "cards": 21647,
       "primaryImages": 20090,
@@ -20,7 +20,7 @@
     },
     {
       "name": "pokemon-en",
-      "updatedAt": "2026-10-06T10:18:00.031Z",
+      "updatedAt": "2026-10-13T10:36:20.016Z",
       "sets": 220,
       "cards": 23736,
       "primaryImages": 21987,
@@ -52,7 +52,7 @@
     },
     {
       "name": "pokemon-ja",
-      "updatedAt": "2026-10-06T10:18:00.031Z",
+      "updatedAt": "2026-10-13T10:36:20.016Z",
       "sets": 184,
       "cards": 12781,
       "primaryImages": 3882,
@@ -404,7 +404,7 @@
     },
     {
       "name": "pokemon-zh-tw",
-      "updatedAt": "2026-10-06T10:18:00.031Z",
+      "updatedAt": "2026-10-13T10:36:20.016Z",
       "sets": 98,
       "cards": 7436,
       "primaryImages": 2146,
@@ -491,7 +491,7 @@
     },
     {
       "name": "pokemon-zh-cn",
-      "updatedAt": "2026-10-06T10:18:00.031Z",
+      "updatedAt": "2026-10-13T10:36:20.016Z",
       "sets": 56,
       "cards": 877,
       "primaryImages": 0,
@@ -743,10 +743,10 @@
     },
     {
       "name": "yugioh",
-      "updatedAt": "2026-10-07T10:34:59.729Z",
+      "updatedAt": "2026-10-14T09:02:02.985Z",
       "sets": 1036,
-      "cards": 44649,
-      "primaryImages": 44649,
+      "cards": 44667,
+      "primaryImages": 44667,
       "primaryImageCoverage": 1,
       "variantMetadata": 0,
       "variantCoverage": 0,
@@ -779,9 +779,9 @@
       ]
     }
   ],
-  "yugiohMirroredImages": 44649,
-  "yugiohPrintings": 44649,
-  "pricePoints": 30415,
+  "yugiohMirroredImages": 44667,
+  "yugiohPrintings": 44667,
+  "pricePoints": 63913,
   "tcgcsv": {
     "mappedCards": 18668,
     "mappedSets": 163,
@@ -792,11 +792,11 @@
     "version": 1,
     "source": "TCGCSV / TCGplayer",
     "archiveStart": "2024-02-08",
-    "updatedAt": "2026-10-11T13:06:48.270Z",
+    "updatedAt": "2026-10-18T11:23:57.012Z",
     "targetDates": 74,
     "completedDates": 384,
-    "remainingDates": 4,
-    "failedDates": 4,
+    "remainingDates": 5,
+    "failedDates": 5,
     "mappedCards": 18668,
     "groups": 157,
     "lastProcessed": "2026-09-15",
