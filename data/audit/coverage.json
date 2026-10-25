@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T12:12:12.908Z",
+  "generatedAt": "2026-10-25T12:47:01.539Z",
   "catalogs": [
     {
       "name": "pokemon-it",
-      "updatedAt": "2026-10-13T10:36:20.016Z",
+      "updatedAt": "2026-10-20T08:32:52.818Z",
       "sets": 193,
       "cards": 21647,
       "primaryImages": 20090,
@@ -20,7 +20,7 @@
     },
     {
       "name": "pokemon-en",
-      "updatedAt": "2026-10-13T10:36:20.016Z",
+      "updatedAt": "2026-10-20T08:32:52.818Z",
       "sets": 220,
       "cards": 23736,
       "primaryImages": 21987,
@@ -52,7 +52,7 @@
     },
     {
       "name": "pokemon-ja",
-      "updatedAt": "2026-10-13T10:36:20.016Z",
+      "updatedAt": "2026-10-20T08:32:52.818Z",
       "sets": 184,
       "cards": 12781,
       "primaryImages": 3882,
@@ -404,7 +404,7 @@
     },
     {
       "name": "pokemon-zh-tw",
-      "updatedAt": "2026-10-13T10:36:20.016Z",
+      "updatedAt": "2026-10-20T08:32:52.818Z",
       "sets": 98,
       "cards": 7436,
       "primaryImages": 2146,
@@ -491,7 +491,7 @@
     },
     {
       "name": "pokemon-zh-cn",
-      "updatedAt": "2026-10-13T10:36:20.016Z",
+      "updatedAt": "2026-10-20T08:32:52.818Z",
       "sets": 56,
       "cards": 877,
       "primaryImages": 0,
@@ -743,7 +743,7 @@
     },
     {
       "name": "yugioh",
-      "updatedAt": "2026-10-14T09:02:02.985Z",
+      "updatedAt": "2026-10-21T08:53:12.580Z",
       "sets": 1036,
       "cards": 44667,
       "primaryImages": 44667,
@@ -792,11 +792,11 @@
     "version": 1,
     "source": "TCGCSV / TCGplayer",
     "archiveStart": "2024-02-08",
-    "updatedAt": "2026-10-18T11:23:57.012Z",
+    "updatedAt": "2026-10-25T11:47:11.340Z",
     "targetDates": 74,
     "completedDates": 384,
-    "remainingDates": 5,
-    "failedDates": 5,
+    "remainingDates": 6,
+    "failedDates": 6,
     "mappedCards": 18668,
     "groups": 157,
     "lastProcessed": "2026-09-15",
