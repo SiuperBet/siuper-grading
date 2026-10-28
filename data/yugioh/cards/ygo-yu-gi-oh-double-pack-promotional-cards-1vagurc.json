@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 17.83,
-      "timestamp": "2026-10-21T08:53:12.580Z",
+      "timestamp": "2026-10-28T10:01:33.345Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   },
   {
     "id": "yugioh:87210505:RODEN002:ygo-yu-gi-oh-double-pack-promotional-cards-1vagurc:ygo-super-parallel-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.01,
-      "timestamp": "2026-10-21T08:53:12.580Z",
+      "timestamp": "2026-10-28T10:01:33.345Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   }
 ]

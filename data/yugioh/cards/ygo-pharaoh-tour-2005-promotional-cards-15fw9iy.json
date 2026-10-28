@@ -28,7 +28,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   },
   {
     "id": "yugioh:24311372:PT1EN001:ygo-pharaoh-tour-2005-promotional-cards-15fw9iy:ygo-common",
@@ -63,10 +63,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 19.3,
-      "timestamp": "2026-10-21T08:53:12.580Z",
+      "timestamp": "2026-10-28T10:01:33.345Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   }
 ]

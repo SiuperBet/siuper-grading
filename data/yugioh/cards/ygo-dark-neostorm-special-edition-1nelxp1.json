@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.6,
-      "timestamp": "2026-10-21T08:53:12.580Z",
+      "timestamp": "2026-10-28T10:01:33.345Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   },
   {
     "id": "yugioh:92345028:DANEENSE2:ygo-dark-neostorm-special-edition-1nelxp1:ygo-super-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.64,
-      "timestamp": "2026-10-21T08:53:12.580Z",
+      "timestamp": "2026-10-28T10:01:33.345Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   },
   {
     "id": "yugioh:11827244:DANEENSE4:ygo-dark-neostorm-special-edition-1nelxp1:ygo-super-rare",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.77,
-      "timestamp": "2026-10-21T08:53:12.580Z",
+      "timestamp": "2026-10-28T10:01:33.345Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   },
   {
     "id": "yugioh:68431965:DANEENSE3:ygo-dark-neostorm-special-edition-1nelxp1:ygo-super-rare",
@@ -149,10 +149,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 5.93,
-      "timestamp": "2026-10-21T08:53:12.580Z",
+      "timestamp": "2026-10-28T10:01:33.345Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   }
 ]

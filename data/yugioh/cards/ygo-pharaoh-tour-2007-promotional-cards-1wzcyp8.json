@@ -33,11 +33,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 23.74,
-      "timestamp": "2026-10-21T08:53:12.580Z",
+      "timestamp": "2026-10-28T10:01:33.345Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   },
   {
     "id": "yugioh:75500286:PT03EN001:ygo-pharaoh-tour-2007-promotional-cards-1wzcyp8:ygo-ultra-rare",
@@ -72,10 +72,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 21127.3,
-      "timestamp": "2026-10-21T08:53:12.580Z",
+      "timestamp": "2026-10-28T10:01:33.345Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-21T08:53:12.580Z"
+    "updatedAt": "2026-10-28T10:01:33.345Z"
   }
 ]
