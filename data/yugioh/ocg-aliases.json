@@ -1,9 +1,9 @@
 {
   "version": 1,
   "source": "YGOCDB",
-  "updatedAt": "2026-10-28T11:17:01.375Z",
-  "md5": "\"eb35414c019fc735d276f840b219b8f1\"",
-  "cards": 14343,
+  "updatedAt": "2026-11-04T12:57:08.696Z",
+  "md5": "\"24598805513998b4865682b240739535\"",
+  "cards": 14423,
   "aliases": {
     "483": {
       "cid": 21470,
@@ -7311,6 +7311,24 @@
         "sc": null
       }
     },
+    "2083229": {
+      "cid": 23837,
+      "enName": "",
+      "jpName": "リインゼルム・カルカサス",
+      "jpRuby": "リインゼルム・カルカサス",
+      "zhName": "轮回虫龙 高加索南洋大兜虫",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "2084239": {
       "cid": 7627,
       "enName": "Wetlands",
@@ -11100,6 +11118,24 @@
         "sc": null
       }
     },
+    "3106767": {
+      "cid": 23834,
+      "enName": "",
+      "jpName": "お返し鶴秘姫",
+      "jpRuby": "おかえしつるひめ",
+      "zhName": "返身报恩的鹤秘姬",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "3111207": {
       "cid": 14104,
       "enName": "Lappis Dragon",
@@ -14289,6 +14325,24 @@
         "sc": null
       }
     },
+    "4040906": {
+      "cid": 23828,
+      "enName": "",
+      "jpName": "無敵のロケット戦士",
+      "jpRuby": "むてきのロケットせんし",
+      "zhName": "无敌的火箭战士",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "4041838": {
       "cid": 6111,
       "enName": "Ninja Grandmaster Sasuke",
@@ -14626,6 +14680,24 @@
           "date": "2024-02-03",
           "pack": "万象包 －炽炎英杰－"
         }
+      }
+    },
+    "4104784": {
+      "cid": 23891,
+      "enName": "",
+      "jpName": "バニリン・ソフト",
+      "jpRuby": "バニリン・ソフト",
+      "zhName": "软软香草白兔冰",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "4130270": {
@@ -15229,6 +15301,24 @@
           "date": "2025-08-16",
           "pack": "次元末日 补缀包"
         }
+      }
+    },
+    "4328355": {
+      "cid": 23831,
+      "enName": "",
+      "jpName": "バニリン：モカMOD",
+      "jpRuby": "バニリン：モカモッド",
+      "zhName": "香草白兔冰：摩卡模组",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "4333086": {
@@ -17598,6 +17688,24 @@
         "sc": null
       }
     },
+    "5059914": {
+      "cid": 23885,
+      "enName": "",
+      "jpName": "アマゾネス救出劇",
+      "jpRuby": "アマゾネスきゅうしゅつげき",
+      "zhName": "亚马逊救出剧",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "5063379": {
       "cid": 20797,
       "enName": "Flavian - Colosseum of the Gladiator Beasts",
@@ -18342,6 +18450,24 @@
           "date": "2002-10-20",
           "pack": "PHARAOH'S SERVANT"
         },
+        "sc": null
+      }
+    },
+    "5266584": {
+      "cid": 23825,
+      "enName": "",
+      "jpName": "転生炎獣バステラ",
+      "jpRuby": "サラマングレイトバステラ",
+      "zhName": "转生炎兽 宽耳蝠",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -20239,6 +20365,24 @@
           "date": "2026-05-16",
           "pack": "混沌原初"
         }
+      }
+    },
+    "5837376": {
+      "cid": 23888,
+      "enName": "",
+      "jpName": "白鴉の魔女の光彩",
+      "jpRuby": "はくあのまじょのひかり",
+      "zhName": "白鸦魔女的光彩",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "5846183": {
@@ -23308,6 +23452,24 @@
           "date": "2023-07-29",
           "pack": "超级包08"
         }
+      }
+    },
+    "6771402": {
+      "cid": 23882,
+      "enName": "",
+      "jpName": "秋",
+      "jpRuby": "あき",
+      "zhName": "秋",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "6772168": {
@@ -33945,6 +34107,24 @@
         }
       }
     },
+    "10000100": {
+      "cid": 23841,
+      "enName": "",
+      "jpName": "暗黒の太陽神－ラーの翼神竜",
+      "jpRuby": "あんこくのたいようしん－ラーのよくしんりゅう",
+      "zhName": "暗黑之太阳神-拉之翼神龙",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "暗黑太阳神－拉之翼神龙",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "10002346": {
       "cid": 9576,
       "enName": "Gachi Gachi Gantetsu",
@@ -34632,6 +34812,24 @@
           "date": "2022-05-06",
           "pack": "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
         },
+        "sc": null
+      }
+    },
+    "10177359": {
+      "cid": 23867,
+      "enName": "",
+      "jpName": "無死なる竜の鼓動",
+      "jpRuby": "リインゼルム・カーネーション",
+      "zhName": "无死之龙的鼓动",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -42948,6 +43146,24 @@
         "sc": null
       }
     },
+    "12738990": {
+      "cid": 23587,
+      "enName": "",
+      "jpName": "鋼鉄の騎士 ギア・フリード",
+      "jpRuby": "こうてつのきし　ギア・フリード",
+      "zhName": "钢铁骑士 基亚·弗里德",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "12743620": {
       "cid": 14143,
       "enName": "Uni-Song Tuning",
@@ -43238,6 +43454,24 @@
         "en": {
           "date": "2012-11-09",
           "pack": "ABYSS RISING"
+        },
+        "sc": null
+      }
+    },
+    "12845564": {
+      "cid": 23527,
+      "enName": "Angelechy Endgame Problem",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的终局之问",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
         },
         "sc": null
       }
@@ -44011,6 +44245,24 @@
           "date": "2023-04-29",
           "pack": "主题包 ‐不死轮舞‐"
         }
+      }
+    },
+    "13068112": {
+      "cid": 23524,
+      "enName": "Angelechy Strategy Score",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的战略分值",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
       }
     },
     "13069066": {
@@ -45255,6 +45507,24 @@
           "date": "2010-05-11",
           "pack": "THE SHINING DARKNESS"
         },
+        "sc": null
+      }
+    },
+    "13450581": {
+      "cid": 23584,
+      "enName": "",
+      "jpName": "デューカー・ツイン・ソード",
+      "jpRuby": "デューカー・ツイン・ソード",
+      "zhName": "二刀公爵",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -54708,6 +54978,24 @@
         }
       }
     },
+    "16389132": {
+      "cid": 23822,
+      "enName": "",
+      "jpName": "白鴉の騎士アン",
+      "jpRuby": "はくあのきしアン",
+      "zhName": "白鸦骑士 安",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "16392422": {
       "cid": 5475,
       "enName": "Toon Masked Sorcerer",
@@ -56922,6 +57210,24 @@
         "sc": null
       }
     },
+    "17101624": {
+      "cid": 23819,
+      "enName": "",
+      "jpName": "ハーピィ・レディ－魅惑の舞い－",
+      "jpRuby": "ハーピィ・レディ－みわくのまい－",
+      "zhName": "鹰身女郎-诱惑之舞-",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "17115745": {
       "cid": 4572,
       "enName": "",
@@ -57370,6 +57676,24 @@
           "date": "2025-01-18",
           "pack": "万象包 －十二武勇－"
         }
+      }
+    },
+    "17223202": {
+      "cid": 23816,
+      "enName": "",
+      "jpName": "アマゾネスの鎖使い－死に際の鎖舞い－",
+      "jpRuby": "アマゾネスのくさりつかい－しにぎわのくさりまい－",
+      "zhName": "亚马逊锁链使-临终锁舞-",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "17228908": {
@@ -59958,6 +60282,24 @@
         "sc": null
       }
     },
+    "17993053": {
+      "cid": 23879,
+      "enName": "",
+      "jpName": "ケペルの金字塔",
+      "jpRuby": "ケペルのきんじとう",
+      "zhName": "凯帕之金字塔",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "17994645": {
       "cid": 12446,
       "enName": "Assault Blackwing - Sayo the Rain Hider",
@@ -60025,6 +60367,24 @@
           "date": "2022-07-30",
           "pack": "主题卡组 同步士的极致 -改版-"
         }
+      }
+    },
+    "18016631": {
+      "cid": 23876,
+      "enName": "",
+      "jpName": "カオス・バリアンズ・チェンジ",
+      "jpRuby": "カオス・バリアンズ・チェンジ",
+      "zhName": "混沌异晶人的变身",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "18027138": {
@@ -61318,6 +61678,24 @@
           "date": "2025-06-14",
           "pack": "补缀包 2025 Vol.1"
         }
+      }
+    },
+    "18446859": {
+      "cid": 23813,
+      "enName": "",
+      "jpName": "太陽神の処刑人－マキュラ",
+      "jpRuby": "たいようしんのしょけいにん－マキュラ",
+      "zhName": "太阳神的处刑人-摩休罗",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "18458255": {
@@ -65898,6 +66276,24 @@
         "sc": null
       }
     },
+    "19832229": {
+      "cid": 23873,
+      "enName": "",
+      "jpName": "転生炎獣の神域",
+      "jpRuby": "サラマングレイト・サンガ",
+      "zhName": "转生炎兽的神域",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "19844995": {
       "cid": 7787,
       "enName": "Power Filter",
@@ -66193,6 +66589,24 @@
           "date": "2026-05-16",
           "pack": "混沌原初"
         }
+      }
+    },
+    "19954877": {
+      "cid": 23870,
+      "enName": "",
+      "jpName": "白鴉の深き森",
+      "jpRuby": "はくあのふかきもり",
+      "zhName": "白鸦的大森林",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "19959563": {
@@ -68034,6 +68448,24 @@
           "date": "2010-08-17",
           "pack": "DUELIST REVOLUTION"
         },
+        "sc": null
+      }
+    },
+    "20477370": {
+      "cid": 23853,
+      "enName": "",
+      "jpName": "六花深聖ストレナエ",
+      "jpRuby": "りっかしんせいストレナエ",
+      "zhName": "六花深圣 力量女神花圈",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -70665,6 +71097,24 @@
         "sc": null
       }
     },
+    "21299968": {
+      "cid": 23850,
+      "enName": "",
+      "jpName": "鬼神 夜魅",
+      "jpRuby": "アシュトラーマ　ヨアミ",
+      "zhName": "鬼神 夜魅",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "21313376": {
       "cid": 11653,
       "enName": "Number 14: Greedy Sarameya",
@@ -72684,6 +73134,24 @@
         }
       }
     },
+    "21899906": {
+      "cid": 23864,
+      "enName": "",
+      "jpName": "華麗なる三面鏡",
+      "jpRuby": "かれいなるさんめんきょう",
+      "zhName": "华丽的三面镜",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "21900719": {
       "cid": 5729,
       "enName": "Twin Swords of Flashing Light - Tryce",
@@ -73044,6 +73512,24 @@
           "date": "2011-09-29",
           "pack": "DUEL TERMINAL 5B"
         },
+        "sc": null
+      }
+    },
+    "22011594": {
+      "cid": 23861,
+      "enName": "",
+      "jpName": "竜魔導の降霊師",
+      "jpRuby": "りゅうまどうのこうれいし",
+      "zhName": "龙魔导降灵师",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -76599,6 +77085,24 @@
         "sc": null
       }
     },
+    "23133136": {
+      "cid": 23858,
+      "enName": "",
+      "jpName": "無垢なる協奏 エルフェンノーツ",
+      "jpRuby": "アルス＝マグナ　エルフェンノーツ",
+      "zhName": "无垢协奏 耀圣诗团",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "23147658": {
       "cid": 15365,
       "enName": "Weathering Soldier",
@@ -79527,6 +80031,24 @@
         }
       }
     },
+    "23956724": {
+      "cid": 23855,
+      "enName": "",
+      "jpName": "高嶺の天仙カリン",
+      "jpRuby": "たかねのてんせんカリン",
+      "zhName": "高岭之天仙 火轮",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "23965033": {
       "cid": 17614,
       "enName": "Amazoness Augusta",
@@ -82152,6 +82674,24 @@
         "sc": null
       }
     },
+    "24672129": {
+      "cid": 23581,
+      "enName": "",
+      "jpName": "香水戦術",
+      "jpRuby": "アロマ・タクティクス",
+      "zhName": "香水战术",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "24672164": {
       "cid": 12317,
       "enName": "Bloom Prima the Melodious Choir",
@@ -82479,6 +83019,24 @@
         }
       }
     },
+    "24780790": {
+      "cid": 23521,
+      "enName": "Chaospawn Bishop",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "混沌诞生主教",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
     "24793135": {
       "cid": 16249,
       "enName": "Sacred Scrolls of the Gizmek Legend",
@@ -82752,6 +83310,24 @@
         }
       }
     },
+    "24902348": {
+      "cid": 23518,
+      "enName": "Archidux, the Squid Sorcerer",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "魔道乌贼 大王",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
     "24903843": {
       "cid": 12085,
       "enName": "Paleozoic Pikaia",
@@ -82979,6 +83555,24 @@
         "en": {
           "date": "2014-08-01",
           "pack": "BATTLE PACK 3 MONSTER LEAGUE"
+        },
+        "sc": null
+      }
+    },
+    "25024929": {
+      "cid": 23515,
+      "enName": "Just Flip a Coin",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "听天投命",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
         },
         "sc": null
       }
@@ -85557,6 +86151,24 @@
         "sc": null
       }
     },
+    "25799717": {
+      "cid": 23578,
+      "enName": "",
+      "jpName": "魔の龍札－金龍",
+      "jpRuby": "まのドラゴン・カード－きんりゅう",
+      "zhName": "魔之龙札-金龙",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "25800447": {
       "cid": 14134,
       "enName": "Fusion of Fire",
@@ -87144,6 +87756,24 @@
         }
       }
     },
+    "26311506": {
+      "cid": 23847,
+      "enName": "",
+      "jpName": "幻のインセクト女王",
+      "jpRuby": "まぼろしのインセクトクイーン",
+      "zhName": "幻之昆虫女王",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "26326541": {
       "cid": 14117,
       "enName": "Shiranui Swordsaga",
@@ -87642,6 +88272,24 @@
         "sc": null
       }
     },
+    "26511269": {
+      "cid": 23575,
+      "enName": "",
+      "jpName": "罰ゲーム「GREED－欲望の幻像－」",
+      "jpRuby": "ばつゲーム「グリード－よくぼうのげんぞう－」",
+      "zhName": "惩罚游戏「GREED-欲望的幻象-」",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "26517393": {
       "cid": 12311,
       "enName": "Spirit of the Fall Wind",
@@ -88033,6 +88681,24 @@
           "date": "2023-07-01",
           "pack": "超级包07"
         }
+      }
+    },
+    "26633847": {
+      "cid": 23572,
+      "enName": "",
+      "jpName": "稲妻の戦士－ギルフォード・ザ・ライトニング",
+      "jpRuby": "いなずまのせんし－ギルフォード・ザ・ライトニング",
+      "zhName": "闪电战士-闪电之战士 吉尔福德",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "26638543": {
@@ -90777,6 +91443,24 @@
         }
       }
     },
+    "27533198": {
+      "cid": 23844,
+      "enName": "",
+      "jpName": "ハーピィ・レディ三姉妹・TX",
+      "jpRuby": "ハーピィ・レディさんしまい・トライアングル・エクスタシー",
+      "zhName": "鹰身女郎三姐妹 三角神迷",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "神鹰女郎三姐妹・三角狂欢",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "27541267": {
       "cid": 10010,
       "enName": "Infestation Pandemic",
@@ -91756,6 +92440,24 @@
           "date": "2024-05-25",
           "pack": "端末世界"
         }
+      }
+    },
+    "27855495": {
+      "cid": 23569,
+      "enName": "",
+      "jpName": "機械龍－リボルバー・ドラゴン",
+      "jpRuby": "きかいりゅう－リボルバー・ドラゴン",
+      "zhName": "机械龙-左轮手枪龙",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "27863269": {
@@ -99930,6 +100632,24 @@
         "sc": null
       }
     },
+    "30316053": {
+      "cid": 23832,
+      "enName": "",
+      "jpName": "災禍の根絶者",
+      "jpRuby": "ヘレティック・エラディケイター",
+      "zhName": "灾祸的根绝者",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "30325729": {
       "cid": 5150,
       "enName": "Dokuroyaiba",
@@ -103317,6 +104037,24 @@
         "sc": null
       }
     },
+    "31321471": {
+      "cid": 23889,
+      "enName": "",
+      "jpName": "白鴉の魔女の幻姿",
+      "jpRuby": "はくあのまじょのまぼろし",
+      "zhName": "白鸦魔女的幻姿",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "31322640": {
       "cid": 20415,
       "enName": "Allure Palace",
@@ -103642,6 +104380,24 @@
           "date": "2023-01-01",
           "pack": "参赛包 Volume 10"
         }
+      }
+    },
+    "31439641": {
+      "cid": 23829,
+      "enName": "",
+      "jpName": "鬼神童鵄 タマヨリ",
+      "jpRuby": "アシュトラータ　タマヨリ",
+      "zhName": "鬼神童鸱 玉依",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "31440046": {
@@ -127452,6 +128208,24 @@
         "sc": null
       }
     },
+    "38478224": {
+      "cid": 23838,
+      "enName": "",
+      "jpName": "リインゼルム・ギガロヴェンドラ",
+      "jpRuby": "リインゼルム・ギガロヴェンドラ",
+      "zhName": "轮回虫龙 秘鲁巨人蜈蚣",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "38479725": {
       "cid": 6121,
       "enName": "The Trojan Horse",
@@ -127965,6 +128739,24 @@
           "date": "2018-08-17",
           "pack": "SHADOWS IN VALHALLA"
         },
+        "sc": null
+      }
+    },
+    "38578076": {
+      "cid": 23566,
+      "enName": "",
+      "jpName": "完全なる羽化－究極完全態・グレート・モス",
+      "jpRuby": "かんぜんなるうか－きゅうきょくかんぜんたい・グレート・モス",
+      "zhName": "完全羽化-究极完全态大飞蛾",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -131182,6 +131974,24 @@
           "date": "2025-10-18",
           "pack": "世界先行精选包 2025"
         }
+      }
+    },
+    "39590415": {
+      "cid": 23835,
+      "enName": "",
+      "jpName": "リインゼルム・アムルサ",
+      "jpRuby": "リインゼルム・アムルサ",
+      "zhName": "轮回虫龙 大紫蛱蝶",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "39613288": {
@@ -136850,7 +137660,7 @@
       "zhName": "黑魔导的幕帘",
       "scName": "黑之魔导的帘布",
       "cnocgName": "黑魔导的幕帘",
-      "masterDuelName": "",
+      "masterDuelName": "黑之魔导的帘布",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -140370,6 +141180,24 @@
         "sc": null
       }
     },
+    "42373771": {
+      "cid": 23823,
+      "enName": "",
+      "jpName": "白鴉の森の罪宝",
+      "jpRuby": "はくあのもりのざいほう",
+      "zhName": "白鸦之森的罪宝",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "42377643": {
       "cid": 16508,
       "enName": "Gunkan Suship Uni",
@@ -140706,6 +141534,24 @@
           "date": "2002-06-26",
           "pack": "METAL RAIDERS"
         },
+        "sc": null
+      }
+    },
+    "42443968": {
+      "cid": 23886,
+      "enName": "",
+      "jpName": "誘惑の鏡壁",
+      "jpRuby": "ゆうわくのミラーウォール",
+      "zhName": "诱惑之镜壁",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -141417,6 +142263,24 @@
           "date": "2003-06-06",
           "pack": "LEGACY OF DARKNESS"
         },
+        "sc": null
+      }
+    },
+    "42651293": {
+      "cid": 23826,
+      "enName": "",
+      "jpName": "六花双精プリムローズ",
+      "jpRuby": "りっかそうせいプリムローズ",
+      "zhName": "六花双精 报春来",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -143217,6 +144081,24 @@
         }
       }
     },
+    "43266500": {
+      "cid": 23883,
+      "enName": "",
+      "jpName": "太陽神の支配",
+      "jpRuby": "たいようしんのしはい",
+      "zhName": "太阳神的支配",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "43266605": {
       "cid": 12619,
       "enName": "PSY-Frame Multi-Threader",
@@ -143622,6 +144504,24 @@
           "date": "2013-11-08",
           "pack": "SHADOW SPECTERS"
         },
+        "sc": null
+      }
+    },
+    "43382198": {
+      "cid": 23880,
+      "enName": "",
+      "jpName": "魔獣の昂進",
+      "jpRuby": "カード・クロール",
+      "zhName": "魔兽的昂进",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -144429,6 +145329,24 @@
           "date": "2003-06-06",
           "pack": "LEGACY OF DARKNESS"
         },
+        "sc": null
+      }
+    },
+    "43596329": {
+      "cid": 23820,
+      "enName": "",
+      "jpName": "白鴉の森の炎魔",
+      "jpRuby": "はくあのもりのえんま",
+      "zhName": "白鸦之森的炎魔",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -147366,6 +148284,24 @@
         "sc": null
       }
     },
+    "44504746": {
+      "cid": 23877,
+      "enName": "",
+      "jpName": "バニリン・エキストラクト",
+      "jpRuby": "バニリン・エキストラクト",
+      "zhName": "香草白兔冰的精粹",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "44505297": {
       "cid": 9920,
       "enName": "Inzektor Exa-Beetle",
@@ -147640,6 +148576,24 @@
           "date": "2023-02-25",
           "pack": "经典包03"
         }
+      }
+    },
+    "44618916": {
+      "cid": 23817,
+      "enName": "",
+      "jpName": "アマゾネスの格闘戦士－蹴殺の舞い－",
+      "jpRuby": "アマゾネスのかくとうせんし－しゅうさつのまい－",
+      "zhName": "亚马逊格斗战士-蹴杀之舞-",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "44632120": {
@@ -150045,6 +150999,24 @@
         }
       }
     },
+    "45227328": {
+      "cid": 23874,
+      "enName": "",
+      "jpName": "転生炎獣の神剣",
+      "jpRuby": "サラマングレイト・ギア・ブレード",
+      "zhName": "转生炎兽的神剑",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "45231177": {
       "cid": 4021,
       "enName": "Flame Swordsman",
@@ -150516,6 +151488,24 @@
           "date": "2004-02-10",
           "pack": "Yu-Gi-Oh! World Championship Tournament 2004 Bundles"
         },
+        "sc": null
+      }
+    },
+    "45430558": {
+      "cid": 23814,
+      "enName": "",
+      "jpName": "太陽神の殺戮機－ギル・ガース",
+      "jpRuby": "たいようしんのさつりくき－ギル・ガース",
+      "zhName": "太阳神的杀戮机-屠杀巨灵",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -159855,6 +160845,24 @@
         }
       }
     },
+    "48340269": {
+      "cid": 23528,
+      "enName": "Angelechy Verdict",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使之裁",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
     "48343627": {
       "cid": 7385,
       "enName": "Grave Squirmer",
@@ -162322,6 +163330,24 @@
           "date": "2020-11-11",
           "pack": "主题卡组 机光龙袭雷 强化包"
         }
+      }
+    },
+    "49122098": {
+      "cid": 23588,
+      "enName": "",
+      "jpName": "マジックカード「エネミーコントローラー」",
+      "jpRuby": "マジックカード「エネミーコントローラー」",
+      "zhName": "魔法卡「敌人操纵器」",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "49127943": {
@@ -165057,6 +166083,24 @@
         }
       }
     },
+    "50071178": {
+      "cid": 23582,
+      "enName": "",
+      "jpName": "闇魔導の覇王",
+      "jpRuby": "やみまどうのはおう",
+      "zhName": "暗魔导的霸王",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "50073633": {
       "cid": 22952,
       "enName": "Celtic Mystic",
@@ -165845,6 +166889,24 @@
         "en": {
           "date": "2008-01-26",
           "pack": "DUELIST PACK - JADEN YUKI 3 -"
+        },
+        "sc": null
+      }
+    },
+    "50284408": {
+      "cid": 23522,
+      "enName": "Angelechy Castellan",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "城主之具象天使",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
         },
         "sc": null
       }
@@ -167643,6 +168705,24 @@
         }
       }
     },
+    "50849686": {
+      "cid": 23585,
+      "enName": "",
+      "jpName": "閃光の封殺剣",
+      "jpRuby": "せんこうのふうさつけん",
+      "zhName": "闪光之封杀剑",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "50855622": {
       "cid": 16943,
       "enName": "Ultra Beetrooper Absolute Hercules",
@@ -168519,6 +169599,24 @@
         "sc": null
       }
     },
+    "51193716": {
+      "cid": 23579,
+      "enName": "",
+      "jpName": "スーパークリティカル",
+      "jpRuby": "スーパークリティカル",
+      "zhName": "超级暴击",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "51194046": {
       "cid": 11540,
       "enName": "Qliphort Monolith",
@@ -168920,6 +170018,24 @@
         "en": {
           "date": "2023-10-20",
           "pack": "AGE OF OVERLORD"
+        },
+        "sc": null
+      }
+    },
+    "51307986": {
+      "cid": 23519,
+      "enName": "Skyborne Blue Cularsaw",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "飞临的蓝锯手",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
         },
         "sc": null
       }
@@ -171621,6 +172737,24 @@
         "sc": null
       }
     },
+    "52123534": {
+      "cid": 23516,
+      "enName": "Kumenyo, the Nine-Hued Deer",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "九色鹿 九面妖",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
     "52126602": {
       "cid": 19412,
       "enName": "Gen the Diamond Tiger",
@@ -171913,6 +173047,24 @@
           "date": "2023-05-20",
           "pack": "经典包04"
         }
+      }
+    },
+    "52245126": {
+      "cid": 23513,
+      "enName": "Audhumla, Progenitor of the Frozen Expanse",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "冰原之始祖 欧德姆布拉",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
       }
     },
     "52248570": {
@@ -173682,6 +174834,24 @@
         "sc": null
       }
     },
+    "52806255": {
+      "cid": 23848,
+      "enName": "",
+      "jpName": "白鴉の騎士ザルティス",
+      "jpRuby": "はくあのきしザルティス",
+      "zhName": "白鸦骑士 扎尔蒂斯",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "52807032": {
       "cid": 16877,
       "enName": "Dinomorphia Sonic",
@@ -174111,6 +175281,24 @@
         "sc": null
       }
     },
+    "52915304": {
+      "cid": 23576,
+      "enName": "",
+      "jpName": "ゾンバイア",
+      "jpRuby": "ゾンバイア",
+      "zhName": "尸魔侠",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "52918032": {
       "cid": 19472,
       "enName": "Mementotlan Ghattic",
@@ -174387,6 +175575,24 @@
           "date": "2013-05-17",
           "pack": "LORD OF THE TACHYON GALAXY"
         },
+        "sc": null
+      }
+    },
+    "53038955": {
+      "cid": 23573,
+      "enName": "",
+      "jpName": "波動の超魔導剣士－ブラック・パラディン",
+      "jpRuby": "はどうのちょうまどうけんし－ブラック・パラディン",
+      "zhName": "波动之超魔导剑士-黑魔导剑士",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -183623,7 +184829,7 @@
       "zhName": "元素英雄 荒野翼侠",
       "scName": "",
       "cnocgName": "E·HERO 野性翼人",
-      "masterDuelName": "元素－英雄 野蛮翼侠",
+      "masterDuelName": "元素－英雄 野蛮翼人",
       "release": {
         "jp": {
           "date": "2006-02-16",
@@ -185920,6 +187126,24 @@
           "date": "2023-10-21",
           "pack": "主题包 －龙剑轨迹－"
         }
+      }
+    },
+    "56349876": {
+      "cid": 23871,
+      "enName": "",
+      "jpName": "獄神封門－共滅の剣－",
+      "jpRuby": "ごくしんふうもん－きょうめつのつるぎ－",
+      "zhName": "狱神封门-共灭之剑-",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "56350972": {
@@ -188988,6 +190212,24 @@
         }
       }
     },
+    "57283005": {
+      "cid": 23865,
+      "enName": "",
+      "jpName": "ハーピィ＆アマゾネス －羅刹の陣－",
+      "jpRuby": "ハーピィアンドアマゾネス　－らせつのじん－",
+      "zhName": "鹰身&亚马逊 -罗刹之阵-",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "57285770": {
       "cid": 17166,
       "enName": "Therion Charge",
@@ -189901,6 +191143,24 @@
           "date": "2024-06-29",
           "pack": "百宝秘封包"
         }
+      }
+    },
+    "57561463": {
+      "cid": 23868,
+      "enName": "",
+      "jpName": "翅竜の羽撃",
+      "jpRuby": "リインゼルム・バタフライ",
+      "zhName": "翅龙的羽击",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "57566760": {
@@ -191037,6 +192297,24 @@
           "date": "2003-03-01",
           "pack": "LABYRINTH OF NIGHTMARE"
         },
+        "sc": null
+      }
+    },
+    "57961015": {
+      "cid": 23854,
+      "enName": "",
+      "jpName": "No.96 ブラック・マリオネッター",
+      "jpRuby": "ナンバーズ９６　ブラック・マリオネッター",
+      "zhName": "No.96 黑偶",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -192678,6 +193956,24 @@
         "sc": null
       }
     },
+    "58406693": {
+      "cid": 23862,
+      "enName": "",
+      "jpName": "不死なる太陽神",
+      "jpRuby": "ふしなるたいようしん",
+      "zhName": "不死的太阳神",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "58415502": {
       "cid": 17621,
       "enName": "Royal Straight",
@@ -193546,6 +194842,24 @@
           "date": "2026-05-16",
           "pack": "混沌原初 补缀包"
         }
+      }
+    },
+    "58683667": {
+      "cid": 23851,
+      "enName": "",
+      "jpName": "ダラダラサウルス",
+      "jpRuby": "ダラダラサウルス",
+      "zhName": "达懒斯龙",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "58685438": {
@@ -194916,6 +196230,24 @@
         }
       }
     },
+    "59062857": {
+      "cid": 23525,
+      "enName": "Angelechy Brilliant Move",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的精妙一手",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
     "59069885": {
       "cid": 19421,
       "enName": "Embrace of the Tistina",
@@ -195094,6 +196426,24 @@
           "date": "2023-07-01",
           "pack": "参赛包 2023 Vol.2"
         }
+      }
+    },
+    "59128241": {
+      "cid": 23859,
+      "enName": "",
+      "jpName": "炎の平原を駆け抜ける百獣の王",
+      "jpRuby": "ほのおのへいげんをかけぬけるひゃくじゅうのおう",
+      "zhName": "驰驱于火炎平原的百兽之王",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "驰骋横越炎之平原的百兽之王",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "59131526": {
@@ -198883,6 +200233,24 @@
           "date": "2023-07-29",
           "pack": "超级包08"
         }
+      }
+    },
+    "60344723": {
+      "cid": 23856,
+      "enName": "",
+      "jpName": "無垢なる絆 アルトメギア",
+      "jpRuby": "アルス＝マグナ　アルトメギア",
+      "zhName": "无垢牵绊 神艺学徒",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "无垢奥艺之绊 神艺",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "60349525": {
@@ -208044,6 +209412,24 @@
         }
       }
     },
+    "63250533": {
+      "cid": 23570,
+      "enName": "",
+      "jpName": "幻想の邪眼－サクリファイス",
+      "jpRuby": "げんそうのじゃがん－サクリファイス",
+      "zhName": "幻想之邪眼-纳祭之魔",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "63251695": {
       "cid": 12137,
       "enName": "Dinomist Rex",
@@ -209932,6 +211318,24 @@
           "date": "2026-05-16",
           "pack": "混沌原初"
         }
+      }
+    },
+    "63928793": {
+      "cid": 23845,
+      "enName": "",
+      "jpName": "白鴉の森の女主人ディアベルゼ",
+      "jpRuby": "はくあのもりのおんなしゅじんディアベルゼ",
+      "zhName": "白鸦之森的女主人 迪亚贝尔泽",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "白鸦之森的女主人 迪亚贝尔赛",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "63941169": {
@@ -211884,6 +213288,24 @@
         }
       }
     },
+    "64537714": {
+      "cid": 23902,
+      "enName": "",
+      "jpName": "ウルトゥムの魔竜王",
+      "jpRuby": "ウルトゥムのまりゅうおう",
+      "zhName": "乌尔素姆之魔龙王",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-01",
+          "pack": "トーナメントパック 2026 Vol.3"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "64538655": {
       "cid": 6185,
       "enName": "Sasuke Samurai #4",
@@ -212535,6 +213957,24 @@
         }
       }
     },
+    "64740385": {
+      "cid": 23842,
+      "enName": "",
+      "jpName": "太陽神の鉄檻－ラヴァ・ゴーレム",
+      "jpRuby": "たいようしんのてつおり－ラヴァ・ゴーレム",
+      "zhName": "太阳神的铁槛-熔岩魔神",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "64749612": {
       "cid": 14003,
       "enName": "Yellow Ninja",
@@ -213163,6 +214603,24 @@
           "date": "2023-03-25",
           "pack": "超级包06"
         }
+      }
+    },
+    "64972181": {
+      "cid": 23567,
+      "enName": "",
+      "jpName": "ハーピィ・レディ－華麗なる分身－",
+      "jpRuby": "ハーピィ・レディ－かれいなるぶんしん－",
+      "zhName": "鹰身女郎-华丽的分身-",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "64973287": {
@@ -216051,6 +217509,24 @@
         }
       }
     },
+    "65866932": {
+      "cid": 23839,
+      "enName": "",
+      "jpName": "リインゼルム・ギリアカルマ",
+      "jpRuby": "リインゼルム・ギリアカルマ",
+      "zhName": "轮回虫龙 奇伦南洋大兜虫",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "轮回虫龙・铜身三戟龙",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "65872270": {
       "cid": 11857,
       "enName": "Igknight Burst",
@@ -218400,6 +219876,24 @@
         }
       }
     },
+    "66589510": {
+      "cid": 23836,
+      "enName": "",
+      "jpName": "リインゼルム・ルヴィアン",
+      "jpRuby": "リインゼルム・ルヴィアン",
+      "zhName": "轮回虫龙 秘鲁蜈蚣",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "66594927": {
       "cid": 15342,
       "enName": "Meklord Deflection",
@@ -218716,6 +220210,24 @@
           "date": "2023-07-29",
           "pack": "超级包08"
         }
+      }
+    },
+    "66701162": {
+      "cid": 23833,
+      "enName": "",
+      "jpName": "幻惑の綺羅星",
+      "jpRuby": "ナイトメア・トゥインクル",
+      "zhName": "幻惑的绮罗星",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "66707058": {
@@ -231384,6 +232896,24 @@
         }
       }
     },
+    "70612015": {
+      "cid": 23818,
+      "enName": "",
+      "jpName": "アマゾネスの呪詛師－呪印の舞い－",
+      "jpRuby": "アマゾネスのじゅそし－じゅいんのまい－",
+      "zhName": "亚马逊诅咒师-咒印之舞-",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "70624184": {
       "cid": 9984,
       "enName": "Constellar Rasalhague",
@@ -231790,6 +233320,24 @@
           "date": "2023-10-21",
           "pack": "主题包 －龙剑轨迹－"
         }
+      }
+    },
+    "70777807": {
+      "cid": 23881,
+      "enName": "",
+      "jpName": "キャッスル・オブ・ヴァンパイア",
+      "jpRuby": "キャッスル・オブ・ヴァンパイア",
+      "zhName": "吸血鬼城堡",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "70780151": {
@@ -234663,6 +236211,24 @@
           "date": "2022-02-11",
           "pack": "BATTLE OF CHAOS"
         },
+        "sc": null
+      }
+    },
+    "71599345": {
+      "cid": 23878,
+      "enName": "",
+      "jpName": "パワー・オブ・ザ・デュエリスト",
+      "jpRuby": "パワー・オブ・ザ・デュエリスト",
+      "zhName": "决斗者之力",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -254229,6 +255795,24 @@
         "sc": null
       }
     },
+    "77823650": {
+      "cid": 23830,
+      "enName": "",
+      "jpName": "アトランティスの暴翼",
+      "jpRuby": "アトランティスのぼうよく",
+      "zhName": "亚特兰蒂斯的暴翼",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "77826734": {
       "cid": 12185,
       "enName": "Pendulum Reborn",
@@ -255987,6 +257571,24 @@
         "sc": null
       }
     },
+    "78432667": {
+      "cid": 23887,
+      "enName": "",
+      "jpName": "百竜の交戦",
+      "jpRuby": "リインゼルム・エンカウント",
+      "zhName": "百龙的交战",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "78437364": {
       "cid": 13084,
       "enName": "Gouki The Great Ogre",
@@ -256587,6 +258189,24 @@
         }
       }
     },
+    "78646298": {
+      "cid": 23827,
+      "enName": "",
+      "jpName": "六花のくろひめ",
+      "jpRuby": "りっかのくろひめ",
+      "zhName": "六花的黑姬",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "78651105": {
       "cid": 7346,
       "enName": "Beast King Barbaros",
@@ -256834,6 +258454,24 @@
           "date": "2026-07-18",
           "pack": "世界先行精选包 2026"
         }
+      }
+    },
+    "78716089": {
+      "cid": 23890,
+      "enName": "",
+      "jpName": "予幻なき世界に託す約束",
+      "jpRuby": "エフェメ・ラル・テオリアライズ",
+      "zhName": "向无预幻世托付的约定",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "78734254": {
@@ -259428,6 +261066,24 @@
         "sc": null
       }
     },
+    "79654215": {
+      "cid": 23884,
+      "enName": "",
+      "jpName": "太陽神の守護者－神・スライム",
+      "jpRuby": "たいようしんのしゅごしゃ－ゴッド・スライム",
+      "zhName": "太阳神的守护者-神·史莱姆",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "79656239": {
       "cid": 14661,
       "enName": "Aromaseraphy Sweet Marjoram",
@@ -259716,6 +261372,24 @@
           "date": "2008-09-02",
           "pack": "THE DUELIST GENESIS"
         },
+        "sc": null
+      }
+    },
+    "79768885": {
+      "cid": 23824,
+      "enName": "",
+      "jpName": "転生炎獣マーコール",
+      "jpRuby": "サラマングレイトマーコール",
+      "zhName": "转生炎兽 捻角山羊",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -260584,6 +262258,24 @@
           "date": "2022-07-30",
           "pack": "主题卡组 英雄强袭 -改版-"
         }
+      }
+    },
+    "79980427": {
+      "cid": 23821,
+      "enName": "",
+      "jpName": "白鴉の騎士マルト",
+      "jpRuby": "はくあのきしマルト",
+      "zhName": "白鸦骑士 马特",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "79985120": {
@@ -266007,6 +267699,24 @@
         "sc": null
       }
     },
+    "81611932": {
+      "cid": 23875,
+      "enName": "",
+      "jpName": "六花水月",
+      "jpRuby": "りっかすいげつ",
+      "zhName": "六花水月",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "81612598": {
       "cid": 12442,
       "enName": "Metalfoes Adamante",
@@ -266785,6 +268495,24 @@
           "date": "2024-05-25",
           "pack": "端末世界"
         }
+      }
+    },
+    "81839663": {
+      "cid": 23815,
+      "enName": "",
+      "jpName": "太陽神の拷問具－バイサー・デス・ショック",
+      "jpRuby": "たいようしんのごうもんぐ－バイサー・デス・ショック",
+      "zhName": "太阳神的拷问具-电击死亡拷问机",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "81843628": {
@@ -270237,6 +271965,24 @@
         }
       }
     },
+    "82833574": {
+      "cid": 23872,
+      "enName": "",
+      "jpName": "神幻学都アルス＝マグナ",
+      "jpRuby": "しんげんがくとアルス＝マグナ",
+      "zhName": "神幻学都 无垢大艺术学园",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "82841979": {
       "cid": 7729,
       "enName": "Yamato-no-Kami",
@@ -270448,6 +272194,24 @@
           "date": "2023-02-25",
           "pack": "经典包03"
         }
+      }
+    },
+    "82951145": {
+      "cid": 23812,
+      "enName": "",
+      "jpName": "太陽神の詩詠者－ヘルポエマー",
+      "jpRuby": "たいようしんのしえいしゃ－ヘルポエマー",
+      "zhName": "太阳神的诗咏者-地狱诗人",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "82956214": {
@@ -272548,6 +274312,24 @@
           "date": "2023-07-01",
           "pack": "超级包07"
         }
+      }
+    },
+    "83566162": {
+      "cid": 23869,
+      "enName": "",
+      "jpName": "角竜の修練",
+      "jpRuby": "リインゼルム・プラクティス",
+      "zhName": "角龙的修炼",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "83566725": {
@@ -276432,6 +278214,24 @@
         "sc": null
       }
     },
+    "84788710": {
+      "cid": 23866,
+      "enName": "",
+      "jpName": "竜の骸歌",
+      "jpRuby": "リインゼルム・コンクエスト",
+      "zhName": "龙之骸歌",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "84792926": {
       "cid": 17164,
       "enName": "Therion Discolosseum",
@@ -277615,6 +279415,24 @@
           "date": "2023-02-04",
           "pack": "主题卡组 叠放宇宙"
         }
+      }
+    },
+    "85121747": {
+      "cid": 23589,
+      "enName": "",
+      "jpName": "魂への引導",
+      "jpRuby": "たましいへのいんどう",
+      "zhName": "对灵魂的引导",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "85121942": {
@@ -279732,6 +281550,24 @@
         "sc": null
       }
     },
+    "85804398": {
+      "cid": 23863,
+      "enName": "",
+      "jpName": "闇へ誘う太陽神",
+      "jpRuby": "やみへいざなうたいようしん",
+      "zhName": "诱向黑暗的太阳神",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "85808813": {
       "cid": 15370,
       "enName": "Time Stream",
@@ -281424,6 +283260,24 @@
         }
       }
     },
+    "86343295": {
+      "cid": 23586,
+      "enName": "",
+      "jpName": "暗黒魔族ギルファー・デーモン－暗黒魔炎葬",
+      "jpRuby": "あんこくまぞくギルファー・デーモン－ギルファーフレイム",
+      "zhName": "暗黑魔族 基尔法恶魔-暗黑魔炎葬",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "86346363": {
       "cid": 19482,
       "enName": "Time Reloader",
@@ -281698,6 +283552,24 @@
           "date": "2022-03-26",
           "pack": "超级包04"
         }
+      }
+    },
+    "86457955": {
+      "cid": 23526,
+      "enName": "Angelechy Opposition",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的对峙格位",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
       }
     },
     "86466163": {
@@ -282262,6 +284134,24 @@
           "date": "2023-04-01",
           "pack": "参赛包 2023 Vol.1"
         }
+      }
+    },
+    "86673403": {
+      "cid": 23523,
+      "enName": "Angelechy Seneschal",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "具象天使的元帅",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
       }
     },
     "86676862": {
@@ -284253,6 +286143,24 @@
         }
       }
     },
+    "87395095": {
+      "cid": 23520,
+      "enName": "Half Slice of Nickeline",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "红砷镍半身矿",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
     "87430304": {
       "cid": 10144,
       "enName": "Chronomaly Moai",
@@ -284362,6 +286270,24 @@
           "date": "2023-12-16",
           "pack": "魅影梦魇"
         }
+      }
+    },
+    "87465873": {
+      "cid": 23583,
+      "enName": "",
+      "jpName": "属性反発作用",
+      "jpRuby": "ぞくせいはんぱつさよう",
+      "zhName": "属性反拨作用",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "87468732": {
@@ -286983,6 +288909,24 @@
         }
       }
     },
+    "88288421": {
+      "cid": 23580,
+      "enName": "",
+      "jpName": "環境適応力",
+      "jpRuby": "フィールド・パワーソース",
+      "zhName": "环境适应力",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "88289295": {
       "cid": 8673,
       "enName": "Synchro Control",
@@ -287001,6 +288945,24 @@
           "date": "2010-02-16",
           "pack": "ABSOLUTE POWERFORCE"
         },
+        "sc": null
+      }
+    },
+    "88300002": {
+      "cid": 23577,
+      "enName": "",
+      "jpName": "魔の龍札－土龍",
+      "jpRuby": "まのドラゴン・カード－どりゅう",
+      "zhName": "魔之龙札-土龙",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -287397,6 +289359,24 @@
         }
       }
     },
+    "88421252": {
+      "cid": 24035,
+      "enName": "",
+      "jpName": "カウンターマジック「攻撃の無力化」",
+      "jpRuby": "カウンターマジック「こうげきのむりょくか」",
+      "zhName": "反击魔法「攻击无力化」",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-21",
+          "pack": "Vジャンプ 2026年 12月号 付録カード"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "88435542": {
       "cid": 4182,
       "enName": "",
@@ -287741,7 +289721,7 @@
       "zhName": "王之仆人-黑魔术师",
       "scName": "王之仆从－黑魔导",
       "cnocgName": "王的仆人-黑魔导士",
-      "masterDuelName": "",
+      "masterDuelName": "王之仆从－黑魔导",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -292245,6 +294225,24 @@
         "sc": null
       }
     },
+    "90139089": {
+      "cid": 23843,
+      "enName": "",
+      "jpName": "アマゾネスの剣聖",
+      "jpRuby": "アマゾネスのけんせい",
+      "zhName": "亚马逊剑圣",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "90140980": {
       "cid": 6126,
       "enName": "Ojama King",
@@ -292653,6 +294651,24 @@
           "date": "2018-08-17",
           "pack": "SHADOWS IN VALHALLA"
         },
+        "sc": null
+      }
+    },
+    "90249148": {
+      "cid": 23571,
+      "enName": "",
+      "jpName": "死の世界の支配者－ダーク・ネクロフィア",
+      "jpRuby": "しのせかいのしはいしゃ－ダーク・ネクロフィア",
+      "zhName": "死之世界的支配者-暗黑人偶 妮可罗菲娅",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -294750,6 +296766,24 @@
         "sc": null
       }
     },
+    "90917401": {
+      "cid": 23846,
+      "enName": "",
+      "jpName": "終天獄神Ωヴィードリウム",
+      "jpRuby": "しゅうてんごくしんオメガヴィードリウム",
+      "zhName": "终天狱神Ω比托利姆",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "90925163": {
       "cid": 5201,
       "enName": "Dancing Fairy",
@@ -295677,6 +297711,24 @@
         "sc": null
       }
     },
+    "91251637": {
+      "cid": 23840,
+      "enName": "",
+      "jpName": "盟約のジャベリンビートル",
+      "jpRuby": "めいやくのジャベリンビートル",
+      "zhName": "盟约之标枪甲虫",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "91258852": {
       "cid": 12825,
       "enName": "SPYRAL Master Plan",
@@ -296391,6 +298443,24 @@
         "sc": null
       }
     },
+    "91461780": {
+      "cid": 23568,
+      "enName": "",
+      "jpName": "神を超えたしもべ－青眼の究極竜",
+      "jpRuby": "かみをこえたしもべ－ブルーアイズ・アルティメットドラゴン",
+      "zhName": "超越神的仆人-青眼究极龙",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "91468551": {
       "cid": 8661,
       "enName": "Temple of the Sun",
@@ -296754,6 +298824,24 @@
           "date": "2010-02-16",
           "pack": "ABSOLUTE POWERFORCE"
         },
+        "sc": null
+      }
+    },
+    "91583378": {
+      "cid": 23565,
+      "enName": "",
+      "jpName": "業火の魔神エクゾディア",
+      "jpRuby": "ごうかのまじんエクゾディア",
+      "zhName": "业火之魔神 艾克佐迪亚",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -304797,6 +306885,24 @@
         }
       }
     },
+    "94078362": {
+      "cid": 23852,
+      "enName": "",
+      "jpName": "六花深聖ティアドロップ",
+      "jpRuby": "りっかしんせいティアドロップ",
+      "zhName": "六花深圣 泪滴花束雪花莲",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "六花深圣泪滴花束",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "94079037": {
       "cid": 8945,
       "enName": "Mine Mole",
@@ -308814,6 +310920,24 @@
         "sc": null
       }
     },
+    "95294854": {
+      "cid": 23849,
+      "enName": "",
+      "jpName": "白鴉の騎士アイトワラス",
+      "jpRuby": "はくあのきしアイトワラス",
+      "zhName": "白鸦骑士 艾特瓦拉斯",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "95308449": {
       "cid": 5788,
       "enName": "Final Countdown",
@@ -310006,6 +312130,24 @@
           "date": "2025-08-16",
           "pack": "次元末日"
         }
+      }
+    },
+    "95627840": {
+      "cid": 23860,
+      "enName": "",
+      "jpName": "コダイダロス",
+      "jpRuby": "コダイダロス",
+      "zhName": "科泰达路斯",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "95637655": {
@@ -313396,6 +315538,24 @@
           "date": "2020-10-17",
           "pack": "主题卡组 转生炎兽"
         }
+      }
+    },
+    "96749437": {
+      "cid": 23857,
+      "enName": "",
+      "jpName": "無垢なる血盟 ドゥームズ",
+      "jpRuby": "アルス＝マグナ　ドゥームズ",
+      "zhName": "无垢血盟 终刻龙卫",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-10-31",
+          "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "96765646": {
@@ -318597,6 +320757,24 @@
         }
       }
     },
+    "98518633": {
+      "cid": 23517,
+      "enName": "Kerolia the Frolicsome",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "贪玩的呱呱公主",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
+      }
+    },
     "98520301": {
       "cid": 19413,
       "enName": "Asset Mountis",
@@ -321768,6 +323946,24 @@
         "sc": null
       }
     },
+    "99522650": {
+      "cid": 23574,
+      "enName": "",
+      "jpName": "沈黙の闘者－サイレント・マジシャン",
+      "jpRuby": "ちんもくのとうしゃ－サイレント・マジシャン",
+      "zhName": "沉默斗者-沉默魔术师",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-09-26",
+          "pack": "ORIGINAL ARTWORK COLLECTION"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "99523325": {
       "cid": 8667,
       "enName": "Gravekeeper's Stele",
@@ -322087,6 +324283,24 @@
           "date": "2022-03-26",
           "pack": "超级包04"
         }
+      }
+    },
+    "99630221": {
+      "cid": 23514,
+      "enName": "Tigress in Silent Repose",
+      "jpName": "",
+      "jpRuby": "",
+      "zhName": "静寂猛虎",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": null,
+        "en": {
+          "date": "2026-10-09",
+          "pack": "BEYOND THE BRAVE"
+        },
+        "sc": null
       }
     },
     "99634927": {
@@ -323161,780 +325375,6 @@
           "date": "2026-05-16",
           "pack": "混沌原初"
         }
-      }
-    },
-    "100200298": {
-      "cid": 24035,
-      "enName": "",
-      "jpName": "カウンターマジック「攻撃の無力化」",
-      "jpRuby": "カウンターマジック「こうげきのむりょくか」",
-      "zhName": "反击魔法「攻击无力化」",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-10-21",
-          "pack": "Vジャンプ 2026年 12月号 付録カード"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100262301": {
-      "cid": 23902,
-      "enName": "",
-      "jpName": "ウルトゥムの魔竜王",
-      "jpRuby": "ウルトゥムのまりゅうおう",
-      "zhName": "乌尔素姆之魔龙王",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-10-01",
-          "pack": "トーナメントパック 2026 Vol.3"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268001": {
-      "cid": 23565,
-      "enName": "",
-      "jpName": "業火の魔神エクゾディア",
-      "jpRuby": "ごうかのまじんエクゾディア",
-      "zhName": "业火之魔神 艾克佐迪亚",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268002": {
-      "cid": 23566,
-      "enName": "",
-      "jpName": "完全なる羽化－究極完全態・グレート・モス",
-      "jpRuby": "かんぜんなるうか－きゅうきょくかんぜんたい・グレート・モス",
-      "zhName": "完全羽化-究极完全态大飞蛾",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268003": {
-      "cid": 23567,
-      "enName": "",
-      "jpName": "ハーピィ・レディ－華麗なる分身－",
-      "jpRuby": "ハーピィ・レディ－かれいなるぶんしん－",
-      "zhName": "鹰身女郎-华丽的分身-",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268004": {
-      "cid": 23568,
-      "enName": "",
-      "jpName": "神を超えたしもべ－青眼の究極竜",
-      "jpRuby": "かみをこえたしもべ－ブルーアイズ・アルティメットドラゴン",
-      "zhName": "超越神的仆人-青眼究极龙",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268005": {
-      "cid": 23569,
-      "enName": "",
-      "jpName": "機械龍－リボルバー・ドラゴン",
-      "jpRuby": "きかいりゅう－リボルバー・ドラゴン",
-      "zhName": "机械龙-左轮手枪龙",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268006": {
-      "cid": 23570,
-      "enName": "",
-      "jpName": "幻想の邪眼－サクリファイス",
-      "jpRuby": "げんそうのじゃがん－サクリファイス",
-      "zhName": "幻想之邪眼-纳祭之魔",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268007": {
-      "cid": 23571,
-      "enName": "",
-      "jpName": "死の世界の支配者－ダーク・ネクロフィア",
-      "jpRuby": "しのせかいのしはいしゃ－ダーク・ネクロフィア",
-      "zhName": "死之世界的支配者-暗黑人偶 妮可罗菲娅",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268008": {
-      "cid": 23572,
-      "enName": "",
-      "jpName": "稲妻の戦士－ギルフォード・ザ・ライトニング",
-      "jpRuby": "いなずまのせんし－ギルフォード・ザ・ライトニング",
-      "zhName": "闪电战士-闪电之战士 吉尔福德",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268010": {
-      "cid": 23574,
-      "enName": "",
-      "jpName": "沈黙の闘者－サイレント・マジシャン",
-      "jpRuby": "ちんもくのとうしゃ－サイレント・マジシャン",
-      "zhName": "沉默斗者-沉默魔术师",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268011": {
-      "cid": 23575,
-      "enName": "",
-      "jpName": "罰ゲーム「GREED－欲望の幻像－」",
-      "jpRuby": "ばつゲーム「グリード－よくぼうのげんぞう－」",
-      "zhName": "惩罚游戏「GREED-欲望的幻象-」",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268012": {
-      "cid": 23576,
-      "enName": "",
-      "jpName": "ゾンバイア",
-      "jpRuby": "ゾンバイア",
-      "zhName": "尸魔侠",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268013": {
-      "cid": 23577,
-      "enName": "",
-      "jpName": "魔の龍札－土龍",
-      "jpRuby": "まのドラゴン・カード－どりゅう",
-      "zhName": "魔之龙札-土龙",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268014": {
-      "cid": 23578,
-      "enName": "",
-      "jpName": "魔の龍札－金龍",
-      "jpRuby": "まのドラゴン・カード－きんりゅう",
-      "zhName": "魔之龙札-金龙",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268015": {
-      "cid": 23579,
-      "enName": "",
-      "jpName": "スーパークリティカル",
-      "jpRuby": "スーパークリティカル",
-      "zhName": "超级暴击",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268016": {
-      "cid": 23580,
-      "enName": "",
-      "jpName": "環境適応力",
-      "jpRuby": "フィールド・パワーソース",
-      "zhName": "环境适应力",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268017": {
-      "cid": 23581,
-      "enName": "",
-      "jpName": "香水戦術",
-      "jpRuby": "アロマ・タクティクス",
-      "zhName": "香水战术",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268018": {
-      "cid": 23582,
-      "enName": "",
-      "jpName": "闇魔導の覇王",
-      "jpRuby": "やみまどうのはおう",
-      "zhName": "暗魔导的霸王",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268019": {
-      "cid": 23583,
-      "enName": "",
-      "jpName": "属性反発作用",
-      "jpRuby": "ぞくせいはんぱつさよう",
-      "zhName": "属性反拨作用",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268020": {
-      "cid": 23584,
-      "enName": "",
-      "jpName": "デューカー・ツイン・ソード",
-      "jpRuby": "デューカー・ツイン・ソード",
-      "zhName": "二刀公爵",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268021": {
-      "cid": 23585,
-      "enName": "",
-      "jpName": "閃光の封殺剣",
-      "jpRuby": "せんこうのふうさつけん",
-      "zhName": "闪光之封杀剑",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268022": {
-      "cid": 23586,
-      "enName": "",
-      "jpName": "暗黒魔族ギルファー・デーモン－暗黒魔炎葬",
-      "jpRuby": "あんこくまぞくギルファー・デーモン－ギルファーフレイム",
-      "zhName": "暗黑魔族 基尔法恶魔-暗黑魔炎葬",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268023": {
-      "cid": 23587,
-      "enName": "",
-      "jpName": "鋼鉄の騎士 ギア・フリード",
-      "jpRuby": "こうてつのきし　ギア・フリード",
-      "zhName": "钢铁骑士 基亚·弗里德",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268024": {
-      "cid": 23588,
-      "enName": "",
-      "jpName": "マジックカード「エネミーコントローラー」",
-      "jpRuby": "マジックカード「エネミーコントローラー」",
-      "zhName": "魔法卡「敌人操纵器」",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268025": {
-      "cid": 23589,
-      "enName": "",
-      "jpName": "魂への引導",
-      "jpRuby": "たましいへのいんどう",
-      "zhName": "对灵魂的引导",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "100268201": {
-      "cid": 23573,
-      "enName": "",
-      "jpName": "波動の超魔導剣士－ブラック・パラディン",
-      "jpRuby": "はどうのちょうまどうけんし－ブラック・パラディン",
-      "zhName": "波动之超魔导剑士-黑魔导剑士",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": {
-          "date": "2026-09-26",
-          "pack": "ORIGINAL ARTWORK COLLECTION"
-        },
-        "en": null,
-        "sc": null
-      }
-    },
-    "101306082": {
-      "cid": 23514,
-      "enName": "Tigress in Silent Repose",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "静寂猛虎",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306083": {
-      "cid": 23515,
-      "enName": "Just Flip a Coin",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "听天投命",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306084": {
-      "cid": 23516,
-      "enName": "Kumenyo, the Nine-Hued Deer",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "九色鹿 九面妖",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306085": {
-      "cid": 23517,
-      "enName": "Kerolia the Frolicsome",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "贪玩的呱呱公主",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306086": {
-      "cid": 23518,
-      "enName": "Archidux, the Squid Sorcerer",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "魔道乌贼 大王",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306087": {
-      "cid": 23519,
-      "enName": "Skyborne Blue Cularsaw",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "飞临的蓝锯手",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306088": {
-      "cid": 23520,
-      "enName": "Half Slice of Nickeline",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "红砷镍半身矿",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306089": {
-      "cid": 23521,
-      "enName": "Chaospawn Bishop",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "混沌诞生主教",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306090": {
-      "cid": 23522,
-      "enName": "Angelechy Castellan",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "城主之具象天使",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306091": {
-      "cid": 23523,
-      "enName": "Angelechy Seneschal",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "具象天使的元帅",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306092": {
-      "cid": 23524,
-      "enName": "Angelechy Strategy Score",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "具象天使的战略分值",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306093": {
-      "cid": 23525,
-      "enName": "Angelechy Brilliant Move",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "具象天使的精妙一手",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306094": {
-      "cid": 23526,
-      "enName": "Angelechy Opposition",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "具象天使的对峙格位",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306095": {
-      "cid": 23527,
-      "enName": "Angelechy Endgame Problem",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "具象天使的终局之问",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306096": {
-      "cid": 23528,
-      "enName": "Angelechy Verdict",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "具象天使之裁",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
-      }
-    },
-    "101306281": {
-      "cid": 23513,
-      "enName": "Audhumla, Progenitor of the Frozen Expanse",
-      "jpName": "",
-      "jpRuby": "",
-      "zhName": "冰原之始祖 欧德姆布拉",
-      "scName": "",
-      "cnocgName": "",
-      "masterDuelName": "",
-      "release": {
-        "jp": null,
-        "en": {
-          "date": "2026-10-09",
-          "pack": "BEYOND THE BRAVE"
-        },
-        "sc": null
       }
     }
   }
