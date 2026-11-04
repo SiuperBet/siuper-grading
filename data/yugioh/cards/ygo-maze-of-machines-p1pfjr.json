@@ -1,0 +1,33 @@
+[
+  {
+    "id": "yugioh:32491822:MZMCEN000:ygo-maze-of-machines-p1pfjr:ygo-starlight-rare",
+    "cardId": "32491822",
+    "printingId": "yugioh:32491822:MZMCEN000:ygo-maze-of-machines-p1pfjr:ygo-starlight-rare",
+    "game": "yugioh",
+    "name": "Hamon, Lord of Striking Thunder",
+    "number": "MZMC-EN000",
+    "collectionNumber": "MZMC-EN000",
+    "setId": "ygo-maze-of-machines-p1pfjr",
+    "setCode": "MZMC-EN000",
+    "setName": "Maze of Machines",
+    "rarity": "Starlight Rare",
+    "edition": "",
+    "archetype": "Sacred Beast",
+    "passcode": "32491822",
+    "type": "Effect Monster",
+    "attribute": "LIGHT",
+    "level": 10,
+    "rank": null,
+    "link": null,
+    "atk": 4000,
+    "def": 4000,
+    "image": "./assets/yugioh/thumbs/32491822.jpg",
+    "imageHigh": "./assets/yugioh/thumbs/32491822.jpg",
+    "artworkIds": [
+      32491822
+    ],
+    "price": null,
+    "source": "YGOPRODeck",
+    "updatedAt": "2026-11-04T11:35:05.070Z"
+  }
+]

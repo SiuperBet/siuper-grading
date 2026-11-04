@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 10.82,
-      "timestamp": "2026-10-28T10:01:33.345Z",
+      "timestamp": "2026-11-04T11:35:05.070Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-28T10:01:33.345Z"
+    "updatedAt": "2026-11-04T11:35:05.070Z"
   },
   {
     "id": "yugioh:43366227:JUMPEN047:ygo-shonen-jump-december-2010-subscription-bonus-2qw458:ygo-ultra-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 11.23,
-      "timestamp": "2026-10-28T10:01:33.345Z",
+      "timestamp": "2026-11-04T11:35:05.070Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-28T10:01:33.345Z"
+    "updatedAt": "2026-11-04T11:35:05.070Z"
   }
 ]

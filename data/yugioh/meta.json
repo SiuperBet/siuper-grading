@@ -2,12 +2,12 @@
   "databaseVersion": 1,
   "game": "yugioh",
   "source": "YGOPRODeck v7",
-  "updatedAt": "2026-10-28T10:01:33.345Z",
-  "sets": 1036,
-  "printings": 44667,
+  "updatedAt": "2026-11-04T11:35:05.070Z",
+  "sets": 1037,
+  "printings": 44668,
   "images": {
-    "new": 27,
-    "cached": 14618,
+    "new": 84,
+    "cached": 14569,
     "failed": 0
   }
 }

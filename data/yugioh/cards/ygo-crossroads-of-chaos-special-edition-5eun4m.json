@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.09,
-      "timestamp": "2026-10-28T10:01:33.345Z",
+      "timestamp": "2026-11-04T11:35:05.070Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-28T10:01:33.345Z"
+    "updatedAt": "2026-11-04T11:35:05.070Z"
   },
   {
     "id": "yugioh:70595331:CSOCENSE2:ygo-crossroads-of-chaos-special-edition-5eun4m:ygo-super-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.83,
-      "timestamp": "2026-10-28T10:01:33.345Z",
+      "timestamp": "2026-11-04T11:35:05.070Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-10-28T10:01:33.345Z"
+    "updatedAt": "2026-11-04T11:35:05.070Z"
   }
 ]
