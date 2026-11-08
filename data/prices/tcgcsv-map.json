@@ -2,11 +2,11 @@
   "version": 1,
   "source": "TCGCSV / TCGplayer",
   "categoryId": 3,
-  "updatedAt": "2026-11-01T12:00:53.690Z",
-  "groups": 220,
+  "updatedAt": "2026-11-08T12:10:45.178Z",
+  "groups": 221,
   "sets": 220,
   "mappedSets": 163,
-  "mappedCards": 18668,
+  "mappedCards": 18664,
   "ambiguousSets": 11,
   "unmappedSets": 46,
   "note": "Only English Pokemon printings are mapped to TCGplayer. Mapping requires a high-confidence set match and numbered product match; no cross-language backfill.",
@@ -98,8 +98,8 @@
       "groupName": "MEE: Mega Evolution Energies",
       "score": 137,
       "cards": 8,
-      "mapped": 8,
-      "ambiguousCards": 0
+      "mapped": 4,
+      "ambiguousCards": 4
     },
     {
       "setId": "sv10.5b",
@@ -1668,8 +1668,8 @@
         "score": 71
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -1728,8 +1728,8 @@
         "score": 71
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -1758,8 +1758,8 @@
         "score": 71
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -1788,8 +1788,8 @@
         "score": 71
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -2015,8 +2015,8 @@
         "score": 43
       },
       "second": {
-        "groupId": 23306,
-        "name": "McDonald's Promos 2023",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -2075,8 +2075,8 @@
         "score": 53
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -2090,8 +2090,8 @@
         "score": 49
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -2135,8 +2135,8 @@
         "score": 63
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -2150,8 +2150,8 @@
         "score": 63
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -2195,8 +2195,8 @@
         "score": 53
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -2210,8 +2210,8 @@
         "score": 63
       },
       "second": {
-        "groupId": 24163,
-        "name": "McDonald's Promos 2024",
+        "groupId": 24938,
+        "name": "McDonald's Promos 2026",
         "score": 24
       }
     },
@@ -132539,25 +132539,6 @@
       "confidence": "exact-number+name"
     },
     {
-      "printingId": "pokemon:en:mee-002",
-      "cardId": "mee-002",
-      "setId": "mee",
-      "setName": "Mega Evolution Energy",
-      "collectionNumber": "002",
-      "name": "Fire Energy",
-      "groupId": 24461,
-      "groupName": "MEE: Mega Evolution Energies",
-      "groupAbbreviation": "MEE",
-      "productId": 656264,
-      "productName": "Basic Fire Energy - 002",
-      "productNumber": "2",
-      "productUrl": "https://www.tcgplayer.com/product/656264/pokemon-mee-mega-evolution-energies-basic-fire-energy-002",
-      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/656264_200w.jpg",
-      "rarity": "Common",
-      "sourceLanguage": "en",
-      "confidence": "exact-number+name"
-    },
-    {
       "printingId": "pokemon:en:mee-003",
       "cardId": "mee-003",
       "setId": "mee",
@@ -132577,44 +132558,6 @@
       "confidence": "exact-number+name"
     },
     {
-      "printingId": "pokemon:en:mee-004",
-      "cardId": "mee-004",
-      "setId": "mee",
-      "setName": "Mega Evolution Energy",
-      "collectionNumber": "004",
-      "name": "Lightning Energy",
-      "groupId": 24461,
-      "groupName": "MEE: Mega Evolution Energies",
-      "groupAbbreviation": "MEE",
-      "productId": 656266,
-      "productName": "Basic Lightning Energy - 004",
-      "productNumber": "4",
-      "productUrl": "https://www.tcgplayer.com/product/656266/pokemon-mee-mega-evolution-energies-basic-lightning-energy-004",
-      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/656266_200w.jpg",
-      "rarity": "Common",
-      "sourceLanguage": "en",
-      "confidence": "exact-number+name"
-    },
-    {
-      "printingId": "pokemon:en:mee-005",
-      "cardId": "mee-005",
-      "setId": "mee",
-      "setName": "Mega Evolution Energy",
-      "collectionNumber": "005",
-      "name": "Psychic Energy",
-      "groupId": 24461,
-      "groupName": "MEE: Mega Evolution Energies",
-      "groupAbbreviation": "MEE",
-      "productId": 656267,
-      "productName": "Basic Psychic Energy - 005",
-      "productNumber": "5",
-      "productUrl": "https://www.tcgplayer.com/product/656267/pokemon-mee-mega-evolution-energies-basic-psychic-energy-005",
-      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/656267_200w.jpg",
-      "rarity": "Common",
-      "sourceLanguage": "en",
-      "confidence": "exact-number+name"
-    },
-    {
       "printingId": "pokemon:en:mee-006",
       "cardId": "mee-006",
       "setId": "mee",
@@ -132629,25 +132572,6 @@
       "productNumber": "6",
       "productUrl": "https://www.tcgplayer.com/product/656268/pokemon-mee-mega-evolution-energies-basic-fighting-energy-006",
       "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/656268_200w.jpg",
-      "rarity": "Common",
-      "sourceLanguage": "en",
-      "confidence": "exact-number+name"
-    },
-    {
-      "printingId": "pokemon:en:mee-007",
-      "cardId": "mee-007",
-      "setId": "mee",
-      "setName": "Mega Evolution Energy",
-      "collectionNumber": "007",
-      "name": "Darkness Energy",
-      "groupId": 24461,
-      "groupName": "MEE: Mega Evolution Energies",
-      "groupAbbreviation": "MEE",
-      "productId": 656269,
-      "productName": "Basic Darkness Energy - 007",
-      "productNumber": "7",
-      "productUrl": "https://www.tcgplayer.com/product/656269/pokemon-mee-mega-evolution-energies-basic-darkness-energy-007",
-      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/656269_200w.jpg",
       "rarity": "Common",
       "sourceLanguage": "en",
       "confidence": "exact-number+name"
