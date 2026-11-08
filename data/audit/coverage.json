@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T14:31:33.049Z",
+  "generatedAt": "2026-11-08T14:32:52.390Z",
   "catalogs": [
     {
       "name": "pokemon-it",
-      "updatedAt": "2026-10-27T09:00:08.880Z",
+      "updatedAt": "2026-11-03T10:54:05.160Z",
       "sets": 193,
       "cards": 21647,
       "primaryImages": 20090,
@@ -20,7 +20,7 @@
     },
     {
       "name": "pokemon-en",
-      "updatedAt": "2026-10-27T09:00:08.880Z",
+      "updatedAt": "2026-11-03T10:54:05.160Z",
       "sets": 220,
       "cards": 23736,
       "primaryImages": 21987,
@@ -52,7 +52,7 @@
     },
     {
       "name": "pokemon-ja",
-      "updatedAt": "2026-10-27T09:00:08.880Z",
+      "updatedAt": "2026-11-03T10:54:05.160Z",
       "sets": 184,
       "cards": 12781,
       "primaryImages": 3882,
@@ -404,7 +404,7 @@
     },
     {
       "name": "pokemon-zh-tw",
-      "updatedAt": "2026-10-27T09:00:08.880Z",
+      "updatedAt": "2026-11-03T10:54:05.160Z",
       "sets": 98,
       "cards": 7436,
       "primaryImages": 2146,
@@ -491,7 +491,7 @@
     },
     {
       "name": "pokemon-zh-cn",
-      "updatedAt": "2026-10-27T09:00:08.880Z",
+      "updatedAt": "2026-11-03T10:54:05.160Z",
       "sets": 56,
       "cards": 877,
       "primaryImages": 0,
@@ -743,10 +743,10 @@
     },
     {
       "name": "yugioh",
-      "updatedAt": "2026-10-28T10:01:33.345Z",
-      "sets": 1036,
-      "cards": 44667,
-      "primaryImages": 44667,
+      "updatedAt": "2026-11-04T11:35:05.070Z",
+      "sets": 1037,
+      "cards": 44668,
+      "primaryImages": 44668,
       "primaryImageCoverage": 1,
       "variantMetadata": 0,
       "variantCoverage": 0,
@@ -779,11 +779,11 @@
       ]
     }
   ],
-  "yugiohMirroredImages": 44667,
-  "yugiohPrintings": 44667,
-  "pricePoints": 68863,
+  "yugiohMirroredImages": 44668,
+  "yugiohPrintings": 44668,
+  "pricePoints": 105648,
   "tcgcsv": {
-    "mappedCards": 18668,
+    "mappedCards": 18664,
     "mappedSets": 163,
     "ambiguousSets": 11,
     "unmappedSets": 46
@@ -792,14 +792,14 @@
     "version": 1,
     "source": "TCGCSV / TCGplayer",
     "archiveStart": "2024-02-08",
-    "updatedAt": "2026-11-01T13:39:08.652Z",
+    "updatedAt": "2026-11-08T13:40:00.441Z",
     "targetDates": 75,
-    "completedDates": 391,
+    "completedDates": 428,
     "remainingDates": 0,
     "failedDates": 0,
-    "mappedCards": 18668,
+    "mappedCards": 18664,
     "groups": 157,
-    "lastProcessed": "2026-10-22",
+    "lastProcessed": "2026-10-29",
     "nextDate": null,
     "archiveLagDays": 10
   },
