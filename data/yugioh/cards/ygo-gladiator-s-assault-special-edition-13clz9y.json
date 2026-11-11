@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.03,
-      "timestamp": "2026-11-04T11:35:05.070Z",
+      "timestamp": "2026-11-11T11:27:29.703Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-04T11:35:05.070Z"
+    "updatedAt": "2026-11-11T11:27:29.703Z"
   },
   {
     "id": "yugioh:7736719:GLASENSE2:ygo-gladiator-s-assault-special-edition-13clz9y:ygo-super-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2.84,
-      "timestamp": "2026-11-04T11:35:05.070Z",
+      "timestamp": "2026-11-11T11:27:29.703Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-04T11:35:05.070Z"
+    "updatedAt": "2026-11-11T11:27:29.703Z"
   }
 ]

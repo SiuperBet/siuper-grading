@@ -28,7 +28,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-04T11:35:05.070Z"
+    "updatedAt": "2026-11-11T11:27:29.703Z"
   },
   {
     "id": "yugioh:501000007:WCPSEN702:ygo-yu-gi-oh-world-championship-2007-prize-cards-55y2q2:ygo-ultra-rare",
@@ -59,7 +59,7 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-04T11:35:05.070Z"
+    "updatedAt": "2026-11-11T11:27:29.703Z"
   },
   {
     "id": "yugioh:111000561:WCPSEN700:ygo-yu-gi-oh-world-championship-2007-prize-cards-55y2q2:ygo-common",
@@ -94,10 +94,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 541.26,
-      "timestamp": "2026-11-04T11:35:05.070Z",
+      "timestamp": "2026-11-11T11:27:29.703Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-04T11:35:05.070Z"
+    "updatedAt": "2026-11-11T11:27:29.703Z"
   }
 ]

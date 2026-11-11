@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 262.63,
-      "timestamp": "2026-11-04T11:35:05.070Z",
+      "timestamp": "2026-11-11T11:27:29.703Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-04T11:35:05.070Z"
+    "updatedAt": "2026-11-11T11:27:29.703Z"
   },
   {
     "id": "yugioh:662854:2018EN001:ygo-yu-gi-oh-world-championship-2018-prize-cards-avsr8u:ygo-extra-secret-rare",
@@ -67,6 +67,6 @@
     ],
     "price": null,
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-04T11:35:05.070Z"
+    "updatedAt": "2026-11-11T11:27:29.703Z"
   }
 ]

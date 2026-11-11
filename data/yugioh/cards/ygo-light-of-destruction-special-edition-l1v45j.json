@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.75,
-      "timestamp": "2026-11-04T11:35:05.070Z",
+      "timestamp": "2026-11-11T11:27:29.703Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-04T11:35:05.070Z"
+    "updatedAt": "2026-11-11T11:27:29.703Z"
   },
   {
     "id": "yugioh:37383714:LODTENSE2:ygo-light-of-destruction-special-edition-l1v45j:ygo-super-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 1.98,
-      "timestamp": "2026-11-04T11:35:05.070Z",
+      "timestamp": "2026-11-11T11:27:29.703Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-04T11:35:05.070Z"
+    "updatedAt": "2026-11-11T11:27:29.703Z"
   }
 ]
