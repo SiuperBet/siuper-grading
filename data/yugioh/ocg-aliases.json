@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source": "YGOCDB",
-  "updatedAt": "2026-11-04T12:57:08.696Z",
-  "md5": "\"24598805513998b4865682b240739535\"",
+  "updatedAt": "2026-11-11T12:39:43.906Z",
+  "md5": "\"58654e21148eed54599417e988ce4c18\"",
   "cards": 14423,
   "aliases": {
     "483": {
@@ -2183,7 +2183,7 @@
       "zhName": "雷盟-梯级先导",
       "scName": "雷盟－先导云步",
       "cnocgName": "雷盟-领步",
-      "masterDuelName": "",
+      "masterDuelName": "雷盟－先导云步",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -13328,7 +13328,7 @@
       "zhName": "破灭与终焉之支配者",
       "scName": "世界终灭支配者",
       "cnocgName": "破灭与终焉 世界末日的支配者",
-      "masterDuelName": "",
+      "masterDuelName": "世界终灭支配者",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -18236,7 +18236,7 @@
       "zhName": "动点的心慌灵摆",
       "scName": "灵摆动点P",
       "cnocgName": "灵摆动点P",
-      "masterDuelName": "",
+      "masterDuelName": "灵摆动点P",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -21038,13 +21038,13 @@
     },
     "6071005": {
       "cid": 23164,
-      "enName": "",
+      "enName": "Witchcrafter Marka",
       "jpName": "ウィッチクラフト・マルカ",
       "jpRuby": "ウィッチクラフト・マルカ",
       "zhName": "魔女术工匠·商标女巫",
       "scName": "魔女工艺・书匠玛尔卡",
       "cnocgName": "魔女工坊 书匠",
-      "masterDuelName": "",
+      "masterDuelName": "魔女工艺・书匠玛尔卡",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -24035,13 +24035,13 @@
     },
     "6958567": {
       "cid": 23167,
-      "enName": "",
+      "enName": "Witchcrafter Celebration",
       "jpName": "ウィッチクラフト・セレブレーション",
       "jpRuby": "ウィッチクラフト・セレブレーション",
       "zhName": "魔女术的庆祝会",
       "scName": "魔女工艺・庆典",
       "cnocgName": "魔女工坊庆典",
-      "masterDuelName": "",
+      "masterDuelName": "魔女工艺・庆典",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -24989,7 +24989,7 @@
     },
     "7293697": {
       "cid": 23161,
-      "enName": "",
+      "enName": "Perfect Toon World",
       "jpName": "完全なる世界 トゥーン・ワールド",
       "jpRuby": "かんぜんなるせかい　トゥーン・ワールド",
       "zhName": "完美世界 卡通世界",
@@ -27905,7 +27905,7 @@
       "zhName": "世界末日",
       "scName": "世界终灭",
       "cnocgName": "世界末日",
-      "masterDuelName": "世界末日",
+      "masterDuelName": "世界终灭",
       "release": {
         "jp": {
           "date": "2005-11-17",
@@ -30359,7 +30359,7 @@
     },
     "8915275": {
       "cid": 23158,
-      "enName": "",
+      "enName": "Evil Box",
       "jpName": "エビル・ボックス",
       "jpRuby": "エビル・ボックス",
       "zhName": "邪魔箱",
@@ -37565,7 +37565,7 @@
       "zhName": "死地误算守护",
       "scName": "死地误算守护",
       "cnocgName": "死地误算守护",
-      "masterDuelName": "",
+      "masterDuelName": "死地误算守护",
       "release": {
         "jp": {
           "date": "2025-10-25",
@@ -40538,7 +40538,7 @@
       "zhName": "电磁干扰雷盟兵",
       "scName": "艾米・雷盟",
       "cnocgName": "微笑爱咪·雷盟",
-      "masterDuelName": "",
+      "masterDuelName": "艾米・雷盟",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -44678,7 +44678,7 @@
     },
     "13203964": {
       "cid": 22743,
-      "enName": "",
+      "enName": "Perfectron Hydradrive Dragon",
       "jpName": "パーフェクトロン・ハイドライブ・ドラゴン",
       "jpRuby": "パーフェクトロン・ハイドライブ・ドラゴン",
       "zhName": "完美电子多元驱动蛇·神龙",
@@ -48299,7 +48299,7 @@
     },
     "14425515": {
       "cid": 22740,
-      "enName": "",
+      "enName": "Infernity Doom Slinger",
       "jpName": "インフェルニティ・デス・ガンマン",
       "jpRuby": "インフェルニティ・デス・ガンマン",
       "zhName": "永火死亡枪手",
@@ -50102,7 +50102,7 @@
       "zhName": "增殖的栗子球！",
       "scName": "增殖的库里波！",
       "cnocgName": "增殖的栗子球！",
-      "masterDuelName": "",
+      "masterDuelName": "增殖的库里波！",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -50681,7 +50681,7 @@
     },
     "15141103": {
       "cid": 22737,
-      "enName": "",
+      "enName": "Dark Tuner Catastrogue",
       "jpName": "DTカタストローグ",
       "jpRuby": "ダークチューナーカタストローグ",
       "zhName": "暗黑调整 灾祸盗贼",
@@ -62552,7 +62552,7 @@
       "zhName": "系星之雷后",
       "scName": "牵星之雷后",
       "cnocgName": "牵星之雷后",
-      "masterDuelName": "",
+      "masterDuelName": "牵星之雷后",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -63422,7 +63422,7 @@
       "zhName": "奇迹之供物-供物的仪式-",
       "scName": "奇迹渡鸦－供品的仪式－",
       "cnocgName": "奇迹的供品-供品的仪式-",
-      "masterDuelName": "奇迹鸦 供品的仪式",
+      "masterDuelName": "奇迹渡鸦－供品的仪式－",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -68459,7 +68459,7 @@
       "zhName": "六花深圣 力量女神花圈",
       "scName": "",
       "cnocgName": "",
-      "masterDuelName": "",
+      "masterDuelName": "六花深圣花环",
       "release": {
         "jp": {
           "date": "2026-10-31",
@@ -71450,7 +71450,7 @@
     },
     "21419436": {
       "cid": 23174,
-      "enName": "",
+      "enName": "Unchained Soul of Abominable Rage",
       "jpName": "破械神雙ラギア",
       "jpRuby": "はかいしんそうラギア",
       "zhName": "破械神双 罗寂刹",
@@ -76385,7 +76385,7 @@
       "zhName": "浪涌雷盟兵",
       "scName": "萨吉・雷盟",
       "cnocgName": "汹涌沙姬·雷盟",
-      "masterDuelName": "",
+      "masterDuelName": "萨吉・雷盟",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -78434,7 +78434,7 @@
       "zhName": "雷盟-回击",
       "scName": "雷盟－回击电冲",
       "cnocgName": "雷盟-回击",
-      "masterDuelName": "",
+      "masterDuelName": "雷盟－回击电冲",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -82004,7 +82004,7 @@
       "zhName": "朽坏的祭仪要录",
       "scName": "腐朽的祭仪要录",
       "cnocgName": "破旧的祭仪要录",
-      "masterDuelName": "",
+      "masterDuelName": "腐朽的祭仪要录",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -87890,7 +87890,7 @@
     },
     "26364381": {
       "cid": 22734,
-      "enName": "",
+      "enName": "Demiurge Ema",
       "jpName": "デミウルゴスEMA",
       "jpRuby": "デミウルゴスエマ",
       "zhName": "造物主 埃玛",
@@ -90023,7 +90023,7 @@
     },
     "27096833": {
       "cid": 22731,
-      "enName": "",
+      "enName": "Borreload Liberator Dragon",
       "jpName": "ヴァレルロード・L・ドラゴン",
       "jpRuby": "ヴァレルロード・リベレイター・ドラゴン",
       "zhName": "装弹枪管解放龙",
@@ -90107,7 +90107,7 @@
     },
     "27118421": {
       "cid": 22728,
-      "enName": "",
+      "enName": "Starving Venom Fusion Dragon, Four Heavenly Dragons",
       "jpName": "四天の龍 スターヴ・ヴェノム・フュージョン・ドラゴン",
       "jpRuby": "してんのりゅう　スターヴ・ヴェノム・フュージョン・ドラゴン",
       "zhName": "四天之龙 凶饿毒融合龙",
@@ -94037,7 +94037,7 @@
     },
     "28331069": {
       "cid": 22725,
-      "enName": "",
+      "enName": "Neo Galaxy-Eyes Photon Dragon - Photon Howling",
       "jpName": "超銀河眼の光子龍－フォトン・ハウリング",
       "jpRuby": "ネオ・ギャラクシーアイズ・フォトン・ドラゴン－フォトン・ハウリング",
       "zhName": "超银河眼光子龙-光子咆哮",
@@ -96287,7 +96287,7 @@
     },
     "29053656": {
       "cid": 22722,
-      "enName": "",
+      "enName": "Crimson Dragon Quetzalcoatl",
       "jpName": "赤き竜 ケッツァーコアトル",
       "jpRuby": "あかきりゅう　ケッツァーコアトル",
       "zhName": "红龙 魁札尔科亚特尔",
@@ -100097,7 +100097,7 @@
       "zhName": "幻惑眼纳祭神",
       "scName": "幻惑眼纳祭魔",
       "cnocgName": "幻惑眼纳祭魔",
-      "masterDuelName": "",
+      "masterDuelName": "幻惑眼纳祭魔",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -100433,7 +100433,7 @@
     },
     "30275298": {
       "cid": 22719,
-      "enName": "",
+      "enName": "Cyber End Dragon, the Final Strike Dragon",
       "jpName": "終撃竜－サイバー・エンド・ドラゴン",
       "jpRuby": "しゅうげきりゅう－サイバー・エンド・ドラゴン",
       "zhName": "终击龙-电子终结龙",
@@ -101021,7 +101021,7 @@
     },
     "30397786": {
       "cid": 22716,
-      "enName": "",
+      "enName": "Blue-Eyes White Dragon, the White Phantom Beast",
       "jpName": "白き幻獣－青眼の白龍",
       "jpRuby": "しろきげんじゅう－ブルーアイズ・ホワイト・ドラゴン",
       "zhName": "白色幻兽-青眼白龙",
@@ -102836,7 +102836,7 @@
       "zhName": "雷盟-过电压",
       "scName": "雷盟－电压过载",
       "cnocgName": "雷盟-超电压",
-      "masterDuelName": "",
+      "masterDuelName": "雷盟－电压过载",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -104798,7 +104798,7 @@
     },
     "31531914": {
       "cid": 23171,
-      "enName": "",
+      "enName": "Unchained Oni of Shyma",
       "jpName": "破械式鬼シュマ",
       "jpRuby": "はかいしきシュマ",
       "zhName": "破械式鬼 斯玛",
@@ -107687,7 +107687,7 @@
     },
     "32353566": {
       "cid": 23168,
-      "enName": "",
+      "enName": "Witchcrafter Walpurgis",
       "jpName": "魔女の聖夜行",
       "jpRuby": "ウィッチクラフト・ワルプルギース",
       "zhName": "魔女的圣夜行",
@@ -111545,7 +111545,7 @@
     },
     "33475154": {
       "cid": 23165,
-      "enName": "",
+      "enName": "Witchcrafter Madame Rilliona",
       "jpName": "大魔女サンドリヨン",
       "jpRuby": "ウィッチクラフトマスターサンドリヨン",
       "zhName": "大魔女 桑德里永",
@@ -114455,7 +114455,7 @@
     },
     "34298391": {
       "cid": 23162,
-      "enName": "",
+      "enName": "Mind Scan",
       "jpName": "心を見通す眼",
       "jpRuby": "マインド・スキャン",
       "zhName": "看透心灵之眼",
@@ -114497,7 +114497,7 @@
     },
     "34314989": {
       "cid": 23159,
-      "enName": "",
+      "enName": "Dark-Eyes Illusionist Faceless Mage",
       "jpName": "闇の眼を持つ幻想師・ノー・フェイス",
       "jpRuby": "ダーク・アイズ・イリュージョニスト・ノー・フェイス",
       "zhName": "暗眼幻想师·无脸幻想师",
@@ -125471,7 +125471,7 @@
       "zhName": "天空城塞 库仑城寨",
       "scName": "天空城塞 库龙",
       "cnocgName": "天空城塞 库仑玖龙城",
-      "masterDuelName": "",
+      "masterDuelName": "天空城塞 库龙",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -130082,7 +130082,7 @@
       "zhName": "龙剑士 风麒麟·平行",
       "scName": "龙剑士 乘风独角麒麟 别型",
       "cnocgName": "龙剑士 风麒麟平行P",
-      "masterDuelName": "",
+      "masterDuelName": "龙剑士 乘风独角麒麟 别型",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -138056,7 +138056,7 @@
     },
     "41424250": {
       "cid": 22741,
-      "enName": "",
+      "enName": "Chaos End Ruler - Master of the Beginning and End",
       "jpName": "カオスエンド・ルーラー －開闢と終焉の支配者－",
       "jpRuby": "カオスエンド・ルーラー　－かいびゃくとしゅうえんのしはいしゃ－",
       "zhName": "混沌终结支配者-开辟与终焉的支配者-",
@@ -142274,7 +142274,7 @@
       "zhName": "六花双精 报春来",
       "scName": "",
       "cnocgName": "",
-      "masterDuelName": "",
+      "masterDuelName": "六花双精报春蔷薇",
       "release": {
         "jp": {
           "date": "2026-10-31",
@@ -142538,7 +142538,7 @@
       "zhName": "召唤电击",
       "scName": "召唤冲击",
       "cnocgName": "召唤冲击",
-      "masterDuelName": "",
+      "masterDuelName": "召唤冲击",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -148949,7 +148949,7 @@
       "zhName": "假初之幻脸师",
       "scName": "假形幻脸师",
       "cnocgName": "假形幻脸师",
-      "masterDuelName": "",
+      "masterDuelName": "假形幻脸师",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -151928,7 +151928,7 @@
     },
     "45536531": {
       "cid": 23156,
-      "enName": "",
+      "enName": "Funny Dark Rabbit",
       "jpName": "ファニー・ダーク・ラビット",
       "jpRuby": "ファニー・ダーク・ラビット",
       "zhName": "滑稽暗黑兔",
@@ -170795,7 +170795,7 @@
     },
     "51546708": {
       "cid": 22738,
-      "enName": "",
+      "enName": "Dark Tuner Nightmare Hand",
       "jpName": "DTナイトメア・ハンド",
       "jpRuby": "ダークチューナーナイトメア・ハンド",
       "zhName": "暗黑调整 梦魇鬼手",
@@ -174728,7 +174728,7 @@
     },
     "52768390": {
       "cid": 22735,
-      "enName": "",
+      "enName": "Lord of Darkness",
       "jpName": "闇の神－ダークゴッド",
       "jpRuby": "やみのかみ－ダークゴッド",
       "zhName": "暗之神",
@@ -177269,7 +177269,7 @@
     },
     "53481938": {
       "cid": 22732,
-      "enName": "",
+      "enName": "Rokket Barrage",
       "jpName": "ヴァレット・バラージュ",
       "jpRuby": "ヴァレット・バラージュ",
       "zhName": "弹丸雨幕龙",
@@ -178274,7 +178274,7 @@
       "zhName": "设陷雷轰稻草人",
       "scName": "",
       "cnocgName": "雷轰诱捕稻草人",
-      "masterDuelName": "",
+      "masterDuelName": "崩电稻草人",
       "release": {
         "jp": null,
         "en": {
@@ -181331,7 +181331,7 @@
     },
     "54603525": {
       "cid": 22729,
-      "enName": "",
+      "enName": "Clear Wing Synchro Dragon, Four Heavenly Dragons",
       "jpName": "四天の龍 クリアウィング・シンクロ・ドラゴン",
       "jpRuby": "してんのりゅう　クリアウィング・シンクロ・ドラゴン",
       "zhName": "四天之龙 幻透翼同调龙",
@@ -181844,7 +181844,7 @@
     },
     "54725177": {
       "cid": 22726,
-      "enName": "",
+      "enName": "Galaxy-Eyes Photon Change Dragon",
       "jpName": "銀河眼の輝光子竜",
       "jpRuby": "ギャラクシーアイズ・フォトン・チェンジ・ドラゴン",
       "zhName": "银河眼辉光子龙",
@@ -184649,7 +184649,7 @@
       "zhName": "秘召水巫女士",
       "scName": "秘召刻漏淑女",
       "cnocgName": "秘召刻漏淑女",
-      "masterDuelName": "",
+      "masterDuelName": "秘召刻漏淑女",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -195638,7 +195638,7 @@
       "zhName": "裂纹雷盟兵",
       "scName": "克拉克・雷盟",
       "cnocgName": "炸雷克拉克·雷盟",
-      "masterDuelName": "",
+      "masterDuelName": "克拉克・雷盟",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -196346,7 +196346,7 @@
       "zhName": "魔女术工匠·种子女巫",
       "scName": "",
       "cnocgName": "魔女工坊 种植匠",
-      "masterDuelName": "",
+      "masterDuelName": "魔女工艺・育种希德",
       "release": {
         "jp": {
           "date": "2026-07-03",
@@ -198998,7 +198998,7 @@
       "zhName": "雷盟-交流发电机",
       "scName": "雷盟－交电夹击",
       "cnocgName": "雷盟-交电",
-      "masterDuelName": "",
+      "masterDuelName": "雷盟－交电夹击",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -211814,7 +211814,7 @@
       "zhName": "雷盟-可断开式",
       "scName": "雷盟－断离粉碎",
       "cnocgName": "雷盟-突围",
-      "masterDuelName": "",
+      "masterDuelName": "雷盟－断离粉碎",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -216089,7 +216089,7 @@
       "zhName": "水晶机巧-继承玻纤·棱镜",
       "scName": "水晶机巧－玻璃光纤 棱彩",
       "cnocgName": "水晶机巧-玻璃光纤棱镜P",
-      "masterDuelName": "",
+      "masterDuelName": "水晶机巧－玻璃光纤 棱彩",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -216632,7 +216632,7 @@
     },
     "65541655": {
       "cid": 22723,
-      "enName": "",
+      "enName": "Red Nova Dragon - Burning Soul",
       "jpName": "スカーレッド・ノヴァ・ドラゴン－バーニング・ソウル",
       "jpRuby": "スカーレッド・ノヴァ・ドラゴン－バーニング・ソウル",
       "zhName": "真红莲新星龙-燃烧之魂",
@@ -218459,7 +218459,7 @@
       "zhName": "地狱俯冲轰炸机",
       "scName": "地狱俯冲轰炸机",
       "cnocgName": "地狱俯冲轰炸机",
-      "masterDuelName": "",
+      "masterDuelName": "地狱俯冲轰炸机",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -220052,7 +220052,7 @@
     },
     "66664203": {
       "cid": 22720,
-      "enName": "",
+      "enName": "Cyber Dragon, the Luminous Mech Dragon",
       "jpName": "機光竜－サイバー・ドラゴン",
       "jpRuby": "きこうりゅう－サイバー・ドラゴン",
       "zhName": "机光龙-电子龙",
@@ -224039,7 +224039,7 @@
     },
     "67803035": {
       "cid": 23175,
-      "enName": "",
+      "enName": "Reincarnation of the Unchained",
       "jpName": "破械転生",
       "jpRuby": "はかいてんしょう",
       "zhName": "破械转生",
@@ -224258,7 +224258,7 @@
     },
     "67886895": {
       "cid": 22717,
-      "enName": "",
+      "enName": "Deep-Eyes White Dragon, the Blue Abyss",
       "jpName": "蒼の深淵 ディープアイズ・ホワイト・ドラゴン",
       "jpRuby": "あおのしんえん　ディープアイズ・ホワイト・ドラゴン",
       "zhName": "苍之深渊 渊眼白龙",
@@ -226466,7 +226466,7 @@
     },
     "68625623": {
       "cid": 23172,
-      "enName": "",
+      "enName": "Unchained Zealot - Kamra",
       "jpName": "破械冥官カムラ",
       "jpRuby": "はかいめいかんカムラ",
       "zhName": "破械冥官 篁",
@@ -230009,13 +230009,13 @@
     },
     "69748261": {
       "cid": 23169,
-      "enName": "",
+      "enName": "Witchcrafter Distortion",
       "jpName": "ウィッチクラフト・ディストーション",
       "jpRuby": "ウィッチクラフト・ディストーション",
       "zhName": "魔女术的歪曲",
       "scName": "魔女工艺・消散",
       "cnocgName": "魔女工坊消散",
-      "masterDuelName": "",
+      "masterDuelName": "魔女工艺・消散",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -230750,13 +230750,13 @@
     },
     "69964858": {
       "cid": 23166,
-      "enName": "",
+      "enName": "Witchcrafter Pupils",
       "jpName": "ウィッチクラフト・ピューピルズ",
       "jpRuby": "ウィッチクラフト・ピューピルズ",
       "zhName": "魔女术学童组合",
       "scName": "魔女工艺・学徒组",
       "cnocgName": "魔女工坊学徒组",
-      "masterDuelName": "",
+      "masterDuelName": "魔女工艺・学徒组",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -233162,13 +233162,13 @@
     },
     "70686400": {
       "cid": 23163,
-      "enName": "",
+      "enName": "Witchcrafter Terracottan",
       "jpName": "ウィッチクラフト・テラコッタン",
       "jpRuby": "ウィッチクラフト・テラコッタン",
       "zhName": "魔女术赤陶偶",
       "scName": "魔女工艺・陶俑魔像",
       "cnocgName": "魔女工坊赤陶土偶",
-      "masterDuelName": "",
+      "masterDuelName": "魔女工艺・陶俑魔像",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -235046,7 +235046,7 @@
       "zhName": "2选1",
       "scName": "二选一",
       "cnocgName": "二选一",
-      "masterDuelName": "",
+      "masterDuelName": "二选一",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -236903,7 +236903,7 @@
     },
     "71808988": {
       "cid": 23160,
-      "enName": "",
+      "enName": "Blue-Eyes Toon Ultimate Dragon",
       "jpName": "ブルーアイズ・トゥーン・アルティメットドラゴン",
       "jpRuby": "ブルーアイズ・トゥーン・アルティメットドラゴン",
       "zhName": "青眼卡通究极龙",
@@ -240350,7 +240350,7 @@
     },
     "72921536": {
       "cid": 23157,
-      "enName": "",
+      "enName": "Animimicat",
       "jpName": "コミックキャット",
       "jpRuby": "コミックキャット",
       "zhName": "漫画猫",
@@ -258197,7 +258197,7 @@
       "zhName": "六花的黑姬",
       "scName": "",
       "cnocgName": "",
-      "masterDuelName": "",
+      "masterDuelName": "六花的黑姬",
       "release": {
         "jp": {
           "date": "2026-10-31",
@@ -263147,7 +263147,7 @@
       "zhName": "勒库纳斯之吸雷 闪电比熊犬",
       "scName": "",
       "cnocgName": "露克纳斯之吸雷 布利泽",
-      "masterDuelName": "",
+      "masterDuelName": "鲁库纳斯之吸雷 布利泽",
       "release": {
         "jp": {
           "date": "2026-04-01",
@@ -265199,7 +265199,7 @@
       "zhName": "权柄交络者 米克修希亚",
       "scName": "",
       "cnocgName": "混杂体 密克苏西亚",
-      "masterDuelName": "",
+      "masterDuelName": "昏淆的米库西亚",
       "release": {
         "jp": null,
         "en": {
@@ -267707,7 +267707,7 @@
       "zhName": "六花水月",
       "scName": "",
       "cnocgName": "",
-      "masterDuelName": "",
+      "masterDuelName": "六花水月",
       "release": {
         "jp": {
           "date": "2026-10-31",
@@ -276842,7 +276842,7 @@
       "zhName": "晶粒雷盟兵",
       "scName": "格瑞恩・雷盟",
       "cnocgName": "绿纹格莱恩·雷盟",
-      "masterDuelName": "",
+      "masterDuelName": "格瑞恩・雷盟",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -287402,7 +287402,7 @@
     },
     "87818869": {
       "cid": 22742,
-      "enName": "",
+      "enName": "Hyper Rank-Up-Magic Ultimate Force",
       "jpName": "HRUM－アルティメット・フォース",
       "jpRuby": "ハイパーランクアップマジック－アルティメット・フォース",
       "zhName": "超升阶魔法-究极之力",
@@ -290669,7 +290669,7 @@
     },
     "88931417": {
       "cid": 22739,
-      "enName": "",
+      "enName": "Gatling Ogre",
       "jpName": "ガトリング・オーガ",
       "jpRuby": "ガトリング・オーガ",
       "zhName": "机炮食人魔",
@@ -293036,13 +293036,13 @@
     },
     "89753095": {
       "cid": 22736,
-      "enName": "",
+      "enName": "Lightning Crash",
       "jpName": "神鳴り",
       "jpRuby": "かみなり",
       "zhName": "神鸣",
       "scName": "神鸣",
       "cnocgName": "神鸣",
-      "masterDuelName": "",
+      "masterDuelName": "神鸣",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -293486,7 +293486,7 @@
     },
     "89875646": {
       "cid": 22733,
-      "enName": "",
+      "enName": "Triple Borrel Launch",
       "jpName": "トリプル・ヴァレル・リボルブ",
       "jpRuby": "トリプル・ヴァレル・リボルブ",
       "zhName": "三重枪管旋转",
@@ -294092,7 +294092,7 @@
     },
     "90091224": {
       "cid": 22730,
-      "enName": "",
+      "enName": "Dark Rebellion Xyz Dragon, Four Heavenly Dragons",
       "jpName": "四天の龍 ダーク・リベリオン・エクシーズ・ドラゴン",
       "jpRuby": "してんのりゅう　ダーク・リベリオン・エクシーズ・ドラゴン",
       "zhName": "四天之龙 暗叛逆超量龙",
@@ -299399,7 +299399,7 @@
     },
     "91714772": {
       "cid": 22727,
-      "enName": "",
+      "enName": "Galaxy Defense Robot Orbital 7",
       "jpName": "GDロボ・オービタル ７",
       "jpRuby": "ギャラクシーディフェンスロボ・オービタル　セブン",
       "zhName": "银河防卫机器人·轨道 7",
@@ -300458,7 +300458,7 @@
     },
     "92058902": {
       "cid": 22721,
-      "enName": "",
+      "enName": "Future Fusion Nova",
       "jpName": "未来融合－フューチャー・フュージョン・ノヴァ",
       "jpRuby": "みらいゆうごう－フューチャー・フュージョン・ノヴァ",
       "zhName": "未来融合·新星",
@@ -301826,7 +301826,7 @@
       "zhName": "银河眼反物质龙",
       "scName": "银河眼反物质龙",
       "cnocgName": "银河眼反物质龙",
-      "masterDuelName": "",
+      "masterDuelName": "银河眼反物质龙",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -303260,7 +303260,7 @@
     },
     "92936364": {
       "cid": 22724,
-      "enName": "",
+      "enName": "Red Dragon Archfiend's Chains",
       "jpName": "レッド・デーモンズ・チェーン",
       "jpRuby": "レッド・デーモンズ・チェーン",
       "zhName": "红莲魔族之链",
@@ -306236,7 +306236,7 @@
     },
     "93871599": {
       "cid": 22718,
-      "enName": "",
+      "enName": "The Guiding Flute of Summoning Dragons",
       "jpName": "ドラゴン・導きの呼笛",
       "jpRuby": "ドラゴン・みちびきのよびぶえ",
       "zhName": "龙引导呼笛",
@@ -306413,7 +306413,7 @@
     },
     "93898740": {
       "cid": 23176,
-      "enName": "",
+      "enName": "Unchained Hunger",
       "jpName": "破械習合",
       "jpRuby": "はかいしゅうごう",
       "zhName": "破械习合",
@@ -306704,7 +306704,7 @@
     },
     "94014327": {
       "cid": 23173,
-      "enName": "",
+      "enName": "Unchained Firelord of Yama",
       "jpName": "破械焔魔天ヤマ",
       "jpRuby": "はかいえんまてんヤマ",
       "zhName": "破械焰魔天 阎摩",
@@ -310322,7 +310322,7 @@
     },
     "95136979": {
       "cid": 23170,
-      "enName": "",
+      "enName": "Unchained Oni of Shara",
       "jpName": "破械式鬼シャラ",
       "jpRuby": "はかいしきシャラ",
       "zhName": "破械式鬼 萨拉",
