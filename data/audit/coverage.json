@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-08T14:32:52.390Z",
+  "generatedAt": "2026-11-15T14:59:10.076Z",
   "catalogs": [
     {
       "name": "pokemon-it",
-      "updatedAt": "2026-11-03T10:54:05.160Z",
-      "sets": 193,
-      "cards": 21647,
-      "primaryImages": 20090,
-      "primaryImageCoverage": 0.9280731741118862,
+      "updatedAt": "2026-11-10T11:13:17.507Z",
+      "sets": 194,
+      "cards": 21773,
+      "primaryImages": 20077,
+      "primaryImageCoverage": 0.9221053598493547,
       "variantMetadata": 0,
       "variantCoverage": 0,
       "emptySets": [
@@ -20,11 +20,11 @@
     },
     {
       "name": "pokemon-en",
-      "updatedAt": "2026-11-03T10:54:05.160Z",
-      "sets": 220,
-      "cards": 23736,
-      "primaryImages": 21987,
-      "primaryImageCoverage": 0.926314459049545,
+      "updatedAt": "2026-11-10T11:13:17.507Z",
+      "sets": 221,
+      "cards": 23912,
+      "primaryImages": 21990,
+      "primaryImageCoverage": 0.9196219471395115,
       "variantMetadata": 0,
       "variantCoverage": 0,
       "emptySets": [
@@ -52,46 +52,16 @@
     },
     {
       "name": "pokemon-ja",
-      "updatedAt": "2026-11-03T10:54:05.160Z",
-      "sets": 184,
-      "cards": 12781,
+      "updatedAt": "2026-11-10T11:13:17.507Z",
+      "sets": 202,
+      "cards": 13156,
       "primaryImages": 3882,
-      "primaryImageCoverage": 0.30373210233941006,
+      "primaryImageCoverage": 0.29507449072666464,
       "variantMetadata": 0,
       "variantCoverage": 0,
       "emptySets": [
         {
-          "id": "CS2b",
-          "name": "トリプレットビート",
-          "declared": 101
-        },
-        {
-          "id": "CS2.5",
-          "name": "トリプレットビート",
-          "declared": 101
-        },
-        {
-          "id": "CS4",
-          "name": "トリプレットビート",
-          "declared": 101
-        },
-        {
-          "id": "CS1.5",
-          "name": "トリプレットビート",
-          "declared": 101
-        },
-        {
-          "id": "CS3.5",
-          "name": "トリプレットビート",
-          "declared": 101
-        },
-        {
-          "id": "CS3b",
-          "name": "トリプレットビート",
-          "declared": 101
-        },
-        {
-          "id": "CS2a",
+          "id": "CS4b",
           "name": "トリプレットビート",
           "declared": 101
         },
@@ -101,27 +71,22 @@
           "declared": 101
         },
         {
+          "id": "CS3b",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS3.5",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
           "id": "CS4a",
           "name": "トリプレットビート",
           "declared": 101
         },
         {
-          "id": "CS1a",
-          "name": "トリプレットビート",
-          "declared": 101
-        },
-        {
-          "id": "CS1b",
-          "name": "トリプレットビート",
-          "declared": 101
-        },
-        {
-          "id": "CS4b",
-          "name": "トリプレットビート",
-          "declared": 101
-        },
-        {
-          "id": "CSA",
+          "id": "CS2.5",
           "name": "トリプレットビート",
           "declared": 101
         },
@@ -131,7 +96,42 @@
           "declared": 101
         },
         {
+          "id": "CS1a",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
           "id": "CS4Da",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS2b",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CSA",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS4",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS2a",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS1b",
+          "name": "トリプレットビート",
+          "declared": 101
+        },
+        {
+          "id": "CS1.5",
           "name": "トリプレットビート",
           "declared": 101
         },
@@ -163,11 +163,6 @@
         {
           "id": "S5a",
           "name": "双璧のファイター",
-          "declared": 70
-        },
-        {
-          "id": "S5R",
-          "name": "連撃マスター",
           "declared": 70
         },
         {
@@ -346,6 +341,76 @@
           "declared": 60
         },
         {
+          "id": "EBB",
+          "name": "EXバトルブースト",
+          "declared": 96
+        },
+        {
+          "id": "BW9",
+          "name": "メガロキャノン",
+          "declared": 76
+        },
+        {
+          "id": "SC",
+          "name": "シャイニーコレクション",
+          "declared": 20
+        },
+        {
+          "id": "BW7",
+          "name": "プラズマゲイル",
+          "declared": 70
+        },
+        {
+          "id": "BW6b",
+          "name": "コールドフレア",
+          "declared": 59
+        },
+        {
+          "id": "BW6a",
+          "name": "フリーズボルト",
+          "declared": 59
+        },
+        {
+          "id": "BW5a",
+          "name": "リューズブラスト",
+          "declared": 50
+        },
+        {
+          "id": "BW5b",
+          "name": "リューノブレード",
+          "declared": 50
+        },
+        {
+          "id": "DS",
+          "name": "ドラゴンセレクション",
+          "declared": 20
+        },
+        {
+          "id": "BW4",
+          "name": "ダークラッシュ",
+          "declared": 69
+        },
+        {
+          "id": "BW3a",
+          "name": "サイコドライブ",
+          "declared": 52
+        },
+        {
+          "id": "BW2",
+          "name": "レッドコレクション",
+          "declared": 66
+        },
+        {
+          "id": "BW1a",
+          "name": "ブラックコレクション",
+          "declared": 53
+        },
+        {
+          "id": "BW1b",
+          "name": "ホワイトコレクション",
+          "declared": 53
+        },
+        {
           "id": "L3",
           "name": "頂上大激突",
           "declared": 70
@@ -404,7 +469,7 @@
     },
     {
       "name": "pokemon-zh-tw",
-      "updatedAt": "2026-11-03T10:54:05.160Z",
+      "updatedAt": "2026-11-10T11:13:17.507Z",
       "sets": 98,
       "cards": 7436,
       "primaryImages": 2146,
@@ -413,37 +478,7 @@
       "variantCoverage": 0,
       "emptySets": [
         {
-          "id": "CS2b",
-          "name": "三連音爆",
-          "declared": 101
-        },
-        {
-          "id": "CS2.5",
-          "name": "三連音爆",
-          "declared": 101
-        },
-        {
-          "id": "CS4",
-          "name": "三連音爆",
-          "declared": 101
-        },
-        {
-          "id": "CS1.5",
-          "name": "三連音爆",
-          "declared": 101
-        },
-        {
-          "id": "CS3.5",
-          "name": "三連音爆",
-          "declared": 101
-        },
-        {
-          "id": "CS3b",
-          "name": "三連音爆",
-          "declared": 101
-        },
-        {
-          "id": "CS2a",
+          "id": "CS4b",
           "name": "三連音爆",
           "declared": 101
         },
@@ -453,27 +488,22 @@
           "declared": 101
         },
         {
+          "id": "CS3b",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS3.5",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
           "id": "CS4a",
           "name": "三連音爆",
           "declared": 101
         },
         {
-          "id": "CS1a",
-          "name": "三連音爆",
-          "declared": 101
-        },
-        {
-          "id": "CS1b",
-          "name": "三連音爆",
-          "declared": 101
-        },
-        {
-          "id": "CS4b",
-          "name": "三連音爆",
-          "declared": 101
-        },
-        {
-          "id": "CSA",
+          "id": "CS2.5",
           "name": "三連音爆",
           "declared": 101
         },
@@ -483,7 +513,42 @@
           "declared": 101
         },
         {
+          "id": "CS1a",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
           "id": "CS4Da",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS2b",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CSA",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS4",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS2a",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS1b",
+          "name": "三連音爆",
+          "declared": 101
+        },
+        {
+          "id": "CS1.5",
           "name": "三連音爆",
           "declared": 101
         }
@@ -491,7 +556,7 @@
     },
     {
       "name": "pokemon-zh-cn",
-      "updatedAt": "2026-11-03T10:54:05.160Z",
+      "updatedAt": "2026-11-10T11:13:17.507Z",
       "sets": 56,
       "cards": 877,
       "primaryImages": 0,
@@ -685,9 +750,9 @@
           "declared": 150
         },
         {
-          "id": "csm2c",
+          "id": "csm2a",
           "name": "闪耀协同效应",
-          "declared": 192
+          "declared": 194
         },
         {
           "id": "csm2b",
@@ -695,9 +760,9 @@
           "declared": 193
         },
         {
-          "id": "csm2a",
+          "id": "csm2c",
           "name": "闪耀协同效应",
-          "declared": 194
+          "declared": 192
         },
         {
           "id": "CSM1.5C",
@@ -710,9 +775,9 @@
           "declared": 151
         },
         {
-          "id": "csm1b",
+          "id": "csm1c",
           "name": "风暴涌现",
-          "declared": 204
+          "declared": 212
         },
         {
           "id": "csm1a",
@@ -720,9 +785,9 @@
           "declared": 211
         },
         {
-          "id": "csm1c",
+          "id": "csm1b",
           "name": "风暴涌现",
-          "declared": 212
+          "declared": 204
         },
         {
           "id": "CSM1cC",
@@ -743,10 +808,10 @@
     },
     {
       "name": "yugioh",
-      "updatedAt": "2026-11-04T11:35:05.070Z",
-      "sets": 1037,
-      "cards": 44668,
-      "primaryImages": 44668,
+      "updatedAt": "2026-11-11T11:27:29.703Z",
+      "sets": 1039,
+      "cards": 44903,
+      "primaryImages": 44903,
       "primaryImageCoverage": 1,
       "variantMetadata": 0,
       "variantCoverage": 0,
@@ -779,12 +844,12 @@
       ]
     }
   ],
-  "yugiohMirroredImages": 44668,
-  "yugiohPrintings": 44668,
-  "pricePoints": 105648,
+  "yugiohMirroredImages": 44903,
+  "yugiohPrintings": 44903,
+  "pricePoints": 140828,
   "tcgcsv": {
-    "mappedCards": 18664,
-    "mappedSets": 163,
+    "mappedCards": 18835,
+    "mappedSets": 164,
     "ambiguousSets": 11,
     "unmappedSets": 46
   },
@@ -792,14 +857,14 @@
     "version": 1,
     "source": "TCGCSV / TCGplayer",
     "archiveStart": "2024-02-08",
-    "updatedAt": "2026-11-08T13:40:00.441Z",
+    "updatedAt": "2026-11-15T14:07:51.888Z",
     "targetDates": 75,
-    "completedDates": 428,
+    "completedDates": 435,
     "remainingDates": 0,
     "failedDates": 0,
-    "mappedCards": 18664,
-    "groups": 157,
-    "lastProcessed": "2026-10-29",
+    "mappedCards": 18835,
+    "groups": 158,
+    "lastProcessed": "2026-11-05",
     "nextDate": null,
     "archiveLagDays": 10
   },
@@ -815,8 +880,8 @@
   "warnings": [
     "pokemon-it: 1 set senza carte nella fonte corrente",
     "pokemon-en: 4 set senza carte nella fonte corrente",
-    "pokemon-ja: 68 set senza carte nella fonte corrente",
-    "pokemon-ja: copertura immagini primarie 30.4%",
+    "pokemon-ja: 81 set senza carte nella fonte corrente",
+    "pokemon-ja: copertura immagini primarie 29.5%",
     "pokemon-zh-tw: 15 set senza carte nella fonte corrente",
     "pokemon-zh-tw: copertura immagini primarie 28.9%",
     "pokemon-zh-cn: 48 set senza carte nella fonte corrente",
