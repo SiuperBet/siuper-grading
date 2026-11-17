@@ -3,10 +3,10 @@
   "game": "pokemon",
   "language": "zh-cn",
   "source": "TCGdex",
-  "updatedAt": "2026-11-10T11:13:17.507Z",
+  "updatedAt": "2026-11-17T11:53:13.285Z",
   "sets": 56,
   "cards": 877,
-  "failedSets": 0,
+  "failedSets": 2,
   "fallbackSets": 0,
-  "emptySets": 48
+  "emptySets": 46
 }
