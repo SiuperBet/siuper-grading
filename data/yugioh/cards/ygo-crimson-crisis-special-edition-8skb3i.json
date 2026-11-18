@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.72,
-      "timestamp": "2026-11-11T11:27:29.703Z",
+      "timestamp": "2026-11-18T12:16:09.117Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-11T11:27:29.703Z"
+    "updatedAt": "2026-11-18T12:16:09.117Z"
   },
   {
     "id": "yugioh:28297833:CRMSENSE1:ygo-crimson-crisis-special-edition-8skb3i:ygo-super-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 6.94,
-      "timestamp": "2026-11-11T11:27:29.703Z",
+      "timestamp": "2026-11-18T12:16:09.117Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-11T11:27:29.703Z"
+    "updatedAt": "2026-11-18T12:16:09.117Z"
   }
 ]
