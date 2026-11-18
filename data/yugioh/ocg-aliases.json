@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source": "YGOCDB",
-  "updatedAt": "2026-11-11T12:39:43.906Z",
-  "md5": "\"58654e21148eed54599417e988ce4c18\"",
+  "updatedAt": "2026-11-18T13:52:45.521Z",
+  "md5": "\"94c8d8d66ec667183ea2552da578f5ef\"",
   "cards": 14423,
   "aliases": {
     "483": {
@@ -2946,7 +2946,7 @@
       "jpName": "アマゾネスの里",
       "jpRuby": "アマゾネスのさと",
       "zhName": "亚马逊之里",
-      "scName": "",
+      "scName": "亚马逊之乡",
       "cnocgName": "亚马逊之村",
       "masterDuelName": "亚马逊之乡",
       "release": {
@@ -2958,7 +2958,10 @@
           "date": "2010-08-17",
           "pack": "DUELIST REVOLUTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "720147": {
@@ -6251,7 +6254,7 @@
       "enName": "Yoa the Plague Ashtra",
       "jpName": "疫神の依鬼 ヨア",
       "jpRuby": "えきじんのアシュトラ　ヨア",
-      "zhName": "疫神之依鬼 夜亚",
+      "zhName": "疫神之依鬼 夜阿",
       "scName": "疫神之依艮鬼 夜亚",
       "cnocgName": "疫神之依艮鬼 夜亚",
       "masterDuelName": "",
@@ -7316,8 +7319,8 @@
       "enName": "",
       "jpName": "リインゼルム・カルカサス",
       "jpRuby": "リインゼルム・カルカサス",
-      "zhName": "轮回虫龙 高加索南洋大兜虫",
-      "scName": "",
+      "zhName": "轮回虫龙·卡萨斯大兜虫",
+      "scName": "轮回虫龙・卡萨斯大兜虫",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -7326,7 +7329,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "2084239": {
@@ -10184,7 +10190,7 @@
       "enName": "Fiend Reflection #2",
       "jpName": "ミラージュ",
       "jpRuby": "ミラージュ",
-      "zhName": "幻象鸟",
+      "zhName": "镜子幻象鸟",
       "scName": "",
       "cnocgName": "幻象鸟",
       "masterDuelName": "幻镜鸟",
@@ -11037,7 +11043,7 @@
       "jpName": "昆虫機甲鎧",
       "jpRuby": "バイオインセクトアーマー",
       "zhName": "昆虫机甲铠",
-      "scName": "",
+      "scName": "昆虫机甲铠",
       "cnocgName": "昆虫机甲铠",
       "masterDuelName": "昆虫机甲铠",
       "release": {
@@ -11049,7 +11055,10 @@
           "date": "2023-02-10",
           "pack": "PHOTON HYPERNOVA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "3096468": {
@@ -11123,8 +11132,8 @@
       "enName": "",
       "jpName": "お返し鶴秘姫",
       "jpRuby": "おかえしつるひめ",
-      "zhName": "返身报恩的鹤秘姬",
-      "scName": "",
+      "zhName": "回报的鹤秘姬",
+      "scName": "报恩鹤秘姬",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -11133,7 +11142,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "3111207": {
@@ -13706,7 +13718,7 @@
       "enName": "Rikka Queen Strenna",
       "jpName": "六花聖ストレナエ",
       "jpRuby": "りっかせいストレナエ",
-      "zhName": "六花圣 力量女神花圈",
+      "zhName": "六花圣 力量女神花环",
       "scName": "六花圣花环",
       "cnocgName": "六花圣 圣节花圈",
       "masterDuelName": "六花圣花环",
@@ -14331,7 +14343,7 @@
       "jpName": "無敵のロケット戦士",
       "jpRuby": "むてきのロケットせんし",
       "zhName": "无敌的火箭战士",
-      "scName": "",
+      "scName": "无敌的火箭战士",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -14340,7 +14352,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "4041838": {
@@ -14439,7 +14454,7 @@
       "jpName": "ゴッド・ブレイズ・キャノン",
       "jpRuby": "ゴッド・ブレイズ・キャノン",
       "zhName": "神威烈焰加农炮",
-      "scName": "",
+      "scName": "神烈焰加农炮",
       "cnocgName": "神之烈焰加农炮",
       "masterDuelName": "神烈焰加农炮",
       "release": {
@@ -14451,7 +14466,10 @@
           "date": "2020-09-25",
           "pack": "LEGENDARY DUELISTS: RAGE OF RA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 +1扩张包"
+        }
       }
     },
     "4063756": {
@@ -14687,8 +14705,8 @@
       "enName": "",
       "jpName": "バニリン・ソフト",
       "jpRuby": "バニリン・ソフト",
-      "zhName": "软软香草白兔冰",
-      "scName": "",
+      "zhName": "香兰兔·软件淇淋",
+      "scName": "香兰兔・软件淇淋",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -14697,7 +14715,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "4130270": {
@@ -15308,8 +15329,8 @@
       "enName": "",
       "jpName": "バニリン：モカMOD",
       "jpRuby": "バニリン：モカモッド",
-      "zhName": "香草白兔冰：摩卡模组",
-      "scName": "",
+      "zhName": "香兰兔：摩卡模组",
+      "scName": "香兰兔：摩卡模组",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -15318,7 +15339,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "4333086": {
@@ -16083,7 +16107,7 @@
       "jpName": "アマゾネス女帝",
       "jpRuby": "アマゾネスエンプレス",
       "zhName": "亚马逊女帝",
-      "scName": "",
+      "scName": "亚马逊女帝",
       "cnocgName": "亚马逊女帝",
       "masterDuelName": "亚马逊女帝",
       "release": {
@@ -16095,7 +16119,10 @@
           "date": "2017-10-20",
           "pack": "CIRCUIT BREAK"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "4599182": {
@@ -17694,7 +17721,7 @@
       "jpName": "アマゾネス救出劇",
       "jpRuby": "アマゾネスきゅうしゅつげき",
       "zhName": "亚马逊救出剧",
-      "scName": "",
+      "scName": "亚马逊救出剧",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -17703,7 +17730,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "5063379": {
@@ -18459,7 +18489,7 @@
       "jpName": "転生炎獣バステラ",
       "jpRuby": "サラマングレイトバステラ",
       "zhName": "转生炎兽 宽耳蝠",
-      "scName": "",
+      "scName": "转生炎兽 宽耳蝠",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -18468,7 +18498,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "5267507": {
@@ -20348,7 +20381,7 @@
       "enName": "Melffy Godmommy",
       "jpName": "メルフィーゴッド・マミィ",
       "jpRuby": "メルフィーゴッド・マミィ",
-      "zhName": "童话动物神仙教母·魔魅妈咪",
+      "zhName": "童话动物教母·妈咪",
       "scName": "梅尔菲教母・玛咪",
       "cnocgName": "奇妙毛毛兽教母妈咪",
       "masterDuelName": "",
@@ -20373,7 +20406,7 @@
       "jpName": "白鴉の魔女の光彩",
       "jpRuby": "はくあのまじょのひかり",
       "zhName": "白鸦魔女的光彩",
-      "scName": "",
+      "scName": "白鸦魔女的光彩",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -20382,7 +20415,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "5846183": {
@@ -20949,7 +20985,7 @@
       "jpName": "ウォーター・ドラゴン－クラスター",
       "jpRuby": "ウォーター・ドラゴン－クラスター",
       "zhName": "水龙-团簇",
-      "scName": "",
+      "scName": "水合龙－团簇",
       "cnocgName": "水龙-团簇",
       "masterDuelName": "水合龙－团簇",
       "release": {
@@ -20961,7 +20997,10 @@
           "date": "2017-09-08",
           "pack": "LEGENDARY DUELISTS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "6039967": {
@@ -21050,7 +21089,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -22488,7 +22530,7 @@
       "jpName": "アマゾネス転生術",
       "jpRuby": "アマゾネスてんせいじゅつ",
       "zhName": "亚马逊转生术",
-      "scName": "",
+      "scName": "亚马逊转生术",
       "cnocgName": "亚马逊转生术",
       "masterDuelName": "亚马逊转生术",
       "release": {
@@ -22500,7 +22542,10 @@
           "date": "2010-08-17",
           "pack": "DUELIST REVOLUTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "6471156": {
@@ -23460,7 +23505,7 @@
       "jpName": "秋",
       "jpRuby": "あき",
       "zhName": "秋",
-      "scName": "",
+      "scName": "秋",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -23469,7 +23514,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "6772168": {
@@ -23814,7 +23862,7 @@
       "jpName": "ボンディング－DHO",
       "jpRuby": "ボンディング－ディーエイチオー",
       "zhName": "结合术-DHO",
-      "scName": "",
+      "scName": "键结－DHO",
       "cnocgName": "键结-DHO",
       "masterDuelName": "键结－DHO",
       "release": {
@@ -23826,7 +23874,10 @@
           "date": "2017-09-08",
           "pack": "LEGENDARY DUELISTS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "6901008": {
@@ -24047,7 +24098,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -25001,7 +25055,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -30371,7 +30428,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -34113,7 +34173,7 @@
       "jpName": "暗黒の太陽神－ラーの翼神竜",
       "jpRuby": "あんこくのたいようしん－ラーのよくしんりゅう",
       "zhName": "暗黑之太阳神-拉之翼神龙",
-      "scName": "",
+      "scName": "暗黑太阳神－拉之翼神龙",
       "cnocgName": "",
       "masterDuelName": "暗黑太阳神－拉之翼神龙",
       "release": {
@@ -34122,7 +34182,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "10002346": {
@@ -34821,7 +34884,7 @@
       "jpName": "無死なる竜の鼓動",
       "jpRuby": "リインゼルム・カーネーション",
       "zhName": "无死之龙的鼓动",
-      "scName": "",
+      "scName": "轮回虫龙之鼓动",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -34830,7 +34893,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "10178757": {
@@ -37248,7 +37314,7 @@
       "jpName": "アマゾネスペット仔虎",
       "jpRuby": "アマゾネスペットベビータイガー",
       "zhName": "亚马逊宠物仔虎",
-      "scName": "",
+      "scName": "亚马逊宠物仔虎",
       "cnocgName": "亚马逊宠物幼虎",
       "masterDuelName": "亚马逊宠物仔虎",
       "release": {
@@ -37260,7 +37326,10 @@
           "date": "2017-09-08",
           "pack": "LEGENDARY DUELISTS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "10938846": {
@@ -37404,7 +37473,7 @@
       "jpName": "アマゾネスペット虎",
       "jpRuby": "アマゾネスペットタイガー",
       "zhName": "亚马逊宠物虎",
-      "scName": "",
+      "scName": "亚马逊宠物虎",
       "cnocgName": "亚马逊宠物虎",
       "masterDuelName": "亚马逊宠物虎",
       "release": {
@@ -37416,7 +37485,10 @@
           "date": "2003-10-10",
           "pack": "MAGICIAN'S FORCE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "10992251": {
@@ -39378,7 +39450,7 @@
       "jpName": "真なる太陽神",
       "jpRuby": "しんなるたいようしん",
       "zhName": "真正的太阳神",
-      "scName": "",
+      "scName": "真之太阳神",
       "cnocgName": "真正的太阳神",
       "masterDuelName": "真太阳神",
       "release": {
@@ -39390,7 +39462,10 @@
           "date": "2022-09-16",
           "pack": "2022 TIN OF THE PHARAOH'S GODS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 +1扩张包"
+        }
       }
     },
     "11590299": {
@@ -43662,7 +43737,7 @@
       "jpName": "暗黒の魔再生",
       "jpRuby": "あんこくのまさいせい",
       "zhName": "暗黑之魔再生",
-      "scName": "",
+      "scName": "暗黑之魔再生",
       "cnocgName": "暗黑之魔再生",
       "masterDuelName": "暗黑之魔重生",
       "release": {
@@ -43674,7 +43749,10 @@
           "date": "2020-07-24",
           "pack": "BATTLES OF LEGEND: ARMAGEDDON"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "12931061": {
@@ -44690,7 +44768,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -44838,7 +44919,7 @@
       "jpName": "蝕みの鱗粉",
       "jpRuby": "むしばみのりんぷん",
       "zhName": "侵蚀鳞粉",
-      "scName": "",
+      "scName": "侵蚀鳞粉",
       "cnocgName": "腐蚀的鳞粉",
       "masterDuelName": "侵蚀鳞粉",
       "release": {
@@ -44850,7 +44931,10 @@
           "date": "2018-02-23",
           "pack": "LEGENDARY DUELISTS: ANCIENT MILLENNIUM"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "13241004": {
@@ -45428,7 +45512,7 @@
       "enName": "Nekroz of Metaltron",
       "jpName": "メタトロンの影霊衣",
       "jpRuby": "メタトロンのネクロス",
-      "zhName": "炼机圣之影灵衣",
+      "zhName": "梅塔特隆之影灵衣",
       "scName": "梅塔特隆的影灵衣",
       "cnocgName": "炼机圣之影灵衣",
       "masterDuelName": "梅塔特隆的影灵衣",
@@ -48311,7 +48395,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -48369,7 +48456,7 @@
       "jpName": "寄生虫パラノイド",
       "jpRuby": "きせいちゅうパラノイド",
       "zhName": "寄生虫 帕拉诺伊德",
-      "scName": "",
+      "scName": "寄生虫 帕拉诺伊德",
       "cnocgName": "寄生虫 帕拉诺伊德",
       "masterDuelName": "寄生虫帕拉诺伊德",
       "release": {
@@ -48381,7 +48468,10 @@
           "date": "2018-02-23",
           "pack": "LEGENDARY DUELISTS: ANCIENT MILLENNIUM"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "14462257": {
@@ -50693,7 +50783,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -52884,7 +52977,7 @@
       "jpName": "ガーディアン・スライム",
       "jpRuby": "ガーディアン・スライム",
       "zhName": "守护者史莱姆",
-      "scName": "",
+      "scName": "守护者史莱姆",
       "cnocgName": "守护使者史莱姆",
       "masterDuelName": "守护者史莱姆",
       "release": {
@@ -52896,7 +52989,10 @@
           "date": "2020-09-25",
           "pack": "LEGENDARY DUELISTS: RAGE OF RA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "15778492": {
@@ -53424,7 +53520,7 @@
       "jpName": "アマゾネス女王",
       "jpRuby": "アマゾネスクィーン",
       "zhName": "亚马逊女王",
-      "scName": "",
+      "scName": "亚马逊女王",
       "cnocgName": "亚马逊女王",
       "masterDuelName": "亚马逊女王",
       "release": {
@@ -53436,7 +53532,10 @@
           "date": "2010-08-17",
           "pack": "DUELIST REVOLUTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "15960641": {
@@ -54983,8 +55082,8 @@
       "enName": "",
       "jpName": "白鴉の騎士アン",
       "jpRuby": "はくあのきしアン",
-      "zhName": "白鸦骑士 安",
-      "scName": "",
+      "zhName": "白鸦骑士 阿努",
+      "scName": "白鸦骑士 安",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -54993,7 +55092,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "16392422": {
@@ -57215,8 +57317,8 @@
       "enName": "",
       "jpName": "ハーピィ・レディ－魅惑の舞い－",
       "jpRuby": "ハーピィ・レディ－みわくのまい－",
-      "zhName": "鹰身女郎-诱惑之舞-",
-      "scName": "",
+      "zhName": "鹰身女郎-魅惑之舞-",
+      "scName": "神鹰女郎－魅惑之舞－",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -57225,7 +57327,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "17115745": {
@@ -57683,8 +57788,8 @@
       "enName": "",
       "jpName": "アマゾネスの鎖使い－死に際の鎖舞い－",
       "jpRuby": "アマゾネスのくさりつかい－しにぎわのくさりまい－",
-      "zhName": "亚马逊锁链使-临终锁舞-",
-      "scName": "",
+      "zhName": "亚马逊锁链使-临死的锁链舞-",
+      "scName": "亚马逊的锁链使－濒死之锁舞－",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -57693,7 +57798,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "17228908": {
@@ -59004,7 +59112,7 @@
       "jpName": "バイサー・ショック",
       "jpRuby": "バイサー・ショック",
       "zhName": "电击拷问机",
-      "scName": "",
+      "scName": "震撼刑具",
       "cnocgName": "电击刑具",
       "masterDuelName": "冲击魔人",
       "release": {
@@ -59016,7 +59124,10 @@
           "date": "2003-07-18",
           "pack": "PHARAONIC GUARDIAN"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "17601919": {
@@ -60287,8 +60398,8 @@
       "enName": "",
       "jpName": "ケペルの金字塔",
       "jpRuby": "ケペルのきんじとう",
-      "zhName": "凯帕之金字塔",
-      "scName": "",
+      "zhName": "赫普鲁金字塔",
+      "scName": "凯佩尔的金字塔",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -60297,7 +60408,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "17994645": {
@@ -60375,7 +60489,7 @@
       "jpName": "カオス・バリアンズ・チェンジ",
       "jpRuby": "カオス・バリアンズ・チェンジ",
       "zhName": "混沌异晶人的变身",
-      "scName": "",
+      "scName": "混沌巴利安之转换",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -60384,7 +60498,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "18027138": {
@@ -61686,7 +61803,7 @@
       "jpName": "太陽神の処刑人－マキュラ",
       "jpRuby": "たいようしんのしょけいにん－マキュラ",
       "zhName": "太阳神的处刑人-摩休罗",
-      "scName": "",
+      "scName": "太阳神的处刑人－摩修罗",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -61695,7 +61812,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "18458255": {
@@ -63419,7 +63539,7 @@
       "enName": "Miracle Raven",
       "jpName": "ミラクル・レイヴン－供物の儀式－",
       "jpRuby": "ミラクル・レイヴン－くもつのぎしき－",
-      "zhName": "奇迹之供物-供物的仪式-",
+      "zhName": "奇迹渡鸦-供物的仪式-",
       "scName": "奇迹渡鸦－供品的仪式－",
       "cnocgName": "奇迹的供品-供品的仪式-",
       "masterDuelName": "奇迹渡鸦－供品的仪式－",
@@ -66282,7 +66402,7 @@
       "jpName": "転生炎獣の神域",
       "jpRuby": "サラマングレイト・サンガ",
       "zhName": "转生炎兽的神域",
-      "scName": "",
+      "scName": "转生炎兽之神域",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -66291,7 +66411,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "19844995": {
@@ -66596,8 +66719,8 @@
       "enName": "",
       "jpName": "白鴉の深き森",
       "jpRuby": "はくあのふかきもり",
-      "zhName": "白鸦的大森林",
-      "scName": "",
+      "zhName": "白鸦的幽深森林",
+      "scName": "白鸦之幽森",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -66606,7 +66729,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "19959563": {
@@ -68456,8 +68582,8 @@
       "enName": "",
       "jpName": "六花深聖ストレナエ",
       "jpRuby": "りっかしんせいストレナエ",
-      "zhName": "六花深圣 力量女神花圈",
-      "scName": "",
+      "zhName": "六花深圣 力量女神花环",
+      "scName": "六花深圣花环",
       "cnocgName": "",
       "masterDuelName": "六花深圣花环",
       "release": {
@@ -68466,7 +68592,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "20501450": {
@@ -69335,7 +69464,7 @@
       "enName": "Berry Magician Girl",
       "jpName": "ベリー・マジシャン・ガール",
       "jpRuby": "ベリー・マジシャン・ガール",
-      "zhName": "浆果魔术少女",
+      "zhName": "莓果魔术少女",
       "scName": "",
       "cnocgName": "浆果魔导士少女",
       "masterDuelName": "浆果魔导女孩",
@@ -71103,7 +71232,7 @@
       "jpName": "鬼神 夜魅",
       "jpRuby": "アシュトラーマ　ヨアミ",
       "zhName": "鬼神 夜魅",
-      "scName": "",
+      "scName": "艮鬼神 夜魅",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -71112,7 +71241,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "21313376": {
@@ -71462,7 +71594,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -72048,7 +72183,7 @@
       "jpName": "処刑人－マキュラ",
       "jpRuby": "しょけいにん－マキュラ",
       "zhName": "处刑人-摩休罗",
-      "scName": "",
+      "scName": "处刑人－摩修罗",
       "cnocgName": "处刑人-摩休罗",
       "masterDuelName": "处刑人－摩修罗",
       "release": {
@@ -72060,7 +72195,10 @@
           "date": "2004-10-12",
           "pack": "DARK BEGINNING 1"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "21597117": {
@@ -73140,7 +73278,7 @@
       "jpName": "華麗なる三面鏡",
       "jpRuby": "かれいなるさんめんきょう",
       "zhName": "华丽的三面镜",
-      "scName": "",
+      "scName": "华丽的三面镜",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -73149,7 +73287,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "21900719": {
@@ -73521,7 +73662,7 @@
       "jpName": "竜魔導の降霊師",
       "jpRuby": "りゅうまどうのこうれいし",
       "zhName": "龙魔导降灵师",
-      "scName": "",
+      "scName": "龙魔导之降灵师",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -73530,7 +73671,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "22011689": {
@@ -73797,7 +73941,7 @@
       "jpName": "アマゾネスの意地",
       "jpRuby": "アマゾネスのいじ",
       "zhName": "亚马逊的意志",
-      "scName": "",
+      "scName": "亚马逊的骨气",
       "cnocgName": "亚马逊的志气",
       "masterDuelName": "亚马逊的意志",
       "release": {
@@ -73809,7 +73953,10 @@
           "date": "2010-08-17",
           "pack": "DUELIST REVOLUTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "22082432": {
@@ -74433,7 +74580,7 @@
       "jpName": "銀幕の鏡壁",
       "jpRuby": "ぎんまくのミラーウォール",
       "zhName": "银幕之镜壁",
-      "scName": "",
+      "scName": "银幕镜壁",
       "cnocgName": "银幕镜壁",
       "masterDuelName": "银幕的镜壁",
       "release": {
@@ -74445,7 +74592,10 @@
           "date": "2002-10-20",
           "pack": "PHARAOH'S SERVANT"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "22371016": {
@@ -75204,7 +75354,7 @@
       "jpName": "ハイドロゲドン",
       "jpRuby": "ハイドロゲドン",
       "zhName": "氢素龙",
-      "scName": "",
+      "scName": "氢恐龙",
       "cnocgName": "氢素龙",
       "masterDuelName": "氢魔兽",
       "release": {
@@ -75216,7 +75366,10 @@
           "date": "2005-11-05",
           "pack": "ELEMENTAL ENERGY"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "22589918": {
@@ -77090,8 +77243,8 @@
       "enName": "",
       "jpName": "無垢なる協奏 エルフェンノーツ",
       "jpRuby": "アルス＝マグナ　エルフェンノーツ",
-      "zhName": "无垢协奏 耀圣诗团",
-      "scName": "",
+      "zhName": "无垢大协奏 耀圣之诗",
+      "scName": "无垢奥艺之协奏 耀圣",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -77100,7 +77253,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "23147658": {
@@ -77790,7 +77946,7 @@
       "jpName": "炎獄魔人ヘル・バーナー",
       "jpRuby": "えんごくまじんヘル・バーナー",
       "zhName": "炎狱魔人 地狱焚魔",
-      "scName": "",
+      "scName": "焰狱魔人 地狱燃烧者",
       "cnocgName": "焱狱魔人 地狱焚魔",
       "masterDuelName": "炎狱魔人 地狱焚魔",
       "release": {
@@ -77802,7 +77958,10 @@
           "date": "2005-11-05",
           "pack": "ELEMENTAL ENERGY"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "23314220": {
@@ -79194,7 +79353,7 @@
       "jpName": "無死虫団の補給兵",
       "jpRuby": "むしムシだんのほきゅうへい",
       "zhName": "无死虫团的补给兵",
-      "scName": "",
+      "scName": "无死虫团的补给兵",
       "cnocgName": "无死虫团的补给兵",
       "masterDuelName": "无死虫团的补给兵",
       "release": {
@@ -79206,7 +79365,10 @@
           "date": "2024-10-11",
           "pack": "RAGE OF THE ABYSS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "23740893": {
@@ -80036,8 +80198,8 @@
       "enName": "",
       "jpName": "高嶺の天仙カリン",
       "jpRuby": "たかねのてんせんカリン",
-      "zhName": "高岭之天仙 火轮",
-      "scName": "",
+      "zhName": "高岭之天仙 迦陵",
+      "scName": "高岭之天仙 火轮",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -80046,7 +80208,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "23965033": {
@@ -80055,7 +80220,7 @@
       "jpName": "アマゾネス女帝王",
       "jpRuby": "アマゾネスカイゼリン",
       "zhName": "亚马逊女帝王",
-      "scName": "",
+      "scName": "亚马逊女帝王",
       "cnocgName": "亚马逊女帝王",
       "masterDuelName": "亚马逊女帝王",
       "release": {
@@ -80067,7 +80232,10 @@
           "date": "2022-10-21",
           "pack": "DARKWING BLAST"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 +1扩张包"
+        }
       }
     },
     "23965037": {
@@ -80571,7 +80739,7 @@
       "jpName": "アマゾネスの銀剣使い",
       "jpRuby": "アマゾネスのぎんけんつかい",
       "zhName": "亚马逊银剑使",
-      "scName": "",
+      "scName": "亚马逊的银剑使",
       "cnocgName": "亚马逊的银剑使",
       "masterDuelName": "亚马逊的银剑师",
       "release": {
@@ -80583,7 +80751,10 @@
           "date": "2022-10-21",
           "pack": "DARKWING BLAST"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "24088928": {
@@ -84744,7 +84915,7 @@
       "jpName": "アマゾネス拝謁の間",
       "jpRuby": "アマゾネスはいえつのま",
       "zhName": "亚马逊拜谒间",
-      "scName": "",
+      "scName": "亚马逊拜谒之间",
       "cnocgName": "亚马逊拜谒之间",
       "masterDuelName": "亚马逊拜谒之间",
       "release": {
@@ -84756,7 +84927,10 @@
           "date": "2022-11-18",
           "pack": "BATTLES OF LEGEND: CRYSTAL REVENGE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "25397880": {
@@ -87762,7 +87936,7 @@
       "jpName": "幻のインセクト女王",
       "jpRuby": "まぼろしのインセクトクイーン",
       "zhName": "幻之昆虫女王",
-      "scName": "",
+      "scName": "幻之昆虫女王",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -87771,7 +87945,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "26326541": {
@@ -87902,7 +88079,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -89535,7 +89715,7 @@
       "jpName": "ジャベリンビートル",
       "jpRuby": "ジャベリンビートル",
       "zhName": "标枪甲虫",
-      "scName": "",
+      "scName": "标枪甲虫",
       "cnocgName": "标枪甲虫",
       "masterDuelName": "标枪甲虫",
       "release": {
@@ -89547,7 +89727,10 @@
           "date": "2007-07-26",
           "pack": "PREMIUM PACK"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "26949946": {
@@ -90035,7 +90218,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -90119,7 +90305,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -91449,7 +91638,7 @@
       "jpName": "ハーピィ・レディ三姉妹・TX",
       "jpRuby": "ハーピィ・レディさんしまい・トライアングル・エクスタシー",
       "zhName": "鹰身女郎三姐妹 三角神迷",
-      "scName": "",
+      "scName": "神鹰女郎三姐妹・三角狂欢",
       "cnocgName": "",
       "masterDuelName": "神鹰女郎三姐妹・三角狂欢",
       "release": {
@@ -91458,7 +91647,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "27541267": {
@@ -92760,7 +92952,7 @@
       "jpName": "ハーピィ・レディ２",
       "jpRuby": "ハーピィ・レディツー",
       "zhName": "鹰身女郎2",
-      "scName": "",
+      "scName": "神鹰女郎2",
       "cnocgName": "妖鸟女郎2",
       "masterDuelName": "神鹰女郎２",
       "release": {
@@ -92772,7 +92964,10 @@
           "date": "2004-12-01",
           "pack": "RISE OF DESTINY"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "27944249": {
@@ -94049,7 +94244,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -96299,7 +96497,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -98514,7 +98715,7 @@
       "jpName": "アマゾネスの鎖使い",
       "jpRuby": "アマゾネスのくさりつかい",
       "zhName": "亚马逊锁链使",
-      "scName": "",
+      "scName": "亚马逊的锁链使",
       "cnocgName": "亚马逊的锁链使",
       "masterDuelName": "亚马逊的锁链使",
       "release": {
@@ -98526,7 +98727,10 @@
           "date": "2005-05-28",
           "pack": "THE LOST MILLENNIUM Sneak Peek"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "29666221": {
@@ -100445,7 +100649,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -100638,7 +100845,7 @@
       "jpName": "災禍の根絶者",
       "jpRuby": "ヘレティック・エラディケイター",
       "zhName": "灾祸的根绝者",
-      "scName": "",
+      "scName": "灾祸的根绝者",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -100647,7 +100854,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "30325729": {
@@ -101033,7 +101243,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -102065,7 +102278,7 @@
       "enName": "Water Enchantress of the Temple",
       "jpName": "聖殿の水遣い",
       "jpRuby": "せいでんのみずつかい",
-      "zhName": "圣殿的水遣",
+      "zhName": "圣殿的遣水士",
       "scName": "圣殿的遣水士",
       "cnocgName": "圣殿的遣水士",
       "masterDuelName": "圣殿的遣水士",
@@ -103386,7 +103599,7 @@
       "jpName": "アマゾネスの斥候",
       "jpRuby": "アマゾネスのせっこう",
       "zhName": "亚马逊斥候",
-      "scName": "",
+      "scName": "亚马逊的斥候",
       "cnocgName": "亚马逊侦察兵",
       "masterDuelName": "亚马逊的斥候",
       "release": {
@@ -103398,7 +103611,10 @@
           "date": "2017-10-20",
           "pack": "CIRCUIT BREAK"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "31111109": {
@@ -104043,7 +104259,7 @@
       "jpName": "白鴉の魔女の幻姿",
       "jpRuby": "はくあのまじょのまぼろし",
       "zhName": "白鸦魔女的幻姿",
-      "scName": "",
+      "scName": "白鸦魔女的幻姿",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -104052,7 +104268,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "31322640": {
@@ -104387,8 +104606,8 @@
       "enName": "",
       "jpName": "鬼神童鵄 タマヨリ",
       "jpRuby": "アシュトラータ　タマヨリ",
-      "zhName": "鬼神童鸱 玉依",
-      "scName": "",
+      "zhName": "鬼神童鵄 玉依",
+      "scName": "艮鬼神童鸱 玉依",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -104397,7 +104616,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "31440046": {
@@ -104810,7 +105032,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -107699,7 +107924,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -111557,7 +111785,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -112535,7 +112766,7 @@
       "enName": "Teardrop the Rikka Queen",
       "jpName": "六花聖ティアドロップ",
       "jpRuby": "りっかせいティアドロップ",
-      "zhName": "六花圣 泪滴花束雪花莲",
+      "zhName": "六花圣 泪滴花束",
       "scName": "六花圣泪滴花束",
       "cnocgName": "六花圣 泪滴花束",
       "masterDuelName": "六花圣泪滴花束",
@@ -114467,7 +114698,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -114509,7 +114743,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -120288,7 +120525,7 @@
       "jpName": "アマゾネスの闘志",
       "jpRuby": "アマゾネスのとうし",
       "zhName": "亚马逊的斗志",
-      "scName": "",
+      "scName": "亚马逊的斗志",
       "cnocgName": "亚马逊的斗志",
       "masterDuelName": "亚马逊的斗志",
       "release": {
@@ -120300,7 +120537,10 @@
           "date": "2010-08-17",
           "pack": "DUELIST REVOLUTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "36107810": {
@@ -125468,7 +125708,7 @@
       "enName": "Hideout in the Sky, Coulomb",
       "jpName": "天空城塞クーロン",
       "jpRuby": "てんくうじょうさいクーロン",
-      "zhName": "天空城塞 库仑城寨",
+      "zhName": "天空城塞 库龙",
       "scName": "天空城塞 库龙",
       "cnocgName": "天空城塞 库仑玖龙城",
       "masterDuelName": "天空城塞 库龙",
@@ -128127,7 +128367,7 @@
       "jpName": "ギル・ガース",
       "jpRuby": "ギル・ガース",
       "zhName": "屠杀巨灵",
-      "scName": "",
+      "scName": "吉尔伽斯",
       "cnocgName": "基尔格斯",
       "masterDuelName": "钩刀魔",
       "release": {
@@ -128139,7 +128379,10 @@
           "date": "2007-11-14",
           "pack": "GLADIATOR'S ASSAULT"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "38450736": {
@@ -128213,8 +128456,8 @@
       "enName": "",
       "jpName": "リインゼルム・ギガロヴェンドラ",
       "jpRuby": "リインゼルム・ギガロヴェンドラ",
-      "zhName": "轮回虫龙 秘鲁巨人蜈蚣",
-      "scName": "",
+      "zhName": "轮回虫龙·极巨百足龙",
+      "scName": "轮回虫龙・极巨百足龙",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -128223,7 +128466,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "38479725": {
@@ -130353,7 +130599,7 @@
       "jpName": "ジャイアント・メサイア",
       "jpRuby": "ジャイアント・メサイア",
       "zhName": "巨蚁地狱救世主",
-      "scName": "",
+      "scName": "巨型弥赛亚",
       "cnocgName": "巨蚁地狱弥赛亚",
       "masterDuelName": "巨型蚁狮",
       "release": {
@@ -130365,7 +130611,10 @@
           "date": "2023-02-10",
           "pack": "PHOTON HYPERNOVA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "39091951": {
@@ -131981,8 +132230,8 @@
       "enName": "",
       "jpName": "リインゼルム・アムルサ",
       "jpRuby": "リインゼルム・アムルサ",
-      "zhName": "轮回虫龙 大紫蛱蝶",
-      "scName": "",
+      "zhName": "轮回虫龙·大紫蛱蝶",
+      "scName": "轮回虫龙・大紫蛱蝶",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -131991,7 +132240,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "39613288": {
@@ -132839,7 +133091,7 @@
       "enName": "Play the Diabell",
       "jpName": "プレイ・ザ・ディアベル",
       "jpRuby": "プレイ・ザ・ディアベル",
-      "zhName": "身演恶魔迪亚贝尔",
+      "zhName": "身演迪亚贝尔",
       "scName": "兴妖迪亚贝尔",
       "cnocgName": "操控迪亚贝尔",
       "masterDuelName": "兴妖迪亚贝尔",
@@ -136650,7 +136902,7 @@
       "jpName": "千年の啓示",
       "jpRuby": "せんねんのけいじ",
       "zhName": "千年的启示",
-      "scName": "",
+      "scName": "仟年启示",
       "cnocgName": "千年的启示",
       "masterDuelName": "千年的启示",
       "release": {
@@ -136662,7 +136914,10 @@
           "date": "2020-09-25",
           "pack": "LEGENDARY DUELISTS: RAGE OF RA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 +1扩张包"
+        }
       }
     },
     "41061625": {
@@ -137184,7 +137439,7 @@
       "jpName": "ジャベリンビートルの契約",
       "jpRuby": "ジャベリンビートルのけいやく",
       "zhName": "标枪甲虫的契约",
-      "scName": "",
+      "scName": "标枪甲虫的契约",
       "cnocgName": "标枪甲虫的契约",
       "masterDuelName": "标枪甲虫的契约",
       "release": {
@@ -137196,7 +137451,10 @@
           "date": "2007-07-26",
           "pack": "PREMIUM PACK"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "41197012": {
@@ -138068,7 +138326,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -138246,7 +138507,7 @@
       "jpName": "究極変異態・インセクト女王",
       "jpRuby": "きゅうきょくへんいたい・インセクトクイーン",
       "zhName": "究极变异态昆虫女王",
-      "scName": "",
+      "scName": "究极变异态・昆虫女王",
       "cnocgName": "究极变异态昆虫女王",
       "masterDuelName": "终极变态昆虫女王",
       "release": {
@@ -138258,7 +138519,10 @@
           "date": "2018-02-23",
           "pack": "LEGENDARY DUELISTS: ANCIENT MILLENNIUM"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "41458361": {
@@ -138335,7 +138599,7 @@
       "enName": "Salamangreat Heatleo",
       "jpName": "転生炎獣ヒートライオ",
       "jpRuby": "サラマングレイトヒートライオ",
-      "zhName": "转生炎兽 炽热多头狮",
+      "zhName": "转生炎兽 炽热猛狮",
       "scName": "转生炎兽 炽热猛狮",
       "cnocgName": "转生炎兽 炽热多头狮",
       "masterDuelName": "转生炎兽 炽热猛狮",
@@ -141185,8 +141449,8 @@
       "enName": "",
       "jpName": "白鴉の森の罪宝",
       "jpRuby": "はくあのもりのざいほう",
-      "zhName": "白鸦之森的罪宝",
-      "scName": "",
+      "zhName": "白鸦森林的罪宝",
+      "scName": "白鸦之森的罪宝",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -141195,7 +141459,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "42377643": {
@@ -141543,7 +141810,7 @@
       "jpName": "誘惑の鏡壁",
       "jpRuby": "ゆうわくのミラーウォール",
       "zhName": "诱惑之镜壁",
-      "scName": "",
+      "scName": "诱惑的镜壁",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -141552,7 +141819,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "42444868": {
@@ -142271,8 +142541,8 @@
       "enName": "",
       "jpName": "六花双精プリムローズ",
       "jpRuby": "りっかそうせいプリムローズ",
-      "zhName": "六花双精 报春来",
-      "scName": "",
+      "zhName": "六花双精 报春花",
+      "scName": "六花双精报春蔷薇",
       "cnocgName": "",
       "masterDuelName": "六花双精报春蔷薇",
       "release": {
@@ -142281,7 +142551,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "42664989": {
@@ -144087,7 +144360,7 @@
       "jpName": "太陽神の支配",
       "jpRuby": "たいようしんのしはい",
       "zhName": "太阳神的支配",
-      "scName": "",
+      "scName": "太阳神的支配",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -144096,7 +144369,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "43266605": {
@@ -144513,7 +144789,7 @@
       "jpName": "魔獣の昂進",
       "jpRuby": "カード・クロール",
       "zhName": "魔兽的昂进",
-      "scName": "",
+      "scName": "魔兽的昂进",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -144522,7 +144798,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "43383478": {
@@ -145337,8 +145616,8 @@
       "enName": "",
       "jpName": "白鴉の森の炎魔",
       "jpRuby": "はくあのもりのえんま",
-      "zhName": "白鸦之森的炎魔",
-      "scName": "",
+      "zhName": "白鸦森林的炎魔",
+      "scName": "白鸦之森的炎魔",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -145347,7 +145626,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "43598843": {
@@ -148289,8 +148571,8 @@
       "enName": "",
       "jpName": "バニリン・エキストラクト",
       "jpRuby": "バニリン・エキストラクト",
-      "zhName": "香草白兔冰的精粹",
-      "scName": "",
+      "zhName": "香兰兔·精萃提取",
+      "scName": "香兰兔・精萃提取",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -148299,7 +148581,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "44505297": {
@@ -148584,7 +148869,7 @@
       "jpName": "アマゾネスの格闘戦士－蹴殺の舞い－",
       "jpRuby": "アマゾネスのかくとうせんし－しゅうさつのまい－",
       "zhName": "亚马逊格斗战士-蹴杀之舞-",
-      "scName": "",
+      "scName": "亚马逊的格斗战士－蹴杀之舞－",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -148593,7 +148878,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "44632120": {
@@ -151005,7 +151293,7 @@
       "jpName": "転生炎獣の神剣",
       "jpRuby": "サラマングレイト・ギア・ブレード",
       "zhName": "转生炎兽的神剑",
-      "scName": "",
+      "scName": "转生炎兽之神剑",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -151014,7 +151302,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "45231177": {
@@ -151497,7 +151788,7 @@
       "jpName": "太陽神の殺戮機－ギル・ガース",
       "jpRuby": "たいようしんのさつりくき－ギル・ガース",
       "zhName": "太阳神的杀戮机-屠杀巨灵",
-      "scName": "",
+      "scName": "太阳神的杀戮机－吉尔伽斯",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -151506,7 +151797,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "45439263": {
@@ -151940,7 +152234,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -153075,7 +153372,7 @@
       "jpName": "ボンディング－H２O",
       "jpRuby": "ボンディング－エイチツーオー",
       "zhName": "结合术-H2O",
-      "scName": "",
+      "scName": "键结－H2O",
       "cnocgName": "键结-H2O",
       "masterDuelName": "键结－H２O",
       "release": {
@@ -153087,7 +153384,10 @@
           "date": "2005-11-05",
           "pack": "ELEMENTAL ENERGY"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "45906428": {
@@ -158361,7 +158661,7 @@
       "jpName": "アマゾネスの聖戦士",
       "jpRuby": "アマゾネスのせいせんし",
       "zhName": "亚马逊圣战士",
-      "scName": "",
+      "scName": "亚马逊的圣战士",
       "cnocgName": "亚马逊的圣戦士",
       "masterDuelName": "亚马逊的圣战士",
       "release": {
@@ -158373,7 +158673,10 @@
           "date": "2003-10-10",
           "pack": "MAGICIAN'S FORCE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "47482043": {
@@ -166287,7 +166590,7 @@
       "jpName": "無死虫団の重騎兵",
       "jpRuby": "むしムシだんのじゅうきへい",
       "zhName": "无死虫团的重骑兵",
-      "scName": "",
+      "scName": "无死虫团的重骑兵",
       "cnocgName": "无死虫团的重骑兵",
       "masterDuelName": "无死虫团的重骑兵",
       "release": {
@@ -166299,7 +166602,10 @@
           "date": "2024-10-11",
           "pack": "RAGE OF THE ABYSS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "50134646": {
@@ -167511,7 +167817,7 @@
       "jpName": "アマゾネスの戦士長",
       "jpRuby": "アマゾネスのせんしちょう",
       "zhName": "亚马逊战士长",
-      "scName": "",
+      "scName": "亚马逊的战士长",
       "cnocgName": "亚马逊战士长",
       "masterDuelName": "亚马逊的战士长",
       "release": {
@@ -167523,7 +167829,10 @@
           "date": "2022-10-21",
           "pack": "DARKWING BLAST"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 +1扩张包"
+        }
       }
     },
     "50491121": {
@@ -170807,7 +171116,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -171542,7 +171854,7 @@
       "enName": "Absolute Powerforce",
       "jpName": "アブソリュート・パワーフォース",
       "jpRuby": "アブソリュート・パワーフォース",
-      "zhName": "绝对权力强要",
+      "zhName": "绝对力量威压",
       "scName": "绝对力量威压",
       "cnocgName": "绝对力量镇压",
       "masterDuelName": "绝对力量威压",
@@ -174740,7 +175052,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -174839,8 +175154,8 @@
       "enName": "",
       "jpName": "白鴉の騎士ザルティス",
       "jpRuby": "はくあのきしザルティス",
-      "zhName": "白鸦骑士 扎尔蒂斯",
-      "scName": "",
+      "zhName": "白鸦骑士 萨尔蒂斯",
+      "scName": "白鸦骑士 扎尔提斯",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -174849,7 +175164,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "52807032": {
@@ -176076,7 +176394,7 @@
       "jpName": "アマゾネスの賢者",
       "jpRuby": "アマゾネスのけんじゃ",
       "zhName": "亚马逊贤者",
-      "scName": "",
+      "scName": "亚马逊的贤者",
       "cnocgName": "亚马逊的贤者",
       "masterDuelName": "亚马逊的贤者",
       "release": {
@@ -176088,7 +176406,10 @@
           "date": "2010-08-17",
           "pack": "DUELIST REVOLUTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "53167658": {
@@ -177281,7 +177602,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -180489,7 +180813,7 @@
       "jpName": "ハーピィ・レディ３",
       "jpRuby": "ハーピィ・レディスリー",
       "zhName": "鹰身女郎3",
-      "scName": "",
+      "scName": "神鹰女郎3",
       "cnocgName": "妖鸟女郎3",
       "masterDuelName": "神鹰女郎３",
       "release": {
@@ -180501,7 +180825,10 @@
           "date": "2004-12-01",
           "pack": "RISE OF DESTINY"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "54423935": {
@@ -181343,7 +181670,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -181856,7 +182186,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -185145,7 +185478,7 @@
       "jpName": "No.96 ブラック・ミスト",
       "jpRuby": "ナンバーズ９６ ブラック・ミスト",
       "zhName": "No.96 黑雾",
-      "scName": "",
+      "scName": "编号96 黑雾",
       "cnocgName": "No.96 黑雾",
       "masterDuelName": "编号96 黑色迷雾",
       "release": {
@@ -185157,7 +185490,10 @@
           "date": "2012-01-24",
           "pack": "ORDER OF CHAOS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "55733143": {
@@ -185529,7 +185865,7 @@
       "jpName": "アマゾネスの格闘戦士",
       "jpRuby": "アマゾネスのかくとうせんし",
       "zhName": "亚马逊格斗战士",
-      "scName": "",
+      "scName": "亚马逊的格斗战士",
       "cnocgName": "亚马逊的格斗戦士",
       "masterDuelName": "亚马逊的格斗战士",
       "release": {
@@ -185541,7 +185877,10 @@
           "date": "2003-10-10",
           "pack": "MAGICIAN'S FORCE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "55824220": {
@@ -186090,7 +186429,7 @@
       "jpName": "万力魔神バイサー・デス",
       "jpRuby": "まんりきまじんバイサー・デス",
       "zhName": "万力魔神 死亡拷问机",
-      "scName": "",
+      "scName": "万力魔神 死亡刑具",
       "cnocgName": "万力魔神 死亡刑具",
       "masterDuelName": "万力魔神 拜沙迪斯",
       "release": {
@@ -186102,7 +186441,10 @@
           "date": "2010-02-16",
           "pack": "ABSOLUTE POWERFORCE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "56049970": {
@@ -187134,7 +187476,7 @@
       "jpName": "獄神封門－共滅の剣－",
       "jpRuby": "ごくしんふうもん－きょうめつのつるぎ－",
       "zhName": "狱神封门-共灭之剑-",
-      "scName": "",
+      "scName": "狱神封门－共灭之剑－",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -187143,7 +187485,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "56350972": {
@@ -190217,8 +190562,8 @@
       "enName": "",
       "jpName": "ハーピィ＆アマゾネス －羅刹の陣－",
       "jpRuby": "ハーピィアンドアマゾネス　－らせつのじん－",
-      "zhName": "鹰身&亚马逊 -罗刹之阵-",
-      "scName": "",
+      "zhName": "鹰身女妖与亚马逊 -罗刹之阵-",
+      "scName": "神鹰与亚马逊－罗刹之阵－",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -190227,7 +190572,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "57285770": {
@@ -190398,7 +190746,7 @@
       "jpName": "アマゾネスの叫声",
       "jpRuby": "アマゾネスコール",
       "zhName": "亚马逊的叫声",
-      "scName": "",
+      "scName": "亚马逊的呼声",
       "cnocgName": "亚马逊的叫声",
       "masterDuelName": "亚马逊的叫声",
       "release": {
@@ -190410,7 +190758,10 @@
           "date": "2017-09-08",
           "pack": "LEGENDARY DUELISTS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 +1扩张包"
+        }
       }
     },
     "57314798": {
@@ -191151,7 +191502,7 @@
       "jpName": "翅竜の羽撃",
       "jpRuby": "リインゼルム・バタフライ",
       "zhName": "翅龙的羽击",
-      "scName": "",
+      "scName": "轮回虫龙之羽击",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -191160,7 +191511,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "57566760": {
@@ -191672,7 +192026,7 @@
       "enName": "Metaltron XII, the True Dracombatant",
       "jpName": "真竜機兵ダースメタトロン",
       "jpRuby": "しんりゅうきへいダースメタトロン",
-      "zhName": "真龙机兵 十二炼机圣",
+      "zhName": "真龙机兵 十二炼机梅塔特隆",
       "scName": "真龙机兵 十二炼机梅塔特隆",
       "cnocgName": "真龙机兵 十二炼机圣",
       "masterDuelName": "真龙机兵 十二炼机巧",
@@ -192305,8 +192659,8 @@
       "enName": "",
       "jpName": "No.96 ブラック・マリオネッター",
       "jpRuby": "ナンバーズ９６　ブラック・マリオネッター",
-      "zhName": "No.96 黑偶",
-      "scName": "",
+      "zhName": "No.96 黑傀儡师",
+      "scName": "编号96 黑操偶师",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -192315,7 +192669,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "57962537": {
@@ -192789,7 +193146,7 @@
       "jpName": "オキシゲドン",
       "jpRuby": "オキシゲドン",
       "zhName": "氧素龙",
-      "scName": "",
+      "scName": "氧恐龙",
       "cnocgName": "氧素龙",
       "masterDuelName": "氧魔兽",
       "release": {
@@ -192801,7 +193158,10 @@
           "date": "2005-11-05",
           "pack": "ELEMENTAL ENERGY"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "58071334": {
@@ -193962,7 +194322,7 @@
       "jpName": "不死なる太陽神",
       "jpRuby": "ふしなるたいようしん",
       "zhName": "不死的太阳神",
-      "scName": "",
+      "scName": "不死之太阳神",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -193971,7 +194331,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "58415502": {
@@ -194199,7 +194562,7 @@
       "jpName": "女王の選択",
       "jpRuby": "じょおうのせんたく",
       "zhName": "女王的选择",
-      "scName": "",
+      "scName": "女王的选择",
       "cnocgName": "女王的选择",
       "masterDuelName": "女王的抉择",
       "release": {
@@ -194211,7 +194574,10 @@
           "date": "2010-08-17",
           "pack": "DUELIST REVOLUTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "58481572": {
@@ -194697,7 +195063,7 @@
       "jpName": "誘惑のシャドウ",
       "jpRuby": "ゆうわくのシャドウ",
       "zhName": "诱惑之影",
-      "scName": "",
+      "scName": "诱惑眼影",
       "cnocgName": "诱惑之影",
       "masterDuelName": "诱惑的魅影",
       "release": {
@@ -194709,7 +195075,10 @@
           "date": "2002-10-20",
           "pack": "PHARAOH'S SERVANT"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "58628539": {
@@ -194849,8 +195218,8 @@
       "enName": "",
       "jpName": "ダラダラサウルス",
       "jpRuby": "ダラダラサウルス",
-      "zhName": "达懒斯龙",
-      "scName": "",
+      "zhName": "拖拉达拉斯龙",
+      "scName": "懒懒散散达拉斯龙",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -194859,7 +195228,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "58685438": {
@@ -195116,7 +195488,7 @@
       "enName": "Nightmare's Steelcage",
       "jpName": "悪夢の鉄檻",
       "jpRuby": "あくむのてつおり",
-      "zhName": "噩梦之铁栏",
+      "zhName": "噩梦之铁槛",
       "scName": "",
       "cnocgName": "噩梦的铁笼",
       "masterDuelName": "恶梦的铁槛",
@@ -196344,7 +196716,7 @@
       "jpName": "ウィッチクラフト・シード",
       "jpRuby": "ウィッチクラフト・シード",
       "zhName": "魔女术工匠·种子女巫",
-      "scName": "",
+      "scName": "魔女工艺・育种希德",
       "cnocgName": "魔女工坊 种植匠",
       "masterDuelName": "魔女工艺・育种希德",
       "release": {
@@ -196353,7 +196725,10 @@
           "pack": "遊戯王OCGストーリーズ 第7巻 付録カード"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "59120809": {
@@ -196433,8 +196808,8 @@
       "enName": "",
       "jpName": "炎の平原を駆け抜ける百獣の王",
       "jpRuby": "ほのおのへいげんをかけぬけるひゃくじゅうのおう",
-      "zhName": "驰驱于火炎平原的百兽之王",
-      "scName": "",
+      "zhName": "炎之平原上奔驰而过的百兽之王",
+      "scName": "驰骋横越炎之平原的百兽之王",
       "cnocgName": "",
       "masterDuelName": "驰骋横越炎之平原的百兽之王",
       "release": {
@@ -196443,7 +196818,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "59131526": {
@@ -197040,7 +197418,7 @@
       "jpName": "アマゾネスペット虎獅王",
       "jpRuby": "アマゾネスペットキングライガー",
       "zhName": "亚马逊宠物虎狮王",
-      "scName": "",
+      "scName": "亚马逊宠物虎狮王",
       "cnocgName": "亚马逊虎狮王",
       "masterDuelName": "亚马逊宠物虎狮王",
       "release": {
@@ -197052,7 +197430,10 @@
           "date": "2022-10-21",
           "pack": "DARKWING BLAST"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 +1扩张包"
+        }
       }
     },
     "59364406": {
@@ -200240,8 +200621,8 @@
       "enName": "",
       "jpName": "無垢なる絆 アルトメギア",
       "jpRuby": "アルス＝マグナ　アルトメギア",
-      "zhName": "无垢牵绊 神艺学徒",
-      "scName": "",
+      "zhName": "无垢大牵绊 神艺学徒",
+      "scName": "无垢奥艺之绊 神艺",
       "cnocgName": "",
       "masterDuelName": "无垢奥艺之绊 神艺",
       "release": {
@@ -200250,7 +200631,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "60349525": {
@@ -202349,7 +202733,7 @@
       "enName": "Absolute King Back Jack",
       "jpName": "絶対王 バック・ジャック",
       "jpRuby": "ぜったいおう　バック・ジャック",
-      "zhName": "绝对王 J革命",
+      "zhName": "绝对王 背包杰克",
       "scName": "绝对王 背包杰克",
       "cnocgName": "绝对王 背包杰克",
       "masterDuelName": "绝对王 背包杰克",
@@ -206499,7 +206883,7 @@
       "jpName": "要塞クジラ",
       "jpRuby": "ようさいクジラ",
       "zhName": "要塞鲸",
-      "scName": "",
+      "scName": "要塞鲸鱼",
       "cnocgName": "要塞鲸",
       "masterDuelName": "要塞鲸鱼",
       "release": {
@@ -206511,7 +206895,10 @@
           "date": "2005-11-01",
           "pack": "TOURNAMENT PACK 7"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "62340868": {
@@ -206970,7 +207357,7 @@
       "jpName": "アマゾネスの秘湯",
       "jpRuby": "アマゾネスのひとう",
       "zhName": "亚马逊的秘汤",
-      "scName": "",
+      "scName": "亚马逊的秘汤",
       "cnocgName": "亚马逊的秘汤",
       "masterDuelName": "亚马逊的秘汤",
       "release": {
@@ -206982,7 +207369,10 @@
           "date": "2022-11-18",
           "pack": "BATTLES OF LEGEND: CRYSTAL REVENGE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "62481203": {
@@ -209352,7 +209742,7 @@
       "jpName": "サイバー・ボンテージ",
       "jpRuby": "サイバー・ボンテージ",
       "zhName": "电子紧身衣",
-      "scName": "",
+      "scName": "电子紧身装束",
       "cnocgName": "电子紧身衣",
       "masterDuelName": "电子盔甲",
       "release": {
@@ -209364,7 +209754,10 @@
           "date": "2011-02-08",
           "pack": "STORM OF RAGNAROK"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "63227401": {
@@ -211325,8 +211718,8 @@
       "enName": "",
       "jpName": "白鴉の森の女主人ディアベルゼ",
       "jpRuby": "はくあのもりのおんなしゅじんディアベルゼ",
-      "zhName": "白鸦之森的女主人 迪亚贝尔泽",
-      "scName": "",
+      "zhName": "白鸦森林的女主人 迪亚贝尔泽",
+      "scName": "白鸦之森的女主人 迪亚贝尔赛",
       "cnocgName": "",
       "masterDuelName": "白鸦之森的女主人 迪亚贝尔赛",
       "release": {
@@ -211335,7 +211728,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "63941169": {
@@ -211436,7 +211832,7 @@
       "enName": "Fiend Reflection of the Millennium",
       "jpName": "ミレニアム・アブソリューター",
       "jpRuby": "ミレニアム・アブソリューター",
-      "zhName": "千年绝对鸟",
+      "zhName": "千年吸收绝对鸟",
       "scName": "千年绝镜吸收鸟",
       "cnocgName": "千年绝对鸟",
       "masterDuelName": "千年绝镜吸收鸟",
@@ -213963,7 +214359,7 @@
       "jpName": "太陽神の鉄檻－ラヴァ・ゴーレム",
       "jpRuby": "たいようしんのてつおり－ラヴァ・ゴーレム",
       "zhName": "太阳神的铁槛-熔岩魔神",
-      "scName": "",
+      "scName": "太阳神的铁笼－岩浆魔像",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -213972,7 +214368,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "64749612": {
@@ -214721,7 +215120,7 @@
       "enName": "Curse of Diabell",
       "jpName": "カース・オブ・ディアベル",
       "jpRuby": "カース・オブ・ディアベル",
-      "zhName": "恶魔迪亚贝尔的诅咒",
+      "zhName": "迪亚贝尔的诅咒",
       "scName": "迪亚贝尔的诅咒",
       "cnocgName": "迪亚贝尔的诅咒",
       "masterDuelName": "迪亚贝尔的诅咒",
@@ -215609,7 +216008,7 @@
       "enName": "Like the Diabell",
       "jpName": "ライク・ザ・ディアベル",
       "jpRuby": "ライク・ザ・ディアベル",
-      "zhName": "奋如恶魔迪亚贝尔",
+      "zhName": "奋如迪亚贝尔",
       "scName": "猛如迪亚贝尔",
       "cnocgName": "犹如迪亚贝尔",
       "masterDuelName": "猛如迪亚贝尔",
@@ -216644,7 +217043,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -217514,8 +217916,8 @@
       "enName": "",
       "jpName": "リインゼルム・ギリアカルマ",
       "jpRuby": "リインゼルム・ギリアカルマ",
-      "zhName": "轮回虫龙 奇伦南洋大兜虫",
-      "scName": "",
+      "zhName": "轮回虫龙·铜身三戟龙",
+      "scName": "轮回虫龙・铜身三戟龙",
       "cnocgName": "",
       "masterDuelName": "轮回虫龙・铜身三戟龙",
       "release": {
@@ -217524,7 +217926,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "65872270": {
@@ -219881,8 +220286,8 @@
       "enName": "",
       "jpName": "リインゼルム・ルヴィアン",
       "jpRuby": "リインゼルム・ルヴィアン",
-      "zhName": "轮回虫龙 秘鲁蜈蚣",
-      "scName": "",
+      "zhName": "轮回虫龙·巨人蜈蚣",
+      "scName": "轮回虫龙・巨人蜈蚣",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -219891,7 +220296,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "66594927": {
@@ -220064,7 +220472,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -220217,8 +220628,8 @@
       "enName": "",
       "jpName": "幻惑の綺羅星",
       "jpRuby": "ナイトメア・トゥインクル",
-      "zhName": "幻惑的绮罗星",
-      "scName": "",
+      "zhName": "幻惑之绮罗星",
+      "scName": "幻惑的绮罗星",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -220227,7 +220638,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "66707058": {
@@ -224051,7 +224465,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -224270,7 +224687,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -226272,7 +226692,7 @@
       "jpName": "アマゾネスペット虎獅子",
       "jpRuby": "アマゾネスペットライガー",
       "zhName": "亚马逊宠物虎狮子",
-      "scName": "",
+      "scName": "亚马逊宠物虎狮子",
       "cnocgName": "亚马逊宠物虎狮子",
       "masterDuelName": "亚马逊宠物虎狮子",
       "release": {
@@ -226284,7 +226704,10 @@
           "date": "2017-10-20",
           "pack": "CIRCUIT BREAK"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "68508433": {
@@ -226478,7 +226901,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -227222,7 +227648,7 @@
       "enName": "",
       "jpName": "アブソリューター",
       "jpRuby": "アブソリューター",
-      "zhName": "绝对鸟",
+      "zhName": "吸收绝对鸟",
       "scName": "绝镜吸收鸟",
       "cnocgName": "绝对鸟",
       "masterDuelName": "绝对鸟",
@@ -230021,7 +230447,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -230076,7 +230505,7 @@
       "jpName": "CNo.5 亡朧龍 カオス・キマイラ・ドラゴン",
       "jpRuby": "カオスナンバーズ５ もうろうりゅう カオス・キマイラ・ドラゴン",
       "zhName": "混沌No.5 亡胧龙 混沌嵌合龙",
-      "scName": "",
+      "scName": "混沌编号5 亡胧龙 混沌嵌合龙",
       "cnocgName": "CNo.5 亡胧龙 混沌嵌合龙",
       "masterDuelName": "混沌编号5 亡胧龙 混沌客迈拉龙",
       "release": {
@@ -230088,7 +230517,10 @@
           "date": "2014-04-25",
           "pack": "DRAGONS OF LEGEND"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "69761020": {
@@ -230762,7 +231194,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -232902,7 +233337,7 @@
       "jpName": "アマゾネスの呪詛師－呪印の舞い－",
       "jpRuby": "アマゾネスのじゅそし－じゅいんのまい－",
       "zhName": "亚马逊诅咒师-咒印之舞-",
-      "scName": "",
+      "scName": "亚马逊的诅咒师－咒印之舞－",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -232911,7 +233346,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "70624184": {
@@ -233174,7 +233612,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -233327,8 +233768,8 @@
       "enName": "",
       "jpName": "キャッスル・オブ・ヴァンパイア",
       "jpRuby": "キャッスル・オブ・ヴァンパイア",
-      "zhName": "吸血鬼城堡",
-      "scName": "",
+      "zhName": "吸血鬼魔城",
+      "scName": "吸血鬼城堡",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -233337,7 +233778,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "70780151": {
@@ -236220,7 +236664,7 @@
       "jpName": "パワー・オブ・ザ・デュエリスト",
       "jpRuby": "パワー・オブ・ザ・デュエリスト",
       "zhName": "决斗者之力",
-      "scName": "",
+      "scName": "决斗者之力",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -236229,7 +236673,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "71607202": {
@@ -236915,7 +237362,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -240362,7 +240812,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -242568,7 +243021,7 @@
       "jpName": "アマゾネスの吹き矢兵",
       "jpRuby": "アマゾネスのふきやへい",
       "zhName": "亚马逊吹箭兵",
-      "scName": "",
+      "scName": "亚马逊的吹箭兵",
       "cnocgName": "亚马逊的吹箭兵",
       "masterDuelName": "亚马逊的吹箭兵",
       "release": {
@@ -242580,7 +243033,10 @@
           "date": "2003-10-10",
           "pack": "MAGICIAN'S FORCE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "73575650": {
@@ -243953,7 +244409,7 @@
       "enName": "Artmage Varnish -Alteration-",
       "jpName": "アルトメギア・バーニッシュ－改変－",
       "jpRuby": "アルトメギア・バーニッシュ－かいへん－",
-      "zhName": "神艺学的消失-改变-",
+      "zhName": "神艺学的护漆-改变-",
       "scName": "神艺护漆－改变－",
       "cnocgName": "神艺磨砺-改变-",
       "masterDuelName": "神艺护漆－改变－",
@@ -250344,7 +250800,7 @@
       "jpName": "地獄詩人ヘルポエマー",
       "jpRuby": "じごくしじんヘルポエマー",
       "zhName": "地狱诗人",
-      "scName": "",
+      "scName": "地狱诗人",
       "cnocgName": "地狱诗人 冥府吟游者",
       "masterDuelName": "地狱诗人 赫波艾",
       "release": {
@@ -250356,7 +250812,10 @@
           "date": "2003-07-18",
           "pack": "PHARAONIC GUARDIAN"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "76066541": {
@@ -252800,7 +253259,7 @@
       "enName": "Melffy Mommy",
       "jpName": "メルフィー・マミィ",
       "jpRuby": "メルフィー・マミィ",
-      "zhName": "童话动物·魔魅妈咪",
+      "zhName": "童话动物·妈咪",
       "scName": "梅尔菲・玛咪",
       "cnocgName": "奇妙毛毛兽妈咪",
       "masterDuelName": "梅尔菲・玛咪",
@@ -253914,7 +254373,7 @@
       "jpName": "CNo.96 ブラック・ストーム",
       "jpRuby": "カオスナンバーズ９６ ブラック・ストーム",
       "zhName": "混沌No.96 黑飙",
-      "scName": "",
+      "scName": "混沌编号96 黑岚",
       "cnocgName": "CNo.96 黑飙",
       "masterDuelName": "混沌编号96 黑色风暴",
       "release": {
@@ -253926,7 +254385,10 @@
           "date": "2013-11-08",
           "pack": "SHADOW SPECTERS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "77207191": {
@@ -254481,7 +254943,7 @@
       "jpName": "太陽神合一",
       "jpRuby": "たいようしんごういつ",
       "zhName": "太阳神合一",
-      "scName": "",
+      "scName": "太阳神合一",
       "cnocgName": "太阳神合一",
       "masterDuelName": "太阳神合一",
       "release": {
@@ -254493,7 +254955,10 @@
           "date": "2020-09-25",
           "pack": "LEGENDARY DUELISTS: RAGE OF RA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "77435268": {
@@ -254547,7 +255012,7 @@
       "jpName": "要塞クジラの誓い",
       "jpRuby": "ようさいクジラのちかい",
       "zhName": "要塞鲸的誓言",
-      "scName": "",
+      "scName": "要塞鲸鱼之誓",
       "cnocgName": "要塞鲸的誓言",
       "masterDuelName": "要塞鲸鱼的誓言",
       "release": {
@@ -254559,7 +255024,10 @@
           "date": "2005-11-01",
           "pack": "TOURNAMENT PACK 7"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "77456448": {
@@ -255801,7 +256269,7 @@
       "jpName": "アトランティスの暴翼",
       "jpRuby": "アトランティスのぼうよく",
       "zhName": "亚特兰蒂斯的暴翼",
-      "scName": "",
+      "scName": "亚特兰蒂斯的暴翼",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -255810,7 +256278,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "77826734": {
@@ -255888,7 +256359,7 @@
       "jpName": "超進化の繭",
       "jpRuby": "ちょうしんかのまゆ",
       "zhName": "超进化之茧",
-      "scName": "",
+      "scName": "超进化之茧",
       "cnocgName": "超进化之茧",
       "masterDuelName": "超进化之茧",
       "release": {
@@ -255900,7 +256371,10 @@
           "date": "2018-02-23",
           "pack": "LEGENDARY DUELISTS: ANCIENT MILLENNIUM"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "77841719": {
@@ -257138,7 +257612,7 @@
       "enName": "Filia Diabell",
       "jpName": "フィリアス・ディアベル",
       "jpRuby": "フィリアス・ディアベル",
-      "zhName": "恶魔迪亚贝尔的友爱",
+      "zhName": "迪亚贝尔的友爱",
       "scName": "狂怒・迪亚贝尔",
       "cnocgName": "狂暴迪亚贝尔",
       "masterDuelName": "狂怒・迪亚贝尔",
@@ -257577,7 +258051,7 @@
       "jpName": "百竜の交戦",
       "jpRuby": "リインゼルム・エンカウント",
       "zhName": "百龙的交战",
-      "scName": "",
+      "scName": "轮回虫龙之交战",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -257586,7 +258060,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "78437364": {
@@ -258195,7 +258672,7 @@
       "jpName": "六花のくろひめ",
       "jpRuby": "りっかのくろひめ",
       "zhName": "六花的黑姬",
-      "scName": "",
+      "scName": "六花的黑姬",
       "cnocgName": "",
       "masterDuelName": "六花的黑姬",
       "release": {
@@ -258204,7 +258681,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "78651105": {
@@ -258306,7 +258786,7 @@
       "jpName": "古の呪文",
       "jpRuby": "いにしえのじゅもん",
       "zhName": "古之咒文",
-      "scName": "",
+      "scName": "古之咒文",
       "cnocgName": "古之咒文",
       "masterDuelName": "古老咒语",
       "release": {
@@ -258318,7 +258798,10 @@
           "date": "2020-09-25",
           "pack": "LEGENDARY DUELISTS: RAGE OF RA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 +1扩张包"
+        }
       }
     },
     "78679226": {
@@ -258461,8 +258944,8 @@
       "enName": "",
       "jpName": "予幻なき世界に託す約束",
       "jpRuby": "エフェメ・ラル・テオリアライズ",
-      "zhName": "向无预幻世托付的约定",
-      "scName": "",
+      "zhName": "托付给无预幻世界的约定",
+      "scName": "托付给无预幻世界的刹那约定",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -258471,7 +258954,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "78734254": {
@@ -260208,7 +260694,7 @@
       "jpName": "ボンディング－D２O",
       "jpRuby": "ボンディング－ディーツーオー",
       "zhName": "结合术-D2O",
-      "scName": "",
+      "scName": "键结－D2O",
       "cnocgName": "键结-D2O",
       "masterDuelName": "键结－D2O",
       "release": {
@@ -260220,7 +260706,10 @@
           "date": "2017-09-08",
           "pack": "LEGENDARY DUELISTS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "79407975": {
@@ -261072,7 +261561,7 @@
       "jpName": "太陽神の守護者－神・スライム",
       "jpRuby": "たいようしんのしゅごしゃ－ゴッド・スライム",
       "zhName": "太阳神的守护者-神·史莱姆",
-      "scName": "",
+      "scName": "太阳神的护卫者－神・史莱姆",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -261081,7 +261570,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "79656239": {
@@ -261381,7 +261873,7 @@
       "jpName": "転生炎獣マーコール",
       "jpRuby": "サラマングレイトマーコール",
       "zhName": "转生炎兽 捻角山羊",
-      "scName": "",
+      "scName": "转生炎兽 捻角山羊",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -261390,7 +261882,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "79775821": {
@@ -261698,7 +262193,7 @@
       "enName": "Zoma the Spirit",
       "jpName": "死霊ゾーマ",
       "jpRuby": "しりょうゾーマ",
-      "zhName": "死灵佐玛",
+      "zhName": "死灵 佐玛",
       "scName": "",
       "cnocgName": "死灵佐玛",
       "masterDuelName": "死灵佐玛",
@@ -262266,7 +262761,7 @@
       "jpName": "白鴉の騎士マルト",
       "jpRuby": "はくあのきしマルト",
       "zhName": "白鸦骑士 马特",
-      "scName": "",
+      "scName": "白鸦骑士 马尔特",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -262275,7 +262770,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "79985120": {
@@ -263010,7 +263508,7 @@
       "jpName": "救出劇",
       "jpRuby": "きゅうしゅつげき",
       "zhName": "救出剧",
-      "scName": "",
+      "scName": "救出剧",
       "cnocgName": "救出剧",
       "masterDuelName": "救出剧",
       "release": {
@@ -263022,7 +263520,10 @@
           "date": "2003-10-10",
           "pack": "MAGICIAN'S FORCE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "80196387": {
@@ -266796,7 +267297,7 @@
       "jpName": "アマゾネスの呪詛師",
       "jpRuby": "アマゾネスのじゅそし",
       "zhName": "亚马逊诅咒师",
-      "scName": "",
+      "scName": "亚马逊的诅咒师",
       "cnocgName": "亚马逊的诅咒师",
       "masterDuelName": "亚马逊的诅咒师",
       "release": {
@@ -266808,7 +267309,10 @@
           "date": "2003-10-10",
           "pack": "MAGICIAN'S FORCE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "81330115": {
@@ -267705,7 +268209,7 @@
       "jpName": "六花水月",
       "jpRuby": "りっかすいげつ",
       "zhName": "六花水月",
-      "scName": "",
+      "scName": "六花水月",
       "cnocgName": "",
       "masterDuelName": "六花水月",
       "release": {
@@ -267714,7 +268218,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "81612598": {
@@ -268503,7 +269010,7 @@
       "jpName": "太陽神の拷問具－バイサー・デス・ショック",
       "jpRuby": "たいようしんのごうもんぐ－バイサー・デス・ショック",
       "zhName": "太阳神的拷问具-电击死亡拷问机",
-      "scName": "",
+      "scName": "太阳神的拷问具－死亡震撼刑具",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -268512,7 +269019,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "81843628": {
@@ -271970,8 +272480,8 @@
       "enName": "",
       "jpName": "神幻学都アルス＝マグナ",
       "jpRuby": "しんげんがくとアルス＝マグナ",
-      "zhName": "神幻学都 无垢大艺术学园",
-      "scName": "",
+      "zhName": "神幻学都 无垢大艺术",
+      "scName": "神幻学都 奥艺",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -271980,7 +272490,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "82841979": {
@@ -272202,7 +272715,7 @@
       "jpName": "太陽神の詩詠者－ヘルポエマー",
       "jpRuby": "たいようしんのしえいしゃ－ヘルポエマー",
       "zhName": "太阳神的诗咏者-地狱诗人",
-      "scName": "",
+      "scName": "太阳神的咏诗者－地狱诗人",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -272211,7 +272724,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "82956214": {
@@ -273768,7 +274284,7 @@
       "jpName": "アマゾネスの急襲",
       "jpRuby": "アマゾネスのきゅうしゅう",
       "zhName": "亚马逊的急袭",
-      "scName": "",
+      "scName": "亚马逊的急袭",
       "cnocgName": "亚马逊的急袭",
       "masterDuelName": "亚马逊的急袭",
       "release": {
@@ -273780,7 +274296,10 @@
           "date": "2017-09-08",
           "pack": "LEGENDARY DUELISTS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "83414006": {
@@ -274319,8 +274838,8 @@
       "enName": "",
       "jpName": "角竜の修練",
       "jpRuby": "リインゼルム・プラクティス",
-      "zhName": "角龙的修炼",
-      "scName": "",
+      "zhName": "角龙的修练",
+      "scName": "轮回虫龙之修练",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -274329,7 +274848,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "83566725": {
@@ -277437,7 +277959,7 @@
       "jpName": "アマゾネス王女",
       "jpRuby": "アマゾネスプリンセス",
       "zhName": "亚马逊王女",
-      "scName": "",
+      "scName": "亚马逊王女",
       "cnocgName": "亚马逊公主",
       "masterDuelName": "亚马逊王女",
       "release": {
@@ -277449,7 +277971,10 @@
           "date": "2017-09-08",
           "pack": "LEGENDARY DUELISTS"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "84544192": {
@@ -278220,7 +278745,7 @@
       "jpName": "竜の骸歌",
       "jpRuby": "リインゼルム・コンクエスト",
       "zhName": "龙之骸歌",
-      "scName": "",
+      "scName": "轮回虫龙之骸歌",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -278229,7 +278754,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "84792926": {
@@ -279195,7 +279723,7 @@
       "jpName": "ウォーター・ドラゴン",
       "jpRuby": "ウォーター・ドラゴン",
       "zhName": "水龙",
-      "scName": "",
+      "scName": "水合龙",
       "cnocgName": "水龙",
       "masterDuelName": "水合龙",
       "release": {
@@ -279207,7 +279735,10 @@
           "date": "2005-11-05",
           "pack": "ELEMENTAL ENERGY"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "85080048": {
@@ -279650,7 +280181,7 @@
       "enName": "Zefra Metaltron",
       "jpName": "セフィラ・メタトロン",
       "jpRuby": "セフィラ・メタトロン",
-      "zhName": "神数炼机圣 梅塔特隆",
+      "zhName": "神数·梅塔特隆",
       "scName": "",
       "cnocgName": "质点炼机圣",
       "masterDuelName": "源质・梅塔特隆",
@@ -281556,7 +282087,7 @@
       "jpName": "闇へ誘う太陽神",
       "jpRuby": "やみへいざなうたいようしん",
       "zhName": "诱向黑暗的太阳神",
-      "scName": "",
+      "scName": "诱导向黑暗的太阳神",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -281565,7 +282096,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "85808813": {
@@ -284298,7 +284832,7 @@
       "jpName": "アマゾネスの秘術",
       "jpRuby": "アマゾネスのひじゅつ",
       "zhName": "亚马逊的秘术",
-      "scName": "",
+      "scName": "亚马逊的秘术",
       "cnocgName": "亚马逊的秘术",
       "masterDuelName": "亚马逊的秘术",
       "release": {
@@ -284310,7 +284844,10 @@
           "date": "2022-10-21",
           "pack": "DARKWING BLAST"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "86758915": {
@@ -287361,7 +287898,7 @@
       "jpName": "完全態・グレート・インセクト",
       "jpRuby": "かんぜんたい・グレート・インセクト",
       "zhName": "完全态大昆虫",
-      "scName": "",
+      "scName": "完全态・大昆虫",
       "cnocgName": "完全态大昆虫",
       "masterDuelName": "完全体・大昆虫",
       "release": {
@@ -287373,7 +287910,10 @@
           "date": "2023-02-10",
           "pack": "PHOTON HYPERNOVA"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "87814728": {
@@ -287414,7 +287954,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -290681,7 +291224,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -292551,7 +293097,7 @@
       "jpName": "アマゾネス訓練生",
       "jpRuby": "アマゾネスくんれんせい",
       "zhName": "亚马逊训练生",
-      "scName": "",
+      "scName": "亚马逊训练生",
       "cnocgName": "亚马逊训练生",
       "masterDuelName": "亚马逊训练生",
       "release": {
@@ -292563,7 +293109,10 @@
           "date": "2010-08-17",
           "pack": "DUELIST REVOLUTION"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "89569453": {
@@ -293048,7 +293597,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -293498,7 +294050,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -294104,7 +294659,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -294231,7 +294789,7 @@
       "jpName": "アマゾネスの剣聖",
       "jpRuby": "アマゾネスのけんせい",
       "zhName": "亚马逊剑圣",
-      "scName": "",
+      "scName": "亚马逊的剑圣",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -294240,7 +294798,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "90140980": {
@@ -296771,8 +297332,8 @@
       "enName": "",
       "jpName": "終天獄神Ωヴィードリウム",
       "jpRuby": "しゅうてんごくしんオメガヴィードリウム",
-      "zhName": "终天狱神Ω比托利姆",
-      "scName": "",
+      "zhName": "终天狱神 Ω比托利姆",
+      "scName": "终天狱神Ω皮托里姆",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -296781,7 +297342,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "90925163": {
@@ -297716,8 +298280,8 @@
       "enName": "",
       "jpName": "盟約のジャベリンビートル",
       "jpRuby": "めいやくのジャベリンビートル",
-      "zhName": "盟约之标枪甲虫",
-      "scName": "",
+      "zhName": "盟约的标枪甲虫",
+      "scName": "盟约之标枪甲虫",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -297726,7 +298290,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "91258852": {
@@ -299411,7 +299978,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -300009,7 +300579,7 @@
       "jpName": "ハーピィ・レディ１",
       "jpRuby": "ハーピィ・レディワン",
       "zhName": "鹰身女郎1",
-      "scName": "",
+      "scName": "神鹰女郎1",
       "cnocgName": "妖鸟女郎1",
       "masterDuelName": "神鹰女郎１",
       "release": {
@@ -300021,7 +300591,10 @@
           "date": "2004-12-01",
           "pack": "RISE OF DESTINY"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "91939608": {
@@ -300470,7 +301043,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -303272,7 +303848,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -306248,7 +306827,10 @@
           "date": "2026-03-20",
           "pack": "LIMIT OVER COLLECTION －THE RIVALS－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-04-18",
           "pack": "界限超越典藏包 －劲敌篇－"
@@ -306425,7 +307007,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -306687,7 +307272,7 @@
       "jpName": "アマゾネスの剣士",
       "jpRuby": "アマゾネスのけんし",
       "zhName": "亚马逊剑士",
-      "scName": "",
+      "scName": "亚马逊的剑士",
       "cnocgName": "亚马逊的剑士",
       "masterDuelName": "亚马逊的剑士",
       "release": {
@@ -306699,7 +307284,10 @@
           "date": "2003-10-10",
           "pack": "MAGICIAN'S FORCE"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "94014327": {
@@ -306716,7 +307304,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -306890,8 +307481,8 @@
       "enName": "",
       "jpName": "六花深聖ティアドロップ",
       "jpRuby": "りっかしんせいティアドロップ",
-      "zhName": "六花深圣 泪滴花束雪花莲",
-      "scName": "",
+      "zhName": "六花深圣 泪滴花束",
+      "scName": "六花深圣泪滴花束",
       "cnocgName": "",
       "masterDuelName": "六花深圣泪滴花束",
       "release": {
@@ -306900,7 +307491,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "94079037": {
@@ -310334,7 +310928,10 @@
           "date": "2026-05-30",
           "pack": "REVOLUTION BOOSTER －トゥーン・ウィッチクラフト・破械－"
         },
-        "en": null,
+        "en": {
+          "date": "2026-11-13",
+          "pack": "MAGNIFICENT MAESTROS"
+        },
         "sc": {
           "date": "2026-06-20",
           "pack": "革命驱动包 －卡通・魔女工艺・破械－"
@@ -310925,8 +311522,8 @@
       "enName": "",
       "jpName": "白鴉の騎士アイトワラス",
       "jpRuby": "はくあのきしアイトワラス",
-      "zhName": "白鸦骑士 艾特瓦拉斯",
-      "scName": "",
+      "zhName": "白鸦骑士 埃特瓦罗斯",
+      "scName": "白鸦骑士 艾特瓦拉斯",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -310935,7 +311532,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "95308449": {
@@ -311414,7 +312014,7 @@
       "enName": "Phantasm Emperor Trilojig",
       "jpName": "幻魔帝トリロジーグ",
       "jpRuby": "げんまていトリロジーグ",
-      "zhName": "幻魔帝 三联电子人",
+      "zhName": "幻魔帝 特里洛吉克",
       "scName": "幻魔帝特里洛吉克",
       "cnocgName": "幻魔帝 特里洛吉格",
       "masterDuelName": "幻魔帝特里洛吉克",
@@ -312138,7 +312738,7 @@
       "jpName": "コダイダロス",
       "jpRuby": "コダイダロス",
       "zhName": "科泰达路斯",
-      "scName": "",
+      "scName": "小代达罗斯",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -312147,7 +312747,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "95637655": {
@@ -313578,7 +314181,7 @@
       "jpName": "RUM－千死蛮巧",
       "jpRuby": "ランクアップマジック－アドマイヤー・デス・サウザンド",
       "zhName": "升阶魔法-千死蛮巧",
-      "scName": "",
+      "scName": "升阶魔法－千死蛮巧",
       "cnocgName": "升阶魔法-千死蛮巧",
       "masterDuelName": "升阶魔法－千死蛮巧",
       "release": {
@@ -313590,7 +314193,10 @@
           "date": "2014-04-25",
           "pack": "DRAGONS OF LEGEND"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 补缀包"
+        }
       }
     },
     "96146814": {
@@ -315545,8 +316151,8 @@
       "enName": "",
       "jpName": "無垢なる血盟 ドゥームズ",
       "jpRuby": "アルス＝マグナ　ドゥームズ",
-      "zhName": "无垢血盟 终刻龙卫",
-      "scName": "",
+      "zhName": "无垢大血盟 终刻龙机",
+      "scName": "无垢奥艺之血盟 终刻",
       "cnocgName": "",
       "masterDuelName": "",
       "release": {
@@ -315555,7 +316161,10 @@
           "pack": "イモータル・フェニックス [IMMORTAL PHOENIX]"
         },
         "en": null,
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "96765646": {
@@ -318309,7 +318918,7 @@
       "jpName": "アマゾネスの金鞭使い",
       "jpRuby": "アマゾネスのきんべんつかい",
       "zhName": "亚马逊金鞭使",
-      "scName": "",
+      "scName": "亚马逊的金鞭使",
       "cnocgName": "亚马逊的金鞭使",
       "masterDuelName": "亚马逊的金鞭师",
       "release": {
@@ -318321,7 +318930,10 @@
           "date": "2022-10-21",
           "pack": "DARKWING BLAST"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰"
+        }
       }
     },
     "97697447": {
@@ -318819,7 +319431,7 @@
       "jpName": "アマゾネス霊術師",
       "jpRuby": "アマゾネスシャーマン",
       "zhName": "亚马逊灵术师",
-      "scName": "",
+      "scName": "亚马逊灵术师",
       "cnocgName": "亚马逊灵术师",
       "masterDuelName": "亚马逊灵术师",
       "release": {
@@ -318831,7 +319443,10 @@
           "date": "2022-10-21",
           "pack": "DARKWING BLAST"
         },
-        "sc": null
+        "sc": {
+          "date": "2026-11-14",
+          "pack": "不死凤凰 +1扩张包"
+        }
       }
     },
     "97885363": {
