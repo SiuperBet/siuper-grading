@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-15T14:59:10.076Z",
+  "generatedAt": "2026-11-22T15:41:59.158Z",
   "catalogs": [
     {
       "name": "pokemon-it",
-      "updatedAt": "2026-11-10T11:13:17.507Z",
+      "updatedAt": "2026-11-17T11:53:13.285Z",
       "sets": 194,
       "cards": 21773,
-      "primaryImages": 20077,
-      "primaryImageCoverage": 0.9221053598493547,
+      "primaryImages": 20218,
+      "primaryImageCoverage": 0.9285812703807468,
       "variantMetadata": 0,
       "variantCoverage": 0,
       "emptySets": [
@@ -20,11 +20,11 @@
     },
     {
       "name": "pokemon-en",
-      "updatedAt": "2026-11-10T11:13:17.507Z",
+      "updatedAt": "2026-11-17T11:53:13.285Z",
       "sets": 221,
       "cards": 23912,
-      "primaryImages": 21990,
-      "primaryImageCoverage": 0.9196219471395115,
+      "primaryImages": 22131,
+      "primaryImageCoverage": 0.9255185680829708,
       "variantMetadata": 0,
       "variantCoverage": 0,
       "emptySets": [
@@ -52,8 +52,8 @@
     },
     {
       "name": "pokemon-ja",
-      "updatedAt": "2026-11-10T11:13:17.507Z",
-      "sets": 202,
+      "updatedAt": "2026-11-17T11:53:13.285Z",
+      "sets": 204,
       "cards": 13156,
       "primaryImages": 3882,
       "primaryImageCoverage": 0.29507449072666464,
@@ -356,6 +356,11 @@
           "declared": 20
         },
         {
+          "id": "BW8b",
+          "name": "ライデンナックル",
+          "declared": 51
+        },
+        {
           "id": "BW7",
           "name": "プラズマゲイル",
           "declared": 70
@@ -393,6 +398,11 @@
         {
           "id": "BW3a",
           "name": "サイコドライブ",
+          "declared": 52
+        },
+        {
+          "id": "BW3b",
+          "name": "ヘイルブリザード",
           "declared": 52
         },
         {
@@ -469,7 +479,7 @@
     },
     {
       "name": "pokemon-zh-tw",
-      "updatedAt": "2026-11-10T11:13:17.507Z",
+      "updatedAt": "2026-11-17T11:53:13.285Z",
       "sets": 98,
       "cards": 7436,
       "primaryImages": 2146,
@@ -556,7 +566,7 @@
     },
     {
       "name": "pokemon-zh-cn",
-      "updatedAt": "2026-11-10T11:13:17.507Z",
+      "updatedAt": "2026-11-17T11:53:13.285Z",
       "sets": 56,
       "cards": 877,
       "primaryImages": 0,
@@ -745,19 +755,9 @@
           "declared": 150
         },
         {
-          "id": "CSM2bC",
-          "name": "交相辉映 魁",
-          "declared": 150
-        },
-        {
           "id": "csm2a",
           "name": "闪耀协同效应",
           "declared": 194
-        },
-        {
-          "id": "csm2b",
-          "name": "闪耀协同效应",
-          "declared": 193
         },
         {
           "id": "csm2c",
@@ -803,15 +803,25 @@
           "id": "CSM1aC",
           "name": "横空出世 赫",
           "declared": 151
+        },
+        {
+          "id": "CSM2bC",
+          "name": "交相辉映 魁",
+          "declared": 150
+        },
+        {
+          "id": "csm2b",
+          "name": "闪耀协同效应",
+          "declared": 193
         }
       ]
     },
     {
       "name": "yugioh",
-      "updatedAt": "2026-11-11T11:27:29.703Z",
+      "updatedAt": "2026-11-18T12:16:09.117Z",
       "sets": 1039,
-      "cards": 44903,
-      "primaryImages": 44903,
+      "cards": 44921,
+      "primaryImages": 44921,
       "primaryImageCoverage": 1,
       "variantMetadata": 0,
       "variantCoverage": 0,
@@ -844,8 +854,8 @@
       ]
     }
   ],
-  "yugiohMirroredImages": 44903,
-  "yugiohPrintings": 44903,
+  "yugiohMirroredImages": 44921,
+  "yugiohPrintings": 44921,
   "pricePoints": 140828,
   "tcgcsv": {
     "mappedCards": 18835,
@@ -857,14 +867,14 @@
     "version": 1,
     "source": "TCGCSV / TCGplayer",
     "archiveStart": "2024-02-08",
-    "updatedAt": "2026-11-15T14:07:51.888Z",
+    "updatedAt": "2026-11-22T14:44:28.071Z",
     "targetDates": 75,
-    "completedDates": 435,
+    "completedDates": 442,
     "remainingDates": 0,
     "failedDates": 0,
     "mappedCards": 18835,
     "groups": 158,
-    "lastProcessed": "2026-11-05",
+    "lastProcessed": "2026-11-12",
     "nextDate": null,
     "archiveLagDays": 10
   },
@@ -880,7 +890,7 @@
   "warnings": [
     "pokemon-it: 1 set senza carte nella fonte corrente",
     "pokemon-en: 4 set senza carte nella fonte corrente",
-    "pokemon-ja: 81 set senza carte nella fonte corrente",
+    "pokemon-ja: 83 set senza carte nella fonte corrente",
     "pokemon-ja: copertura immagini primarie 29.5%",
     "pokemon-zh-tw: 15 set senza carte nella fonte corrente",
     "pokemon-zh-tw: copertura immagini primarie 28.9%",
