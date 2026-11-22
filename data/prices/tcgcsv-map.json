@@ -2,8 +2,8 @@
   "version": 1,
   "source": "TCGCSV / TCGplayer",
   "categoryId": 3,
-  "updatedAt": "2026-11-15T12:57:01.571Z",
-  "groups": 221,
+  "updatedAt": "2026-11-22T13:35:36.988Z",
+  "groups": 222,
   "sets": 221,
   "mappedSets": 164,
   "mappedCards": 18835,
@@ -2040,8 +2040,8 @@
         "score": 20
       },
       "second": {
-        "groupId": 24831,
-        "name": "ME06: Delta Reign",
+        "groupId": 24955,
+        "name": "ME07: Flowing Fists",
         "score": 0
       }
     },
@@ -2475,8 +2475,8 @@
         "score": 10
       },
       "second": {
-        "groupId": 24831,
-        "name": "ME06: Delta Reign",
+        "groupId": 24955,
+        "name": "ME07: Flowing Fists",
         "score": 0
       }
     },
@@ -135789,7 +135789,7 @@
       "groupName": "ME: Mega Evolution Promo",
       "groupAbbreviation": "MEP",
       "productId": 659232,
-      "productName": "Haunter  - 027",
+      "productName": "Haunter - 027",
       "productNumber": "27",
       "productUrl": "https://www.tcgplayer.com/product/659232/pokemon-me-mega-evolution-promo-haunter-027",
       "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/659232_200w.jpg",
@@ -136283,7 +136283,7 @@
       "groupName": "ME: Mega Evolution Promo",
       "groupAbbreviation": "MEP",
       "productId": 709969,
-      "productName": "Treecko -  055",
+      "productName": "Treecko - 055",
       "productNumber": "55",
       "productUrl": "https://www.tcgplayer.com/product/709969/pokemon-me-mega-evolution-promo-treecko-055",
       "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709969_200w.jpg",
@@ -136302,7 +136302,7 @@
       "groupName": "ME: Mega Evolution Promo",
       "groupAbbreviation": "MEP",
       "productId": 709970,
-      "productName": "Torchic -  056",
+      "productName": "Torchic - 056",
       "productNumber": "56",
       "productUrl": "https://www.tcgplayer.com/product/709970/pokemon-me-mega-evolution-promo-torchic-056",
       "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709970_200w.jpg",
@@ -136701,9 +136701,9 @@
       "groupName": "ME: Mega Evolution Promo",
       "groupAbbreviation": "MEP",
       "productId": 713262,
-      "productName": "Alolan Exeggutor - 094 (30th Celebration)",
+      "productName": "Alolan Exeggutor - 094 (Cosmos Holo) (30th Celebration)",
       "productNumber": "94",
-      "productUrl": "https://www.tcgplayer.com/product/713262/pokemon-me-mega-evolution-promo-alolan-exeggutor-094-30th-celebration",
+      "productUrl": "https://www.tcgplayer.com/product/713262/pokemon-me-mega-evolution-promo-alolan-exeggutor-094-cosmos-holo-30th-celebration",
       "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/713262_200w.jpg",
       "rarity": "Promo",
       "sourceLanguage": "en",
@@ -264020,9 +264020,9 @@
       "groupName": "SV: Scarlet & Violet Promo Cards",
       "groupAbbreviation": "SVP",
       "productId": 499996,
-      "productName": "Tinkatink - 025 (Cosmo Holofoil)",
+      "productName": "Tinkatink - 025 (Cosmos Holo)",
       "productNumber": "25",
-      "productUrl": "https://www.tcgplayer.com/product/499996/pokemon-sv-scarlet-and-violet-promo-cards-tinkatink-025-cosmo-holofoil",
+      "productUrl": "https://www.tcgplayer.com/product/499996/pokemon-sv-scarlet-and-violet-promo-cards-tinkatink-025-cosmos-holo",
       "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/499996_200w.jpg",
       "rarity": "Promo",
       "sourceLanguage": "en",
