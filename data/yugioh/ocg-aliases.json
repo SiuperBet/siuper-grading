@@ -1,9 +1,9 @@
 {
   "version": 1,
   "source": "YGOCDB",
-  "updatedAt": "2026-11-18T13:52:45.521Z",
-  "md5": "\"94c8d8d66ec667183ea2552da578f5ef\"",
-  "cards": 14423,
+  "updatedAt": "2026-11-25T15:30:24.419Z",
+  "md5": "\"aa564307a3d792c364f05bb12481a55e\"",
+  "cards": 14445,
   "aliases": {
     "483": {
       "cid": 21470,
@@ -836,7 +836,7 @@
       "zhName": "电子界代码魔术师",
       "scName": "电子界代码魔术师",
       "cnocgName": "电子空间代码魔导士",
-      "masterDuelName": "",
+      "masterDuelName": "电子界代码魔术师",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -1307,7 +1307,7 @@
       "zhName": "毒蝎的陷阱",
       "scName": "",
       "cnocgName": "毒蝎子陷阱",
-      "masterDuelName": "",
+      "masterDuelName": "毒蝎陷阱",
       "release": {
         "jp": {
           "date": "2025-09-05",
@@ -2417,7 +2417,7 @@
       "zhName": "猛毒蝮",
       "scName": "剧毒蝮蛇",
       "cnocgName": "猛毒蝮",
-      "masterDuelName": "",
+      "masterDuelName": "剧毒蝮蛇",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -3296,7 +3296,7 @@
       "zhName": "山铜魔封剑",
       "scName": "奥利哈刚的魔封剑",
       "cnocgName": "奥利哈刚的魔封剑",
-      "masterDuelName": "",
+      "masterDuelName": "奥利哈刚的魔封剑",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -4496,7 +4496,7 @@
       "zhName": "星读之魔术师-星占之魔术士",
       "scName": "星读的魔术师－天宫图魔术士",
       "cnocgName": "星读魔术师-占星魔术士",
-      "masterDuelName": "",
+      "masterDuelName": "星读的魔术师－天宫图魔术士",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -4718,7 +4718,7 @@
       "zhName": "三幻魔的霹雳",
       "scName": "三幻魔之霹雳",
       "cnocgName": "三幻魔的霹雳",
-      "masterDuelName": "",
+      "masterDuelName": "三幻魔之霹雳",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -4835,7 +4835,7 @@
       "zhName": "显现的传说之都",
       "scName": "显现的亚特兰蒂斯",
       "cnocgName": "显现的传说之都",
-      "masterDuelName": "",
+      "masterDuelName": "显现的亚特兰蒂斯",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -6257,7 +6257,7 @@
       "zhName": "疫神之依鬼 夜阿",
       "scName": "疫神之依艮鬼 夜亚",
       "cnocgName": "疫神之依艮鬼 夜亚",
-      "masterDuelName": "",
+      "masterDuelName": "疫神之依艮鬼 夜亚",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -8558,7 +8558,7 @@
       "zhName": "混沌礼帽",
       "scName": "混沌礼帽",
       "cnocgName": "混沌礼帽",
-      "masterDuelName": "",
+      "masterDuelName": "混沌礼帽",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -9347,7 +9347,7 @@
       "zhName": "大逆转箱",
       "scName": "大逆转箱",
       "cnocgName": "大逆转BOX",
-      "masterDuelName": "",
+      "masterDuelName": "大逆转箱",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -9689,7 +9689,7 @@
       "zhName": "宇宙性飓风",
       "scName": "宇宙性飓风",
       "cnocgName": "宇宙型飓风",
-      "masterDuelName": "",
+      "masterDuelName": "宇宙性飓风",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -10304,7 +10304,7 @@
       "zhName": "艮神鬼门 三千世界",
       "scName": "艮鬼神门 三千世界",
       "cnocgName": "艮鬼神门 三千世界",
-      "masterDuelName": "",
+      "masterDuelName": "艮鬼神门 三千世界",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -10397,7 +10397,7 @@
       "zhName": "上千阴影",
       "scName": "上千・黑影",
       "cnocgName": "千尊阴影",
-      "masterDuelName": "",
+      "masterDuelName": "上千・黑影",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -10910,7 +10910,7 @@
       "zhName": "闪光阴影",
       "scName": "闪光・黑影",
       "cnocgName": "闪光阴影",
-      "masterDuelName": "",
+      "masterDuelName": "闪光・黑影",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -11297,7 +11297,7 @@
       "zhName": "睡羊 替罪羊",
       "scName": "眠羊 替罪山羊",
       "cnocgName": "沉睡的羊 替罪羊",
-      "masterDuelName": "",
+      "masterDuelName": "眠羊 替罪山羊",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -11453,7 +11453,7 @@
       "zhName": "骄傲与灵魂之究极龙",
       "scName": "骄傲与灵魂之究极龙",
       "cnocgName": "骄傲与灵魂之究极龙",
-      "masterDuelName": "",
+      "masterDuelName": "骄傲与灵魂之究极龙",
       "release": {
         "jp": {
           "date": "2024-07-27",
@@ -12299,7 +12299,7 @@
       "zhName": "锈锡猛犸",
       "scName": "锈铁猛犸",
       "cnocgName": "锈迹猛犸",
-      "masterDuelName": "",
+      "masterDuelName": "锈铁猛犸",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -12323,7 +12323,7 @@
       "zhName": "三幻魔的天坏",
       "scName": "三幻魔之天坏",
       "cnocgName": "三幻魔的天坏",
-      "masterDuelName": "",
+      "masterDuelName": "三幻魔之天坏",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -13769,7 +13769,7 @@
       "zhName": "解层龙 分层友谊丹波巨龙",
       "scName": "解层龙 斯特拉提亚",
       "cnocgName": "解层龙 地层古兽",
-      "masterDuelName": "",
+      "masterDuelName": "解层龙 斯特拉提亚",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -14480,7 +14480,7 @@
       "zhName": "幻狱神 米底丘利乌斯",
       "scName": "幻狱神 墨迪克利乌斯",
       "cnocgName": "幻狱神 墨迪克里乌斯",
-      "masterDuelName": "",
+      "masterDuelName": "幻狱神 墨迪克利乌斯",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -16199,7 +16199,7 @@
       "zhName": "治安战警队 莫名者",
       "scName": "超元特防队 诡义",
       "cnocgName": "治安战警队 迷惑者",
-      "masterDuelName": "",
+      "masterDuelName": "超元特防队 诡义",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -16329,6 +16329,24 @@
         }
       }
     },
+    "4661345": {
+      "cid": 24014,
+      "enName": "",
+      "jpName": "方界防陣",
+      "jpRuby": "ほうかいぼうじん",
+      "zhName": "方界防阵",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "4663194": {
       "cid": 23384,
       "enName": "Dark City at Midnight",
@@ -16337,7 +16355,7 @@
       "zhName": "幽狱之时计都市-暗黑都市",
       "scName": "幽狱时钟都市－黑暗城市",
       "cnocgName": "幽狱的时钟都市-黑暗都市",
-      "masterDuelName": "",
+      "masterDuelName": "幽狱时钟都市－黑暗城市",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -16994,7 +17012,7 @@
       "zhName": "翼龙龙骑士",
       "scName": "飞龙的龙骑士",
       "cnocgName": "飞龙龙骑士",
-      "masterDuelName": "",
+      "masterDuelName": "飞龙的龙骑士",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -17498,7 +17516,7 @@
       "zhName": "守护神 艾克佐迪亚",
       "scName": "",
       "cnocgName": "守护神 艾库佐迪亚",
-      "masterDuelName": "",
+      "masterDuelName": "守护神 艾克佐迪亚",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -17912,7 +17930,7 @@
       "zhName": "罪 范式转移",
       "scName": "Sin 范式转变",
       "cnocgName": "Sin 典范转移",
-      "masterDuelName": "",
+      "masterDuelName": "Sin 范式转变",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -18029,7 +18047,7 @@
       "zhName": "深渊之相剑龙",
       "scName": "深渊的相剑龙",
       "cnocgName": "深渊之相剑龙",
-      "masterDuelName": "深渊之相剑龙",
+      "masterDuelName": "深渊的相剑龙",
       "release": {
         "jp": {
           "date": "2022-10-15",
@@ -18979,6 +18997,24 @@
           "date": "2022-12-17",
           "pack": "系列补充包 攻略掌控者"
         }
+      }
+    },
+    "5383983": {
+      "cid": 24011,
+      "enName": "",
+      "jpName": "創世方界超神ディヴァイン・アニマ・インフィニティ",
+      "jpRuby": "そうせいほうかいちょうしんディヴァイン・アニマ・インフィニティ",
+      "zhName": "创世方界超神 天神之魂天·无穷",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "创世方界超神 圣辉神魂・无量",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "5388481": {
@@ -20384,7 +20420,7 @@
       "zhName": "童话动物教母·妈咪",
       "scName": "梅尔菲教母・玛咪",
       "cnocgName": "奇妙毛毛兽教母妈咪",
-      "masterDuelName": "",
+      "masterDuelName": "梅尔菲教母・玛咪",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -24674,7 +24710,7 @@
       "zhName": "诱饵人偶",
       "scName": "",
       "cnocgName": "诱饵人偶",
-      "masterDuelName": "",
+      "masterDuelName": "诱饵娃娃",
       "release": {
         "jp": {
           "date": "2001-07-12",
@@ -25460,7 +25496,7 @@
       "zhName": "葬岭异解△危尔海姆",
       "scName": "葬岭异解△危尔海姆",
       "cnocgName": "葬岭异解△威尔海姆",
-      "masterDuelName": "",
+      "masterDuelName": "葬岭异解△危尔海姆",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -26114,7 +26150,7 @@
       "zhName": "禅那之追傩仪姬",
       "scName": "禅那乃追傩戏姬",
       "cnocgName": "善名的追傩戏姬",
-      "masterDuelName": "",
+      "masterDuelName": "禅那乃追傩戏姬",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -28304,7 +28340,7 @@
       "zhName": "光幻兽 烛光多头龙",
       "scName": "光幻兽 坎德拉特",
       "cnocgName": "光幻兽 坎德拉特",
-      "masterDuelName": "",
+      "masterDuelName": "光幻兽 坎德拉特",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -29033,7 +29069,7 @@
       "zhName": "碧之异解△屠奥内拉",
       "scName": "碧之异解△屠奥内拉",
       "cnocgName": "碧之异解△图奥内拉",
-      "masterDuelName": "",
+      "masterDuelName": "碧之异解△屠奥内拉",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -29243,7 +29279,7 @@
       "zhName": "元素英雄 黏土守卫侠",
       "scName": "",
       "cnocgName": "E·HERO 黏土防御人",
-      "masterDuelName": "",
+      "masterDuelName": "元素－英雄 黏土防卫人",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -30422,7 +30458,7 @@
       "zhName": "邪魔箱",
       "scName": "邪恶之箱",
       "cnocgName": "邪恶箱",
-      "masterDuelName": "",
+      "masterDuelName": "邪恶之箱",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -31997,7 +32033,7 @@
       "zhName": "盈彩月夜之辉煌",
       "scName": "盈彩月夜之辉煌",
       "cnocgName": "升月的辉煌",
-      "masterDuelName": "",
+      "masterDuelName": "盈彩月夜之辉煌",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -32720,7 +32756,7 @@
       "zhName": "我我我的脱出剧",
       "scName": "我我我逃脱剧",
       "cnocgName": "我我我的脱出剧",
-      "masterDuelName": "",
+      "masterDuelName": "我我我逃脱剧",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -33356,7 +33392,7 @@
       "zhName": "归光之旅-『塞尼特』",
       "scName": "归光之旅－『塞尼特』",
       "cnocgName": "光归之旅-『塞尼特』",
-      "masterDuelName": "",
+      "masterDuelName": "归光之旅－『塞尼特』",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -34241,7 +34277,7 @@
       "zhName": "塞尼特的启示者-阿蒙霍特普",
       "scName": "塞尼特的启示者－阿蒙霍特普",
       "cnocgName": "塞尼特的启示者-阿蒙霍特普",
-      "masterDuelName": "",
+      "masterDuelName": "塞尼特的启示者－阿蒙霍特普",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -34592,7 +34628,7 @@
       "zhName": "速攻召唤",
       "scName": "",
       "cnocgName": "速攻召唤",
-      "masterDuelName": "",
+      "masterDuelName": "速攻召唤",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -35333,7 +35369,7 @@
       "zhName": "护石的作庭",
       "scName": "护石庭园",
       "cnocgName": "护石的作庭",
-      "masterDuelName": "",
+      "masterDuelName": "护石庭园",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -35960,7 +35996,7 @@
       "zhName": "呜呼的落穴",
       "scName": "呜呼落穴",
       "cnocgName": "呜呼之落穴",
-      "masterDuelName": "",
+      "masterDuelName": "呜呼落穴",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -36251,7 +36287,7 @@
       "zhName": "盈彩月夜之灯 库露雪",
       "scName": "盈彩月夜之灯 库露雪",
       "cnocgName": "升月之灯 库露雪",
-      "masterDuelName": "",
+      "masterDuelName": "盈彩月夜之灯 库露雪",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -37247,7 +37283,7 @@
       "zhName": "塞尼特摩斯·尼库贝特",
       "scName": "塞尼特摩斯・尼库贝特",
       "cnocgName": "塞尼特之嗣·涅赫贝特",
-      "masterDuelName": "",
+      "masterDuelName": "塞尼特摩斯・尼库贝特",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -37361,7 +37397,7 @@
       "zhName": "异宇宙军神",
       "scName": "异宇宙战煌",
       "cnocgName": "异宇宙战煌",
-      "masterDuelName": "",
+      "masterDuelName": "异宇宙战煌",
       "release": {
         "jp": {
           "date": "2025-04-12",
@@ -38615,7 +38651,7 @@
       "zhName": "盈彩月夜之雅 卡萝尔",
       "scName": "盈彩月夜之雅 卡萝尔",
       "cnocgName": "升月之雅 卡萝尔",
-      "masterDuelName": "",
+      "masterDuelName": "盈彩月夜之雅 卡萝尔",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -39242,7 +39278,7 @@
       "zhName": "元素英雄 天空新宇侠",
       "scName": "",
       "cnocgName": "E·HERO 风之新生人",
-      "masterDuelName": "",
+      "masterDuelName": "元素－英雄 天空新宇侠",
       "release": {
         "jp": {
           "date": "2006-11-16",
@@ -39608,7 +39644,7 @@
       "zhName": "治安战警队多世界排序",
       "scName": "超元特防队 理序世界",
       "cnocgName": "治安战警队 理序世界",
-      "masterDuelName": "",
+      "masterDuelName": "超元特防队 理序世界",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -40547,7 +40583,7 @@
       "zhName": "月光绯虎",
       "scName": "",
       "cnocgName": "月光绯虎",
-      "masterDuelName": "",
+      "masterDuelName": "Lunalight Scarlet Tiger",
       "release": {
         "jp": null,
         "en": {
@@ -42797,7 +42833,7 @@
       "zhName": "光器之瀑布",
       "scName": "塞尼特・光器之瀑布",
       "cnocgName": "塞尼特·光器之瀑布",
-      "masterDuelName": "",
+      "masterDuelName": "塞尼特・光器之瀑布",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -43670,7 +43706,7 @@
       "zhName": "我我我魔术师-我我我魔导",
       "scName": "我我我魔术师－我我我魔术",
       "cnocgName": "我我我魔导士-我我我魔导",
-      "masterDuelName": "",
+      "masterDuelName": "我我我魔术师－我我我魔术",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -44129,7 +44165,7 @@
       "zhName": "群星废品同调士",
       "scName": "星废品同步士",
       "cnocgName": "星之废品同调士",
-      "masterDuelName": "",
+      "masterDuelName": "星废品同步士",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -44153,7 +44189,7 @@
       "zhName": "密林的狩猎者 狍",
       "scName": "",
       "cnocgName": "密林的狩猎者 野狍",
-      "masterDuelName": "密林狩猎者修弗鲁依由",
+      "masterDuelName": "密林狩猎者须鲁依",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -44762,7 +44798,7 @@
       "zhName": "完美电子多元驱动蛇·神龙",
       "scName": "完美智能・海德拉驱动龙",
       "cnocgName": "完美创生高驱动龙",
-      "masterDuelName": "",
+      "masterDuelName": "完美智能・海德拉驱动龙",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -48389,7 +48425,7 @@
       "zhName": "永火死亡枪手",
       "scName": "无限狱死亡枪手",
       "cnocgName": "永火死亡枪手",
-      "masterDuelName": "",
+      "masterDuelName": "无限狱死亡枪手",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -49442,7 +49478,7 @@
       "zhName": "白骑士团的领主",
       "scName": "",
       "cnocgName": "白骑士团之领主",
-      "masterDuelName": "",
+      "masterDuelName": "白夜骑士团领主",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -50777,7 +50813,7 @@
       "zhName": "暗黑调整 灾祸盗贼",
       "scName": "黑暗协调 灾祸恶棍",
       "cnocgName": "黑暗调整 劫难贼",
-      "masterDuelName": "",
+      "masterDuelName": "黑暗协调 灾祸恶棍",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -51020,7 +51056,7 @@
       "zhName": "灿冠乘骑 经典三冠海人马",
       "scName": "灿冠乘骑 迅快拉维",
       "cnocgName": "灿冠乘骑 希克拉维",
-      "masterDuelName": "",
+      "masterDuelName": "灿冠乘骑 迅快拉维",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -51776,7 +51812,7 @@
       "zhName": "悼光之希路伯",
       "scName": "",
       "cnocgName": "死亡之光 赫路拂尔",
-      "masterDuelName": "",
+      "masterDuelName": "冥光之圣杖 哈尔威尔",
       "release": {
         "jp": null,
         "en": {
@@ -53003,7 +53039,7 @@
       "zhName": "玩游戏玩家GG",
       "scName": "游戏自游机GG",
       "cnocgName": "游戏自游机GG",
-      "masterDuelName": "",
+      "masterDuelName": "游戏自游机GG",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -56531,7 +56567,7 @@
       "zhName": "No.104 假面魔蹈士 闪光V枉然",
       "scName": "编号104 假面魔蹈士 闪光V",
       "cnocgName": "No.104 假面魔蹈士 闪光V",
-      "masterDuelName": "",
+      "masterDuelName": "编号104 假面魔蹈士 闪光V",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -57095,7 +57131,7 @@
       "zhName": "鬼神 朱沙之王",
       "scName": "艮鬼神 朱沙之王",
       "cnocgName": "艮鬼神 朱沙之王",
-      "masterDuelName": "",
+      "masterDuelName": "艮鬼神 朱沙之王",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -58295,7 +58331,7 @@
       "zhName": "幻影火精 约马格努",
       "scName": "",
       "cnocgName": "炎之幻影 幽魔马格纳",
-      "masterDuelName": "",
+      "masterDuelName": "炎幻星 尤玛古阿",
       "release": {
         "jp": null,
         "en": {
@@ -59741,7 +59777,7 @@
       "zhName": "具象天使之问",
       "scName": "",
       "cnocgName": "隐天来希排局",
-      "masterDuelName": "",
+      "masterDuelName": "Angelechy Problem",
       "release": {
         "jp": null,
         "en": {
@@ -61328,7 +61364,7 @@
       "zhName": "丝绸炸弹蚕蛾",
       "scName": "丝绸炸弹蛾",
       "cnocgName": "吐丝炸弹蛾",
-      "masterDuelName": "丝绸炸弹蛾",
+      "masterDuelName": "丝绸爆弹蛾",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -61988,7 +62024,7 @@
       "zhName": "真红眼亚黑龙",
       "scName": "",
       "cnocgName": "真红眼亚黑龙",
-      "masterDuelName": "",
+      "masterDuelName": "真红眼亚黑龙",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -62339,7 +62375,7 @@
       "zhName": "灰色铺叠者",
       "scName": "灰层",
       "cnocgName": "灰层",
-      "masterDuelName": "",
+      "masterDuelName": "灰层",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -62897,7 +62933,7 @@
       "zhName": "六芒星之咒缚",
       "scName": "",
       "cnocgName": "六芒星的咒缚",
-      "masterDuelName": "",
+      "masterDuelName": "六芒星之咒缚",
       "release": {
         "jp": {
           "date": "2000-04-20",
@@ -63251,7 +63287,7 @@
       "zhName": "吞婴蛇",
       "scName": "",
       "cnocgName": "基布尔",
-      "masterDuelName": "",
+      "masterDuelName": "吞婴蛇",
       "release": {
         "jp": {
           "date": "2026-03-19",
@@ -66698,7 +66734,7 @@
       "zhName": "治安战警队 天鹅侠",
       "scName": "超元特防队 征义",
       "cnocgName": "治安战警队 天鹅座",
-      "masterDuelName": "",
+      "masterDuelName": "超元特防队 征义",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -71234,7 +71270,7 @@
       "zhName": "鬼神 夜魅",
       "scName": "艮鬼神 夜魅",
       "cnocgName": "",
-      "masterDuelName": "",
+      "masterDuelName": "艮鬼神 夜魅",
       "release": {
         "jp": {
           "date": "2026-10-31",
@@ -71588,7 +71624,7 @@
       "zhName": "破械神双 罗寂刹",
       "scName": "破械神双 拉基安",
       "cnocgName": "破械神双 罗仪亚",
-      "masterDuelName": "",
+      "masterDuelName": "破械神双 拉基安",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -71885,7 +71921,7 @@
       "zhName": "恐依的情侣款凶熊！！",
       "scName": "",
       "cnocgName": "恐依的情侣熊！！",
-      "masterDuelName": "",
+      "masterDuelName": "恐依的情侣熊！！",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -74060,7 +74096,7 @@
       "zhName": "机睿之腹内强化调整员",
       "scName": "",
       "cnocgName": "机睿的机械调整者",
-      "masterDuelName": "机睿的机械调整师",
+      "masterDuelName": "机睿之机械协调",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -75794,7 +75830,7 @@
       "zhName": "三幻魔的操世者",
       "scName": "三幻魔操世者",
       "cnocgName": "三幻魔的操世者",
-      "masterDuelName": "",
+      "masterDuelName": "三幻魔操世者",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -79811,7 +79847,7 @@
       "zhName": "劫火之三幻魔-神炎皇 乌利亚",
       "scName": "劫火之三幻魔－神炎皇乌利亚",
       "cnocgName": "劫火之三幻魔-神炎皇 乌利亚",
-      "masterDuelName": "",
+      "masterDuelName": "劫火之三幻魔－神炎皇乌利亚",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -80765,7 +80801,7 @@
       "zhName": "混沌之魔王-骸骨恶魔",
       "scName": "混沌之魔王－骷髅恶魔",
       "cnocgName": "混沌的魔王 骸骨恶魔",
-      "masterDuelName": "",
+      "masterDuelName": "混沌之魔王－骷髅恶魔",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -80861,7 +80897,7 @@
       "zhName": "二重魔法",
       "scName": "",
       "cnocgName": "二重魔法",
-      "masterDuelName": "",
+      "masterDuelName": "二重魔法",
       "release": {
         "jp": {
           "date": "2002-09-19",
@@ -83150,7 +83186,7 @@
       "zhName": "两颗心灵",
       "scName": "双心切换",
       "cnocgName": "两颗心",
-      "masterDuelName": "",
+      "masterDuelName": "双心切换",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -83624,7 +83660,7 @@
       "zhName": "魔救之调律者",
       "scName": "魔救调律者",
       "cnocgName": "魔救之调律者",
-      "masterDuelName": "",
+      "masterDuelName": "魔救调律者",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -84095,7 +84131,7 @@
       "zhName": "命运英雄 死亡教义人",
       "scName": "命运－英雄 死亡教义魔侠",
       "cnocgName": "D-HERO 死亡教义小子",
-      "masterDuelName": "",
+      "masterDuelName": "命运－英雄 死亡教义魔侠",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -85901,7 +85937,7 @@
       "zhName": "童话动物木头人游戏",
       "scName": "梅尔菲摔倒倒",
       "cnocgName": "奇妙毛毛兽跌倒了",
-      "masterDuelName": "",
+      "masterDuelName": "梅尔菲摔倒倒",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -87326,7 +87362,7 @@
       "zhName": "祟纸报应",
       "scName": "祟纸之报应",
       "cnocgName": "祟纸之报应",
-      "masterDuelName": "",
+      "masterDuelName": "祟纸之报应",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -88073,7 +88109,7 @@
       "zhName": "造物主 埃玛",
       "scName": "巨匠造物主 EMA",
       "cnocgName": "造物主EMA",
-      "masterDuelName": "",
+      "masterDuelName": "巨匠造物主 EMA",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -90212,7 +90248,7 @@
       "zhName": "装弹枪管解放龙",
       "scName": "枪管上膛戒放龙",
       "cnocgName": "枪管装填释放龙",
-      "masterDuelName": "",
+      "masterDuelName": "枪管上膛戒放龙",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -91382,7 +91418,7 @@
       "zhName": "柴战士 太郎",
       "scName": "",
       "cnocgName": "柴戦士 太郎",
-      "masterDuelName": "",
+      "masterDuelName": "柴战士太郎",
       "release": {
         "jp": {
           "date": "2008-12-20",
@@ -92763,6 +92799,24 @@
         }
       }
     },
+    "27872075": {
+      "cid": 24027,
+      "enName": "",
+      "jpName": "ゴーストリック・アート",
+      "jpRuby": "ゴーストリック・アート",
+      "zhName": "鬼计艺术",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "27873305": {
       "cid": 11988,
       "enName": "D/D/D Wave Oblivion King Caesar Ragnarok",
@@ -93408,6 +93462,24 @@
           "date": "2011-09-29",
           "pack": "DUEL TERMINAL 5B"
         },
+        "sc": null
+      }
+    },
+    "28095622": {
+      "cid": 24024,
+      "enName": "",
+      "jpName": "ゴーストリックの妖狐",
+      "jpRuby": "ゴーストリックのようこ",
+      "zhName": "鬼计妖狐",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -94238,7 +94310,7 @@
       "zhName": "超银河眼光子龙-光子咆哮",
       "scName": "超银河眼光子龙－光子咆哮",
       "cnocgName": "超银河眼光子龙-光子咆哮",
-      "masterDuelName": "",
+      "masterDuelName": "超银河眼光子龙－光子咆哮",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -94570,6 +94642,24 @@
           "date": "2024-08-24",
           "pack": "深渊狂怒"
         }
+      }
+    },
+    "28395288": {
+      "cid": 24010,
+      "enName": "",
+      "jpName": "溟淵方界神アビス・ヴァグラーダ",
+      "jpRuby": "めいえんほうかいしんアビス・ヴァグラーダ",
+      "zhName": "溟渊方界神 深渊之伐格楼达",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "28400508": {
@@ -96131,7 +96221,7 @@
       "zhName": "牙城之具象天使",
       "scName": "",
       "cnocgName": "隐天来希城堡",
-      "masterDuelName": "",
+      "masterDuelName": "Angelechy Bastion",
       "release": {
         "jp": null,
         "en": {
@@ -96332,7 +96422,7 @@
       "zhName": "垃圾石人",
       "scName": "垃圾魔像",
       "cnocgName": "垃圾巨像",
-      "masterDuelName": "",
+      "masterDuelName": "垃圾魔像",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -96581,7 +96671,7 @@
       "zhName": "死相之冥鉴 许布洛",
       "scName": "死相之冥鉴 修布罗",
       "cnocgName": "死相的冥鉴 休布罗",
-      "masterDuelName": "",
+      "masterDuelName": "死相之冥鉴 修布罗",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -98826,6 +98916,24 @@
         "sc": null
       }
     },
+    "29711214": {
+      "cid": 24021,
+      "enName": "",
+      "jpName": "海晶乙女神流",
+      "jpRuby": "マリンセス・オーバーフロー",
+      "zhName": "海晶少女神流",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "29716911": {
       "cid": 13218,
       "enName": "Capacitor Stalker",
@@ -99872,7 +99980,7 @@
       "zhName": "魔救之合缘",
       "scName": "魔救合缘",
       "cnocgName": "魔救的合缘",
-      "masterDuelName": "",
+      "masterDuelName": "魔救合缘",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -101237,7 +101345,7 @@
       "zhName": "白色幻兽-青眼白龙",
       "scName": "白之幻兽－青眼白龙",
       "cnocgName": "白色幻兽-蓝眼白龙",
-      "masterDuelName": "",
+      "masterDuelName": "白之幻兽－青眼白龙",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -102225,6 +102333,24 @@
         "sc": null
       }
     },
+    "30656940": {
+      "cid": 24015,
+      "enName": "",
+      "jpName": "海晶乙女アズリー",
+      "jpRuby": "マリンセスアズリー",
+      "zhName": "海晶少女 蓝鲷",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "30674956": {
       "cid": 14497,
       "enName": "Wynn the Wind Charmer, Verdant",
@@ -103020,6 +103146,24 @@
         }
       }
     },
+    "30933452": {
+      "cid": 24018,
+      "enName": "",
+      "jpName": "海晶乙女ブルークリスタルハート",
+      "jpRuby": "マリンセスブルークリスタルハート",
+      "zhName": "海晶少女 蓝水晶心",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "30936186": {
       "cid": 8636,
       "enName": "Koa'ki Meiru Urnight",
@@ -103646,7 +103790,7 @@
       "zhName": "强袭黑羽-丛云之草薙剑鸟",
       "scName": "强袭黑羽－丛云之草薙",
       "cnocgName": "A BF-丛云之草薙",
-      "masterDuelName": "",
+      "masterDuelName": "强袭黑羽－丛云之草薙",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -104609,7 +104753,7 @@
       "zhName": "鬼神童鵄 玉依",
       "scName": "艮鬼神童鸱 玉依",
       "cnocgName": "",
-      "masterDuelName": "",
+      "masterDuelName": "艮鬼神童鸱 玉依",
       "release": {
         "jp": {
           "date": "2026-10-31",
@@ -105005,7 +105149,7 @@
       "zhName": "共鸣的振动",
       "scName": "",
       "cnocgName": "共鸣的振动",
-      "masterDuelName": "",
+      "masterDuelName": "共鸣振动",
       "release": {
         "jp": {
           "date": "2015-02-14",
@@ -105026,7 +105170,7 @@
       "zhName": "破械式鬼 斯玛",
       "scName": "破械式鬼 修摩",
       "cnocgName": "破械式鬼 修摩",
-      "masterDuelName": "",
+      "masterDuelName": "破械式鬼 修摩",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -106278,6 +106422,24 @@
         "sc": null
       }
     },
+    "31878592": {
+      "cid": 24012,
+      "enName": "",
+      "jpName": "方界領域",
+      "jpRuby": "ほうかいりょういき",
+      "zhName": "方界领域",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "31887806": {
       "cid": 17771,
       "enName": "Tobari the Sky Ninja",
@@ -106838,7 +107000,7 @@
       "zhName": "无现坏收 获无玩家",
       "scName": "无现坏收 无之获取者",
       "cnocgName": "无现坏收 无之获取者",
-      "masterDuelName": "",
+      "masterDuelName": "无现坏收 无之获取者",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -107426,7 +107588,7 @@
       "zhName": "虹桥 碧佛洛斯特",
       "scName": "虹之桥",
       "cnocgName": "彩虹桥",
-      "masterDuelName": "",
+      "masterDuelName": "虹之桥",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -112109,7 +112271,7 @@
       "zhName": "光与暗的仪式",
       "scName": "光与暗的仪式",
       "cnocgName": "光与暗的仪式",
-      "masterDuelName": "",
+      "masterDuelName": "光与暗的仪式",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -112427,7 +112589,7 @@
       "zhName": "异解△领域-瓦尔涡罗斯",
       "scName": "异解△领域－瓦尔涡罗斯",
       "cnocgName": "异解△领域-瓦尔沃尔斯",
-      "masterDuelName": "",
+      "masterDuelName": "异解△领域－瓦尔涡罗斯",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -112910,7 +113072,7 @@
       "zhName": "狂岚异解△普戮托尼翁",
       "scName": "狂岚异解△普戮托尼翁",
       "cnocgName": "狂岚异解△普路同之域",
-      "masterDuelName": "",
+      "masterDuelName": "狂岚异解△普戮托尼翁",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -114692,7 +114854,7 @@
       "zhName": "看透心灵之眼",
       "scName": "心灵透视眼",
       "cnocgName": "透视心灵之眼",
-      "masterDuelName": "",
+      "masterDuelName": "心灵透视眼",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -114737,7 +114899,7 @@
       "zhName": "暗眼幻想师·无脸幻想师",
       "scName": "暗眼幻象师 无面",
       "cnocgName": "有暗眼的幻想师·无脸",
-      "masterDuelName": "",
+      "masterDuelName": "暗眼幻象师 无面",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -115841,7 +116003,7 @@
       "zhName": "绯之异解△奈落迦",
       "scName": "绯之异解△奈落迦",
       "cnocgName": "绯之异解△那落迦",
-      "masterDuelName": "",
+      "masterDuelName": "绯之异解△奈落迦",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -119360,7 +119522,7 @@
       "zhName": "虚之异解△盖赫纳",
       "scName": "虚之异解△盖赫纳",
       "cnocgName": "虚之异解△革赫纳",
-      "masterDuelName": "",
+      "masterDuelName": "虚之异解△盖赫纳",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -120116,7 +120278,7 @@
       "zhName": "永远的牵绊",
       "scName": "永远之绊",
       "cnocgName": "永远的牵绊",
-      "masterDuelName": "",
+      "masterDuelName": "永远之绊",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -121007,7 +121169,7 @@
       "zhName": "无限与有限之无垢大艺术",
       "scName": "无限与有限之奥艺",
       "cnocgName": "无限与有限的无垢艺术",
-      "masterDuelName": "",
+      "masterDuelName": "无限与有限之奥艺",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -123728,7 +123890,7 @@
       "zhName": "亚特兰蒂斯的怪腕",
       "scName": "亚特兰蒂斯的怪腕",
       "cnocgName": "亚特兰蒂斯的怪腕",
-      "masterDuelName": "",
+      "masterDuelName": "亚特兰蒂斯的怪腕",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -124337,7 +124499,7 @@
       "zhName": "无垢大艺术-「黄昏之变幻」",
       "scName": "无垢奥艺－“黄昏之变幻”",
       "cnocgName": "无垢艺术-「黄昏的变幻」",
-      "masterDuelName": "",
+      "masterDuelName": "无垢奥艺－“黄昏之变幻”",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -125087,7 +125249,7 @@
       "zhName": "电子界契约魔女",
       "scName": "电子界契约女巫",
       "cnocgName": "电子空间契约魔女",
-      "masterDuelName": "",
+      "masterDuelName": "电子界契约女巫",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -126416,7 +126578,7 @@
       "zhName": "剑鬼之神域",
       "scName": "剑艮鬼之神域",
       "cnocgName": "剑艮鬼的神域",
-      "masterDuelName": "",
+      "masterDuelName": "剑艮鬼之神域",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -126821,7 +126983,7 @@
       "zhName": "异晶人的纹徽",
       "scName": "巴利安之印",
       "cnocgName": "巴里安之封印",
-      "masterDuelName": "",
+      "masterDuelName": "巴利安之印",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -127202,7 +127364,7 @@
       "zhName": "封神之剑鬼 水子守",
       "scName": "封神之剑艮鬼 水子守",
       "cnocgName": "封神之剑艮鬼 水子守",
-      "masterDuelName": "",
+      "masterDuelName": "封神之剑艮鬼 水子守",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -128159,7 +128321,7 @@
       "zhName": "龙都 亚特兰蒂斯",
       "scName": "龙都 亚特兰蒂斯",
       "cnocgName": "龙都 亚特兰蒂斯",
-      "masterDuelName": "",
+      "masterDuelName": "龙都 亚特兰蒂斯",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -129377,7 +129539,7 @@
       "zhName": "谜题",
       "scName": "",
       "cnocgName": "谜题",
-      "masterDuelName": "",
+      "masterDuelName": "谜题",
       "release": {
         "jp": {
           "date": "2002-05-16",
@@ -129578,7 +129740,7 @@
       "zhName": "三幻魔解放",
       "scName": "三幻魔解放",
       "cnocgName": "三幻魔解放",
-      "masterDuelName": "",
+      "masterDuelName": "三幻魔解放",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -130553,7 +130715,7 @@
       "zhName": "V阴影",
       "scName": "V黑影",
       "cnocgName": "V阴影",
-      "masterDuelName": "",
+      "masterDuelName": "V黑影",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -130781,7 +130943,7 @@
       "zhName": "魔力到达",
       "scName": "魔力到达",
       "cnocgName": "魔力到达",
-      "masterDuelName": "",
+      "masterDuelName": "魔力到达",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -131936,7 +132098,7 @@
       "zhName": "七皇的冀望乡",
       "scName": "巴利安之七皇冀望乡",
       "cnocgName": "七皇·巴里安之冀望乡",
-      "masterDuelName": "",
+      "masterDuelName": "巴利安之七皇冀望乡",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -134423,7 +134585,7 @@
       "zhName": "时间黑魔术师",
       "scName": "时间黑魔术师",
       "cnocgName": "时间黑魔术师",
-      "masterDuelName": "",
+      "masterDuelName": "时间黑魔术师",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -134579,7 +134741,7 @@
       "zhName": "人造人-念力能量震慑者",
       "scName": "人造人－念力能量震慑者",
       "cnocgName": "人造人-念力能量震慑者",
-      "masterDuelName": "",
+      "masterDuelName": "人造人－念力能量震慑者",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -138320,7 +138482,7 @@
       "zhName": "混沌终结支配者-开辟与终焉的支配者-",
       "scName": "混沌终末统御者 －开辟与终焉的支配者－",
       "cnocgName": "混沌终焉之王-开辟与终焉的支配者-",
-      "masterDuelName": "",
+      "masterDuelName": "混沌终末统御者 －开辟与终焉的支配者－",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -138533,7 +138695,7 @@
       "zhName": "魔救之辉迹",
       "scName": "魔救辉迹",
       "cnocgName": "魔救之辉迹",
-      "masterDuelName": "",
+      "masterDuelName": "魔救辉迹",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -140087,7 +140249,7 @@
       "zhName": "守护神官 玛娜",
       "scName": "",
       "cnocgName": "守护神官 玛娜",
-      "masterDuelName": "",
+      "masterDuelName": "守护神官 玛娜",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -141014,7 +141176,7 @@
       "zhName": "战场的惨剧",
       "scName": "",
       "cnocgName": "战场的惨剧",
-      "masterDuelName": "",
+      "masterDuelName": "战场的惨剧",
       "release": {
         "jp": {
           "date": "2021-12-18",
@@ -141056,7 +141218,7 @@
       "zhName": "命运之盘上",
       "scName": "命运的盘面",
       "cnocgName": "命运的盘上",
-      "masterDuelName": "",
+      "masterDuelName": "命运的盘面",
       "release": {
         "jp": {
           "date": "2026-05-21",
@@ -141617,7 +141779,7 @@
       "zhName": "混沌No.104 假面魔蹈士 阴影·胜影",
       "scName": "混沌编号104 假面魔蹈士 黑影・胜利",
       "cnocgName": "CNo.104 假面魔蹈士 阴影·胜光",
-      "masterDuelName": "",
+      "masterDuelName": "混沌编号104 假面魔蹈士 黑影・胜利",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -141641,7 +141803,7 @@
       "zhName": "四军之具象天使",
       "scName": "",
       "cnocgName": "隐天来希国王",
-      "masterDuelName": "",
+      "masterDuelName": "Angelechy Shatranga",
       "release": {
         "jp": null,
         "en": {
@@ -144182,7 +144344,7 @@
       "zhName": "青眼究极亚龙",
       "scName": "",
       "cnocgName": "蓝眼究极亚龙",
-      "masterDuelName": "",
+      "masterDuelName": "青眼究极亚龙",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -144968,7 +145130,7 @@
       "zhName": "鬼神 水子守命",
       "scName": "艮鬼神 水子守命",
       "cnocgName": "艮鬼神 水子守命",
-      "masterDuelName": "",
+      "masterDuelName": "艮鬼神 水子守命",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -145685,7 +145847,7 @@
       "zhName": "森之圣兽 龙面花牝鹿",
       "scName": "",
       "cnocgName": "森之圣兽 龙面花刻律涅牝鹿",
-      "masterDuelName": "",
+      "masterDuelName": "Cerynemesia, Mystical Beast of the Forest",
       "release": {
         "jp": null,
         "en": {
@@ -147197,7 +147359,7 @@
       "zhName": "人偶之锤",
       "scName": "",
       "cnocgName": "人偶之锤",
-      "masterDuelName": "",
+      "masterDuelName": "玩偶槌",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -147818,7 +147980,7 @@
       "zhName": "洗脑者",
       "scName": "大脑控制者",
       "cnocgName": "洗脑者",
-      "masterDuelName": "",
+      "masterDuelName": "大脑控制者",
       "release": {
         "jp": {
           "date": "2025-01-25",
@@ -149777,7 +149939,7 @@
       "zhName": "月轮镜",
       "scName": "",
       "cnocgName": "月轮镜",
-      "masterDuelName": "",
+      "masterDuelName": "月轮镜",
       "release": {
         "jp": {
           "date": "2026-03-19",
@@ -150047,7 +150209,7 @@
       "zhName": "胜利龙",
       "scName": "",
       "cnocgName": "胜利龙",
-      "masterDuelName": "",
+      "masterDuelName": "胜利龙",
       "release": {
         "jp": {
           "date": "2003-05-01",
@@ -150977,7 +151139,7 @@
       "zhName": "光器还魂之仪",
       "scName": "塞尼特・光器还魂之仪",
       "cnocgName": "塞尼特·光器还魂之仪",
-      "masterDuelName": "",
+      "masterDuelName": "塞尼特・光器还魂之仪",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -152228,7 +152390,7 @@
       "zhName": "滑稽暗黑兔",
       "scName": "滑稽暗黑兔",
       "cnocgName": "趣怪黑暗兔子",
-      "masterDuelName": "",
+      "masterDuelName": "滑稽暗黑兔",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -152720,7 +152882,7 @@
       "zhName": "等离子战士 原能",
       "scName": "等离子战士 原能",
       "cnocgName": "等离子戦士 原子能",
-      "masterDuelName": "",
+      "masterDuelName": "等离子战士 原能",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -153308,7 +153470,7 @@
       "zhName": "新帝王翔风龙",
       "scName": "",
       "cnocgName": "新帝王滑翔龙",
-      "masterDuelName": "",
+      "masterDuelName": "新帝王翔风龙",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -154826,7 +154988,7 @@
       "zhName": "归光葬魂之仪",
       "scName": "塞尼特・归光葬魂之仪",
       "cnocgName": "塞尼特·光归葬魂之仪",
-      "masterDuelName": "",
+      "masterDuelName": "塞尼特・归光葬魂之仪",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -156371,7 +156533,7 @@
       "zhName": "暗恐兽",
       "scName": "",
       "cnocgName": "幽暗恐兽",
-      "masterDuelName": "",
+      "masterDuelName": "黑暗恐兽",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -156752,7 +156914,7 @@
       "zhName": "童话动物·小兔子家族",
       "scName": "梅尔菲・拉比好朋友",
       "cnocgName": "奇妙毛毛兽 小兔子组",
-      "masterDuelName": "",
+      "masterDuelName": "梅尔菲・拉比好朋友",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -156863,7 +157025,7 @@
       "zhName": "盈彩月夜之群星",
       "scName": "盈彩月夜之群星",
       "cnocgName": "升月的群星",
-      "masterDuelName": "",
+      "masterDuelName": "盈彩月夜之群星",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -156908,7 +157070,7 @@
       "zhName": "黑蔷薇龙/爆裂体",
       "scName": "黑蔷薇龙／爆裂",
       "cnocgName": "黑蔷薇龙/爆裂体",
-      "masterDuelName": "",
+      "masterDuelName": "黑蔷薇龙／爆裂",
       "release": {
         "jp": {
           "date": "2026-03-19",
@@ -158597,7 +158759,7 @@
       "zhName": "D-爆裂",
       "scName": "D－爆破",
       "cnocgName": "D-爆发",
-      "masterDuelName": "",
+      "masterDuelName": "D－爆破",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -158978,7 +159140,7 @@
       "zhName": "盈彩月夜之朔 斯奎兹",
       "scName": "盈彩月夜之朔 斯奎兹",
       "cnocgName": "升月之朔 斯龟兹",
-      "masterDuelName": "",
+      "masterDuelName": "盈彩月夜之朔 斯奎兹",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -159662,7 +159824,7 @@
       "zhName": "盈彩月夜之翼 菈碧",
       "scName": "盈彩月夜之翼 菈碧",
       "cnocgName": "升月之翼 拉比",
-      "masterDuelName": "",
+      "masterDuelName": "盈彩月夜之翼 菈碧",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -159953,7 +160115,7 @@
       "zhName": "车道限制",
       "scName": "车道管制",
       "cnocgName": "车道管制",
-      "masterDuelName": "",
+      "masterDuelName": "车道管制",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -160772,7 +160934,7 @@
       "zhName": "星霜之魔术师-宙读之魔术士",
       "scName": "星霜的魔术师－宙读阵魔术士",
       "cnocgName": "星霜魔术师-宙读魔术士",
-      "masterDuelName": "",
+      "masterDuelName": "星霜的魔术师－宙读阵魔术士",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -161399,7 +161561,7 @@
       "zhName": "我我我少女-零零通话",
       "scName": "我我我女孩－零零拨号",
       "cnocgName": "我我我少女-零零呼叫",
-      "masterDuelName": "",
+      "masterDuelName": "我我我女孩－零零拨号",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -163133,7 +163295,7 @@
       "zhName": "光器之降雷",
       "scName": "塞尼特・光器之降雷",
       "cnocgName": "塞尼特·光器之降雷",
-      "masterDuelName": "",
+      "masterDuelName": "塞尼特・光器之降雷",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -164510,7 +164672,7 @@
       "zhName": "同调紧急",
       "scName": "同步紧急",
       "cnocgName": "同调紧急事态",
-      "masterDuelName": "",
+      "masterDuelName": "同步紧急",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -166412,7 +166574,7 @@
       "zhName": "精灵圣贤者",
       "scName": "精灵圣贤者",
       "cnocgName": "精灵圣贤者",
-      "masterDuelName": "",
+      "masterDuelName": "精灵圣贤者",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -166688,7 +166850,7 @@
       "zhName": "三幻魔合杀",
       "scName": "三幻魔合杀",
       "cnocgName": "三幻魔合杀",
-      "masterDuelName": "",
+      "masterDuelName": "三幻魔合杀",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -166865,7 +167027,7 @@
       "zhName": "精灵世妃 树精",
       "scName": "精灵世妃 多里雅德",
       "cnocgName": "精灵世妃 树精",
-      "masterDuelName": "",
+      "masterDuelName": "精灵世妃 多里雅德",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -166979,7 +167141,7 @@
       "zhName": "罪祸之三幻魔-降雷皇 哈蒙",
       "scName": "罪祸之三幻魔－降雷皇哈蒙",
       "cnocgName": "罪祸之三幻魔-降雷皇 哈蒙",
-      "masterDuelName": "",
+      "masterDuelName": "罪祸之三幻魔－降雷皇哈蒙",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -169694,7 +169856,7 @@
       "zhName": "冰寒虎",
       "scName": "",
       "cnocgName": "冰寒虎",
-      "masterDuelName": "",
+      "masterDuelName": "金虎",
       "release": {
         "jp": {
           "date": "2026-03-19",
@@ -170741,7 +170903,7 @@
       "zhName": "魔救之奇石-提亚玛特晶石",
       "scName": "魔救奇石－提亚马特石",
       "cnocgName": "魔救之奇石-母神巨兽石",
-      "masterDuelName": "",
+      "masterDuelName": "魔救奇石－提亚马特石",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -171110,7 +171272,7 @@
       "zhName": "暗黑调整 梦魇鬼手",
       "scName": "黑暗协调 梦魇之手",
       "cnocgName": "黑暗调整 梦魇之手",
-      "masterDuelName": "",
+      "masterDuelName": "黑暗协调 梦魇之手",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -172331,7 +172493,7 @@
       "zhName": "超电导闪辉 等离子爆破",
       "scName": "超电导闪辉 等离子风暴",
       "cnocgName": "超电导闪辉 等离子爆破",
-      "masterDuelName": "",
+      "masterDuelName": "超电导闪辉 等离子风暴",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -173369,7 +173531,7 @@
       "zhName": "冰原之始祖 欧德姆布拉",
       "scName": "",
       "cnocgName": "",
-      "masterDuelName": "",
+      "masterDuelName": "Audhumla, Progenitor of the Frozen Expanse",
       "release": {
         "jp": null,
         "en": {
@@ -175046,7 +175208,7 @@
       "zhName": "暗之神",
       "scName": "暗之神",
       "cnocgName": "暗之神-黑暗神",
-      "masterDuelName": "",
+      "masterDuelName": "暗之神",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -177596,7 +177758,7 @@
       "zhName": "弹丸雨幕龙",
       "scName": "枪弹网幕",
       "cnocgName": "枪弹弹幕龙",
-      "masterDuelName": "",
+      "masterDuelName": "枪弹网幕",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -179670,6 +179832,24 @@
         }
       }
     },
+    "54083371": {
+      "cid": 24025,
+      "enName": "",
+      "jpName": "ゴーストリック・マスター アルカード",
+      "jpRuby": "ゴーストリック・マスター　アルカード",
+      "zhName": "鬼计妖魔之主 阿鲁卡德",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "鬼计主宰 阿尔卡德",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "54088068": {
       "cid": 13222,
       "enName": "Gouki Headbatt",
@@ -179963,7 +180143,7 @@
       "zhName": "具象天使之乱",
       "scName": "",
       "cnocgName": "隐天来希干扰",
-      "masterDuelName": "",
+      "masterDuelName": "Angelechy Disturbance",
       "release": {
         "jp": null,
         "en": {
@@ -180262,6 +180442,24 @@
           "date": "2024-08-24",
           "pack": "深渊狂怒"
         }
+      }
+    },
+    "54261783": {
+      "cid": 24028,
+      "enName": "",
+      "jpName": "ゴーストリック・フリーズ",
+      "jpRuby": "ゴーストリック・フリーズ",
+      "zhName": "鬼计冻结",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "54265980": {
@@ -180728,7 +180926,7 @@
       "zhName": "魔术师的空华",
       "scName": "魔术师的空华",
       "cnocgName": "魔术师的空华",
-      "masterDuelName": "",
+      "masterDuelName": "魔术师之空华",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -181535,7 +181733,7 @@
       "zhName": "远古者的见证人",
       "scName": "",
       "cnocgName": "远古见证者",
-      "masterDuelName": "",
+      "masterDuelName": "Witness of the Ancient",
       "release": {
         "jp": null,
         "en": {
@@ -182180,7 +182378,7 @@
       "zhName": "银河眼辉光子龙",
       "scName": "银河眼辉光子龙",
       "cnocgName": "银河眼辉光子龙",
-      "masterDuelName": "",
+      "masterDuelName": "银河眼辉光子龙",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -184247,7 +184445,7 @@
       "zhName": "阴暗漫画卡通",
       "scName": "剪影卡通",
       "cnocgName": "剪影卡通",
-      "masterDuelName": "",
+      "masterDuelName": "剪影卡通",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -184292,7 +184490,7 @@
       "zhName": "战马之具象天使",
       "scName": "",
       "cnocgName": "隐天来希战马",
-      "masterDuelName": "",
+      "masterDuelName": "Angelechy Destrier",
       "release": {
         "jp": null,
         "en": {
@@ -184421,7 +184619,7 @@
       "zhName": "狩猎之角笛",
       "scName": "",
       "cnocgName": "狩猎的号角",
-      "masterDuelName": "狩猎笛",
+      "masterDuelName": "狩猎号角",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -192959,7 +193157,7 @@
       "zhName": "心跳童话动物时间",
       "scName": "扑通通梅尔菲时间",
       "cnocgName": "心动奇妙毛毛兽时间",
-      "masterDuelName": "",
+      "masterDuelName": "扑通通梅尔菲时间",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -193220,7 +193418,7 @@
       "zhName": "魔族的咖喱",
       "scName": "",
       "cnocgName": "魔人的咖哩",
-      "masterDuelName": "",
+      "masterDuelName": "梦幻的咖喱",
       "release": {
         "jp": {
           "date": "1999-03-06",
@@ -193241,7 +193439,7 @@
       "zhName": "异色眼超驭龙",
       "scName": "",
       "cnocgName": "异色眼重写龙",
-      "masterDuelName": "",
+      "masterDuelName": "异色眼凌驾龙",
       "release": {
         "jp": null,
         "en": {
@@ -196079,7 +196277,7 @@
       "zhName": "超究极魔导龙王",
       "scName": "超究极魔导龙王",
       "cnocgName": "超究极魔导龙王",
-      "masterDuelName": "",
+      "masterDuelName": "超究极魔导龙王",
       "release": {
         "jp": {
           "date": "2025-01-25",
@@ -196289,7 +196487,7 @@
       "zhName": "先手必掌",
       "scName": "",
       "cnocgName": "先手必掌",
-      "masterDuelName": "",
+      "masterDuelName": "先手比掌",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -196358,7 +196556,7 @@
       "zhName": "坠入情网的猎豹",
       "scName": "",
       "cnocgName": "坠入爱河的猎豹",
-      "masterDuelName": "",
+      "masterDuelName": "情场骗子",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -196856,7 +197054,7 @@
       "zhName": "三幻魔的殉教者",
       "scName": "三幻魔殉教者",
       "cnocgName": "三幻魔的殉教者",
-      "masterDuelName": "",
+      "masterDuelName": "三幻魔殉教者",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -202943,7 +203141,7 @@
       "zhName": "天霆异解△幽谜",
       "scName": "天霆异解△幽谜",
       "cnocgName": "天霆异解△黄泉",
-      "masterDuelName": "",
+      "masterDuelName": "天霆异解△幽谜",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -206933,7 +207131,7 @@
       "zhName": "净化与腐败之无垢大艺术",
       "scName": "净化与腐败之奥艺",
       "cnocgName": "净化与腐败的无垢艺术",
-      "masterDuelName": "",
+      "masterDuelName": "净化与腐败之奥艺",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -207596,7 +207794,7 @@
       "zhName": "命运英雄 恶魔主宰人",
       "scName": "命运－英雄 恶劫主宰魔侠",
       "cnocgName": "D-HERO 魔人领主小子",
-      "masterDuelName": "",
+      "masterDuelName": "命运－英雄 恶劫主宰魔侠",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -208733,7 +208931,7 @@
       "zhName": "天变地异",
       "scName": "",
       "cnocgName": "天变地异",
-      "masterDuelName": "",
+      "masterDuelName": "天变地异",
       "release": {
         "jp": {
           "date": "2001-11-29",
@@ -209312,7 +209510,7 @@
       "zhName": "卖骸乌鸦",
       "scName": "贩卖亡骸的乌鸦",
       "cnocgName": "卖躯乌鸦",
-      "masterDuelName": "",
+      "masterDuelName": "贩卖亡骸的乌鸦",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -210437,7 +210635,7 @@
       "zhName": "亚特兰蒂斯的妖涡",
       "scName": "亚特兰蒂斯的妖涡",
       "cnocgName": "亚特兰蒂斯的妖涡",
-      "masterDuelName": "",
+      "masterDuelName": "亚特兰蒂斯的妖涡",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -212726,7 +212924,7 @@
       "zhName": "海龙神的大涡",
       "scName": "代达罗斯的大涡",
       "cnocgName": "海龙神的大涡",
-      "masterDuelName": "",
+      "masterDuelName": "代达罗斯的大涡",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -213443,7 +213641,7 @@
       "zhName": "色鬼之虫毒",
       "scName": "色艮鬼之蛊毒",
       "cnocgName": "色艮鬼的蛊毒",
-      "masterDuelName": "",
+      "masterDuelName": "色艮鬼之蛊毒",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -213911,7 +214109,7 @@
       "zhName": "亚特兰蒂斯的龙神-泰达路斯",
       "scName": "亚特兰蒂斯的龙神－代达罗斯",
       "cnocgName": "亚特兰蒂斯的龙神-代达罗斯",
-      "masterDuelName": "",
+      "masterDuelName": "亚特兰蒂斯的龙神－代达罗斯",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -213980,7 +214178,7 @@
       "zhName": "黑智天至 伊里斯斐尔",
       "scName": "黑智天至 伊莉丝菲尔",
       "cnocgName": "黑智天至 伊利斯菲尔",
-      "masterDuelName": "",
+      "masterDuelName": "黑智天至 伊莉丝菲尔",
       "release": {
         "jp": {
           "date": "2026-01-24",
@@ -215439,6 +215637,24 @@
         }
       }
     },
+    "65116919": {
+      "cid": 24022,
+      "enName": "",
+      "jpName": "ゴーストリック・スパンキー",
+      "jpRuby": "ゴーストリック・スパンキー",
+      "zhName": "鬼计鬼火",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "65118318": {
       "cid": 23392,
       "enName": "Foolish Graverobber",
@@ -215447,7 +215663,7 @@
       "zhName": "愚蠢的盗墓者",
       "scName": "愚蠢的盗墓者",
       "cnocgName": "愚蠢的盗墓者",
-      "masterDuelName": "",
+      "masterDuelName": "愚蠢的盗墓者",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -215726,7 +215942,7 @@
       "zhName": "异解△审判",
       "scName": "异解△审判",
       "cnocgName": "异解△审判",
-      "masterDuelName": "",
+      "masterDuelName": "异解△审判",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -215914,6 +216130,24 @@
           "date": "2022-01-29",
           "pack": "主题卡组 精灵术的操控者"
         }
+      }
+    },
+    "65276253": {
+      "cid": 24071,
+      "enName": "",
+      "jpName": "B・L・A・C・Kパルフェ",
+      "jpRuby": "ブラックパルフェ",
+      "zhName": "莓柠苹巧奇之黑芭菲",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-20",
+          "pack": "Vジャンプ 2027年 1月号 付録カード"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "65277087": {
@@ -216170,7 +216404,7 @@
       "zhName": "蛊神之色鬼 国栖八",
       "scName": "蛊神之色艮鬼 葛叶",
       "cnocgName": "蛊神之色艮鬼 葛叶",
-      "masterDuelName": "",
+      "masterDuelName": "蛊神之色艮鬼 葛叶",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -216936,6 +217170,24 @@
         }
       }
     },
+    "65506471": {
+      "cid": 24008,
+      "enName": "",
+      "jpName": "無窮方界器プリティマ",
+      "jpRuby": "むきゅうほうかいきプリティマ",
+      "zhName": "无穷方界器 生祖",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "65514302": {
       "cid": 22156,
       "enName": "Magnet Bonding",
@@ -217670,7 +217922,7 @@
       "zhName": "呼应的传说之都",
       "scName": "响应的亚特兰蒂斯",
       "cnocgName": "呼应的传说之都",
-      "masterDuelName": "",
+      "masterDuelName": "响应的亚特兰蒂斯",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -217895,7 +218147,7 @@
       "zhName": "三幻魔的失乐园",
       "scName": "三幻魔之失乐园",
       "cnocgName": "三幻魔的失乐园",
-      "masterDuelName": "",
+      "masterDuelName": "三幻魔之失乐园",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -219424,6 +219676,24 @@
           "date": "2020-09-26",
           "pack": "参赛包 Volume 1"
         }
+      }
+    },
+    "66338401": {
+      "cid": 24019,
+      "enName": "",
+      "jpName": "海晶乙女トゥルースハート",
+      "jpRuby": "マリンセストゥルースハート",
+      "zhName": "海晶少女 真实之心",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "海晶少女 真实之心",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "66362965": {
@@ -221994,6 +222264,24 @@
         "sc": null
       }
     },
+    "67050049": {
+      "cid": 24016,
+      "enName": "",
+      "jpName": "海晶乙女ウルピス",
+      "jpRuby": "マリンセスウルピス",
+      "zhName": "海晶少女 狐狸倒吊",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "67050396": {
       "cid": 12034,
       "enName": "Kozmo Goodwitch",
@@ -222437,7 +222725,7 @@
       "zhName": "治安战警队 黑夜杀戮者",
       "scName": "超元特防队 暗夜屠杀者",
       "cnocgName": "治安战警队 暗夜抹杀者",
-      "masterDuelName": "",
+      "masterDuelName": "超元特防队 暗夜屠杀者",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -224459,7 +224747,7 @@
       "zhName": "破械转生",
       "scName": "破械转生",
       "cnocgName": "破械转生",
-      "masterDuelName": "",
+      "masterDuelName": "破械转生",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -224681,7 +224969,7 @@
       "zhName": "苍之深渊 渊眼白龙",
       "scName": "苍之深渊 渊眼白龙",
       "cnocgName": "苍之深渊 深眼白龙",
-      "masterDuelName": "",
+      "masterDuelName": "苍之深渊 渊眼白龙",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -225918,6 +226206,24 @@
         }
       }
     },
+    "68272637": {
+      "cid": 24013,
+      "enName": "",
+      "jpName": "方界覚",
+      "jpRuby": "ほうかいボーディ",
+      "zhName": "方界觉",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "68280530": {
       "cid": 6691,
       "enName": "Royal Knight",
@@ -226718,7 +227024,7 @@
       "zhName": "大精灵机巧军-灵摆支配者",
       "scName": "大精灵机巧军－灵摆统御者",
       "cnocgName": "大精灵机巧军-灵摆支配者",
-      "masterDuelName": "",
+      "masterDuelName": "大精灵机巧军－灵摆统御者",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -226895,7 +227201,7 @@
       "zhName": "破械冥官 篁",
       "scName": "破械冥官 迦牟罗",
       "cnocgName": "破械冥官 迦牟罗",
-      "masterDuelName": "",
+      "masterDuelName": "破械冥官 迦牟罗",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -227144,7 +227450,7 @@
       "zhName": "罪 力量",
       "scName": "Sin 力量",
       "cnocgName": "Sin 原力",
-      "masterDuelName": "",
+      "masterDuelName": "Sin 力量",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -230738,7 +231044,7 @@
       "zhName": "灵魂消灭",
       "scName": "",
       "cnocgName": "灵魂消灭",
-      "masterDuelName": "",
+      "masterDuelName": "灵魂消灭",
       "release": {
         "jp": {
           "date": "2001-07-12",
@@ -234980,7 +235286,7 @@
       "zhName": "不死之死神领主",
       "scName": "",
       "cnocgName": "不死之死亡领主",
-      "masterDuelName": "",
+      "masterDuelName": "不死的死亡领主",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -235043,7 +235349,7 @@
       "zhName": "天之异解△邪奥尔",
       "scName": "天之异解△邪奥尔",
       "cnocgName": "天之异解△示俄勒",
-      "masterDuelName": "",
+      "masterDuelName": "天之异解△邪奥尔",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -235355,7 +235661,7 @@
       "zhName": "薄明之魔 勒莱耶光蜃",
       "scName": "薄明之魔 雷拉曙",
       "cnocgName": "薄明之魔 雷拉曙",
-      "masterDuelName": "",
+      "masterDuelName": "薄明之魔 雷拉曙",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -238622,7 +238928,7 @@
       "zhName": "归光之契",
       "scName": "塞尼特・归光之契",
       "cnocgName": "塞尼特·光归之契",
-      "masterDuelName": "",
+      "masterDuelName": "塞尼特・归光之契",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -238847,7 +239153,7 @@
       "zhName": "秘仪之力12-倒吊人",
       "scName": "",
       "cnocgName": "秘仪之力XII-吊人",
-      "masterDuelName": "",
+      "masterDuelName": "秘仪之力ⅩⅡ－倒吊人",
       "release": {
         "jp": {
           "date": "2026-07-25",
@@ -240047,7 +240353,7 @@
       "zhName": "暗黑方界邪神 深红之挪婆·三神一体",
       "scName": "",
       "cnocgName": "暗黑方界邪神 深红新星之挪婆·三重合体",
-      "masterDuelName": "暗黑方界邪神 深红新星三位一体",
+      "masterDuelName": "暗黑方界邪神 深红新星・三相",
       "release": {
         "jp": {
           "date": "2016-04-23",
@@ -240806,7 +241112,7 @@
       "zhName": "漫画猫",
       "scName": "漫画猫",
       "cnocgName": "漫画猫",
-      "masterDuelName": "",
+      "masterDuelName": "漫画猫",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -241016,7 +241322,7 @@
       "zhName": "未眠之城的『盈彩月夜』",
       "scName": "未眠之城的『盈彩月夜』",
       "cnocgName": "不眠城的『升月』",
-      "masterDuelName": "",
+      "masterDuelName": "未眠之城的『盈彩月夜』",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -242144,7 +242450,7 @@
       "zhName": "邪恶的魔王-佐克",
       "scName": "",
       "cnocgName": "邪恶的魔王-佐克",
-      "masterDuelName": "",
+      "masterDuelName": "邪恶的魔王－佐克",
       "release": {
         "jp": {
           "date": "2026-07-21",
@@ -242591,7 +242897,7 @@
       "zhName": "黄泉天轮",
       "scName": "黄泉天轮",
       "cnocgName": "黄泉天轮",
-      "masterDuelName": "",
+      "masterDuelName": "黄泉天轮",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -242756,7 +243062,7 @@
       "zhName": "塔乌塞尼特·阿贾特",
       "scName": "塔乌塞尼特・阿贾特",
       "cnocgName": "冥土塞尼特·阿贾特",
-      "masterDuelName": "",
+      "masterDuelName": "塔乌塞尼特・阿贾特",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -242798,7 +243104,7 @@
       "zhName": "我我我幻术",
       "scName": "我我我幻象",
       "cnocgName": "我我我幻想",
-      "masterDuelName": "",
+      "masterDuelName": "我我我幻象",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -243071,7 +243377,7 @@
       "zhName": "杆位",
       "scName": "",
       "cnocgName": "杆位",
-      "masterDuelName": "",
+      "masterDuelName": "杆位",
       "release": {
         "jp": {
           "date": "2004-11-25",
@@ -245120,7 +245426,7 @@
       "zhName": "盈彩月夜之刃 希耶娜",
       "scName": "盈彩月夜之刃 希耶娜",
       "cnocgName": "升月之刃 雪娜",
-      "masterDuelName": "",
+      "masterDuelName": "盈彩月夜之刃 希耶娜",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -246380,7 +246686,7 @@
       "zhName": "解码语者·集成",
       "scName": "解码语者・整合",
       "cnocgName": "解码语者·集成",
-      "masterDuelName": "",
+      "masterDuelName": "解码语者・整合",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -249218,7 +249524,7 @@
       "zhName": "异晶人的希望",
       "scName": "巴利安之希望",
       "cnocgName": "巴里安之希望",
-      "masterDuelName": "",
+      "masterDuelName": "巴利安之希望",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -249965,7 +250271,7 @@
       "zhName": "四天之龙 异色眼灵摆龙",
       "scName": "四天之龙 异色眼灵摆龙",
       "cnocgName": "四天之龙 异色眼灵摆龙",
-      "masterDuelName": "",
+      "masterDuelName": "四天之龙 异色眼灵摆龙",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -250418,7 +250724,7 @@
       "zhName": "盈彩月夜之帐 西艾萝",
       "scName": "盈彩月夜之帐 西艾萝",
       "cnocgName": "升月之帐 西耶罗",
-      "masterDuelName": "",
+      "masterDuelName": "盈彩月夜之帐 西艾萝",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -250601,7 +250907,7 @@
       "zhName": "混沌之魔术箱",
       "scName": "混沌魔术箱",
       "cnocgName": "混沌魔术箱",
-      "masterDuelName": "",
+      "masterDuelName": "混沌魔术箱",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -252068,7 +252374,7 @@
       "zhName": "No.39 光之使者 希望皇 霍普",
       "scName": "编号39 光之使者 希望皇霍普",
       "cnocgName": "No.39 光之使者 希望皇 霍普",
-      "masterDuelName": "",
+      "masterDuelName": "编号39 光之使者 希望皇霍普",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -252263,7 +252569,7 @@
       "zhName": "蛇头阴影",
       "scName": "蛇魔・黑影",
       "cnocgName": "蛇头阴影",
-      "masterDuelName": "",
+      "masterDuelName": "蛇魔・黑影",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -252491,7 +252797,7 @@
       "zhName": "天使与恶魔的骰子",
       "scName": "天使与魔鬼的骰子",
       "cnocgName": "天使与恶魔的骰子",
-      "masterDuelName": "",
+      "masterDuelName": "天使与魔鬼的骰子",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -252536,7 +252842,7 @@
       "zhName": "星尘龙-牺牲者的圣域",
       "scName": "星尘龙－牺牲者圣域",
       "cnocgName": "星尘龙-牺牲者圣域",
-      "masterDuelName": "",
+      "masterDuelName": "星尘龙－牺牲者圣域",
       "release": {
         "jp": {
           "date": "2026-02-28",
@@ -252629,7 +252935,7 @@
       "zhName": "大海的传说-渔人",
       "scName": "大海的传说－渔夫",
       "cnocgName": "大海的传说-渔人",
-      "masterDuelName": "",
+      "masterDuelName": "大海的传说－渔夫",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -254969,7 +255275,7 @@
       "zhName": "检测机器人",
       "scName": "质检机",
       "cnocgName": "检测机",
-      "masterDuelName": "",
+      "masterDuelName": "质检机",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -255038,7 +255344,7 @@
       "zhName": "魔法效果之剑",
       "scName": "魔法效果之剑",
       "cnocgName": "魔法效果之剑",
-      "masterDuelName": "",
+      "masterDuelName": "魔法效果之剑",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -255107,7 +255413,7 @@
       "zhName": "疾风之豹战士",
       "scName": "疾风的豹战士",
       "cnocgName": "疾风之豹战士",
-      "masterDuelName": "",
+      "masterDuelName": "疾风的豹战士",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -256475,7 +256781,7 @@
       "zhName": "海中战型援助机器人",
       "scName": "海中战型助手机器人",
       "cnocgName": "海中战型援护机器人",
-      "masterDuelName": "",
+      "masterDuelName": "海中战型助手机器人",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -258428,7 +258734,7 @@
       "zhName": "真海龙骑-泰达路斯",
       "scName": "真海龙骑－代达罗斯",
       "cnocgName": "真海龙骑-代达罗斯",
-      "masterDuelName": "",
+      "masterDuelName": "真海龙骑－代达罗斯",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -261227,7 +261533,7 @@
       "zhName": "兴奋心跳童话动物家族",
       "scName": "怦然期待的梅尔菲们",
       "cnocgName": "兴奋心动的奇妙毛毛兽们",
-      "masterDuelName": "",
+      "masterDuelName": "怦然期待的梅尔菲们",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -261410,7 +261716,7 @@
       "zhName": "黑混沌之魔术师·黑混沌极魔导",
       "scName": "",
       "cnocgName": "极限黑混沌魔术师",
-      "masterDuelName": "",
+      "masterDuelName": "黑混沌之魔导・极限",
       "release": {
         "jp": {
           "date": "2019-02-09",
@@ -261986,7 +262292,7 @@
       "zhName": "混沌超量 冀望皇龙 混沌异晶龙",
       "scName": "混沌超量 冀望皇龙混沌巴利安龙",
       "cnocgName": "CX 冀望皇龙 混沌巴里安龙",
-      "masterDuelName": "",
+      "masterDuelName": "混沌超量 冀望皇龙混沌巴利安龙",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -264710,7 +265016,7 @@
       "zhName": "具象天使e4开局",
       "scName": "",
       "cnocgName": "隐天来希开局e4",
-      "masterDuelName": "",
+      "masterDuelName": "Angelechy Opening to e4",
       "release": {
         "jp": null,
         "en": {
@@ -268658,7 +268964,7 @@
       "zhName": "一日万倍龙",
       "scName": "一日万倍龙",
       "cnocgName": "一日万倍龙",
-      "masterDuelName": "",
+      "masterDuelName": "一日万倍龙",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -268880,7 +269186,7 @@
       "zhName": "应召之具象天使",
       "scName": "",
       "cnocgName": "隐天来希士兵",
-      "masterDuelName": "",
+      "masterDuelName": "Angelechy Enlisted",
       "release": {
         "jp": null,
         "en": {
@@ -269333,7 +269639,7 @@
       "zhName": "石蒜花死神",
       "scName": "红镰华",
       "cnocgName": "红镰华",
-      "masterDuelName": "红镰华",
+      "masterDuelName": "彼岸花·莉莉帕",
       "release": {
         "jp": {
           "date": "2026-06-27",
@@ -269537,7 +269843,7 @@
       "zhName": "不信妄想症",
       "scName": "",
       "cnocgName": "猜忌妄想",
-      "masterDuelName": "",
+      "masterDuelName": "猜疑神 帕拉诺亚",
       "release": {
         "jp": null,
         "en": {
@@ -271910,7 +272216,7 @@
       "zhName": "耀烂龙 珊瑚泳龙",
       "scName": "耀烂龙 珊栖泳龙",
       "cnocgName": "耀烂龙 珊瑚泳龙",
-      "masterDuelName": "",
+      "masterDuelName": "耀烂龙 珊栖泳龙",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -272810,7 +273116,7 @@
       "zhName": "父灰熊",
       "scName": "公灰熊",
       "cnocgName": "父灰熊",
-      "masterDuelName": "",
+      "masterDuelName": "公灰熊",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -274082,7 +274388,7 @@
       "zhName": "穿透时空的溯光",
       "scName": "溯时的穿光",
       "cnocgName": "贯穿时空的溯光",
-      "masterDuelName": "",
+      "masterDuelName": "溯时的穿光",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -280946,7 +281252,7 @@
       "zhName": "疾行机人 达磨打落人",
       "scName": "",
       "cnocgName": "高速拟人机 达摩落者",
-      "masterDuelName": "",
+      "masterDuelName": "Speedroid Darumaknocker",
       "release": {
         "jp": null,
         "en": {
@@ -282968,7 +283274,7 @@
       "zhName": "三幻魔的神渊",
       "scName": "三幻魔之神渊",
       "cnocgName": "三幻魔的神渊",
-      "masterDuelName": "",
+      "masterDuelName": "三幻魔之神渊",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -287948,7 +288254,7 @@
       "zhName": "超升阶魔法-究极之力",
       "scName": "超升阶魔法－究极之力",
       "cnocgName": "超升阶魔法-究极之力",
-      "masterDuelName": "",
+      "masterDuelName": "超升阶魔法－究极之力",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -291218,7 +291524,7 @@
       "zhName": "机炮食人魔",
       "scName": "加特林食人魔",
       "cnocgName": "机炮食人魔",
-      "masterDuelName": "",
+      "masterDuelName": "加特林食人魔",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -291539,7 +291845,7 @@
       "zhName": "欺诈转移",
       "scName": "",
       "cnocgName": "冒名顶替",
-      "masterDuelName": "",
+      "masterDuelName": "冒名者替换",
       "release": {
         "jp": null,
         "en": {
@@ -293864,7 +294170,7 @@
       "zhName": "魔救之奇迹-提亚玛特晶石",
       "scName": "魔救奇迹－提亚马特石",
       "cnocgName": "魔救之奇迹-母神巨兽石",
-      "masterDuelName": "",
+      "masterDuelName": "魔救奇迹－提亚马特石",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -294044,7 +294350,7 @@
       "zhName": "三重枪管旋转",
       "scName": "三重枪管轮转",
       "cnocgName": "三重枪管旋转",
-      "masterDuelName": "",
+      "masterDuelName": "三重枪管轮转",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -294677,7 +294983,7 @@
       "zhName": "亚特兰蒂斯的战将",
       "scName": "亚特兰蒂斯的战将",
       "cnocgName": "亚特兰蒂斯的战将",
-      "masterDuelName": "",
+      "masterDuelName": "亚特兰蒂斯的战将",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -296774,7 +297080,7 @@
       "zhName": "无垢大艺术-「幻创之贤者」",
       "scName": "无垢奥艺－“幻创之贤者”",
       "cnocgName": "无垢艺术-「创幻的贤者」",
-      "masterDuelName": "",
+      "masterDuelName": "无垢奥艺－“幻创之贤者”",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -297182,7 +297488,7 @@
       "zhName": "预幻使 米底乌斯",
       "scName": "预幻使 墨迪乌斯",
       "cnocgName": "预幻视使 墨迪乌斯",
-      "masterDuelName": "",
+      "masterDuelName": "预幻使 墨迪乌斯",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -298952,7 +299258,7 @@
       "zhName": "依鬼之咒咆",
       "scName": "依艮鬼之咒咆",
       "cnocgName": "依艮鬼的咒咆",
-      "masterDuelName": "",
+      "masterDuelName": "依艮鬼之咒咆",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -299095,6 +299401,24 @@
           "date": "2021-05-29",
           "pack": "超级包01"
         }
+      }
+    },
+    "91488070": {
+      "cid": 24026,
+      "enName": "",
+      "jpName": "ゴーストリック・ガーデン",
+      "jpRuby": "ゴーストリック・ガーデン",
+      "zhName": "鬼计花园",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "91499077": {
@@ -299972,7 +300296,7 @@
       "zhName": "银河防卫机器人·轨道 7",
       "scName": "银河防卫机器人・奥比塔尔 7",
       "cnocgName": "银河防御机器人·轨道7",
-      "masterDuelName": "",
+      "masterDuelName": "银河防卫机器人・奥比塔尔 7",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -301668,6 +301992,24 @@
         }
       }
     },
+    "92322106": {
+      "cid": 24020,
+      "enName": "",
+      "jpName": "海晶乙女の礁湖",
+      "jpRuby": "マリンセス・リーフ・ラグーン",
+      "zhName": "海晶少女的礁湖",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "92327802": {
       "cid": 13217,
       "enName": "Defect Compiler",
@@ -302219,7 +302561,7 @@
       "zhName": "尾长黑马",
       "scName": "",
       "cnocgName": "尾长黑马",
-      "masterDuelName": "",
+      "masterDuelName": "尾长黑马",
       "release": {
         "jp": {
           "date": "2026-03-19",
@@ -302739,6 +303081,24 @@
           "date": "2020-01-31",
           "pack": "IGNITION ASSAULT"
         },
+        "sc": null
+      }
+    },
+    "92600528": {
+      "cid": 24023,
+      "enName": "",
+      "jpName": "ゴーストリック・リッチー",
+      "jpRuby": "ゴーストリック・リッチー",
+      "zhName": "鬼计巫妖",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
         "sc": null
       }
     },
@@ -303970,6 +304330,24 @@
           "date": "2025-10-18",
           "pack": "世界先行精选包 2025"
         }
+      }
+    },
+    "92990170": {
+      "cid": 24009,
+      "enName": "",
+      "jpName": "燎炎方界神アルディティア・ヘル・ブレイズ",
+      "jpRuby": "りょうえんほうかいしんアルディティア・ヘル・ブレイズ",
+      "zhName": "燎炎方界神 狱焰之阿尔底提亚",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
       }
     },
     "92998610": {
@@ -305874,6 +306252,24 @@
         "sc": null
       }
     },
+    "93545757": {
+      "cid": 24017,
+      "enName": "",
+      "jpName": "アクア・リヴァイアサン＠マリンセス",
+      "jpRuby": "アクア・リヴァイアサンアットマリンセス",
+      "zhName": "水波海龙@海晶少女",
+      "scName": "",
+      "cnocgName": "",
+      "masterDuelName": "",
+      "release": {
+        "jp": {
+          "date": "2026-11-21",
+          "pack": "REVOLUTION BOOSTER －方界・マリンセス・ゴーストリック－"
+        },
+        "en": null,
+        "sc": null
+      }
+    },
     "93553943": {
       "cid": 4164,
       "enName": "Man Eater",
@@ -306821,7 +307217,7 @@
       "zhName": "龙引导呼笛",
       "scName": "龙之引导唤笛",
       "cnocgName": "龙引导的呼笛",
-      "masterDuelName": "",
+      "masterDuelName": "龙之引导唤笛",
       "release": {
         "jp": {
           "date": "2026-03-20",
@@ -307001,7 +307397,7 @@
       "zhName": "破械习合",
       "scName": "破械习合",
       "cnocgName": "破械习合",
-      "masterDuelName": "",
+      "masterDuelName": "破械习合",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -308591,7 +308987,7 @@
       "zhName": "海老须神鲜祭",
       "scName": "",
       "cnocgName": "海老须神鲜祭",
-      "masterDuelName": "",
+      "masterDuelName": "龙虾神鲜祭",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -310922,7 +311318,7 @@
       "zhName": "破械式鬼 萨拉",
       "scName": "破械式鬼 奢罗",
       "cnocgName": "破械式鬼 奢罗",
-      "masterDuelName": "",
+      "masterDuelName": "破械式鬼 奢罗",
       "release": {
         "jp": {
           "date": "2026-05-30",
@@ -312293,7 +312689,7 @@
       "zhName": "影装骑士 黑杰克",
       "scName": "",
       "cnocgName": "影装骑士 黑杰克",
-      "masterDuelName": "",
+      "masterDuelName": "影装骑士 黑杰克",
       "release": {
         "jp": {
           "date": "2025-12-20",
@@ -314417,7 +314813,7 @@
       "zhName": "异解△福音",
       "scName": "异解△福音",
       "cnocgName": "异解△福音",
-      "masterDuelName": "",
+      "masterDuelName": "异解△福音",
       "release": {
         "jp": {
           "date": "2026-09-05",
@@ -314801,7 +315197,7 @@
       "zhName": "无穷之三幻魔-幻魔皇 拉比艾尔",
       "scName": "无穷之三幻魔－幻魔皇拉比艾尔",
       "cnocgName": "无穷之三幻魔-幻魔皇 拉维尔",
-      "masterDuelName": "",
+      "masterDuelName": "无穷之三幻魔－幻魔皇拉比艾尔",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -318068,7 +318464,7 @@
       "zhName": "栗球兽卫",
       "scName": "咕里佛",
       "cnocgName": "狮鹫栗子",
-      "masterDuelName": "",
+      "masterDuelName": "咕里佛",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -319322,7 +319718,7 @@
       "zhName": "团结的恶魔龙 暗黑魔龙",
       "scName": "团结之凶魔龙 黑恶魔龙",
       "cnocgName": "团结之恶魔龙 暗黑恶魔龙",
-      "masterDuelName": "",
+      "masterDuelName": "团结之凶魔龙 黑恶魔龙",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -321380,7 +321776,7 @@
       "zhName": "贪玩的呱呱公主",
       "scName": "",
       "cnocgName": "",
-      "masterDuelName": "",
+      "masterDuelName": "Kerolia the Frolicsome",
       "release": {
         "jp": null,
         "en": {
@@ -321845,7 +322241,7 @@
       "zhName": "超魔剑士 黑混沌",
       "scName": "超魔剑士 黑暗混沌",
       "cnocgName": "超魔剑士 黑混沌",
-      "masterDuelName": "",
+      "masterDuelName": "超魔剑士 黑暗混沌",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -322655,7 +323051,7 @@
       "zhName": "命运英雄 无惧从者",
       "scName": "命运－英雄 无惧仆从",
       "cnocgName": "D-HERO 无畏仆从",
-      "masterDuelName": "",
+      "masterDuelName": "命运－英雄 无惧仆从",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -323591,7 +323987,7 @@
       "zhName": "治安战警队原点",
       "scName": "超元特防队 本源",
       "cnocgName": "治安战警队本源",
-      "masterDuelName": "",
+      "masterDuelName": "超元特防队 本源",
       "release": {
         "jp": {
           "date": "2026-04-25",
@@ -323657,7 +324053,7 @@
       "zhName": "团结与牵绊之超魔导剑士",
       "scName": "团结与羁绊的超魔导剑士",
       "cnocgName": "团结与牵绊之超魔导剑士",
-      "masterDuelName": "",
+      "masterDuelName": "团结与羁绊的超魔导剑士",
       "release": {
         "jp": {
           "date": "2024-10-26",
@@ -324479,7 +324875,7 @@
       "zhName": "宾果卡",
       "scName": "宾果卡",
       "cnocgName": "宾果卡",
-      "masterDuelName": "",
+      "masterDuelName": "宾果卡",
       "release": {
         "jp": {
           "date": "2026-07-18",
@@ -324908,7 +325304,7 @@
       "zhName": "静寂猛虎",
       "scName": "",
       "cnocgName": "",
-      "masterDuelName": "",
+      "masterDuelName": "Tigress in Silent Repose",
       "release": {
         "jp": null,
         "en": {
@@ -325382,7 +325778,7 @@
       "zhName": "结合与乖离之无垢大艺术",
       "scName": "统合与乖离之奥艺",
       "cnocgName": "结合与乖离的无垢艺术",
-      "masterDuelName": "",
+      "masterDuelName": "统合与乖离之奥艺",
       "release": {
         "jp": {
           "date": "2026-07-18",
