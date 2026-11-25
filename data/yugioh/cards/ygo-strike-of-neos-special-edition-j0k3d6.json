@@ -33,11 +33,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.77,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   },
   {
     "id": "yugioh:55713623:STONENSE2:ygo-strike-of-neos-special-edition-j0k3d6:ygo-super-rare",
@@ -72,10 +72,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 4.76,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   }
 ]

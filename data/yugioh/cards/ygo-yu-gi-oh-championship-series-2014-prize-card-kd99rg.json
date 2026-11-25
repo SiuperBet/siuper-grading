@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2534.65,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   },
   {
     "id": "yugioh:37910722:YCSWEN007:ygo-yu-gi-oh-championship-series-2014-prize-card-kd99rg:ygo-ultra-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 2920.16,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   }
 ]

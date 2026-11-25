@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.69,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   },
   {
     "id": "yugioh:31829185:DL2EN002:ygo-duelist-league-series-2-participation-cards-o9f17n:ygo-super-rare",
@@ -71,11 +71,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.28,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   },
   {
     "id": "yugioh:49064413:DL2001:ygo-duelist-league-series-2-participation-cards-o9f17n:ygo-super-rare",
@@ -110,11 +110,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 3.82,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   },
   {
     "id": "yugioh:49064413:DL2EN001:ygo-duelist-league-series-2-participation-cards-o9f17n:ygo-super-rare",
@@ -149,10 +149,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 7.4,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   }
 ]

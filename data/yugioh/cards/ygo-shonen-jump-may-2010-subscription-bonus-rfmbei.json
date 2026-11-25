@@ -32,11 +32,11 @@
       "priceType": "set_price",
       "condition": null,
       "value": 47.97,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   },
   {
     "id": "yugioh:66094973:JUMPEN042:ygo-shonen-jump-may-2010-subscription-bonus-rfmbei:ygo-ultra-rare",
@@ -71,10 +71,10 @@
       "priceType": "set_price",
       "condition": null,
       "value": 8.53,
-      "timestamp": "2026-11-18T12:16:09.117Z",
+      "timestamp": "2026-11-25T13:30:40.047Z",
       "confidence": "MEDIA"
     },
     "source": "YGOPRODeck",
-    "updatedAt": "2026-11-18T12:16:09.117Z"
+    "updatedAt": "2026-11-25T13:30:40.047Z"
   }
 ]
